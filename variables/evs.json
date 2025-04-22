@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "evs_tavg-z0-hxy-ifs",
+  "cell_methods": "area: mean where ice_free_sea over sea time: mean",
+  "description": "Water Evaporation Flux Where Ice Free Ocean over Sea",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "evs"
+}

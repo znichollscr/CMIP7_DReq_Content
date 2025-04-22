@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "hcl_tavg-l-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "HCl Volume Mixing Ratio",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "alevel",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "hcl"
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "irrLut_tavg-z0-hxy-lus",
+  "cell_methods": "area: time: mean where sector",
+  "description": "Irrigation Flux Including any Irrigation for Crops, Trees, Pasture, or Urban Lawns",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "landUse",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "irrLut"
+}

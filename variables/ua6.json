@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "ua6_tpt-z0-hxy-air",
+  "cell_methods": "area: mean where air time: point",
+  "description": "Eastward wind",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "plev6",
+    "time1"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "ua6"
+}

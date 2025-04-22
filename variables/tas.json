@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "tas_tavg-z0-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "Hourly Temperature at Surface ",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "tas"
+}

@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "limfepico_tavg-z0-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "description": "Iron Limitation of Picophytoplankton",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "limfepico"
+}

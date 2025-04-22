@@ -1,0 +1,16 @@
+{
+  "@context": "TBD",
+  "branded_variable": "sisnmassacrossline_tavg-z0-ht-x",
+  "cell_methods": "time: mean",
+  "description": "Snow Mass Flux Through Straits",
+  "dimensions": [
+    "siline",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "sisnmassacrossline"
+}

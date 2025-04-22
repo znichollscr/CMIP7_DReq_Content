@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "rlutcsch4ref_tavg-z0-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "TOA outgoing longwave flux assuming clear sky and reference methane field ",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "rlutcsch4ref"
+}

@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "emivoc_tavg-z0-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "Total Emission Rate of NMVOC",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "emivoc"
+}

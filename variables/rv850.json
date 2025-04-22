@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "rv850_tpt-p0850-hxy-air",
+  "cell_methods": "area: mean where air time: point",
+  "description": "Relative Vorticity at 850hPa",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time1",
+    "p850"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "rv850"
+}

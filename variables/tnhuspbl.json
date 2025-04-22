@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "tnhuspbl_tpt-l-hxys-x",
+  "cell_methods": "area: point time: point",
+  "description": "Tendency of Specific Humidity Due to Boundary Layer Mixing",
+  "dimensions": [
+    "alevel",
+    "site",
+    "time1"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "tnhuspbl"
+}

@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "tsIs_tavg-z0-hxy-is",
+  "cell_methods": "area: time: mean where ice_sheet",
+  "description": "Ice Sheet Surface Temperature",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "tsIs"
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "dpo2_tavg-z00-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "description": "Delta O2 Partial Pressure",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time",
+    "depth0m"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "dpo2"
+}

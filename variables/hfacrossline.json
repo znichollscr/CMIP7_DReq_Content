@@ -1,0 +1,16 @@
+{
+  "@context": "TBD",
+  "branded_variable": "hfacrossline_tavg-z0-ht-sea",
+  "cell_methods": "area: mean where sea depth: sum where sea time: mean",
+  "description": "Ocean Heat Transport across Lines",
+  "dimensions": [
+    "oline",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "hfacrossline"
+}

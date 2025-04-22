@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "chepno3_tavg-l-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "Net chemical production of nitrate aerosol",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "alevel",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "chepno3"
+}

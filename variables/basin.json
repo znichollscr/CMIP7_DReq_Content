@@ -1,0 +1,16 @@
+{
+  "@context": "TBD",
+  "branded_variable": "basin_ti-z0-hxy-x",
+  "cell_methods": "area: mean",
+  "description": "Region Selection Index",
+  "dimensions": [
+    "longitude",
+    "latitude"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "basin"
+}

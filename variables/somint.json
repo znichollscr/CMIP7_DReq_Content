@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "somint_tavg-z0-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "description": "Depth Integral of Product of Sea Water Density and Prognostic Salinity",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "somint"
+}

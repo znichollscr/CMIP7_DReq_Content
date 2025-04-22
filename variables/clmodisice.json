@@ -1,0 +1,19 @@
+{
+  "@context": "TBD",
+  "branded_variable": "clmodisice_tavg-p7c-hxy-air",
+  "cell_methods": "area: time: mean where air",
+  "description": "MODIS Ice Topped Cloud Area Fraction",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "plev7c",
+    "tau",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "clmodisice"
+}

@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "hfevapds_tavg-z0-hxy-ifs",
+  "cell_methods": "area: mean where ice_free_sea over sea time: mean",
+  "description": "Temperature Flux Due to Evaporation Expressed as Heat Flux out of Sea Water",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "hfevapds"
+}

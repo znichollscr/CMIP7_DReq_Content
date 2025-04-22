@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "siflfwbot_tavg-z0-hxy-si",
+  "cell_methods": "area: time: mean where sea_ice (comment: mask=siconc)",
+  "description": "Freshwater Flux from Sea Ice",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "siflfwbot"
+}

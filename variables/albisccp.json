@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "albisccp_tavg-z0-hxy-cl",
+  "cell_methods": "area: time: mean where cloud",
+  "description": "ISCCP Mean Cloud Albedo",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "albisccp"
+}

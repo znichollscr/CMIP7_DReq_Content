@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "clcalipsoliq_tavg-h40-hxy-x",
+  "cell_methods": "time: mean",
+  "description": "CALIPSO Liquid Cloud Percentage",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "alt40",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "clcalipsoliq"
+}

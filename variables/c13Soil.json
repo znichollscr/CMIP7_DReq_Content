@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "c13Soil_tavg-z0-hxy-lnd",
+  "cell_methods": "area: mean where land time: mean",
+  "description": "Mass of 13C in Soil Pool",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "c13Soil"
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "laiVgt_tavg-z0-hxy-lus",
+  "cell_methods": "area: time: mean where sector",
+  "description": "Leaf Area Index on Vegetation type",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "vegtype",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "laiVgt"
+}

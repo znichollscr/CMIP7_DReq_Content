@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "abs550aer_tavg-z0-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "Ambient Aerosol Absorption Optical Thickness at 550nm",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time",
+    "lambda550nm"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "abs550aer"
+}

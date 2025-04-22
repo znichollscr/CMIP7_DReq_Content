@@ -1,0 +1,15 @@
+{
+  "@context": "TBD",
+  "branded_variable": "tendacabf_tavg-z0-hm-is",
+  "cell_methods": "area: sum where ice_sheet time: mean",
+  "description": "Total Surface Mass Balance Flux",
+  "dimensions": [
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "tendacabf"
+}

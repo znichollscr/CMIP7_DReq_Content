@@ -1,0 +1,15 @@
+{
+  "@context": "TBD",
+  "branded_variable": "siarean_tavg-z0-hm-x",
+  "cell_methods": "area: time: mean",
+  "description": "Sea-Ice Area North",
+  "dimensions": [
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "siarean"
+}

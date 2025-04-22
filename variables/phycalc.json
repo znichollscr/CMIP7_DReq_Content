@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "phycalc_tavg-l-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "description": "Mole Concentration of Calcareous Phytoplankton Expressed as Carbon in Sea Water",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "olevel",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "phycalc"
+}

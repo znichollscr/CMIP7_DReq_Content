@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "thetaot300_tavg-z0-hxy-sea",
+  "cell_methods": "area: depth: time: mean where sea",
+  "description": "Depth Average Potential Temperature of Upper 300m",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time",
+    "depth300m"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "thetaot300"
+}

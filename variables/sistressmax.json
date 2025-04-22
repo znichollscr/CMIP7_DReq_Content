@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "sistressmax_tpt-z0-hxy-si",
+  "cell_methods": "area: mean where sea_ice (comment: mask=siconc) time: point",
+  "description": "Maximum Shear Stress in Sea Ice",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time1"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "sistressmax"
+}

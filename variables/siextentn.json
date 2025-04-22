@@ -1,0 +1,15 @@
+{
+  "@context": "TBD",
+  "branded_variable": "siextentn_tavg-z0-hm-x",
+  "cell_methods": "area: time: mean",
+  "description": "Sea-Ice Extent North",
+  "dimensions": [
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "siextentn"
+}

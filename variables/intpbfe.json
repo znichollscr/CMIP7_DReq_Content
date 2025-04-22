@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "intpbfe_tavg-z0-hxy-sea",
+  "cell_methods": "area: mean where sea depth: sum where sea time: mean",
+  "description": "Iron Production",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "intpbfe"
+}

@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "sidmassgrowthwat_tavg-z0-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "description": "Sea-Ice Mass Change Through Growth in Supercooled Open Water (Frazil)",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "sidmassgrowthwat"
+}

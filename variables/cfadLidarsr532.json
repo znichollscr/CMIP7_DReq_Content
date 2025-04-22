@@ -1,0 +1,19 @@
+{
+  "@context": "TBD",
+  "branded_variable": "cfadLidarsr532_tavg-h40-hxy-air",
+  "cell_methods": "area: time: mean where air",
+  "description": "CALIPSO Scattering Ratio CFAD",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "alt40",
+    "scatratio",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "cfadLidarsr532"
+}

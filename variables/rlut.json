@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "rlut_tavg-z0-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "TOA Outgoing Longwave Radiation",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "rlut"
+}

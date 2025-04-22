@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "o3ste_tavg-l-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "Stratospheric Ozone Tracer Volume Mixing Ratio",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "alevel",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "o3ste"
+}

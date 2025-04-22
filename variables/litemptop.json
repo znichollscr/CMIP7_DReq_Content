@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "litemptop_tavg-z0-hxy-is",
+  "cell_methods": "area: time: mean where ice_sheet",
+  "description": "Temperature at Top of Ice Sheet Model",
+  "dimensions": [
+    "xgre",
+    "ygre",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "litemptop"
+}

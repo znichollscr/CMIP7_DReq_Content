@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "fCLandToOcean_tavg-z0-hxy-lnd",
+  "cell_methods": "area: mean where land time: mean",
+  "description": "Lateral Transfer of Carbon out of Grid Cell That Eventually Goes into Ocean",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "fCLandToOcean"
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "expc_tavg-l-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "description": "Downward Flux of Particulate Organic Carbon",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "olevel",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "expc"
+}

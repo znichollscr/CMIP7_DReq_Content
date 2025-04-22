@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "mlotstmin_tstat-z0-hxy-x",
+  "cell_methods": "area: mean time: minimum",
+  "description": "Minimum Ocean Mixed Layer Thickness Defined by Sigma T",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time",
+    "deltasigt"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "mlotstmin"
+}

@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "intvaw_tpt-z0-hxy-x",
+  "cell_methods": "area: point time: point",
+  "description": "6 hourly instantaneous integral of meridional moisture flux",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time1"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "intvaw"
+}

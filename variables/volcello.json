@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "volcello_ti-l-hxy-x",
+  "cell_methods": "area: sum",
+  "description": "Ocean Grid-Cell Volume",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "olevel"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "volcello"
+}

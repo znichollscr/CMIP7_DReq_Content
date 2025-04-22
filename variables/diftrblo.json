@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "diftrblo_tavg-l-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "description": "Ocean Tracer Diffusivity Due to Parameterized Mesoscale Advection",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "olevel",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "diftrblo"
+}

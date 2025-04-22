@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "evspsblsoi_tavg-z0-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "Daily water evaporation flux from soil",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "evspsblsoi"
+}

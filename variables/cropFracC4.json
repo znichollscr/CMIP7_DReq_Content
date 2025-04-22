@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "cropFracC4_tavg-z0-hxy-lnd",
+  "cell_methods": "area: mean where land over all_area_types time: mean",
+  "description": "Percentage Cover by C4 Crops",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time",
+    "typec4crop"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "cropFracC4"
+}
