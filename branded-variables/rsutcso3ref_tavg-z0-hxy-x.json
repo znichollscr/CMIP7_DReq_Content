@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "rsutcso3ref_tavg-z0-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "TOA shortwave flux assuming clear sky and reference ozone ",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "rsutcso3ref"
+}

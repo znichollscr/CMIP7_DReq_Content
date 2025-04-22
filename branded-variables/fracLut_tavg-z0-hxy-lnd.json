@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "fracLut_tavg-z0-hxy-lnd",
+  "cell_methods": "area: mean where land over all_area_types time: mean",
+  "description": "Percentage of Grid Cell for Each Land-Use Tile",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "landUse",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "fracLut"
+}

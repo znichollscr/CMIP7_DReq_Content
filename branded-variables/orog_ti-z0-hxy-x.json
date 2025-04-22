@@ -1,0 +1,16 @@
+{
+  "@context": "TBD",
+  "branded_variable": "orog_ti-z0-hxy-x",
+  "cell_methods": "area: mean",
+  "description": "Surface Altitude",
+  "dimensions": [
+    "longitude",
+    "latitude"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "orog"
+}

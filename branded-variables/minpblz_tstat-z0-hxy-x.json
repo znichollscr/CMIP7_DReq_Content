@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "minpblz_tstat-z0-hxy-x",
+  "cell_methods": "area: mean time: minimum",
+  "description": "Minimum PBL Height",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "minpblz"
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "hfy_tavg-l-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "description": "3D Ocean Heat Y Transport",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "olevel",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "hfy"
+}

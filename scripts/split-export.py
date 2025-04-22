@@ -7,7 +7,7 @@ from cmip_branded_variable_mapper import map_to_cmip_branded_variable
 
 def main():
     REPO_ROOT = Path(__file__).parents[1]
-    OUT_DIR = REPO_ROOT / "variables"
+    OUT_DIR = REPO_ROOT / "branded-variables"
     OUT_DIR.mkdir(exist_ok=True, parents=True)
 
     with open(REPO_ROOT / "airtable_export" / "dreq_release_export.json") as fh:
@@ -15,9 +15,6 @@ def main():
 
     top_level = raw_table["Data Request v1.2"]
     table_to_export = "Variables"
-
-    fields = top_level[table_to_export]["fields"]
-    fields_by_name = {f["name"]: f for f in fields.values()}
 
     records_l = []
     for pid, record in top_level[table_to_export]["records"].items():
@@ -64,7 +61,7 @@ def main():
             ),
         }
 
-        with open(OUT_DIR / f"{rr['variableRootDD']}.json", "w") as fh:
+        with open(OUT_DIR / f"{to_write['branded_variable']}.json", "w") as fh:
             json.dump(to_write, fh, indent=2, sort_keys=2)
 
 

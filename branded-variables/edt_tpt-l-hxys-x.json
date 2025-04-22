@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "edt_tpt-l-hxys-x",
+  "cell_methods": "area: point time: point",
+  "description": "Eddy Diffusivity Coefficient for Temperature",
+  "dimensions": [
+    "alevel",
+    "site",
+    "time1"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "edt"
+}

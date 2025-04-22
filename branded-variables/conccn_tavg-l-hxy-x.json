@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "conccn_tavg-l-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "Aerosol Number Concentration",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "alevel",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "conccn"
+}

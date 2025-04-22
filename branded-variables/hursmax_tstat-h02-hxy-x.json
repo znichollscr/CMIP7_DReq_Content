@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "hursmax_tstat-h02-hxy-x",
+  "cell_methods": "area: mean time: maximum",
+  "description": "Daily Maximum Near-Surface Relative Humidity",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time",
+    "height2m"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "hursmax"
+}

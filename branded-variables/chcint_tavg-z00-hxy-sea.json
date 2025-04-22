@@ -1,0 +1,23 @@
+{
+  "@context": "TBD",
+  "branded_variable": "chcint_tavg-z00-hxy-sea",
+  "cell_methods": "area: mean where sea",
+  "description": "Depth Integrated Seawater Conservative Temperature Expressed As Heat Content",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "swplayers",
+    "swplayers",
+    "time",
+    "depth0m",
+    "depth300m",
+    "depth700m",
+    "depth2000m"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "chcint"
+}

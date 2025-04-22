@@ -1,0 +1,16 @@
+{
+  "@context": "TBD",
+  "branded_variable": "mmroa_tpt-z0-hxys-x",
+  "cell_methods": "area: point time: point",
+  "description": "Instantaneous surface total organic aerosol mass mixing ratio at CF sites",
+  "dimensions": [
+    "site",
+    "time1"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "mmroa"
+}

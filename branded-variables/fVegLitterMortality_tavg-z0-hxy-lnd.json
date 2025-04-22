@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "fVegLitterMortality_tavg-z0-hxy-lnd",
+  "cell_methods": "area: mean where land time: mean",
+  "description": "Total Carbon Mass Flux from Vegetation to Litter as a Result of Mortality",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "fVegLitterMortality"
+}

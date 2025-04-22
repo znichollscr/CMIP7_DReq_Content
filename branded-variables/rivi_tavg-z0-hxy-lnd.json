@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "rivi_tavg-z0-hxy-lnd",
+  "cell_methods": "area: mean where land time: mean",
+  "description": "River Inflow",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "rivi"
+}

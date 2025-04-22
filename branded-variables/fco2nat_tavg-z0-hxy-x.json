@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "fco2nat_tavg-z0-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "Surface Carbon Mass Flux into the Atmosphere Due to Natural Sources [kgC m-2 s-1]",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "fco2nat"
+}

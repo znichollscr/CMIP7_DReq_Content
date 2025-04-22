@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "intppcalc_tavg-z0-hxy-sea",
+  "cell_methods": "area: mean where sea depth: sum where sea time: mean",
+  "description": "Net Primary Mole Productivity of Carbon by Calcareous Phytoplankton",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "intppcalc"
+}

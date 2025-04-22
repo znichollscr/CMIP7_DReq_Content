@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "clwc_tavg-l-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "Mass Fraction of Convective Cloud Liquid Water",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "alevel",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "clwc"
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "vo_tavg-l-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "description": "Sea Water Y Velocity",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "olevel",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "vo"
+}

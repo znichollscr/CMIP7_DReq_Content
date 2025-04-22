@@ -1,0 +1,16 @@
+{
+  "@context": "TBD",
+  "branded_variable": "mmrnh4_tpt-z0-hxys-x",
+  "cell_methods": "area: point time: point",
+  "description": "Instantaneous surface NH4 aerosol mass mixing ratio at CF sites",
+  "dimensions": [
+    "site",
+    "time1"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "mmrnh4"
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "cSoilLut_tpt-z0-hxy-lus",
+  "cell_methods": "area: mean where sector time: point",
+  "description": "Carbon in Soil Pool on Land-Use Tiles",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "landUse",
+    "time1"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "cSoilLut"
+}

@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "evspsbl_tavg-z0-hxy-lnd",
+  "cell_methods": "area: mean where land time: mean",
+  "description": "Evaporation Including Sublimation and Transpiration",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "evspsbl"
+}

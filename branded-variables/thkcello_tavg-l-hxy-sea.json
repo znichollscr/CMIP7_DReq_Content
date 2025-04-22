@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "thkcello_tavg-l-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "description": "Ocean Model Cell Thickness",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "olevel",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "thkcello"
+}

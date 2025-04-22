@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "rsntds_tavg-z0-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "description": "Net Downward Shortwave Radiation at Sea Water Surface\n",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "rsntds"
+}

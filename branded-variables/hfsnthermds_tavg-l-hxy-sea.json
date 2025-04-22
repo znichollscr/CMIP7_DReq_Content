@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "hfsnthermds_tavg-l-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "description": "Heat Flux into Sea Water Due to Snow Thermodynamics",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "olevel",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "hfsnthermds"
+}

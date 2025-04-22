@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "reffclic_tpt-l-hxy-ccl",
+  "cell_methods": "area: mean where convective_cloud time: point",
+  "description": "Hydrometeor Effective Radius of Convective Cloud Ice",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "alevel",
+    "time1"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "reffclic"
+}

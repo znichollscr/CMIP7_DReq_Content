@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "zg1000_tavg-p01000-hxy-air",
+  "cell_methods": "area: time: mean where air",
+  "description": "Geopotential Height at 1000hPa",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time",
+    "p1000"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "zg1000"
+}

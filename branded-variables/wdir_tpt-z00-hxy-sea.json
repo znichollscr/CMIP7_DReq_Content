@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "wdir_tpt-z00-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "description": "Total Wave Direction",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time1",
+    "depth0m"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "wdir"
+}

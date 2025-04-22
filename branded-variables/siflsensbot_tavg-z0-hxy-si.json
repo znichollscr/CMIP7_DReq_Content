@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "siflsensbot_tavg-z0-hxy-si",
+  "cell_methods": "area: time: mean where sea_ice (comment: mask=siconc)",
+  "description": "Net Upward Sensible Heat Flux under Sea Ice\n",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "siflsensbot"
+}

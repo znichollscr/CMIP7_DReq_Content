@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "sirdgconc_tavg-z0-hxy-si",
+  "cell_methods": "area: time: mean where sea_ice (comment: mask=siconc)",
+  "description": "Fraction of Ridged Sea Ice",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time",
+    "typesirdg"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "sirdgconc"
+}

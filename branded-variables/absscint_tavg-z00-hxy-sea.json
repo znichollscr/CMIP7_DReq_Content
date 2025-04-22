@@ -1,0 +1,23 @@
+{
+  "@context": "TBD",
+  "branded_variable": "absscint_tavg-z00-hxy-sea",
+  "cell_methods": "area: mean where sea",
+  "description": "Integral wrt depth of seawater absolute salinity expressed as salt mass content",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "swplayers",
+    "swplayers",
+    "time",
+    "depth0m",
+    "depth300m",
+    "depth700m",
+    "depth2000m"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "absscint"
+}

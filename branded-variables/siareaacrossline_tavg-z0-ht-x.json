@@ -1,0 +1,16 @@
+{
+  "@context": "TBD",
+  "branded_variable": "siareaacrossline_tavg-z0-ht-x",
+  "cell_methods": "time: mean",
+  "description": "Sea-Ice Area Flux Through Straits",
+  "dimensions": [
+    "siline",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "siareaacrossline"
+}

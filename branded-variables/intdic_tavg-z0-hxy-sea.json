@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "intdic_tavg-z0-hxy-sea",
+  "cell_methods": "area: mean where sea depth: sum where sea time: mean",
+  "description": "Dissolved Inorganic Carbon Content",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "intdic"
+}

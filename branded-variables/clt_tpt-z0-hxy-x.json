@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "clt_tpt-z0-hxy-x",
+  "cell_methods": "area: mean time: point",
+  "description": "Total Cloud Cover Percentage",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time1"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "clt"
+}

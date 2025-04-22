@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "reffclws_tavg-l-hxy-scl",
+  "cell_methods": "area: time: mean where stratiform_cloud (weighted by total stratiform cloud area)",
+  "description": "Stratiform Cloud Liquid Droplet Effective Radius",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "alevel",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "reffclws"
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "mrsos_tpt-z0p1-hxy-lnd",
+  "cell_methods": "area: mean where land time: point",
+  "description": "Moisture in Upper Portion of Soil Column",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time1",
+    "sdepth1"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "mrsos"
+}

@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "rlu_tpt-l-hxys-x",
+  "cell_methods": "area: point time: point",
+  "description": "Upwelling Longwave Radiation",
+  "dimensions": [
+    "alevhalf",
+    "site",
+    "time1"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "rlu"
+}

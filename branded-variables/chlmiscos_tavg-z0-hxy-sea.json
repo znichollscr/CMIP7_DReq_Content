@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "chlmiscos_tavg-z0-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "description": "Surface Mass Concentration of Other Phytoplankton Expressed as Chlorophyll in Sea Water",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "chlmiscos"
+}

@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "sidmasstrany_tavg-z0-hxy-x",
+  "cell_methods": "time: mean",
+  "description": "Y-Component of Sea-Ice Mass Transport",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "sidmasstrany"
+}

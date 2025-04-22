@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "rsucs_tavg-l-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "Upwelling Clear-Sky Shortwave Radiation",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "alevhalf",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "rsucs"
+}

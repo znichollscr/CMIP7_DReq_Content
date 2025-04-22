@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "fsn_tavg-z00-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "description": "Surface Downward Net Flux of Nitrogen",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time",
+    "depth0m"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "fsn"
+}

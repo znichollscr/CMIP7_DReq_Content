@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "hus_tpt-p7h-hxy-air",
+  "cell_methods": "area: mean where air time: point",
+  "description": "Specific Humidity",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "plev7h",
+    "time1"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "hus"
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "treeFracBdlEvg_tavg-z0-hxy-lnd",
+  "cell_methods": "area: mean where land over all_area_types time: mean",
+  "description": "Broadleaf Evergreen Tree Area Percentage",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time",
+    "typetreebe"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "treeFracBdlEvg"
+}

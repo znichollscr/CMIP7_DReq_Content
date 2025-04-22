@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "fHarvestToGeologicStorage_tavg-z0-hxy-x",
+  "cell_methods": "area: mean",
+  "description": "Harvested Biomass That Goes into Geological Storage",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "fHarvestToGeologicStorage"
+}

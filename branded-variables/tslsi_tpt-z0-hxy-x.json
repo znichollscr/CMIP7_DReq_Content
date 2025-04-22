@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "tslsi_tpt-z0-hxy-x",
+  "cell_methods": "area: mean (comment: over land and sea ice) time: point",
+  "description": "Surface Temperature Where Land or Sea Ice",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time1"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "tslsi"
+}

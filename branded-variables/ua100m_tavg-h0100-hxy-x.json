@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "ua100m_tavg-h0100-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "3-hourly u-wind at 100m",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time",
+    "height100m"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "ua100m"
+}

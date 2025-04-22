@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "co2_tavg-p19-hxy-x",
+  "cell_methods": "time: mean",
+  "description": "Mole Fraction of CO2",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "plev19",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "co2"
+}

@@ -1,0 +1,16 @@
+{
+  "@context": "TBD",
+  "branded_variable": "tas_tavg-h02-hm-is",
+  "cell_methods": "area: time: mean where ice_sheet",
+  "description": "Near-Surface Air Temperature",
+  "dimensions": [
+    "time",
+    "height2m"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "tas"
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "o3_tavg-p19-hxy-x",
+  "cell_methods": "time: mean",
+  "description": "Mole Fraction of O3",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "plev19",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "o3"
+}

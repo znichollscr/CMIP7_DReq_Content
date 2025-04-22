@@ -1,0 +1,16 @@
+{
+  "@context": "TBD",
+  "branded_variable": "rtmt_tpt-z0-hxys-x",
+  "cell_methods": "area: point time: point",
+  "description": "Net Downward Radiative Flux at Top of Model",
+  "dimensions": [
+    "site",
+    "time1"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "rtmt"
+}

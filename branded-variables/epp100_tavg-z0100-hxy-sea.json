@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "epp100_tavg-z0100-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "description": "Downward Flux of Particulate Phosphorus",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time",
+    "depth100m"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "epp100"
+}

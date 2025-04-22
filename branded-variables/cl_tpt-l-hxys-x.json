@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "cl_tpt-l-hxys-x",
+  "cell_methods": "area: point time: point",
+  "description": "Percentage Cloud Cover",
+  "dimensions": [
+    "alevel",
+    "site",
+    "time1"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "cl"
+}

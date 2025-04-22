@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "phalf_tcla-l-hxy-x",
+  "cell_methods": "area: mean time: mean within years time: mean over years",
+  "description": "Pressure on Model Half-Levels",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "alevhalf",
+    "time2"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "phalf"
+}

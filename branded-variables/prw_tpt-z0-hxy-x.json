@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "prw_tpt-z0-hxy-x",
+  "cell_methods": "time: point",
+  "description": "6 hourly instantaneous vertically integrated water vapor",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time1"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "prw"
+}

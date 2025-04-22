@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "msftmz_tavg-l-hys-x",
+  "cell_methods": "longitude: sum (comment: basin sum [along zig-zag grid path]) depth: sum time: mean",
+  "description": "Ocean Meridional Overturning Mass Streamfunction",
+  "dimensions": [
+    "latitude",
+    "olevel",
+    "basin",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "msftmz"
+}

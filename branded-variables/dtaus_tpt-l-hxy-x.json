@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "dtaus_tpt-l-hxy-x",
+  "cell_methods": "area: mean time: point",
+  "description": "Stratiform Cloud Optical Depth",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "alevel",
+    "time1"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "dtaus"
+}

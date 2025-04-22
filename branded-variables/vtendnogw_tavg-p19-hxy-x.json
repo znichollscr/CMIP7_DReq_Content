@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "vtendnogw_tavg-p19-hxy-x",
+  "cell_methods": "time: mean",
+  "description": "Northward Acceleration Due to Non-Orographic Gravity Wave Drag",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "plev19",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "vtendnogw"
+}

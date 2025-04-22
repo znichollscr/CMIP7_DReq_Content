@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "tnta_tavg-l-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "Tendency of Air Temperature Due to Advection",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "alevel",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "tnta"
+}

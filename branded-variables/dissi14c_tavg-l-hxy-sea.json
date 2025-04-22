@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "dissi14c_tavg-l-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "description": "Dissolved Inorganic Carbon-14 Concentration",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "olevel",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "dissi14c"
+}

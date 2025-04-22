@@ -1,0 +1,16 @@
+{
+  "@context": "TBD",
+  "branded_variable": "dxto_ti-z0-hxy-x",
+  "cell_methods": "area: point",
+  "description": "Cell Length in the X Direction at t-points",
+  "dimensions": [
+    "longitude",
+    "latitude"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "dxto"
+}

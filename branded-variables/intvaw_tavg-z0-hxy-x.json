@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "intvaw_tavg-z0-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "Vertically Integrated Northward Moisture Transport",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "intvaw"
+}

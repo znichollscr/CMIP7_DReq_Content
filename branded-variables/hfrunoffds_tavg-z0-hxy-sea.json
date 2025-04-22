@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "hfrunoffds_tavg-z0-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "description": "Temperature Flux Due to Runoff Expressed as Heat Flux into Sea Water",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "hfrunoffds"
+}

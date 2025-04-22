@@ -1,0 +1,15 @@
+{
+  "@context": "TBD",
+  "branded_variable": "n2oglobal_tavg-z0-hm-x",
+  "cell_methods": "height: sum (through atmospheric column) area: sum time: mean",
+  "description": "Global Mean Mole Fraction of N2O",
+  "dimensions": [
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "n2oglobal"
+}

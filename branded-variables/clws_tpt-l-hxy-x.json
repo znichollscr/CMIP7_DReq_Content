@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "clws_tpt-l-hxy-x",
+  "cell_methods": "area: mean time: point",
+  "description": "Mass Fraction of Stratiform Cloud Liquid Water",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "alevel",
+    "time1"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "clws"
+}

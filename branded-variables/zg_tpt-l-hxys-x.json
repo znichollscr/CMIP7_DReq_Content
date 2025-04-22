@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "zg_tpt-l-hxys-x",
+  "cell_methods": "area: point time: point",
+  "description": "Geopotential Height",
+  "dimensions": [
+    "alevel",
+    "site",
+    "time1"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "zg"
+}

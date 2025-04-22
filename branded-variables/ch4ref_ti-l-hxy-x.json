@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "ch4ref_ti-l-hxy-x",
+  "cell_methods": "area: mean",
+  "description": "Reference mole fraction of methane in air",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "alevel"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "ch4ref"
+}

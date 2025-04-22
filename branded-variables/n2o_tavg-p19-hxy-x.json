@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "n2o_tavg-p19-hxy-x",
+  "cell_methods": "time: mean",
+  "description": "Mole Fraction of N2O",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "plev19",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "n2o"
+}

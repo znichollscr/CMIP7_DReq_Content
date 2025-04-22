@@ -1,0 +1,16 @@
+{
+  "@context": "TBD",
+  "branded_variable": "areacella_ti-z0-hxy-x",
+  "cell_methods": "area: sum",
+  "description": "Grid-Cell Area for Atmospheric Grid Variables",
+  "dimensions": [
+    "longitude",
+    "latitude"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "areacella"
+}

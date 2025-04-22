@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "va_tavg-p19-hxy-x",
+  "cell_methods": "time: mean",
+  "description": "Northward Wind",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "plev19",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "va"
+}

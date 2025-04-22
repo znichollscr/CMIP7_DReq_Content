@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "ua100m_tpt-h0100-hxy-x",
+  "cell_methods": "area: mean time: point",
+  "description": "Eastward Wind at 100m",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time1",
+    "height100m"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "ua100m"
+}

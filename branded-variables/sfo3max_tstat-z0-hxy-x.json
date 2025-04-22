@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "sfo3max_tstat-z0-hxy-x",
+  "cell_methods": "area: mean time: maximum",
+  "description": "Daily Maximum O3 Volume Mixing Ratio in Lowest Model Layer",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "sfo3max"
+}

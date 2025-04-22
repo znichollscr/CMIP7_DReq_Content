@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "expfeob_tavg-z0-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "description": "Sinking Flux of Particulate Iron Reaching the Ocean Bottom",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "depthseafloor",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "expfeob"
+}

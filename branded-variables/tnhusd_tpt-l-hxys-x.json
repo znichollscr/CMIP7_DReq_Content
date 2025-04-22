@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "tnhusd_tpt-l-hxys-x",
+  "cell_methods": "area: point time: point",
+  "description": "Tendency of Specific Humidity Due to Numerical Diffusion",
+  "dimensions": [
+    "alevel",
+    "site",
+    "time1"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "tnhusd"
+}

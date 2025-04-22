@@ -1,0 +1,19 @@
+{
+  "@context": "TBD",
+  "branded_variable": "ccn1_tavg-l-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "CCN concentration at 1.0 percent supersaturation",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "alevel",
+    "time",
+    "rh101pct"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "ccn1"
+}

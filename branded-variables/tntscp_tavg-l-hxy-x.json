@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "tntscp_tavg-l-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "Tendency of Air Temperature Due to Stratiform Clouds and Precipitation",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "alevel",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "tntscp"
+}

@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "emich3oh_tavg-z0-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "total emission rate of CH3OH",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "emich3oh"
+}

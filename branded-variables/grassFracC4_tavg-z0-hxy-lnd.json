@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "grassFracC4_tavg-z0-hxy-lnd",
+  "cell_methods": "area: mean where land over all_area_types time: mean",
+  "description": "C4 Natural Grass Area Percentage",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time",
+    "typec4natg"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "grassFracC4"
+}
