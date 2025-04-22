@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "dcw_tavg-z0-hxy-lnd",
   "cell_methods": "area: mean where land time: mean",
-  "description": "Change in Interception Storage",
+  "description": "change_over_time_in_canopy_water_amount",
   "dimensions": [
     "longitude",
     "latitude",

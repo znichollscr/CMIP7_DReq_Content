@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "snd_tavg-z0-hxy-lnd",
   "cell_methods": "area: mean where land (weighted by snow area)  time: mean",
-  "description": "Snow Depth",
+  "description": "where land over land, this is computed as the mean thickness of snow in the land portion of the grid cell (averaging over the entire land portion, including the snow-free fraction).  Reported as missing where the land fraction is 0.",
   "dimensions": [
     "longitude",
     "latitude",

@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "wetnh4_tavg-z0-hxy-x",
   "cell_methods": "area: time: mean",
-  "description": "Wet Deposition Rate of NH4",
+  "description": "Surface deposition rate of ammonium (NH4) due to wet processes",
   "dimensions": [
     "longitude",
     "latitude",

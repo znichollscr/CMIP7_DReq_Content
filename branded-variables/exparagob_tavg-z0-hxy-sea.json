@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "exparagob_tavg-z0-hxy-sea",
   "cell_methods": "area: mean where sea time: mean",
-  "description": "Sinking Flux of Aragonite Reaching the Ocean Bottom",
+  "description": "Downward sinking flux of aragonite at seafloor",
   "dimensions": [
     "longitude",
     "latitude",

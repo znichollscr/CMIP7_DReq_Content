@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "clmodis_tavg-p7c-hxy-air",
   "cell_methods": "area: time: mean where air",
-  "description": "MODIS Cloud Area Fraction",
+  "description": "Percentage of total cloud cover in optical depth categories, as seen by the MODIS instrument simulator. Dimensions of tau (optical depth) and cloud-top pressure are the same used by the ISCCP instrument simulator. This is the equivalent MODIS version of the ISCCP clisccp variable.",
   "dimensions": [
     "longitude",
     "latitude",

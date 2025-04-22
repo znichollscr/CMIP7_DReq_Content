@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "opottempmint_tavg-z0-hxy-sea",
   "cell_methods": "area: mean where sea time: mean",
-  "description": "Integral with Respect to Depth of Product of Sea Water Density and Potential Temperature",
+  "description": "Full column sum of density*cell thickness*potential temperature. If the model is Boussinesq, then use Boussinesq reference density for the density factor.",
   "dimensions": [
     "longitude",
     "latitude",

@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "tntrl_tavg-l-hxy-x",
   "cell_methods": "area: time: mean",
-  "description": "Tendency of Air Temperature Due to Longwave Radiative Heating",
+  "description": "longwave heating rates",
   "dimensions": [
     "longitude",
     "latitude",

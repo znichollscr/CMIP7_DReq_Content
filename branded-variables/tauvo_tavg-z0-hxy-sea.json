@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "tauvo_tavg-z0-hxy-sea",
   "cell_methods": "area: mean where sea time: mean",
-  "description": "Sea Water Surface Downward Y Stress",
+  "description": "This is the stress on the liquid ocean from overlying atmosphere, sea ice, ice shelf, etc.",
   "dimensions": [
     "longitude",
     "latitude",

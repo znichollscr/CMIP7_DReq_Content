@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "evu_tpt-l-hxys-x",
   "cell_methods": "area: point time: point",
-  "description": "Eddy Viscosity Coefficient for Momentum",
+  "description": "Vertical diffusion coefficient for momentum due to parametrised eddies",
   "dimensions": [
     "alevel",
     "site",

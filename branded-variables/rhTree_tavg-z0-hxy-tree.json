@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "rhTree_tavg-z0-hxy-tree",
   "cell_methods": "area: time: mean where trees",
-  "description": "Heterotrophic Respiration on Tree Tiles as Carbon Mass Flux [kgC m-2 s-1]",
+  "description": "Total RH of trees in the grid cell",
   "dimensions": [
     "longitude",
     "latitude",

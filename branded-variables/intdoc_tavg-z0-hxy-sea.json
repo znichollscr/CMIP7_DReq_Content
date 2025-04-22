@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "intdoc_tavg-z0-hxy-sea",
   "cell_methods": "depth: sum where sea (over entire ocean column) area: time: mean",
-  "description": "Dissolved Organic Carbon Content",
+  "description": "Vertically integrated DOC (explicit pools only)",
   "dimensions": [
     "longitude",
     "latitude",

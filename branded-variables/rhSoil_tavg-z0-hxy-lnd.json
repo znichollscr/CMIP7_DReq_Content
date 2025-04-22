@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "rhSoil_tavg-z0-hxy-lnd",
   "cell_methods": "area: mean where land time: mean",
-  "description": "Carbon Mass Flux into Atmosphere Due to Heterotrophic Respiration from Soil on Land",
+  "description": "Needed to calculate soil bulk turnover time",
   "dimensions": [
     "longitude",
     "latitude",

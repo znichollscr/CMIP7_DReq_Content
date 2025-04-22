@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "iareafl_tavg-z0-hm-fis",
   "cell_methods": "area: sum where floating_ice_shelf time: mean",
-  "description": "Area Covered by Floating Ice Shelves",
+  "description": "Greenland",
   "dimensions": [
     "time"
   ],

@@ -2,11 +2,12 @@
   "@context": "TBD",
   "branded_variable": "mmrso4_tavg-z0-hxy-x",
   "cell_methods": "area: time: mean",
-  "description": "Daily mean surface sulfate aerosol ",
+  "description": "Daily mean sulfate aerosol mass mixing ratio in lowest model layer",
   "dimensions": [
     "longitude",
     "latitude",
-    "time"
+    "time",
+    "height50m"
   ],
   "id": "TBD",
   "label": "TBD",

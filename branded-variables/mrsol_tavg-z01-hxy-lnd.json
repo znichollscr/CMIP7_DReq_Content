@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "mrsol_tavg-z01-hxy-lnd",
+  "cell_methods": "area: mean where land time: mean",
+  "description": "Soil moisture in the top 10 cm of the soil column",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time",
+    "sdepth10"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "mrsol"
+}

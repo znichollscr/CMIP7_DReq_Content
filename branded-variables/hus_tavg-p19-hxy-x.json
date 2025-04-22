@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "hus_tavg-p19-hxy-x",
   "cell_methods": "time: mean",
-  "description": "Specific Humidity",
+  "description": "These are standard variables from CMIP5.",
   "dimensions": [
     "longitude",
     "latitude",

@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "reffclic_tpt-l-hxy-ccl",
   "cell_methods": "area: mean where convective_cloud time: point",
-  "description": "Hydrometeor Effective Radius of Convective Cloud Ice",
+  "description": "This is defined as the in-cloud ratio of the third moment over the second moment of the particle size distribution (obtained by considering only the cloudy portion of the grid cell).",
   "dimensions": [
     "longitude",
     "latitude",

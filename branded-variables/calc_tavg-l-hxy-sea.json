@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "calc_tavg-l-hxy-sea",
   "cell_methods": "area: mean where sea time: mean",
-  "description": "Calcite Concentration",
+  "description": "sum of particulate calcite component concentrations (e.g. Phytoplankton, Detrital, etc.)",
   "dimensions": [
     "longitude",
     "latitude",

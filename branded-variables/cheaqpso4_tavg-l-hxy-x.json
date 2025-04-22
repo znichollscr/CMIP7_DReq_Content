@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "cheaqpso4_tavg-l-hxy-x",
   "cell_methods": "area: time: mean",
-  "description": "Aqueous-Phase Production Rate of SO4",
+  "description": "proposed name: tendency_of_atmosphere_mass_content_of_sulfate_dry_aerosol_due_to_aqueous_phase_net_chemical_production",
   "dimensions": [
     "longitude",
     "latitude",

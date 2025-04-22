@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "tauv_tavg-z0-hxy-x",
   "cell_methods": "area: time: mean",
-  "description": "Surface Downward Northward Wind Stress",
+  "description": "surface, now requesting daily output.",
   "dimensions": [
     "longitude",
     "latitude",

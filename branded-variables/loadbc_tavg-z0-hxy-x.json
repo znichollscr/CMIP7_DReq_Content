@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "loadbc_tavg-z0-hxy-x",
   "cell_methods": "area: time: mean",
-  "description": "Load of Black Carbon Aerosol",
+  "description": "The total dry mass of black carbon aerosol particles per unit area.",
   "dimensions": [
     "longitude",
     "latitude",

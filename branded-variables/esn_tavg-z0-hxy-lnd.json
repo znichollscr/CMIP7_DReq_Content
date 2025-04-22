@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "esn_tavg-z0-hxy-lnd",
   "cell_methods": "area: mean where land time: mean",
-  "description": "Snow Evaporation",
+  "description": "liquid_water_evaporation_flux_from_surface_snow",
   "dimensions": [
     "longitude",
     "latitude",

@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "rluscs_tavg-z0-hxy-x",
   "cell_methods": "area: time: mean",
-  "description": "Surface Upwelling Clear-Sky Longwave Radiation",
+  "description": "Surface Upwelling Clear-sky Longwave Radiation",
   "dimensions": [
     "longitude",
     "latitude",

@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "difmxybo_tavg-l-hxy-sea",
   "cell_methods": "area: mean where sea time: mean",
-  "description": "Ocean Momentum XY Biharmonic Diffusivity",
+  "description": "Lateral biharmonic viscosity applied to the momentum equations.",
   "dimensions": [
     "longitude",
     "latitude",

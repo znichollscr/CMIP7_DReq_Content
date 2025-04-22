@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "prsn_tavg-z0-hxy-x",
   "cell_methods": "area: time: mean",
-  "description": "Snowfall Rate",
+  "description": "at surface; includes precipitation of all forms of water in the solid phase",
   "dimensions": [
     "longitude",
     "latitude",

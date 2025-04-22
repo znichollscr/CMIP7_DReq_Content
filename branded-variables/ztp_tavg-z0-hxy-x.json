@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "ztp_tavg-z0-hxy-x",
   "cell_methods": "area: time: mean",
-  "description": "Tropopause Altitude Above Geoid",
+  "description": "2D monthly mean thermal tropopause calculated using WMO tropopause definition on 3d temperature",
   "dimensions": [
     "longitude",
     "latitude",

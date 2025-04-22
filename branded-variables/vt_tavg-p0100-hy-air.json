@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "vt_tavg-p0100-hy-air",
+  "cell_methods": "longitude: time: mean where air",
+  "description": "Zonally averaged eddy temperature flux at 100hPa as monthly means derived from daily (or higher frequency) fields.",
+  "dimensions": [
+    "latitude",
+    "time",
+    "p100"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "vt"
+}

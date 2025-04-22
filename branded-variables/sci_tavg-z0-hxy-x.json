@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "sci_tavg-z0-hxy-x",
   "cell_methods": "area: time: mean",
-  "description": "Fraction of Time Shallow Convection Occurs",
+  "description": "Fraction of time that shallow convection occurs in the grid cell.",
   "dimensions": [
     "longitude",
     "latitude",

@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "rsdscs_tpt-z0-hxys-x",
   "cell_methods": "area: point time: point",
-  "description": "Surface Downwelling Clear-Sky Shortwave Radiation",
+  "description": "Surface solar irradiance clear sky for UV calculations",
   "dimensions": [
     "site",
     "time1"

@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "cRoot_tavg-z0-hxy-lnd",
   "cell_methods": "area: mean where land time: mean",
-  "description": "Carbon Mass in Roots",
+  "description": "including fine and coarse roots.",
   "dimensions": [
     "longitude",
     "latitude",

@@ -1,0 +1,15 @@
+{
+  "@context": "TBD",
+  "branded_variable": "siextent_tavg-z0-hm-x",
+  "cell_methods": "area: time: mean",
+  "description": "Total integrated area of all Southern Hemisphere grid cells that are covered by at least 15% areal fraction of sea ice (siconc >= 0.15). Does not include grid cells partially covered by land.",
+  "dimensions": [
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "siextent"
+}

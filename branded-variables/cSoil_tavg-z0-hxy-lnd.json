@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "cSoil_tavg-z0-hxy-lnd",
   "cell_methods": "area: mean where land time: mean",
-  "description": "Carbon Mass in Model Soil Pool",
+  "description": "Carbon mass in the full depth of the soil model.",
   "dimensions": [
     "longitude",
     "latitude",

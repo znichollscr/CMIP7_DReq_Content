@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "albisccp_tavg-z0-hxy-x",
+  "cell_methods": "area: mean (weighted by incident surface diffuse shortwave in band) time: point",
+  "description": "time-means weighted by the ISCCP Total Cloud Fraction - see http://cfmip.metoffice.com/COSP.html",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "albisccp"
+}

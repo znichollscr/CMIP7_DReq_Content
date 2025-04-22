@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "pctisccp_tavg-z0-hxy-cl",
   "cell_methods": "area: time: mean where cloud (weighted by ISCCP total cloud area)",
-  "description": "ISCCP Mean Cloud Top Pressure",
+  "description": "time-means weighted by the ISCCP Total Cloud Fraction - see http://cfmip.metoffice.com/COSP.html",
   "dimensions": [
     "longitude",
     "latitude",

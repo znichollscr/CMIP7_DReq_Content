@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "fNAnthDisturb_tavg-z0-hxy-lnd",
   "cell_methods": "area: mean where land time: mean",
-  "description": "Nitrogen Mass Flux out of Land Due to any Human Activity",
+  "description": "will require some careful definition to make sure we capture everything - any human activity that releases nitrogen from land  instead of into product pool goes here. E.g. Deforestation fire, harvest assumed to decompose straight away, grazing...",
   "dimensions": [
     "longitude",
     "latitude",

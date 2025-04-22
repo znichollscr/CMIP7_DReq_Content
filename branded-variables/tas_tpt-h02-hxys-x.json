@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "tas_tpt-h02-hxys-x",
   "cell_methods": "area: point time: point",
-  "description": "Near-Surface Air Temperature",
+  "description": "near-surface (usually, 2 meter) air temperature",
   "dimensions": [
     "site",
     "time1",

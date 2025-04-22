@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "c14Land_tavg-z0-hxy-lnd",
   "cell_methods": "area: mean where land time: mean",
-  "description": "Mass of 14C in All Terrestrial Carbon Pools",
+  "description": "Carbon-14 mass content per unit area in vegetation (any living plants e.g. trees, shrubs, grass), litter (dead plant material in or above the soil), soil, and forestry and agricultural products (e.g. paper, cardboard, furniture, timber for construction, biofuels and food for both humans and livestock).",
   "dimensions": [
     "longitude",
     "latitude",

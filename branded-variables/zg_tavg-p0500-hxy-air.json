@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "zg_tavg-p0500-hxy-air",
+  "cell_methods": "area: time: mean where air",
+  "description": "geopotential height on the 500 hPa surface",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time",
+    "p500"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "zg"
+}

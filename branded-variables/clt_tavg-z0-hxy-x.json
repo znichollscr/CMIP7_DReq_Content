@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "clt_tavg-z0-hxy-x",
   "cell_methods": "area: time: mean",
-  "description": "Total Cloud Cover Percentage",
+  "description": "Total cloud area fraction (reported as a percentage) for the whole atmospheric column, as seen from the surface or the top of the atmosphere. Includes both large-scale and convective cloud. ",
   "dimensions": [
     "longitude",
     "latitude",

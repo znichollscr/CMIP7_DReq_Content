@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "rsut_tavg-z0-hxy-x",
   "cell_methods": "area: time: mean",
-  "description": "TOA Outgoing Shortwave Radiation",
+  "description": "TOA outgoing shortwave radiation",
   "dimensions": [
     "longitude",
     "latitude",

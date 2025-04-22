@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "sob_tavg-z0-hxy-sea",
   "cell_methods": "area: mean where sea time: mean",
-  "description": "Sea Water Salinity at Sea Floor",
+  "description": "Model prognostic salinity at bottom-most model grid cell",
   "dimensions": [
     "longitude",
     "latitude",

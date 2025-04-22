@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "airmass_tavg-l-hxy-x",
   "cell_methods": "area: time: mean",
-  "description": "Vertically Integrated Mass Content of Air in Layer",
+  "description": "The mass of air in an atmospheric layer.",
   "dimensions": [
     "longitude",
     "latitude",

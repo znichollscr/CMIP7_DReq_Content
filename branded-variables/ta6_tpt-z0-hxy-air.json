@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "ta6_tpt-z0-hxy-air",
   "cell_methods": "area: mean where air time: point",
-  "description": "Air temperature",
+  "description": "Air temperature on 6 pressure levels in the lower troposphere",
   "dimensions": [
     "longitude",
     "latitude",

@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "reffclws_tpt-l-hxys-scl",
   "cell_methods": "area: mean where stratiform_cloud time: point",
-  "description": "Stratiform Cloud Liquid Droplet Effective Radius",
+  "description": "alevel site time1",
   "dimensions": [
     "alevel",
     "site",

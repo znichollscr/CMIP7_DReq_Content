@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "intpbsi_tavg-z0-hxy-sea",
   "cell_methods": "area: mean where sea time: mean",
-  "description": "Silicon Production",
+  "description": "Vertically integrated biogenic silica production",
   "dimensions": [
     "longitude",
     "latitude",

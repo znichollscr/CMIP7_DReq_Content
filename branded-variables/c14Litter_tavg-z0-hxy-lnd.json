@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "c14Litter_tavg-z0-hxy-lnd",
   "cell_methods": "area: mean where land time: mean",
-  "description": "Mass of 14C in Litter Pool",
+  "description": "Carbon-14 mass content per unit area litter (dead plant material in or above the soil).",
   "dimensions": [
     "longitude",
     "latitude",

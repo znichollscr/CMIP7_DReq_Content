@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "cOther_tavg-z0-hxy-lnd",
   "cell_methods": "area: mean where land time: mean",
-  "description": "Carbon Mass in Vegetation Components Other than Leaves, Stems and Roots",
+  "description": "E.g. fruits, seeds, etc.",
   "dimensions": [
     "longitude",
     "latitude",

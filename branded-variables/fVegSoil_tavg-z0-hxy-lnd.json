@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "fVegSoil_tavg-z0-hxy-lnd",
   "cell_methods": "area: mean where land time: mean",
-  "description": "Total Carbon Mass Flux from Vegetation Directly to Soil",
+  "description": "In some models part of carbon (e.g., root exudate) can go directly into the soil pool without entering litter.",
   "dimensions": [
     "longitude",
     "latitude",

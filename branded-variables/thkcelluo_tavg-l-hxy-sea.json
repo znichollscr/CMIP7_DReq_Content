@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "thkcelluo_tavg-l-hxy-sea",
   "cell_methods": "area: mean where sea time: mean",
-  "description": "Ocean Model Cell Thickness at u-points",
+  "description": "The time varying thickness of ocean cells centered at u-points (points for velocity in the x-direction). \"Thickness\" means the vertical extent of a layer. \"Cell\" refers to a model grid-cell.",
   "dimensions": [
     "longitude",
     "latitude",

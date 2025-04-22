@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "nLitterSurf_tavg-z0-hxy-lnd",
   "cell_methods": "area: mean where land time: mean",
-  "description": "Nitrogen Mass in Above-Ground Litter (non CWD)",
+  "description": "\"Content\" indicates a quantity per unit area. \"Litter\" is dead plant material in or above the soil. It is distinct from coarse wood debris. The precise distinction between \"fine\" and \"coarse\" is model dependent. \"Surface litter\" means the part of the litter resting above the soil surface. The sum of the quantities with standard names wood_debris_mass_content_of_nitrogen, surface_litter_mass_content_of_nitrogen and subsurface_litter_mass_content_of_nitrogen is the total nitrogen mass content of dead plant material.",
   "dimensions": [
     "longitude",
     "latitude",

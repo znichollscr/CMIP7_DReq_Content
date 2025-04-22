@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "reffclws_tpt-l-hxy-scl",
   "cell_methods": "area: mean where stratiform_cloud time: point",
-  "description": "Stratiform Cloud Liquid Droplet Effective Radius",
+  "description": "This is defined as the in-cloud ratio of the third moment over the second moment of the particle size distribution (obtained by considering only the cloudy portion of the grid cell).",
   "dimensions": [
     "longitude",
     "latitude",

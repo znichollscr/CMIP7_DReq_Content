@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "drynh3_tavg-z0-hxy-x",
   "cell_methods": "area: time: mean",
-  "description": "Dry Deposition Rate of NH3",
+  "description": "Monthly Dry Deposition Rate of NH3 at surface",
   "dimensions": [
     "longitude",
     "latitude",

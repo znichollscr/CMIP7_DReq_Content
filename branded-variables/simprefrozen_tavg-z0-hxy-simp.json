@@ -1,8 +1,8 @@
 {
   "@context": "TBD",
   "branded_variable": "simprefrozen_tavg-z0-hxy-simp",
-  "cell_methods": "area: time: mean where sea_ice_melt_pond (comment: mask=simpconc)",
-  "description": "Thickness of Refrozen Ice on Melt Pond",
+  "cell_methods": "area: time: mean where sea_ice_melt_pond",
+  "description": "Volume of refrozen ice on melt ponds divided by melt pond covered area.",
   "dimensions": [
     "longitude",
     "latitude",

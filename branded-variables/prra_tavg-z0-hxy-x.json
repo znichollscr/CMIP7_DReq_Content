@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "prra_tavg-z0-hxy-x",
   "cell_methods": "area: time: mean",
-  "description": "Rainfall Flux",
+  "description": "Rainfall rate at surface: Includes precipitation of all forms of water in the liquid phase",
   "dimensions": [
     "longitude",
     "latitude",

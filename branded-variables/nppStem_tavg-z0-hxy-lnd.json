@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "nppStem_tavg-z0-hxy-lnd",
   "cell_methods": "area: mean where land time: mean",
-  "description": "Net Primary Production Allocated to Stem as Carbon Mass Flux [kgC m-2 s-1]",
+  "description": "added for completeness with npp_root",
   "dimensions": [
     "longitude",
     "latitude",

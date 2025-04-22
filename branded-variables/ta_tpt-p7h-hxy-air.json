@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "ta_tpt-p7h-hxy-air",
   "cell_methods": "area: mean where air time: point",
-  "description": "Air Temperature",
+  "description": "Extra levels - 925, 700, 600, 300, 50",
   "dimensions": [
     "longitude",
     "latitude",

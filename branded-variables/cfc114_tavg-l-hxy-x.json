@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "cfc114_tavg-l-hxy-x",
   "cell_methods": "area: time: mean",
-  "description": "Mole Fraction of CFC114",
+  "description": "Mole fraction of cfc114 in air",
   "dimensions": [
     "longitude",
     "latitude",

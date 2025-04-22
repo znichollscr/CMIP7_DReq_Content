@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "siflcondtop_tavg-z0-hxy-si",
   "cell_methods": "area: time: mean where sea_ice",
-  "description": "Net Conductive Heat Flux in Sea Ice at the Surface",
+  "description": "Net heat conduction flux at the ice surface, i.e. the conductive heat flux from the centre of the uppermost vertical sea-ice grid box to the surface of the sea ice\u00a0(energy flow per sea ice area). Positive for a downward heat flux.",
   "dimensions": [
     "longitude",
     "latitude",

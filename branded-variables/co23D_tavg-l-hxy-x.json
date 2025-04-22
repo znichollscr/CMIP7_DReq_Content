@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "co23D_tavg-l-hxy-x",
   "cell_methods": "area: time: mean",
-  "description": "3D-Field of Transported CO2",
+  "description": "requested for all Emissions-driven runs",
   "dimensions": [
     "longitude",
     "latitude",

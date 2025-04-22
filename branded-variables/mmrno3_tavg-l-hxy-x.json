@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "mmrno3_tavg-l-hxy-x",
   "cell_methods": "area: time: mean",
-  "description": "NO3 Aerosol Mass Mixing Ratio",
+  "description": "Dry mass fraction of nitrate aerosol particles in air.",
   "dimensions": [
     "longitude",
     "latitude",

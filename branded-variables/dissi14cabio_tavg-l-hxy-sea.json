@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "dissi14cabio_tavg-l-hxy-sea",
   "cell_methods": "area: mean where sea time: mean",
-  "description": "Abiotic Dissolved Inorganic Carbon-14 Concentration",
+  "description": "Abiotic Dissolved inorganic 14carbon (CO3+HCO3+H2CO3) concentration",
   "dimensions": [
     "longitude",
     "latitude",

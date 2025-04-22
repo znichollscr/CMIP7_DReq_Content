@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "conccn_tavg-l-hxy-x",
   "cell_methods": "area: time: mean",
-  "description": "Aerosol Number Concentration",
+  "description": "This is the number concentration of air particles in air",
   "dimensions": [
     "longitude",
     "latitude",

@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "fNgasFire_tavg-z0-hxy-lnd",
   "cell_methods": "area: mean where land time: mean",
-  "description": "Total Nitrogen Lost to the Atmosphere (Including NHx, NOx, N2O, N2) from Fire",
+  "description": "Flux of Nitrogen from the land into the atmosphere due to fire",
   "dimensions": [
     "longitude",
     "latitude",

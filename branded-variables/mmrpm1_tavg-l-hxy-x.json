@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "mmrpm1_tavg-l-hxy-x",
   "cell_methods": "area: time: mean",
-  "description": "PM1.0 Mass Mixing Ratio",
+  "description": "Mass fraction atmospheric particulate compounds with an aerodynamic diameter of less than or equal to 1 micrometers",
   "dimensions": [
     "longitude",
     "latitude",

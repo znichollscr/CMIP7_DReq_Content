@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "conccn_tpt-z0-hxys-x",
   "cell_methods": "area: point time: point",
-  "description": "Sub-daily Aerosol Number Concentration at CF sites",
+  "description": "The variable represents the instantaneous Aerosol Number Concentration at CF sites, sampled every 3 hours",
   "dimensions": [
     "site",
     "time1"

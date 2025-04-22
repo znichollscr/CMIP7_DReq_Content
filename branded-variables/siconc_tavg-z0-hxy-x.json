@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "siconc_tavg-z0-hxy-x",
   "cell_methods": "area: time: mean",
-  "description": "Sea-Ice Area Percentage (Ocean Grid)",
+  "description": "Areal fraction of a given grid cell that is covered by sea ice on the atmosphere grid, independent of the thickness of that ice.",
   "dimensions": [
     "longitude",
     "latitude",

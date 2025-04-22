@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "sidivvel_tpt-z0-hxy-si",
   "cell_methods": "area: mean where sea_ice  time: point",
-  "description": "Divergence of the Sea-Ice Velocity Field",
+  "description": "Divergence of sea-ice velocity field (first shear strain invariant). Requested as instantaneous value at the center of the month (i.e., first timestep of the 15th day of the month).",
   "dimensions": [
     "longitude",
     "latitude",

@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "siforceintstrx_tavg-z0-hxy-si",
   "cell_methods": "area: time: mean where sea_ice",
-  "description": "Internal Stress Term in Force Balance (X-Component)",
+  "description": "X-component of the force on sea ice caused by internal stress (divergence of sigma) divided by grid-cell area.",
   "dimensions": [
     "longitude",
     "latitude",

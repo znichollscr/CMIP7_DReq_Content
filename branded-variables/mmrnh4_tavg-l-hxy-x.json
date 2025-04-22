@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "mmrnh4_tavg-l-hxy-x",
   "cell_methods": "area: time: mean",
-  "description": "NH4 Mass Mixing Ratio",
+  "description": "Dry mass fraction of ammonium aerosol particles in air.",
   "dimensions": [
     "longitude",
     "latitude",

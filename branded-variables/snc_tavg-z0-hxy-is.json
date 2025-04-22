@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "snc_tavg-z0-hxy-is",
   "cell_methods": "area: time: mean where ice_sheet",
-  "description": "Snow Area Percentage",
+  "description": "quantity averaged over ice_sheet (meaning grounded ice sheet and floating ice shelf) only, to avoid contamination from other surfaces (eg: permafrost)",
   "dimensions": [
     "longitude",
     "latitude",

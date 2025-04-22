@@ -1,0 +1,15 @@
+{
+  "@context": "TBD",
+  "branded_variable": "iareagr_tavg-z0-hm-fis",
+  "cell_methods": "area: sum where floating_ice_shelf time: mean",
+  "description": "Greenland",
+  "dimensions": [
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "iareagr"
+}

@@ -1,0 +1,15 @@
+{
+  "@context": "TBD",
+  "branded_variable": "siarea_tavg-z0-hm-x",
+  "cell_methods": "area: sum time: mean",
+  "description": "Total integrated area of sea ice in the Southern Hemisphere (where siconc > 0). Does not include grid cells partially covered by land.",
+  "dimensions": [
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "siarea"
+}

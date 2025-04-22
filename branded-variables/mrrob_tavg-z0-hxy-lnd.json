@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "mrrob_tavg-z0-hxy-lnd",
   "cell_methods": "area: mean where land time: mean",
-  "description": "Subsurface Runoff",
+  "description": "subsurface_runoff_flux",
   "dimensions": [
     "longitude",
     "latitude",

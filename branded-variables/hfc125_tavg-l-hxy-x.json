@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "hfc125_tavg-l-hxy-x",
   "cell_methods": "area: time: mean",
-  "description": "Mole Fraction of HFC125",
+  "description": "This is the mole fraction of HFC125 in air",
   "dimensions": [
     "longitude",
     "latitude",

@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "nep_tavg-z0-hxy-lnd",
   "cell_methods": "area: mean where land time: mean",
-  "description": "Net Carbon Mass Flux out of Atmosphere Due to Net Ecosystem Productivity on Land [kgC m-2 s-1]",
+  "description": "Net Ecosystem Exchange",
   "dimensions": [
     "longitude",
     "latitude",

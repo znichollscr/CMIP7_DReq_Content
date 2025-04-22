@@ -1,8 +1,8 @@
 {
   "@context": "TBD",
   "branded_variable": "prw_tpt-z0-hxy-x",
-  "cell_methods": "time: point",
-  "description": "6 hourly instantaneous vertically integrated water vapor",
+  "cell_methods": "area: mean time: point",
+  "description": "vertically integrated through the atmospheric column",
   "dimensions": [
     "longitude",
     "latitude",

@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "fNloss_tavg-z0-hxy-lnd",
   "cell_methods": "area: mean where land time: mean",
-  "description": "Total Nitrogen Lost (Including NHx, NOx, N2O, N2 and Leaching)",
+  "description": "Not all models split losses into gaseous and leaching",
   "dimensions": [
     "longitude",
     "latitude",

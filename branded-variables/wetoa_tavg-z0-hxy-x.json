@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "wetoa_tavg-z0-hxy-x",
   "cell_methods": "area: time: mean",
-  "description": "Wet Deposition Rate of Dry Aerosol Total Organic Matter",
+  "description": "Deposition rate of organic matter in aerosols (measured by the dry mass) due to wet processes",
   "dimensions": [
     "longitude",
     "latitude",

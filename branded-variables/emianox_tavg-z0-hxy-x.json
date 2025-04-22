@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "emianox_tavg-z0-hxy-x",
   "cell_methods": "area: time: mean",
-  "description": "Total Emission Rate of Anthropogenic NOx",
+  "description": "Store flux as Nitrogen. Anthropogenic fraction. NOx=NO+NO2, Includes agricultural waste burning but no other biomass burning. Integrate 3D emission field vertically to 2d field.",
   "dimensions": [
     "longitude",
     "latitude",

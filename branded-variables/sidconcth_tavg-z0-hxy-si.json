@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "sidconcth_tavg-z0-hxy-si",
+  "cell_methods": "area: mean where sea_ice time: mean",
+  "description": "Total change in sea-ice area fraction through thermodynamic processes.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "sidconcth"
+}

@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "hur_tpt-l-hxys-x",
   "cell_methods": "area: point time: point",
-  "description": "Relative Humidity",
+  "description": "This is the relative humidity with respect to liquid water for T> 0 C, and with respect to ice for T<0 C.",
   "dimensions": [
     "alevel",
     "site",

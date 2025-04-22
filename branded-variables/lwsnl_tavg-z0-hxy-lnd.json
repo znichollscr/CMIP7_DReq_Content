@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "lwsnl_tavg-z0-hxy-lnd",
   "cell_methods": "area: mean where land time: mean",
-  "description": "Liquid Water Content of Snow Layer",
+  "description": "where land over land: this is computed as the total mass of liquid water contained interstitially within the snow layer of the land portion of a grid cell divided by the area of the land portion of the cell.",
   "dimensions": [
     "longitude",
     "latitude",

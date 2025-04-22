@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "depdust_tavg-z0-hxy-x",
   "cell_methods": "area: time: mean",
-  "description": "Total Deposition Rate of Dust",
+  "description": "Fdry mass deposition rate of dust",
   "dimensions": [
     "longitude",
     "latitude",

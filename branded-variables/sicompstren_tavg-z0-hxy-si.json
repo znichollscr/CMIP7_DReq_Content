@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "sicompstren_tavg-z0-hxy-si",
   "cell_methods": "area: time: mean where sea_ice",
-  "description": "Compressive Sea Ice Strength",
+  "description": "Computed strength of the ice pack, defined as the energy (J m-2) dissipated per unit area removed from the ice pack under compression, and assumed proportional to the change in potential energy caused by ridging. For Hibler-type models, this is P = P* h exp(-C(1-A)) where P* is compressive strength, h is ice thickness, A is compactness and C is strength reduction constant.",
   "dimensions": [
     "longitude",
     "latitude",

@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "clivi_tavg-z0-hxy-x",
   "cell_methods": "area: time: mean",
-  "description": "Ice Water Path",
+  "description": "Ice water path",
   "dimensions": [
     "longitude",
     "latitude",

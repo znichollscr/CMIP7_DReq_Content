@@ -2,10 +2,10 @@
   "@context": "TBD",
   "branded_variable": "hfgeoubed_ti-z0-hxy-gis",
   "cell_methods": "area: mean where grounded_ice_sheet",
-  "description": "Geothermal Heat Flux Beneath Land Ice",
+  "description": NaN,
   "dimensions": [
-    "xgre",
-    "ygre"
+    "longitude",
+    "latitude"
   ],
   "id": "TBD",
   "label": "TBD",

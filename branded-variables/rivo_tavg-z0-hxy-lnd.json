@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "rivo_tavg-z0-hxy-lnd",
   "cell_methods": "area: mean where land time: mean",
-  "description": "River Discharge",
+  "description": "water_flux_from_upstream",
   "dimensions": [
     "longitude",
     "latitude",

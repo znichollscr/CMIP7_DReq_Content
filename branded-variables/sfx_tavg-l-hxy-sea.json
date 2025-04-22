@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "sfx_tavg-l-hxy-sea",
   "cell_methods": "area: mean where sea time: mean",
-  "description": "3D Ocean Salt Mass X Transport",
+  "description": "Contains all contributions to 'x-ward' salt mass transport from resolved and parameterized processes. Report on native horizontal grid.",
   "dimensions": [
     "longitude",
     "latitude",

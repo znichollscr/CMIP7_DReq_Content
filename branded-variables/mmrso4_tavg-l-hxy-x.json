@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "mmrso4_tavg-l-hxy-x",
   "cell_methods": "area: time: mean",
-  "description": "Aerosol Sulfate Mass Mixing Ratio",
+  "description": "Dry mass of sulfate (SO4) in aerosol particles as a fraction of air mass.",
   "dimensions": [
     "longitude",
     "latitude",

@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "isop_tavg-l-hxy-x",
   "cell_methods": "area: time: mean",
-  "description": "Isoprene Volume Mixing Ratio",
+  "description": "Mole fraction of isoprene in air.",
   "dimensions": [
     "longitude",
     "latitude",

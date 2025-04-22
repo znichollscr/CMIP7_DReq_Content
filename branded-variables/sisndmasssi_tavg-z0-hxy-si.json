@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "sisndmasssi_tavg-z0-hxy-si",
   "cell_methods": "area: time: mean where sea_ice",
-  "description": "Snow Mass Rate of Change Through Snow-to-Ice Conversion",
+  "description": "Rate of change of snow mass due to transformation of snow to sea ice divided by grid-cell area. Always negative or zero.",
   "dimensions": [
     "longitude",
     "latitude",

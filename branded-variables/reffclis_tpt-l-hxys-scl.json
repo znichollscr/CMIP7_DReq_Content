@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "reffclis_tpt-l-hxys-scl",
   "cell_methods": "area: mean where stratiform_cloud time: point",
-  "description": "Hydrometeor Effective Radius of Stratiform Cloud Ice",
+  "description": "alevel site time1",
   "dimensions": [
     "alevel",
     "site",

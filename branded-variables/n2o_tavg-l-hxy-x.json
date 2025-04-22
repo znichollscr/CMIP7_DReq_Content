@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "n2o_tavg-l-hxy-x",
   "cell_methods": "area: time: mean",
-  "description": "Mole Fraction of N2O",
+  "description": "Mole fraction is used in the construction mole_fraction_of_X_in_Y, where X is a material constituent of Y.   The chemical formula of  nitrous oxide is N2O.",
   "dimensions": [
     "longitude",
     "latitude",

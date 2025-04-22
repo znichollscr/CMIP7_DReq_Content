@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "psl_tpt-z0-hxy-x",
   "cell_methods": "area: mean time: point",
-  "description": "Sea Level Pressure",
+  "description": "Sea level pressure",
   "dimensions": [
     "longitude",
     "latitude",

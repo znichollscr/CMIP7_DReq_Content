@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "tntmp_tavg-l-hxy-x",
   "cell_methods": "area: time: mean",
-  "description": "Tendency of Air Temperature Due to Model Physics",
+  "description": "This includes sources and sinks from parametrized physics (e.g. radiation, convection, boundary layer, stratiform condensation/evaporation, etc.). It excludes sources and sinks from resolved dynamics and numerical diffusion not associated with parametrized physics.  For example, any vertical diffusion which is part of the boundary layer mixing scheme should be included, while numerical diffusion applied in addition to physics or resolved dynamics should be excluded.  This term is required to check the closure of the heat budget.",
   "dimensions": [
     "longitude",
     "latitude",

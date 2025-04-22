@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "fNdep_tavg-z0-hxy-lnd",
   "cell_methods": "area: mean where land time: mean",
-  "description": "Dry and Wet Deposition of Reactive Nitrogen onto Land",
+  "description": "Surface deposition rate of nitrogen.",
   "dimensions": [
     "longitude",
     "latitude",

@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "cltcalipso_tpt-z0-hxy-x",
   "cell_methods": "area: mean time: point",
-  "description": "CALIPSO Total Cloud Cover Percentage",
+  "description": "CALIPSO Total Cloud Fraction",
   "dimensions": [
     "longitude",
     "latitude",

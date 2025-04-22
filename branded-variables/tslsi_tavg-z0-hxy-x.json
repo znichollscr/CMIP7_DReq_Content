@@ -1,8 +1,8 @@
 {
   "@context": "TBD",
   "branded_variable": "tslsi_tavg-z0-hxy-x",
-  "cell_methods": "area: time: mean (comment: over land and sea ice)",
-  "description": "Surface Temperature Where Land or Sea Ice",
+  "cell_methods": "area: time: mean (where  land or sea ice or ice shelf)",
+  "description": "Surface temperature of all surfaces except open ocean.",
   "dimensions": [
     "longitude",
     "latitude",

@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "sithick_tavg-z0-hxy-si",
   "cell_methods": "area: mean where sea_ice time: point",
-  "description": "Sea-Ice Thickness",
+  "description": "Actual (floe) thickness of sea ice averaged over the ice-covered part of a given grid cell, NOT volume divided by grid area.",
   "dimensions": [
     "longitude",
     "latitude",

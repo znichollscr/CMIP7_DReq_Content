@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "hcfc22_tavg-l-hxy-x",
   "cell_methods": "area: time: mean",
-  "description": "Mole Fraction of HCFC22",
+  "description": "This is the mole fraction of HCFC22 in air",
   "dimensions": [
     "longitude",
     "latitude",

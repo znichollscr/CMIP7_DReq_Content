@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "intppnitrate_tavg-z0-hxy-sea",
   "cell_methods": "depth: sum where sea (over entire ocean column) area: time: mean",
-  "description": "Primary Organic Carbon Production by Phytoplankton Based on Nitrate Uptake Alone",
+  "description": "Vertically integrated primary (organic carbon) production by phytoplankton based on nitrate uptake alone",
   "dimensions": [
     "longitude",
     "latitude",

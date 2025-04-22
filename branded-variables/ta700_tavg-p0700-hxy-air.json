@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "ta700_tavg-p0700-hxy-air",
   "cell_methods": "area: time: mean where air",
-  "description": "Air Temperature",
+  "description": "Air temperature at 700hPa",
   "dimensions": [
     "longitude",
     "latitude",

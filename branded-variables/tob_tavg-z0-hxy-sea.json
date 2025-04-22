@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "tob_tavg-z0-hxy-sea",
   "cell_methods": "area: mean where sea time: mean",
-  "description": "Sea Water Potential Temperature at Sea Floor",
+  "description": "Potential temperature at the ocean bottom-most grid cell.",
   "dimensions": [
     "longitude",
     "latitude",

@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "wsgmax_tstat-h0100-hxy-x",
+  "cell_methods": "area: mean time: maximum",
+  "description": "Maximum Wind Speed of Gust at 100m, monthly",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time",
+    "height100m"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "wsgmax"
+}

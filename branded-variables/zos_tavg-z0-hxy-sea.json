@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "zos_tavg-z0-hxy-sea",
   "cell_methods": "area: mean where sea time: mean",
-  "description": "Sea Surface Height above Geoid",
+  "description": "This is the dynamic sea level, so should have zero global area mean. It should not include inverse barometer depressions from sea ice.",
   "dimensions": [
     "longitude",
     "latitude",

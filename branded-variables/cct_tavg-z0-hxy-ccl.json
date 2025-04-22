@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "cct_tavg-z0-hxy-ccl",
   "cell_methods": "area: time: mean where convective_cloud (weighted by total convective cloud area)",
-  "description": "Air Pressure at Convective Cloud Top",
+  "description": "Where convective cloud is present in the grid cell, the instantaneous cloud top altitude should be that of the top of the highest level containing convective cloud. Missing data should be reported in the absence of convective cloud. The time mean should be calculated from these quantities averaging over occasions when convective cloud is present only, and should contain missing data for occasions when no convective cloud is present during the meaning period.",
   "dimensions": [
     "longitude",
     "latitude",

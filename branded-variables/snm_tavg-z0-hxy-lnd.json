@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "snm_tavg-z0-hxy-lnd",
   "cell_methods": "area: mean where land time: mean",
-  "description": "Surface Snow Melt",
+  "description": "Computed as the total surface melt water on the land portion of the grid cell divided by the land area in the grid cell; report as 0.0 for snow-free land regions; report as missing where the land fraction is 0.",
   "dimensions": [
     "longitude",
     "latitude",

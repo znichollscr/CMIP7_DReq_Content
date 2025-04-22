@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "ps_tavg-z0-hxy-x",
   "cell_methods": "area: time: mean",
-  "description": "Surface Air Pressure",
+  "description": "Surface Pressure .. needed for vertical coordinates",
   "dimensions": [
     "longitude",
     "latitude",

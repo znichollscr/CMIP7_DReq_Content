@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "zooc_tavg-l-hxy-sea",
   "cell_methods": "area: mean where sea time: mean",
-  "description": "Zooplankton Carbon Concentration",
+  "description": "sum of zooplankton carbon component concentrations",
   "dimensions": [
     "longitude",
     "latitude",

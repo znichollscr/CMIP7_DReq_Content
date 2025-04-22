@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "pr2h_tavg-z0-hxy-x",
   "cell_methods": "area: time: mean",
-  "description": "Precipitation Flux of Water Containing Deuterium (1H 2H O)",
+  "description": "Precipitation mass flux of water molecules that contain one atom of the hydrogen-2 isotope (1H 2H O), including solid and liquid phases.",
   "dimensions": [
     "longitude",
     "latitude",

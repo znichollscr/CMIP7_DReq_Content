@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "rsutcs_tcld-z0-hxy-x",
   "cell_methods": "area: mean time: mean within days time: mean over days",
-  "description": "TOA Outgoing Clear-Sky Shortwave Radiation",
+  "description": "Calculated in the absence of clouds.",
   "dimensions": [
     "longitude",
     "latitude",

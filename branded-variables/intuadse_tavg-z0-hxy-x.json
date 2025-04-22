@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "intuadse_tavg-z0-hxy-x",
   "cell_methods": "area: time: mean",
-  "description": "Vertically Integrated Eastward Dry Static Energy Transport",
+  "description": "Vertically integrated eastward dry static energy transport (cp.T +zg).v (Mass_weighted_vertical integral of the product of eastward wind by dry static_energy per mass unit)",
   "dimensions": [
     "longitude",
     "latitude",

@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "rh_tavg-z0-hxy-lnd",
   "cell_methods": "area: mean where land time: mean",
-  "description": "Total Heterotrophic Respiration on Land as Carbon Mass Flux [kgC m-2 s-1]",
+  "description": "Carbon mass flux per unit area into atmosphere due to heterotrophic respiration on land (respiration by consumers)",
   "dimensions": [
     "longitude",
     "latitude",

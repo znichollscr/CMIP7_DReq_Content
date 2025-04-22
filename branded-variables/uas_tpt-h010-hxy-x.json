@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "uas_tpt-h010-hxy-x",
   "cell_methods": "area: mean time: point",
-  "description": "Eastward Near-Surface Wind",
+  "description": "Zonal wind (positive in a eastward direction) at 10 meters above the surface.",
   "dimensions": [
     "longitude",
     "latitude",

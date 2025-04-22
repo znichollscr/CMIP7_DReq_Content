@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "bldep_tpt-z0-hxy-x",
   "cell_methods": "area: mean time: point",
-  "description": "Boundary Layer Depth",
+  "description": "Boundary Layer Depth every 3 hours",
   "dimensions": [
     "longitude",
     "latitude",

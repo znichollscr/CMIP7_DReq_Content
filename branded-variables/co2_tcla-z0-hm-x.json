@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "co2_tcla-z0-hm-x",
   "cell_methods": "height: sum (through atmospheric column) area: sum time: mean within years time: mean over years",
-  "description": "Total Atmospheric Mass of CO2",
+  "description": "Total atmospheric mass of Carbon Dioxide",
   "dimensions": [
     "time2"
   ],

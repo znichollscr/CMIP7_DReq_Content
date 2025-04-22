@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "expcob_tavg-z0-hxy-sea",
   "cell_methods": "area: mean where sea time: mean",
-  "description": "Sinking Flux of Particulate Organic Carbon Reaching the Ocean Bottom",
+  "description": "Downward sinking flux of particulate organic carbon at seafloor",
   "dimensions": [
     "longitude",
     "latitude",

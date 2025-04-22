@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "tauvnogw_tavg-p39-hy-air",
   "cell_methods": "longitude: time: mean where air",
-  "description": "Zonal mean northward Reynolds stress from non-orographic gravity wave parameterization ",
+  "description": "Zonal mean vertical wave flux of meridional momentum within the non-orographic gravity wave parameterization",
   "dimensions": [
     "latitude",
     "plev39",

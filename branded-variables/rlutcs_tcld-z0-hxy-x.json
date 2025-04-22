@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "rlutcs_tcld-z0-hxy-x",
   "cell_methods": "area: mean time: mean within days time: mean over days",
-  "description": "TOA Outgoing Clear-Sky Longwave Radiation",
+  "description": "Upwelling clear-sky longwave radiation at top of atmosphere",
   "dimensions": [
     "longitude",
     "latitude",

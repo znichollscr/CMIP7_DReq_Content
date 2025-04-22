@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "utendepfd_tavg-p39-hy-air",
   "cell_methods": "longitude: time: mean where air",
-  "description": "Tendency of Eastward Wind Due to Eliassen-Palm Flux Divergence",
+  "description": "Tendency of the zonal mean zonal wind due to the divergence of the Eliassen-Palm flux.",
   "dimensions": [
     "latitude",
     "plev39",

@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "clmodisiceReff_tavg-z0-hxy-x",
   "cell_methods": "area: time: mean",
-  "description": "MODIS Ice Topped Cloud Area Fraction",
+  "description": "Percentage ice-cloud cover as seen by the MODIS instrument simulator. Dimensions of cloud IWP (cloud ice water path) and r_eff (effective droplet size).",
   "dimensions": [
     "longitude",
     "latitude",

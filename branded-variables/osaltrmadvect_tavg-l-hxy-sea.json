@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "osaltrmadvect_tavg-l-hxy-sea",
   "cell_methods": "area: mean where sea time: mean",
-  "description": "Tendency of Sea Water Salinity Expressed as Salt Content Due to Residual Mean Advection",
+  "description": "Tendency of salt content for a grid cell from residual mean  (sum of Eulerian mean + parameterized eddy-induced)  advection.",
   "dimensions": [
     "longitude",
     "latitude",

@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "rlucs4co2_tavg-l-hxy-x",
   "cell_methods": "area: time: mean",
-  "description": "Upwelling Clear-Sky Longwave Radiation 4XCO2 Atmosphere",
+  "description": "Upwelling clear-sky longwave radiation calculated using carbon dioxide concentrations increased fourfold (includes the fluxes at the surface and TOA)",
   "dimensions": [
     "longitude",
     "latitude",

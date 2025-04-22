@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "reffclwc_tpt-l-hxys-ccl",
   "cell_methods": "area: mean where convective_cloud time: point",
-  "description": "Convective Cloud Liquid Droplet Effective Radius",
+  "description": "alevel site time1",
   "dimensions": [
     "alevel",
     "site",

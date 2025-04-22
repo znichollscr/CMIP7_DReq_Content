@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "sistrydtop_tavg-z0-hxy-si",
   "cell_methods": "area: mean where sea_ice time: point",
-  "description": "Y-Component of Atmospheric Stress on Sea Ice",
+  "description": "Y-component of the atmospheric stress on the surface of sea ice divided by grid-cell area.",
   "dimensions": [
     "longitude",
     "latitude",

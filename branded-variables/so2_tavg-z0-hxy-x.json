@@ -1,12 +1,13 @@
 {
   "@context": "TBD",
   "branded_variable": "so2_tavg-z0-hxy-x",
-  "cell_methods": "area: time: mean",
-  "description": "Surface daily mean SO2",
+  "cell_methods": "area: point time: point",
+  "description": "This variable represents the instantaneous surface so2 volume mixing ration at CF sites, sampled every 3 hours",
   "dimensions": [
     "longitude",
     "latitude",
-    "time"
+    "time",
+    "height50m"
   ],
   "id": "TBD",
   "label": "TBD",

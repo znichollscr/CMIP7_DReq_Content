@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "friver_tavg-z0-hxy-sea",
   "cell_methods": "area: mean where sea time: mean",
-  "description": "Water Flux into Sea Water from Rivers",
+  "description": "computed as the river flux of water into the ocean divided by the area of the ocean portion of the grid cell.",
   "dimensions": [
     "longitude",
     "latitude",

@@ -2,10 +2,11 @@
   "@context": "TBD",
   "branded_variable": "mmrnh4_tpt-z0-hxys-x",
   "cell_methods": "area: point time: point",
-  "description": "Instantaneous surface NH4 aerosol mass mixing ratio at CF sites",
+  "description": "This variable represents the instantaneous surface NH4 Aerosol Mass Mixing Ratio at CF sites, sampled every 3 hours",
   "dimensions": [
     "site",
-    "time1"
+    "time1",
+    "height50m"
   ],
   "id": "TBD",
   "label": "TBD",

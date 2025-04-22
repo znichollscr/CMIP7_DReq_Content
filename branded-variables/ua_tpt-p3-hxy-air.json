@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "ua_tpt-p3-hxy-air",
   "cell_methods": "area: mean where air time: point",
-  "description": "Eastward Wind",
+  "description": "Zonal wind (positive in a eastward direction).",
   "dimensions": [
     "longitude",
     "latitude",

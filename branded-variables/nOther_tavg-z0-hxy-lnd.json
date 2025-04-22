@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "nOther_tavg-z0-hxy-lnd",
   "cell_methods": "area: mean where land time: mean",
-  "description": "Nitrogen Mass in Vegetation Components Other than Leaves, Stem and Root",
+  "description": "E.g. fruits, seeds, etc.",
   "dimensions": [
     "longitude",
     "latitude",

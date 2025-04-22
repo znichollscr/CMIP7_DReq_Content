@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "rsutcsaf_tavg-z0-hxy-x",
   "cell_methods": "area: time: mean",
-  "description": "TOA Outgoing Clear-Sky, Aerosol-Free Shortwave Radiation",
+  "description": "Flux corresponding to rsutcs resulting fom aerosol-free call to radiation",
   "dimensions": [
     "longitude",
     "latitude",

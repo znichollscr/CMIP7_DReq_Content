@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "ta_tavg-p39-hy-air",
   "cell_methods": "longitude: time: mean where air",
-  "description": "Zonal mean air temperature",
+  "description": "Zonal mean temperature of air with the extended number of vertical levels.\n",
   "dimensions": [
     "latitude",
     "plev39",

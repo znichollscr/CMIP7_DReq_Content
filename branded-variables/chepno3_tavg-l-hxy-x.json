@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "chepno3_tavg-l-hxy-x",
   "cell_methods": "area: time: mean",
-  "description": "Net chemical production of nitrate aerosol",
+  "description": "Net chemical production rate of nitrate aerosol in the atmosphere",
   "dimensions": [
     "longitude",
     "latitude",

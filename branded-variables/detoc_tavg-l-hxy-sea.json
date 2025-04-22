@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "detoc_tavg-l-hxy-sea",
   "cell_methods": "area: mean where sea time: mean",
-  "description": "Detrital Organic Carbon Concentration",
+  "description": "sum of detrital organic carbon component concentrations",
   "dimensions": [
     "longitude",
     "latitude",

@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "od550soa_tavg-z0-hxy-x",
   "cell_methods": "area: time: mean",
-  "description": "Particulate Organic Aerosol Optical Depth at 550nm",
+  "description": "total organic aerosol AOD due to secondary aerosol formation",
   "dimensions": [
     "longitude",
     "latitude",

@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "clc_tavg-l-hxy-x",
   "cell_methods": "area: time: mean",
-  "description": "Convective Cloud Area Percentage",
+  "description": "Include only convective cloud.",
   "dimensions": [
     "longitude",
     "latitude",

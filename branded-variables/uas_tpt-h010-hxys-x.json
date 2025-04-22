@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "uas_tpt-h010-hxys-x",
   "cell_methods": "area: point time: point",
-  "description": "Eastward Near-Surface Wind",
+  "description": "Eastward component of the near-surface (usually, 10 meters)  wind",
   "dimensions": [
     "site",
     "time1",

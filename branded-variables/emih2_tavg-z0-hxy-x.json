@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "emih2_tavg-z0-hxy-x",
   "cell_methods": "area: time: mean",
-  "description": "Total emission rate of molecular hydrogen (H2)",
+  "description": "This is the total emission rate of molecular hydrogen (H2) into the atmosphere (i.e., integrate 3D emission field vertically to 2d field)",
   "dimensions": [
     "longitude",
     "latitude",

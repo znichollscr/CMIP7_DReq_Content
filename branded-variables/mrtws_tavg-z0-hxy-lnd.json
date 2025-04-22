@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "mrtws_tavg-z0-hxy-lnd",
   "cell_methods": "area: mean where land time: mean",
-  "description": "Terrestrial Water Storage",
+  "description": "requested for C4MIP, OCMIP/OMIP, LUMIP, ScenarioMIP, DECK, DAMIP, GeoMIP, LS3MIP, ??",
   "dimensions": [
     "longitude",
     "latitude",

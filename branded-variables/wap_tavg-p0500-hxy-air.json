@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "wap_tavg-p0500-hxy-air",
+  "cell_methods": "area: time: mean where air",
+  "description": "at 500 hPa level; commonly referred to as \"omega\", this represents the vertical component of velocity in pressure coordinates (positive down)",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time",
+    "p500"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "wap"
+}

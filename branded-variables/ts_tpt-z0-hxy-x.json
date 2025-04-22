@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "ts_tpt-z0-hxy-x",
   "cell_methods": "area: mean time: point",
-  "description": "Surface Temperature",
+  "description": "Surface temperature (skin for open ocean)",
   "dimensions": [
     "longitude",
     "latitude",

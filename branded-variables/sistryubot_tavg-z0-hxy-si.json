@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "sistryubot_tavg-z0-hxy-si",
   "cell_methods": "area: mean where sea_ice time: point",
-  "description": "Y-Component of Ocean Stress on Sea Ice",
+  "description": "Y-component of the ocean stress on the sea ice bottom divided by grid-cell area.",
   "dimensions": [
     "longitude",
     "latitude",

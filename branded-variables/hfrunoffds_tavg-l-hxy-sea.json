@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "hfrunoffds_tavg-l-hxy-sea",
   "cell_methods": "area: mean where sea time: mean",
-  "description": "Temperature Flux Due to Runoff Expressed as Heat Flux into Sea Water",
+  "description": "Heat flux associated with liquid water which drains from land. It is calculated relative to the heat that would be transported by runoff water entering the sea at zero degrees Celsius. ",
   "dimensions": [
     "longitude",
     "latitude",

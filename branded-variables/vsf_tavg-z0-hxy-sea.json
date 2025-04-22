@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "vsf_tavg-z0-hxy-sea",
   "cell_methods": "area: mean where sea time: mean",
-  "description": "Virtual Salt Flux into Sea Water",
+  "description": "It is set to zero in models which receive a real water flux.",
   "dimensions": [
     "longitude",
     "latitude",

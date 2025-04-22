@@ -1,8 +1,8 @@
 {
   "@context": "TBD",
   "branded_variable": "va_tpt-l-hxy-x",
-  "cell_methods": "time: point",
-  "description": "Northward Wind",
+  "cell_methods": "area:mean time:point",
+  "description": "Meridional wind (positive in a northward direction).",
   "dimensions": [
     "longitude",
     "latitude",

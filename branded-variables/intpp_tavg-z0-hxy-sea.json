@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "intpp_tavg-z0-hxy-sea",
   "cell_methods": "depth: sum where sea (over entire ocean column) area: time: mean",
-  "description": "Primary Organic Carbon Production by All Types of Phytoplankton",
+  "description": "Vertically integrated total primary (organic carbon) production by phytoplankton.  This should equal the sum of intpdiat+intpphymisc, but those individual components may be unavailable in some models.",
   "dimensions": [
     "longitude",
     "latitude",

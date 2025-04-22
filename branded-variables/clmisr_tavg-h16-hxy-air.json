@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "clmisr_tavg-h16-hxy-air",
   "cell_methods": "area: time: mean where air",
-  "description": "Percentage Cloud Cover as Calculated by the MISR Simulator (Including Error Flag)",
+  "description": "MISR cloud area fraction",
   "dimensions": [
     "longitude",
     "latitude",

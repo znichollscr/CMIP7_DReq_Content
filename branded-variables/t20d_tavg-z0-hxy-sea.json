@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "t20d_tavg-z0-hxy-sea",
   "cell_methods": "area: mean where sea time: mean",
-  "description": "Depth of 20 degree Celsius Isotherm",
+  "description": "Monthly 20C isotherm depth",
   "dimensions": [
     "longitude",
     "latitude",

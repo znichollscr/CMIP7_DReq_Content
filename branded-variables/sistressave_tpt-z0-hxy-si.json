@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "sistressave_tpt-z0-hxy-si",
   "cell_methods": "area: mean where sea_ice time: point",
-  "description": "Average Normal Stress in Sea Ice",
+  "description": "Average normal stress in sea ice (first stress invariant). Requested as instantaneous value at the center of the month (i.e., first timestep of the 15th day of the month).",
   "dimensions": [
     "longitude",
     "latitude",

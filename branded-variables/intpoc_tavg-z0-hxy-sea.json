@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "intpoc_tavg-z0-hxy-sea",
   "cell_methods": "depth: sum where sea (over entire ocean column) area: time: mean",
-  "description": "Particulate Organic Carbon Content",
+  "description": "Vertically integrated POC",
   "dimensions": [
     "longitude",
     "latitude",

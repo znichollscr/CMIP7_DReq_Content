@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "sitempbot_tavg-z0-hxy-si",
   "cell_methods": "area: mean where sea_ice time: point",
-  "description": "Temperature at Ice-Ocean Interface\n",
+  "description": "Mean temperature at the base of the sea ice, NOT the temperature within lowermost sea-ice model layer.",
   "dimensions": [
     "longitude",
     "latitude",

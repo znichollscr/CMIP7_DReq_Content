@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "c4h10_tavg-l-hxy-x",
   "cell_methods": "area: time: mean",
-  "description": "C4H10  volume mixing ratio",
+  "description": "Mole fraction of butane (C4H10) in air",
   "dimensions": [
     "longitude",
     "latitude",

@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "wetlandFrac_tavg-z0-hxy-x",
+  "cell_methods": "area: mean time:mean\" (or \"area time: mean\")",
+  "description": "Percentage of grid cell covered by wetland. Report only one year if  fixed percentage is used, or time series if values are determined dynamically.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time",
+    "typewetla"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "wetlandFrac"
+}

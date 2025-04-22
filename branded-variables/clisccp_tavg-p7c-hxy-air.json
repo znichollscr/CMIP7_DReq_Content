@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "clisccp_tavg-p7c-hxy-air",
   "cell_methods": "area: time: mean where air",
-  "description": "ISCCP Cloud Area Percentage",
+  "description": "Percentage cloud cover in optical depth categories.",
   "dimensions": [
     "longitude",
     "latitude",

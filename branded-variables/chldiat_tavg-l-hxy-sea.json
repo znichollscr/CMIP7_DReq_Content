@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "chldiat_tavg-l-hxy-sea",
   "cell_methods": "area: mean where sea time: mean",
-  "description": "Mass Concentration of Diatoms Expressed as Chlorophyll in Sea Water",
+  "description": "chlorophyll from diatom phytoplankton component concentration alone",
   "dimensions": [
     "longitude",
     "latitude",

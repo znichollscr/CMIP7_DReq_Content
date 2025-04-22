@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "mrfso_tavg-z0-hxy-lnd",
   "cell_methods": "area: mean where land time: mean",
-  "description": "Soil Frozen Water Content",
+  "description": "the mass (summed over all all layers) of frozen water.",
   "dimensions": [
     "longitude",
     "latitude",

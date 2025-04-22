@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "pr_tpt-z0-hxy-x",
   "cell_methods": "area: mean time: point",
-  "description": "surface precipitation",
+  "description": "at surface; includes both liquid and solid phases from all types of clouds (both large-scale and convective)",
   "dimensions": [
     "longitude",
     "latitude",

@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "irr_tavg-z0-hm-x",
+  "cell_methods": "area: mean",
+  "description": "the amount of water withdrawal for irrigation from surface water, including rivers, lakes, reservoirs, etc.)",
+  "dimensions": [
+    "area:",
+    "time:",
+    "mean"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "irr"
+}

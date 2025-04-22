@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "ua_tpt-z0-hxy-air",
+  "cell_methods": "area: mean where air time: point",
+  "description": "6 hourly instantaneous northward wind at 5 pressure levels in the UTLS region (150, 175, 200, 225, and 250 hPa)",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "plev5u",
+    "time1"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "ua"
+}

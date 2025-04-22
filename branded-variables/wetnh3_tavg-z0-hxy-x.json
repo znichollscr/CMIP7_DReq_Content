@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "wetnh3_tavg-z0-hxy-x",
   "cell_methods": "area: time: mean",
-  "description": "Wet Deposition Rate of NH3",
+  "description": "Surface deposition rate of ammonia (NH3) due to wet processes",
   "dimensions": [
     "longitude",
     "latitude",

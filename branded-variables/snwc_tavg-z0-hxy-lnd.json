@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "snwc_tavg-z0-hxy-lnd",
   "cell_methods": "area: mean where land time: mean",
-  "description": "Snow Water Equivalent Intercepted by the Vegetation",
+  "description": "canopy_snow_amount",
   "dimensions": [
     "longitude",
     "latitude",

@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "od550bb_tavg-z0-hxy-x",
   "cell_methods": "area: time: mean",
-  "description": "Aerosol Optical Depth at 550nm Due to Biomass Burning",
+  "description": "total organic aerosol AOD due to biomass burning (excluding so4, nitrate BB components)",
   "dimensions": [
     "longitude",
     "latitude",

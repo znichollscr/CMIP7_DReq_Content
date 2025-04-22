@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "tntrs_tavg-l-hxy-x",
   "cell_methods": "area: time: mean",
-  "description": "Tendency of Air Temperature Due to Shortwave Radiative Heating",
+  "description": "shortwave heating rates",
   "dimensions": [
     "longitude",
     "latitude",

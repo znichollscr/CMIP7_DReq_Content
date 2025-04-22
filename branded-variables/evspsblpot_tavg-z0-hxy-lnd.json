@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "evspsblpot_tavg-z0-hxy-lnd",
   "cell_methods": "area: mean where land time: mean",
-  "description": "Potential Evapotranspiration",
+  "description": "at surface; potential flux of water into the atmosphere due to conversion of both liquid and solid phases to vapor (from underlying surface and vegetation)",
   "dimensions": [
     "longitude",
     "latitude",

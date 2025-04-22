@@ -2,10 +2,10 @@
   "@context": "TBD",
   "branded_variable": "sftgrf_tavg-z0-hxy-x",
   "cell_methods": "area: time: mean",
-  "description": "Grounded Ice Sheet Area Percentage",
+  "description": "Percentage of grid cell covered by grounded ice sheet",
   "dimensions": [
-    "xant",
-    "yant",
+    "longitude",
+    "latitude",
     "time"
   ],
   "id": "TBD",

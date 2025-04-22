@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "hfls_tavg-z0-hxy-x",
   "cell_methods": "area: time: mean",
-  "description": "Surface Upward Latent Heat Flux",
+  "description": "Hourly surface upward latent heat flux",
   "dimensions": [
     "longitude",
     "latitude",

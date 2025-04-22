@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "wap_tavg-p19-hxy-x",
   "cell_methods": "time: mean",
-  "description": "Omega (=dp/dt)",
+  "description": "wap is a lower priority request (level 2, not level 1)",
   "dimensions": [
     "longitude",
     "latitude",

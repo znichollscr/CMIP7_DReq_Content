@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "rlut_tpt-z0-hxy-x",
   "cell_methods": "area: mean time: point",
-  "description": "TOA Outgoing Longwave Radiation",
+  "description": "at the top of the atmosphere (to be compared with satellite measurements)",
   "dimensions": [
     "longitude",
     "latitude",

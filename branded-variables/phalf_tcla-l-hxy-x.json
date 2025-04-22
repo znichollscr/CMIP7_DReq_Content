@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "phalf_tcla-l-hxy-x",
   "cell_methods": "area: mean time: mean within years time: mean over years",
-  "description": "Pressure on Model Half-Levels",
+  "description": "Air pressure on model half-levels",
   "dimensions": [
     "longitude",
     "latitude",

@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "sw17O_tavg-l-hxy-sea",
   "cell_methods": "area: mean where sea time: mean",
-  "description": "Isotopic Ratio of Oxygen-17 in Sea Water",
+  "description": "Ratio of abundance of oxygen-17 (17O) atoms to oxygen-16 (16O) atoms in sea water",
   "dimensions": [
     "longitude",
     "latitude",

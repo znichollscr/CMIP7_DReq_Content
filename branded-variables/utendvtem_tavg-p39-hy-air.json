@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "utendvtem_tavg-p39-hy-air",
   "cell_methods": "longitude: time: mean where air",
-  "description": "Tendency of Eastward Wind Due to TEM Northward Advection and Coriolis Term",
+  "description": "Zonal mean tendency of eastward wind due to TEM northward advection and Coriolis term",
   "dimensions": [
     "latitude",
     "plev39",

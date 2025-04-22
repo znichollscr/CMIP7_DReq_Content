@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "chegph2oo1d_tavg-l-hxy-x",
   "cell_methods": "area: time: mean",
-  "description": "Primary production of OH (H2O+O1D) ",
+  "description": "Primary production rate of the hydroxy (OH) radical via H2O+O1D",
   "dimensions": [
     "longitude",
     "latitude",

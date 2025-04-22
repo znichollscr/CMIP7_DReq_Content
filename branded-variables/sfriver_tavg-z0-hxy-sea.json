@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "sfriver_tavg-z0-hxy-sea",
   "cell_methods": "area: mean where sea time: mean",
-  "description": "Salt Flux into Sea Water from Rivers",
+  "description": "This field is physical, and it arises when rivers carry a nonzero salt content.  Often this is zero, with rivers assumed to be fresh.",
   "dimensions": [
     "longitude",
     "latitude",

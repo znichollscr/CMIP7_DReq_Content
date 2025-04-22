@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "nh50_tavg-l-hxy-x",
   "cell_methods": "area: time: mean",
-  "description": "Artificial Tracer with 50 Day Lifetime",
+  "description": "Fixed surface layer mixing ratio over 30o-50oN (100ppbv), uniform fixed 50-day exponential decay.",
   "dimensions": [
     "longitude",
     "latitude",

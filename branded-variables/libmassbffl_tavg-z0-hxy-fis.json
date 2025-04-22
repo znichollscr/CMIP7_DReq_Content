@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "libmassbffl_tavg-z0-hxy-fis",
   "cell_methods": "area: time: mean where floating_ice_shelf",
-  "description": "Basal Specific Mass Balance Flux of Floating Ice Shelf",
+  "description": "quantity averaged over floating land ice",
   "dimensions": [
     "longitude",
     "latitude",

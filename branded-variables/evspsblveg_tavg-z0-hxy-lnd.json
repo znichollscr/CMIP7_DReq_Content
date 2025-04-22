@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "evspsblveg_tavg-z0-hxy-lnd",
   "cell_methods": "area: mean where land time: mean",
-  "description": "Evaporation from Canopy",
+  "description": "the canopy evaporation+sublimation (if present in model).",
   "dimensions": [
     "longitude",
     "latitude",

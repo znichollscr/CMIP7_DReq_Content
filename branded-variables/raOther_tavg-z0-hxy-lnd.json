@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "raOther_tavg-z0-hxy-lnd",
   "cell_methods": "area: mean where land time: mean",
-  "description": "Total Respiration from Other Pools (not Leaves Stem or Roots) as Carbon Mass Flux [kgC m-2 s-1]",
+  "description": "added for completeness with Ra_root",
   "dimensions": [
     "longitude",
     "latitude",

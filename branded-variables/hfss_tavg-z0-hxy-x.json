@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "hfss_tavg-z0-hxy-x",
   "cell_methods": "area: time: mean",
-  "description": "Surface upward sensible heat flux",
+  "description": "Hourly surface upward sensible heat flux",
   "dimensions": [
     "longitude",
     "latitude",

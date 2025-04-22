@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "prCrop_tavg-z0-hxy-crp",
   "cell_methods": "area: time: mean where crops",
-  "description": "Precipitation over Crop Tile",
+  "description": "includes both liquid and solid phases",
   "dimensions": [
     "longitude",
     "latitude",

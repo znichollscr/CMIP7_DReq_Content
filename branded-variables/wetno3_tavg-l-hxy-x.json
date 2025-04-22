@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "wetno3_tavg-l-hxy-x",
   "cell_methods": "area: time: mean",
-  "description": "Wet deposition of nitrate aerosol",
+  "description": "This is the loss rate of nitrate aerosol from the atmosphere due to wet deposition",
   "dimensions": [
     "longitude",
     "latitude",

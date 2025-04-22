@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "rlus_tavg-z0-hxy-x",
   "cell_methods": "area: time: mean",
-  "description": "Surface Upwelling Longwave Radiation",
+  "description": "Hourly surface upwelling shortwave radiation",
   "dimensions": [
     "longitude",
     "latitude",
