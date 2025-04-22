@@ -31,11 +31,22 @@ def main():
         updated = copy.deepcopy(raw)
         variableRootDD = raw["variableRootDD"]
 
-        try:
-            karl_row = karl_table.loc[variableRootDD]
-        except KeyError:
-            print(f"{variableRootDD} not in Karl's spreadsheet")
-            continue
+        karl_row = karl_table.loc[variableRootDD]
+        if len(karl_row.shape) > 1:
+            ket_comments = karl_row["KET comments"]
+            can_be_eliminated = ket_comments.map(
+                lambda x: not isinstance(x, float) and "see ***" in x
+            )
+            if (~can_be_eliminated).sum() < 1:
+                # All can be eliminated, so just take the first
+                karl_row = karl_row.iloc[0, :]
+
+            elif (~can_be_eliminated).sum() > 1:
+                print(f"Not clear how to deal with duplicates for {variableRootDD}")
+                continue
+
+            else:
+                karl_row = karl_row[~can_be_eliminated].loc[variableRootDD]
 
         for karl_key, data_key, pre_processor in (
             (
@@ -52,8 +63,7 @@ def main():
             if len(karl_row.shape) > 1:
                 karl_value_l = karl_row.loc[:, karl_key].unique().tolist()
                 if len(karl_value_l) > 1:
-                    print(f"Skipping complex {variableRootDD} for now")
-                    continue
+                    breakpoint()
 
                 karl_value = karl_value_l[0]
 
