@@ -1,7 +1,7 @@
 {
   "@context": "TBD",
   "branded_variable": "rhGrass_tavg-z0-hxy-ng",
-  "cell_methods": "area: time: mean where natural_grasses (comment: mask=grassFrac)",
+  "cell_methods": "area: time: mean where natural_grasses",
   "description": "Heterotrophic Respiration on Grass Tiles as Carbon Mass Flux [kgC m-2 s-1]",
   "dimensions": [
     "longitude",

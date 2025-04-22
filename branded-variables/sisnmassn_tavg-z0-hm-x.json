@@ -1,7 +1,7 @@
 {
   "@context": "TBD",
   "branded_variable": "sisnmassn_tavg-z0-hm-x",
-  "cell_methods": "area: time: mean",
+  "cell_methods": "area: sum time: mean",
   "description": "Snow Mass on Sea Ice North",
   "dimensions": [
     "time"

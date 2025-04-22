@@ -4,8 +4,8 @@
   "cell_methods": "area: time: mean where grounded_ice_sheet (comment: mask=sfgrlf)",
   "description": "Basal Temperature of Grounded Ice Sheet",
   "dimensions": [
-    "xgre",
-    "ygre",
+    "longitude",
+    "latitude",
     "time"
   ],
   "id": "TBD",

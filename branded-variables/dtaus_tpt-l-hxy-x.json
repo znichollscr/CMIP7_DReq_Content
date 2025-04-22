@@ -1,7 +1,7 @@
 {
   "@context": "TBD",
   "branded_variable": "dtaus_tpt-l-hxy-x",
-  "cell_methods": "area: mean time: point",
+  "cell_methods": "area: mean where convective_cloud time: point",
   "description": "Stratiform Cloud Optical Depth",
   "dimensions": [
     "longitude",

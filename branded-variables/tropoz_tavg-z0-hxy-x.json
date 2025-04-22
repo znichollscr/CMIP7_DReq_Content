@@ -4,9 +4,15 @@
   "cell_methods": "area: time: mean",
   "description": "Tropospheric Ozone Column",
   "dimensions": [
-    "longitude",
-    "latitude",
-    "time"
+    "area:",
+    "time:",
+    "mean",
+    "(reported",
+    "as",
+    "0",
+    "in",
+    "the",
+    "stratosphere)"
   ],
   "id": "TBD",
   "label": "TBD",

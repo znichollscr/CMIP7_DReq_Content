@@ -1,7 +1,7 @@
 {
   "@context": "TBD",
   "branded_variable": "vegHeightGrass_tavg-z0-hxy-ng",
-  "cell_methods": "area: time: mean where natural_grasses (comment: mask=grassFrac)",
+  "cell_methods": "area: time: mean where natiural_grasses",
   "description": "Height of Grass",
   "dimensions": [
     "longitude",

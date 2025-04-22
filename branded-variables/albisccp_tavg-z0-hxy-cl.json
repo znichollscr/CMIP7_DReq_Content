@@ -1,7 +1,7 @@
 {
   "@context": "TBD",
   "branded_variable": "albisccp_tavg-z0-hxy-cl",
-  "cell_methods": "area: time: mean where cloud",
+  "cell_methods": "area: mean (weighted by incident surface diffuse shortwave in band) time: point",
   "description": "ISCCP Mean Cloud Albedo",
   "dimensions": [
     "longitude",

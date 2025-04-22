@@ -1,7 +1,7 @@
 {
   "@context": "TBD",
   "branded_variable": "reffclwtop_tavg-z0-hxy-x",
-  "cell_methods": "area: time: mean",
+  "cell_methods": "area: time: mean where cloud (weighted by area of upper-most cloud layer)",
   "description": "Cloud-Top Effective Droplet Radius",
   "dimensions": [
     "longitude",

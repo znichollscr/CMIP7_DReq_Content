@@ -1,7 +1,7 @@
 {
   "@context": "TBD",
   "branded_variable": "msftmrho_tavg-rhon-hys-x",
-  "cell_methods": "longitude: sum (comment: basin sum [along zig-zag grid path]) depth: sum time: mean",
+  "cell_methods": "longitude: rho: sum where sea (along a zig-zag grid path spanning a basin) time: mean",
   "description": "Ocean Meridional Overturning Mass Streamfunction",
   "dimensions": [
     "latitude",

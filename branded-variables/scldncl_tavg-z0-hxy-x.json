@@ -1,7 +1,7 @@
 {
   "@context": "TBD",
   "branded_variable": "scldncl_tavg-z0-hxy-x",
-  "cell_methods": "area: time: mean",
+  "cell_methods": "area: time: mean where stratiform_cloud (but only in upper-most layer of stratiform liquid water cloud and weighted by area of stratiform liquid water cloud top as seen from space)",
   "description": "Cloud Droplet Number Concentration of Stratiform Cloud Tops",
   "dimensions": [
     "longitude",

@@ -1,7 +1,7 @@
 {
   "@context": "TBD",
   "branded_variable": "soga_tavg-l-hm-sea",
-  "cell_methods": "area: mean where sea time: mean",
+  "cell_methods": "depth: area: mean where sea (over entire ocean column) time: mean",
   "description": "Global Mean Sea Water Salinity",
   "dimensions": [
     "olevel",

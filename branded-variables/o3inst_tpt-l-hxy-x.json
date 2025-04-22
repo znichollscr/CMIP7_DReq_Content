@@ -1,7 +1,7 @@
 {
   "@context": "TBD",
   "branded_variable": "o3inst_tpt-l-hxy-x",
-  "cell_methods": "area: mean",
+  "cell_methods": "area: mean time: point",
   "description": "O3 volume mixing ratio ",
   "dimensions": [
     "longitude",

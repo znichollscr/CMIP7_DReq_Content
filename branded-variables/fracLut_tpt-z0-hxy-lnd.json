@@ -1,7 +1,7 @@
 {
   "@context": "TBD",
   "branded_variable": "fracLut_tpt-z0-hxy-lnd",
-  "cell_methods": "area: mean where land over all_area_types time: point",
+  "cell_methods": "area: time:mean time: point\"",
   "description": "Percentage of Grid Cell for Each Land-Use Tile",
   "dimensions": [
     "longitude",

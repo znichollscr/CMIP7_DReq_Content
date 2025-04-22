@@ -1,7 +1,7 @@
 {
   "@context": "TBD",
   "branded_variable": "mfo_tavg-z0-ht-x",
-  "cell_methods": "time: mean",
+  "cell_methods": "depth: sum where sea time: mean",
   "description": "Sea Water Transport",
   "dimensions": [
     "oline",

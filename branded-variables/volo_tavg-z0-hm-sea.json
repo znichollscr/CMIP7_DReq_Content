@@ -1,7 +1,7 @@
 {
   "@context": "TBD",
   "branded_variable": "volo_tavg-z0-hm-sea",
-  "cell_methods": "area: sum where sea time: mean",
+  "cell_methods": "depth: area: sum where sea time: mean",
   "description": "Sea Water Volume",
   "dimensions": [
     "time"

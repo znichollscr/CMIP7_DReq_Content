@@ -1,7 +1,7 @@
 {
   "@context": "TBD",
   "branded_variable": "clcalipsoice_tavg-h40-hxy-x",
-  "cell_methods": "time: mean",
+  "cell_methods": "area: time: mean where air",
   "description": "CALIPSO Ice Cloud Percentage",
   "dimensions": [
     "longitude",

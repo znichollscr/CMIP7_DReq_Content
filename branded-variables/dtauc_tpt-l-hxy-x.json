@@ -1,7 +1,7 @@
 {
   "@context": "TBD",
   "branded_variable": "dtauc_tpt-l-hxy-x",
-  "cell_methods": "area: mean time: point",
+  "cell_methods": "area: mean where convective_cloud time: point",
   "description": "Convective Cloud Optical Depth",
   "dimensions": [
     "longitude",

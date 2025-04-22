@@ -1,7 +1,7 @@
 {
   "@context": "TBD",
   "branded_variable": "cldncl_tavg-z0-hxy-x",
-  "cell_methods": "area: time: mean",
+  "cell_methods": "area: time: mean where cloud (but only in upper-most layer of liquid water cloud and weighted by area of liquid cloud top as seen from TOA)",
   "description": "Cloud Droplet Number Concentration of Cloud Tops",
   "dimensions": [
     "longitude",

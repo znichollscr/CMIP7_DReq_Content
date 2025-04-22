@@ -1,7 +1,7 @@
 {
   "@context": "TBD",
   "branded_variable": "sifllwdtop_tavg-z0-hxy-si",
-  "cell_methods": "area: time: mean where sea_ice (comment: mask=siconca)",
+  "cell_methods": "area: time: mean where sea_ice",
   "description": "Downwelling Longwave Flux over Sea Ice",
   "dimensions": [
     "longitude",

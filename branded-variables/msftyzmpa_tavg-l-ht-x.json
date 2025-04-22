@@ -1,7 +1,7 @@
 {
   "@context": "TBD",
   "branded_variable": "msftyzmpa_tavg-l-ht-x",
-  "cell_methods": "time: mean grid_longitude: mean",
+  "cell_methods": "grid_longitude: sum where sea time: mean",
   "description": "Ocean Y Overturning Mass Streamfunction Due to Parameterized Mesoscale Advection",
   "dimensions": [
     "gridlatitude",

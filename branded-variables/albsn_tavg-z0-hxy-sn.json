@@ -1,7 +1,7 @@
 {
   "@context": "TBD",
   "branded_variable": "albsn_tavg-z0-hxy-sn",
-  "cell_methods": "area: time: mean where snow (comment: mask=snc)",
+  "cell_methods": "area: time: mean where snow (weighted by downwelling shortwave radiation at surface)",
   "description": "Snow Albedo",
   "dimensions": [
     "longitude",

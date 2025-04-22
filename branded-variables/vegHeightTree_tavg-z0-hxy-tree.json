@@ -1,7 +1,7 @@
 {
   "@context": "TBD",
   "branded_variable": "vegHeightTree_tavg-z0-hxy-tree",
-  "cell_methods": "area: time: mean where trees (comment: mask=treeFrac)",
+  "cell_methods": "area: time: mean where trees",
   "description": "Height of Trees",
   "dimensions": [
     "longitude",

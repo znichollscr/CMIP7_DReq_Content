@@ -1,12 +1,10 @@
 {
   "@context": "TBD",
   "branded_variable": "phycpico_tavg-z0-hxy-sea",
-  "cell_methods": "area: mean where sea time: mean",
+  "cell_methods": "??",
   "description": "Carbon concentration of picophytoplankton",
   "dimensions": [
-    "longitude",
-    "latitude",
-    "time"
+    "??"
   ],
   "id": "TBD",
   "label": "TBD",

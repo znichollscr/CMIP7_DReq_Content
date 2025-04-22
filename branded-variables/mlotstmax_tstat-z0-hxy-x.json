@@ -1,7 +1,7 @@
 {
   "@context": "TBD",
   "branded_variable": "mlotstmax_tstat-z0-hxy-x",
-  "cell_methods": "area: mean time: maximum",
+  "cell_methods": "area: mean where sea time: maximum",
   "description": "Maximum Ocean Mixed Layer Thickness Defined by Sigma T",
   "dimensions": [
     "longitude",

@@ -1,7 +1,7 @@
 {
   "@context": "TBD",
   "branded_variable": "e90inst_tpt-l-hxy-x",
-  "cell_methods": "area: mean",
+  "cell_methods": "area: mean time: point",
   "description": "Artificial tracer with 90 day lifetime",
   "dimensions": [
     "longitude",

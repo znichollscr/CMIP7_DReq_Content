@@ -1,7 +1,7 @@
 {
   "@context": "TBD",
   "branded_variable": "rsuss_tavg-z0-hxy-sn",
-  "cell_methods": "area: time: mean where snow (comment: mask=snc)",
+  "cell_methods": "area: time: mean where snow",
   "description": "Surface Upwelling Shortwave Radiation over Snow",
   "dimensions": [
     "longitude",

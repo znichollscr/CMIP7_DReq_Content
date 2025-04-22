@@ -6,8 +6,7 @@
   "dimensions": [
     "longitude",
     "latitude",
-    "time",
-    "depth0m"
+    "time"
   ],
   "id": "TBD",
   "label": "TBD",

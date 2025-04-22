@@ -1,7 +1,7 @@
 {
   "@context": "TBD",
   "branded_variable": "clmodisliquid_tavg-p7c-hxy-x",
-  "cell_methods": "area: time: mean",
+  "cell_methods": "area: time: mean where air",
   "description": "MODIS Liquid Topped Cloud Area Fraction",
   "dimensions": [
     "longitude",

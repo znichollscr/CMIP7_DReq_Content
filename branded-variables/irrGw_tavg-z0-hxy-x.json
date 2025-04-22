@@ -4,9 +4,9 @@
   "cell_methods": "area: mean",
   "description": "irrigation water withdrawal from groundwater",
   "dimensions": [
-    "longitude",
-    "latitude",
-    "time"
+    "area:",
+    "time:",
+    "mean"
   ],
   "id": "TBD",
   "label": "TBD",

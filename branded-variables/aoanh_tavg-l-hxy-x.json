@@ -1,7 +1,7 @@
 {
   "@context": "TBD",
   "branded_variable": "aoanh_tavg-l-hxy-x",
-  "cell_methods": "area: time: mean",
+  "cell_methods": "area: time: mean (weighted by tracer mass)",
   "description": "Northern Hemisphere Tracer Lifetime",
   "dimensions": [
     "longitude",

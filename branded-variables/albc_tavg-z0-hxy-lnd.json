@@ -1,7 +1,7 @@
 {
   "@context": "TBD",
   "branded_variable": "albc_tavg-z0-hxy-lnd",
-  "cell_methods": "area: mean where land time: mean",
+  "cell_methods": "area: time: mean where vegetation (weighted by canopy area and by downwelling shortwave radiation at the surface)",
   "description": "Canopy Albedo",
   "dimensions": [
     "longitude",

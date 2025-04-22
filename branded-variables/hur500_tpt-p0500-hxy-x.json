@@ -1,7 +1,7 @@
 {
   "@context": "TBD",
   "branded_variable": "hur500_tpt-p0500-hxy-x",
-  "cell_methods": "area: mean time: point",
+  "cell_methods": "area: mean where air time: point",
   "description": "hu500",
   "dimensions": [
     "longitude",

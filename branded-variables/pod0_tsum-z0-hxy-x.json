@@ -1,7 +1,7 @@
 {
   "@context": "TBD",
   "branded_variable": "pod0_tsum-z0-hxy-x",
-  "cell_methods": "area: mean time: sum",
+  "cell_methods": "area: mean time: sum (with each sample weighted by the time-interval it represents)",
   "description": "Phytotoxic Ozone Dose",
   "dimensions": [
     "longitude",

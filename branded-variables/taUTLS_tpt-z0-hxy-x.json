@@ -1,7 +1,7 @@
 {
   "@context": "TBD",
   "branded_variable": "taUTLS_tpt-z0-hxy-x",
-  "cell_methods": "time: point",
+  "cell_methods": "area: mean time: point",
   "description": "6 hourly instantaneous temperature in the UTLS region ",
   "dimensions": [
     "longitude",

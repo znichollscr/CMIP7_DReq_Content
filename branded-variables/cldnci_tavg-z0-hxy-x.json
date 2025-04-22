@@ -1,7 +1,7 @@
 {
   "@context": "TBD",
   "branded_variable": "cldnci_tavg-z0-hxy-x",
-  "cell_methods": "area: time: mean",
+  "cell_methods": "area: time: mean where cloud (but only in upper-most layer of ice water cloud and weighted by area of ice cloud top as seen from TOA)",
   "description": "Ice Crystal Number Concentration of Cloud Tops",
   "dimensions": [
     "longitude",

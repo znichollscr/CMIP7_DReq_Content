@@ -1,7 +1,7 @@
 {
   "@context": "TBD",
   "branded_variable": "cod_tavg-z0-hxy-x",
-  "cell_methods": "area: time: mean",
+  "cell_methods": "area: time: mean where cloud",
   "description": "Cloud Optical Depth",
   "dimensions": [
     "longitude",

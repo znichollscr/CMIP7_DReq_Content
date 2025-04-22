@@ -1,7 +1,7 @@
 {
   "@context": "TBD",
   "branded_variable": "rsusoni_tavg-z0-hxy-x",
-  "cell_methods": "area: time: mean",
+  "cell_methods": "area: time: mean where ice_free_sea",
   "description": "Surface Upwelling Shortwave Radiation over Ocean Not Covered by Sea Ice",
   "dimensions": [
     "longitude",

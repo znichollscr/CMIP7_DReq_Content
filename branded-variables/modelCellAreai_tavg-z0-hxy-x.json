@@ -4,8 +4,8 @@
   "cell_methods": "area: sum time: mean",
   "description": "The Cell Area of the Ice Sheet Model",
   "dimensions": [
-    "xant",
-    "yant",
+    "longitude",
+    "latitude",
     "time"
   ],
   "id": "TBD",

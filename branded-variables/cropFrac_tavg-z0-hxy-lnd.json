@@ -1,7 +1,7 @@
 {
   "@context": "TBD",
   "branded_variable": "cropFrac_tavg-z0-hxy-lnd",
-  "cell_methods": "area: mean where land over all_area_types time: mean",
+  "cell_methods": "area: mean time:mean\" (or \"area time: mean\")",
   "description": "Percentage Crop Cover",
   "dimensions": [
     "longitude",

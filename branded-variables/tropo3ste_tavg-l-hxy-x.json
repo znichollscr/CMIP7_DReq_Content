@@ -4,10 +4,15 @@
   "cell_methods": "area: time: mean",
   "description": "Tropospheric ozone volume mixing ratio due to stratosphere-troposphere exchange (STE)",
   "dimensions": [
-    "longitude",
-    "latitude",
-    "alevel",
-    "time"
+    "area:",
+    "time:",
+    "mean",
+    "(reported",
+    "as",
+    "0",
+    "in",
+    "the",
+    "stratosphere)"
   ],
   "id": "TBD",
   "label": "TBD",

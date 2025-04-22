@@ -1,7 +1,7 @@
 {
   "@context": "TBD",
   "branded_variable": "fracOutLut_tsum-z0-hxy-lnd",
-  "cell_methods": "area: mean where land over all_area_types time: sum",
+  "cell_methods": "area: mean time:mean\" (or \"area time: mean\")",
   "description": "Annual Gross Percentage of Land-Use Tile That Was Transferred into Other Land-Use Tiles",
   "dimensions": [
     "longitude",

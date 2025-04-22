@@ -5,9 +5,7 @@
   "description": "Upward Geothermal Heat Flux at Sea Floor",
   "dimensions": [
     "longitude",
-    "latitude",
-    "depthseafloor",
-    "time"
+    "latitude"
   ],
   "id": "TBD",
   "label": "TBD",

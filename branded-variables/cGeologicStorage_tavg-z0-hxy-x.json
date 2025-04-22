@@ -4,9 +4,9 @@
   "cell_methods": "area: mean",
   "description": "Carbon Mass in Geologic Storage",
   "dimensions": [
-    "longitude",
-    "latitude",
-    "time"
+    "area:",
+    "time:",
+    "mean"
   ],
   "id": "TBD",
   "label": "TBD",

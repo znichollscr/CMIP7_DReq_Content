@@ -1,7 +1,7 @@
 {
   "@context": "TBD",
   "branded_variable": "raLut_tavg-z0-hxy-lus",
-  "cell_methods": "area: time: mean where sector",
+  "cell_methods": "area: mean where land time: mean",
   "description": "Autotrophic Respiration on Land-Use Tile as Carbon Mass Flux [kgC m-2 s-1]",
   "dimensions": [
     "longitude",

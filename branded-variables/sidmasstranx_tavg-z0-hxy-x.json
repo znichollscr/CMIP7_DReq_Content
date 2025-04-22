@@ -1,7 +1,7 @@
 {
   "@context": "TBD",
   "branded_variable": "sidmasstranx_tavg-z0-hxy-x",
-  "cell_methods": "time: mean",
+  "cell_methods": "area: time: mean where sea_ice",
   "description": "X-Component of Sea-Ice Mass Transport",
   "dimensions": [
     "longitude",

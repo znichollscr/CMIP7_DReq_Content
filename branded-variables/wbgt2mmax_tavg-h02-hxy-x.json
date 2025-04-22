@@ -1,7 +1,7 @@
 {
   "@context": "TBD",
   "branded_variable": "wbgt2mmax_tavg-h02-hxy-x",
-  "cell_methods": "area: time: mean",
+  "cell_methods": "area:mean time: maximum",
   "description": "maximum 2m daily wet bulb globe temperature",
   "dimensions": [
     "longitude",

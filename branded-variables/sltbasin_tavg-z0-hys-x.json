@@ -1,7 +1,7 @@
 {
   "@context": "TBD",
   "branded_variable": "sltbasin_tavg-z0-hys-x",
-  "cell_methods": "longitude: sum (comment: basin sum [along zig-zag grid path]) depth: sum time: mean",
+  "cell_methods": "depth: longitude: sum where sea (along a zig-zag grid path spanning a basin)  time: mean",
   "description": "Northward Ocean Salt Transport",
   "dimensions": [
     "latitude",

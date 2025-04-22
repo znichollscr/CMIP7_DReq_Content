@@ -4,10 +4,15 @@
   "cell_methods": "area: time: mean",
   "description": "Loss of Stratospheric Methane by all chemical destruction",
   "dimensions": [
-    "longitude",
-    "latitude",
-    "alevel",
-    "time"
+    "area:",
+    "time:",
+    "mean",
+    "(reported",
+    "as",
+    "0",
+    "in",
+    "the",
+    "troposphere)"
   ],
   "id": "TBD",
   "label": "TBD",

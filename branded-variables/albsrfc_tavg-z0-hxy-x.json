@@ -1,7 +1,7 @@
 {
   "@context": "TBD",
   "branded_variable": "albsrfc_tavg-z0-hxy-x",
-  "cell_methods": "area: time: mean",
+  "cell_methods": "area: time: mean where snow (weighted by downwelling shortwave radiation at surface)",
   "description": "Monthly Albedo of the Surface",
   "dimensions": [
     "longitude",

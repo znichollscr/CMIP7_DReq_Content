@@ -1,7 +1,7 @@
 {
   "@context": "TBD",
   "branded_variable": "reffsclwtop_tavg-z0-hxy-scl",
-  "cell_methods": "area: time: mean where stratiform_cloud (weighted by total stratiform cloud area)",
+  "cell_methods": "area: time: mean where stratiform_cloud (weighted by area of upper-most stratiform cloud layer)",
   "description": "Cloud-Top Effective Droplet Radius in Stratiform Cloud",
   "dimensions": [
     "longitude",

@@ -4,10 +4,15 @@
   "cell_methods": "area: time: mean",
   "description": "Net Chemistry Tendency of O3 in troposphere",
   "dimensions": [
-    "longitude",
-    "latitude",
-    "alevel",
-    "time"
+    "area:",
+    "time:",
+    "mean",
+    "(reported",
+    "as",
+    "0",
+    "in",
+    "the",
+    "stratosphere)"
   ],
   "id": "TBD",
   "label": "TBD",
