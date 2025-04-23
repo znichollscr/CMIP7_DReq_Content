@@ -4,8 +4,8 @@
   "cell_methods": "area: time: mean",
   "description": "Floating Ice Shelf Area Percentage",
   "dimensions": [
-    "xgre",
-    "ygre",
+    "xant",
+    "yant",
     "time"
   ],
   "id": "TBD",

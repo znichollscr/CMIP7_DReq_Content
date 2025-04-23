@@ -4,8 +4,8 @@
   "cell_methods": "area: mean where grounded_ice_sheet",
   "description": "Bedrock Altitude",
   "dimensions": [
-    "xant",
-    "yant"
+    "xgre",
+    "ygre"
   ],
   "id": "TBD",
   "label": "TBD",

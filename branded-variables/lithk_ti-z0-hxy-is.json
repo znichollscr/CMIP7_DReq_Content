@@ -4,8 +4,8 @@
   "cell_methods": "area: mean where ice_sheet",
   "description": "Ice Sheet Thickness",
   "dimensions": [
-    "xgre",
-    "ygre"
+    "xant",
+    "yant"
   ],
   "id": "TBD",
   "label": "TBD",

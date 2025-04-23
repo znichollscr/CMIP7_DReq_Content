@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "wap_tavg-p19-hxy-x",
+  "cell_methods": "time: mean",
+  "description": "Omega (=dp/dt)",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "plev19",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "wap"
+}

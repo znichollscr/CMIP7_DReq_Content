@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "sifb_tavg-z0-hxy-si",
   "cell_methods": "area: time: mean where sea_ice (comment: mask=siconc)",
-  "description": "Sea-Ice Freeboard",
+  "description": "Sea-Ice Freeboard\n",
   "dimensions": [
     "longitude",
     "latitude",

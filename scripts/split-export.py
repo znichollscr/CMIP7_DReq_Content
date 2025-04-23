@@ -9,6 +9,10 @@ def main():
     REPO_ROOT = Path(__file__).parents[1]
     OUT_DIR = REPO_ROOT / "branded-variables"
     OUT_DIR.mkdir(exist_ok=True, parents=True)
+    # Filenames are case insensitive on mac
+    # for some insane reason, hence this hack
+    OUT_DIR_CASE_DUP = REPO_ROOT / "branded-variables-case-duplicates"
+    OUT_DIR_CASE_DUP.mkdir(exist_ok=True, parents=True)
 
     with open(REPO_ROOT / "airtable_export" / "dreq_release_export.json") as fh:
         raw_table = json.load(fh)
@@ -25,7 +29,7 @@ def main():
         if len(cm_pid_l) > 1:
             raise AssertionError
         cm_pid = cm_pid_l[0]
-        cell_methods = top_level[key]["records"][cm_pid][key]
+        cell_methods = top_level[key]["records"][cm_pid][key].strip()
 
         key = "Physical Parameter"
         pp_pid_l = record[key]
@@ -33,7 +37,7 @@ def main():
             raise AssertionError
         pp_pid = pp_pid_l[0]
 
-        variable_root = top_level[f"{key}s"]["records"][pp_pid]["Name"]
+        variable_root = top_level[f"{key}s"]["records"][pp_pid]["Name"].strip()
         description = record["Title"]
 
         records_l.append(
@@ -48,21 +52,34 @@ def main():
     # # Silly to loop again, but easier cognitively
     # # and allows us to dump this in a dataframe if we want.
     # variables = pd.DataFrame(records_l)
+    branded_variables_written = []
     for rr in tqdm.tqdm(records_l):
+        branded_variable = map_to_cmip_branded_variable(
+            variable_name=rr["variableRootDD"],
+            dimensions=rr["dimensions"],
+            cell_methods=rr["cell_methods"],
+        )
         to_write = rr | {
             "@context": "TBD",
             "id": "TBD",
             "type": ["TBD"],
             "label": "TBD",
-            "branded_variable": map_to_cmip_branded_variable(
-                variable_name=rr["variableRootDD"],
-                dimensions=rr["dimensions"],
-                cell_methods=rr["cell_methods"],
-            ),
+            "branded_variable": branded_variable,
         }
 
-        with open(OUT_DIR / f"{to_write['branded_variable']}.json", "w") as fh:
+        if branded_variable in branded_variables_written:
+            n = branded_variables_written.count(branded_variable)
+            out_file = OUT_DIR / f"{branded_variable}-{n+1}.json"
+        else:
+            out_file = OUT_DIR / f"{branded_variable}.json"
+
+        if out_file.exists():
+            out_file = OUT_DIR_CASE_DUP / f"{branded_variable}.json"
+
+        with open(out_file, "w") as fh:
             json.dump(to_write, fh, indent=2, sort_keys=2)
+
+        branded_variables_written.append(branded_variable)
 
 
 if __name__ == "__main__":

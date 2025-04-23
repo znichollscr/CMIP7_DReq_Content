@@ -4,8 +4,8 @@
   "cell_methods": "area: time: mean",
   "description": "Grounded Ice Sheet Area Percentage",
   "dimensions": [
-    "xant",
-    "yant",
+    "xgre",
+    "ygre",
     "time"
   ],
   "id": "TBD",

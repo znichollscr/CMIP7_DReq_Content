@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "sisnthick_tavg-z0-hxy-si",
+  "cell_methods": "area: mean where snow over sea_ice area: time: mean where sea_ice",
+  "description": "Snow Thickness",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "sisnthick"
+}

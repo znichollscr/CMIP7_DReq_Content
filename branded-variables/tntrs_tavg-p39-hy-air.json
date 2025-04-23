@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "tntrs_tavg-p39-hy-air",
   "cell_methods": "longitude: time: mean where air",
-  "description": "Tendency of Air Temperature Due to Shortwave Radiative Heating",
+  "description": "Zonal mean tendency of air temperature due to shortwave heating, all sky",
   "dimensions": [
     "latitude",
     "plev39",

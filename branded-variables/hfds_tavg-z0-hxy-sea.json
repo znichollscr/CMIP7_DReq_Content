@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "hfds_tavg-z0-hxy-sea",
   "cell_methods": "area: mean where sea time: mean",
-  "description": "Downward Heat Flux at Sea Water Surface",
+  "description": "Downward Heat Flux at Sea Water Surface\n",
   "dimensions": [
     "longitude",
     "latitude",

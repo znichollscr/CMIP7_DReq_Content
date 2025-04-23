@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "vas_tpt-h010-hxy-x",
   "cell_methods": "area: mean time: point",
-  "description": "Northward Near-Surface Wind",
+  "description": "Surface wind speed Northward Component",
   "dimensions": [
     "longitude",
     "latitude",

@@ -1,0 +1,16 @@
+{
+  "@context": "TBD",
+  "branded_variable": "hfgeoubed_ti-z0-hxy-gis",
+  "cell_methods": "area: mean where grounded_ice_sheet",
+  "description": "Geothermal Heat Flux Beneath Land Ice",
+  "dimensions": [
+    "xgre",
+    "ygre"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "hfgeoubed"
+}

@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "sitempbot_tavg-z0-hxy-si",
   "cell_methods": "area: time: mean where sea_ice (comment: mask=siconc)",
-  "description": "Temperature at Ice-Ocean Interface\n",
+  "description": "Temperature at Ice-Ocean Interface",
   "dimensions": [
     "longitude",
     "latitude",

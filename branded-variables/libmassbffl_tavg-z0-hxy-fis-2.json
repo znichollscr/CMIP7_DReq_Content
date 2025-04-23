@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "libmassbffl_tavg-z0-hxy-fis",
+  "cell_methods": "area: time: mean where floating_ice_shelf (comment: mask=sftflf)",
+  "description": "Basal Specific Mass Balance Flux of Floating Ice Shelf",
+  "dimensions": [
+    "xant",
+    "yant",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "libmassbffl"
+}

@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "zos_tavg-z0-hxy-sea",
   "cell_methods": "area: mean where sea time: mean",
-  "description": "Sea Surface Height above Geoid",
+  "description": "Sea Surface Height Above Geoid",
   "dimensions": [
     "longitude",
     "latitude",

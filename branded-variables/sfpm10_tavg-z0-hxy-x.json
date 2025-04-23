@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "sfpm10_tavg-z0-hxy-x",
   "cell_methods": "area: time: mean",
-  "description": "Hourly Surface PM10 Mixing Ratio",
+  "description": "Daily mean surface PM10",
   "dimensions": [
     "longitude",
     "latitude",

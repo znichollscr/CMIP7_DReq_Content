@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "drynh4_tavg-z0-hxy-x",
   "cell_methods": "area: time: mean",
-  "description": "Daily Dry Deposition Rate of NH4",
+  "description": "Dry Deposition Rate of NH4",
   "dimensions": [
     "longitude",
     "latitude",

@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "zos_tavg-z0-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "description": "Sea Surface Height above Geoid",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "zos"
+}

@@ -1,8 +1,8 @@
 {
   "@context": "TBD",
   "branded_variable": "siflsenstop_tavg-z0-hxy-si",
-  "cell_methods": "area: time: mean where sea_ice (comment: mask=siconc)",
-  "description": "Net Downward Sensible Heat Flux over Sea Ice\n",
+  "cell_methods": "area: time: mean where sea_ice (comment: mask=siconca)",
+  "description": "Net Downward Sensible Heat Flux over Sea Ice",
   "dimensions": [
     "longitude",
     "latitude",

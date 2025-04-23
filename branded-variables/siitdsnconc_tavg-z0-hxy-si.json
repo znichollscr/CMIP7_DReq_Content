@@ -1,12 +1,11 @@
 {
   "@context": "TBD",
   "branded_variable": "siitdsnconc_tavg-z0-hxy-si",
-  "cell_methods": "area: time: mean where sea_ice (comment: mask=siitdconc)",
-  "description": "Snow Area Fractions in Ice Thickness Categories",
+  "cell_methods": "area: time: mean where sea_ice (comment: mask=siconc)",
+  "description": "Snow Area Fractions in Ice Thickness Categories\n",
   "dimensions": [
     "longitude",
     "latitude",
-    "iceband",
     "time"
   ],
   "id": "TBD",

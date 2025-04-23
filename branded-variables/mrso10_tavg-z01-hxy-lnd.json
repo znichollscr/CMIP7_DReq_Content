@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "mrso10_tavg-z01-hxy-lnd",
   "cell_methods": "area: mean where land time: mean",
-  "description": "mrso10",
+  "description": "Soil moisture",
   "dimensions": [
     "longitude",
     "latitude",

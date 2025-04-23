@@ -4,8 +4,8 @@
   "cell_methods": "area: mean where grounded_ice_sheet",
   "description": "Geothermal Heat Flux Beneath Land Ice",
   "dimensions": [
-    "xgre",
-    "ygre"
+    "xant",
+    "yant"
   ],
   "id": "TBD",
   "label": "TBD",

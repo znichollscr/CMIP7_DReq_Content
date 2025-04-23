@@ -2,7 +2,7 @@
   "@context": "TBD",
   "branded_variable": "pr_tpt-z0-hxy-x",
   "cell_methods": "area: mean time: point",
-  "description": "surface precipitation",
+  "description": "Precipitation",
   "dimensions": [
     "longitude",
     "latitude",

@@ -1,8 +1,8 @@
 {
   "@context": "TBD",
-  "branded_variable": "rsusIs_tavg-z0-hxy-is",
+  "branded_variable": "rsusis_tavg-z0-hxy-is",
   "cell_methods": "area: time: mean where ice_sheet",
-  "description": "Ice Sheet Surface Upwelling Shortwave Radiation",
+  "description": "Surface Upwelling Shortwave Radiation over Ice Sheets",
   "dimensions": [
     "longitude",
     "latitude",
@@ -13,5 +13,5 @@
   "type": [
     "TBD"
   ],
-  "variableRootDD": "rsusIs"
+  "variableRootDD": "rsusis"
 }

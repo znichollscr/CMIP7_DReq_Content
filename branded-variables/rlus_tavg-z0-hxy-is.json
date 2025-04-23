@@ -4,8 +4,8 @@
   "cell_methods": "area: time: mean where ice_sheet",
   "description": "Surface Upwelling Longwave Radiation",
   "dimensions": [
-    "xgre",
-    "ygre",
+    "xant",
+    "yant",
     "time"
   ],
   "id": "TBD",

@@ -4,8 +4,8 @@
   "cell_methods": "area: time: mean where ice_sheet",
   "description": "Snow Internal Temperature",
   "dimensions": [
-    "xant",
-    "yant",
+    "xgre",
+    "ygre",
     "time"
   ],
   "id": "TBD",
