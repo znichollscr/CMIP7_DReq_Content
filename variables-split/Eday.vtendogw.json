@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "vtendogw_tavg-p19-hxy-air",
   "cell_methods": "area: time: mean where air",
   "cmip6_compound_name": "Eday.vtendogw",
-  "description": "Tendency of northward wind due to orographic gravity waves",
+  "description": "Tendency of northward wind induced by the parameterized orographic gravity wave drag",
   "dimensions": [
     "longitude",
     "latitude",

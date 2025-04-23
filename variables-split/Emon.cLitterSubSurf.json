@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "cLitterSubSurf_tavg-z0-hxy-lnd",
   "cell_methods": "area: mean where land time: mean",
   "cmip6_compound_name": "Emon.cLitterSubSurf",
-  "description": "Carbon Mass in Below-Ground Litter",
+  "description": "subsurface litter pool fed by root inputs.",
   "dimensions": [
     "longitude",
     "latitude",

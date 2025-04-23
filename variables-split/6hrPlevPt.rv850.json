@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "rv850_tpt-p0850-hxy-air",
+  "branded_variable": "rv_tpt-p0850-hxy-air",
   "cell_methods": "area: mean where air time: point",
   "cmip6_compound_name": "6hrPlevPt.rv850",
-  "description": "Relative Vorticity at 850hPa",
+  "description": "Relative vorticity is the upward component of the vorticity vector i.e. the component which arises from horizontal velocity.",
   "dimensions": [
     "longitude",
     "latitude",
@@ -15,5 +16,5 @@
   "type": [
     "TBD"
   ],
-  "variableRootDD": "rv850"
+  "variableRootDD": "rv"
 }

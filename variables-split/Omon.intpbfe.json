@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "intpbfe_tavg-z0-hxy-sea",
-  "cell_methods": "area: mean where sea depth: sum where sea time: mean",
+  "cell_methods": "area: mean where sea time: mean",
   "cmip6_compound_name": "Omon.intpbfe",
-  "description": "Iron Production",
+  "description": "Vertically integrated biogenic iron production",
   "dimensions": [
     "longitude",
     "latitude",

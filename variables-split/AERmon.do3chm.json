@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "do3chm_tavg-l-hxy-x",
   "cell_methods": "area: time: mean",
   "cmip6_compound_name": "AERmon.do3chm",
-  "description": "Net Chemistry Tendency of O3",
+  "description": "Net chemical production of ozone in the atmosphere",
   "dimensions": [
     "longitude",
     "latitude",

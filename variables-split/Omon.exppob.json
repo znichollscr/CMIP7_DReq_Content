@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "exppob_tavg-z0-hxy-sea",
   "cell_methods": "area: mean where sea time: mean",
   "cmip6_compound_name": "Omon.exppob",
-  "description": "Sinking Flux of Particulate Organic Phosphorus Reaching the Ocean Bottom",
+  "description": "Downward sinking flux of particulate organic phosphorus at seafloor",
   "dimensions": [
     "longitude",
     "latitude",

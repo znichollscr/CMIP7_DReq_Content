@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "zg_tavg-p19-hxy-x",
-  "cell_methods": "time: mean",
+  "branded_variable": "zg_tavg-p19-hxy-air",
+  "cell_methods": "area: time: mean where air",
   "cmip6_compound_name": "Amon.zg",
-  "description": "Geopotential Height",
+  "description": "Geopotential is the sum of the specific gravitational potential energy relative to the geoid and the specific centripetal potential energy. Geopotential height is the geopotential divided by the standard acceleration due to gravity. It is numerically similar to the altitude (or geometric height) and not to the quantity with standard name height, which is relative to the surface.",
   "dimensions": [
     "longitude",
     "latitude",

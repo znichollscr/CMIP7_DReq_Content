@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "tsn_tavg-z0-hxy-lnd",
-  "cell_methods": "area: mean where land time: mean (weighted by snow mass on land)",
+  "cell_methods": "depth: mean area: mean where land time: mean (weighted by snow mass on land)",
   "cmip6_compound_name": "LImon.tsn",
-  "description": "Snow Internal Temperature",
+  "description": "This temperature is averaged over all the snow in the grid cell that rests on land or land ice.  When computing the time-mean here, the time samples, weighted by the mass of snow on the land portion of the grid cell, are accumulated and then divided by the sum of the weights.   Reported as \"missing in regions free of snow on land.",
   "dimensions": [
     "longitude",
     "latitude",

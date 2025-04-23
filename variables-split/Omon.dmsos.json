@@ -1,18 +1,20 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "dmsos_tavg-z0-hxy-sea",
+  "branded_variable": "dmso_tavg-z00-hxy-sea",
   "cell_methods": "area: mean where sea time: mean",
   "cmip6_compound_name": "Omon.dmsos",
-  "description": "Surface Mole Concentration of Dimethyl Sulphide in Sea Water",
+  "description": "Mole concentration of dimethyl sulphide in water in the near surface layer",
   "dimensions": [
     "longitude",
     "latitude",
-    "time"
+    "time",
+    "depth0m"
   ],
   "id": "TBD",
   "label": "TBD",
   "type": [
     "TBD"
   ],
-  "variableRootDD": "dmsos"
+  "variableRootDD": "dmso"
 }

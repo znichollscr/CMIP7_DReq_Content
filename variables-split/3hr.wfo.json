@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "wfo_tavg-z0-hxy-sea",
   "cell_methods": "area: mean where sea time: mean",
   "cmip6_compound_name": "3hr.wfo",
-  "description": "Water Flux into Sea Water",
+  "description": "Computed as the water flux into the ocean divided by the area of the ocean portion of the grid cell. This is the sum *wfonocorr* and *wfcorr*.",
   "dimensions": [
     "longitude",
     "latitude",

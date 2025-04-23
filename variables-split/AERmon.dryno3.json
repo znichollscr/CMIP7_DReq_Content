@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "dryno3_tavg-z0-hxy-x",
   "cell_methods": "area: time: mean",
   "cmip6_compound_name": "AERmon.dryno3",
-  "description": "dry deposition of NO3 aerosol",
+  "description": "Loss rate of nitrate (NO3) aerosol from the atmosphere due to dry deposition",
   "dimensions": [
     "longitude",
     "latitude",

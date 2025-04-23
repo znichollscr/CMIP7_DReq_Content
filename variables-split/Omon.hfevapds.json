@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "hfevapds_tavg-z0-hxy-ifs",
-  "cell_methods": "area: mean where ice_free_sea over sea time: mean",
+  "cell_methods": "area: time: mean where ice_free_sea over sea",
   "cmip6_compound_name": "Omon.hfevapds",
-  "description": "Temperature Flux Due to Evaporation Expressed as Heat Flux out of Sea Water",
+  "description": "This is defined as \"where ice_free_sea over sea\"",
   "dimensions": [
     "longitude",
     "latitude",

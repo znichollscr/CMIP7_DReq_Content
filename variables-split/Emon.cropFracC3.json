@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "cropFracC3_tavg-z0-hxy-lnd",
-  "cell_methods": "area: mean where land over all_area_types time: mean",
+  "branded_variable": "cropFracC3_tavg-z0-hxy-x",
+  "cell_methods": "area: mean time:mean\" (or \"area time: mean\")",
   "cmip6_compound_name": "Emon.cropFracC3",
-  "description": "Percentage Cover by C3 Crops",
+  "description": "Percentage of entire grid cell covered by C3 crops",
   "dimensions": [
     "longitude",
     "latitude",

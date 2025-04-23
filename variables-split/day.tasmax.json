@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "tasmax_tstat-h02-hxy-x",
   "cell_methods": "area: mean time: maximum",
   "cmip6_compound_name": "day.tasmax",
-  "description": "Daily Maximum Near-Surface Air Temperature",
+  "description": "maximum near-surface (usually, 2 meter) air temperature (add cell_method attribute \"time: max\")",
   "dimensions": [
     "longitude",
     "latitude",

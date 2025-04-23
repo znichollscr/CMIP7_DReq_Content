@@ -1,18 +1,20 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "zmiscos_tavg-z0-hxy-sea",
+  "branded_variable": "zmisc_tavg-z00-hxy-sea",
   "cell_methods": "area: mean where sea time: mean",
   "cmip6_compound_name": "Omon.zmiscos",
-  "description": "Surface Mole Concentration of Other Zooplankton Expressed as Carbon in Sea Water",
+  "description": "carbon from additional zooplankton component concentrations alone (e.g. Micro, meso).  Since the models all have different numbers of components, this variable has been included to provide a check for intercomparison between models since some phytoplankton groups are supersets.",
   "dimensions": [
     "longitude",
     "latitude",
-    "time"
+    "time",
+    "depth0m"
   ],
   "id": "TBD",
   "label": "TBD",
   "type": [
     "TBD"
   ],
-  "variableRootDD": "zmiscos"
+  "variableRootDD": "zmisc"
 }

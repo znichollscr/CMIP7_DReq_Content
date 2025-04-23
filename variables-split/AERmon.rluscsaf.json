@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "rluscsaf_tavg-z0-hxy-x",
   "cell_methods": "area: time: mean",
   "cmip6_compound_name": "AERmon.rluscsaf",
-  "description": "Surface Upwelling Clear-Sky, Aerosol-Free Longwave Radiation",
+  "description": "Flux corresponding to rluscs resulting from an aerosol-free call to radiation",
   "dimensions": [
     "longitude",
     "latitude",

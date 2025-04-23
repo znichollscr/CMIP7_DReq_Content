@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "irrLut_tavg-z0-hxy-lus",
+  "branded_variable": "irr_tavg-z0-hxy-lus",
   "cell_methods": "area: time: mean where sector",
   "cmip6_compound_name": "Emon.irrLut",
-  "description": "Irrigation Flux Including any Irrigation for Crops, Trees, Pasture, or Urban Lawns",
+  "description": "Mass flux of water due to irrigation.",
   "dimensions": [
     "longitude",
     "latitude",
@@ -15,5 +16,5 @@
   "type": [
     "TBD"
   ],
-  "variableRootDD": "irrLut"
+  "variableRootDD": "irr"
 }

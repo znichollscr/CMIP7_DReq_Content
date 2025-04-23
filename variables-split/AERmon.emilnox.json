@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "emilnox_tavg-l-hxy-x",
   "cell_methods": "area: time: mean",
   "cmip6_compound_name": "AERmon.emilnox",
-  "description": "Layer-Integrated Lightning Production of NOx",
+  "description": "Integrate the NOx production for lightning over model layer. proposed name: tendency_of_atmosphere_mass_content_of_nox_from_lightning",
   "dimensions": [
     "longitude",
     "latitude",

@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "sitempbot_tavg-z0-hxy-si",
-  "cell_methods": "area: time: mean where sea_ice (comment: mask=siconc)",
+  "cell_methods": "area: mean where sea_ice time: point",
   "cmip6_compound_name": "SImon.sitempbot",
-  "description": "Temperature at Ice-Ocean Interface",
+  "description": "Mean temperature at the base of the sea ice, NOT the temperature within lowermost sea-ice model layer.",
   "dimensions": [
     "longitude",
     "latitude",

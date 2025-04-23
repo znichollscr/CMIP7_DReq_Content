@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "hfls_tavg-z0-hxy-x",
   "cell_methods": "area: time: mean",
   "cmip6_compound_name": "E1hr.hfls",
-  "description": "Surface upward latent heat flux",
+  "description": "Hourly surface upward latent heat flux",
   "dimensions": [
     "longitude",
     "latitude",

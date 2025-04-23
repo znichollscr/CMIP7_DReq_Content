@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "vegHeightShrub_tavg-z0-hxy-shb",
-  "cell_methods": "area: time: mean where shrubs (comment: mask=shrubFrac)",
+  "branded_variable": "vegHeight_tavg-z0-hxy-shb",
+  "cell_methods": "area: time: mean where shrubs",
   "cmip6_compound_name": "Emon.vegHeightShrub",
-  "description": "Height of Shrubs",
+  "description": "Vegetation height averaged over the shrub fraction of a grid cell.",
   "dimensions": [
     "longitude",
     "latitude",
@@ -14,5 +15,5 @@
   "type": [
     "TBD"
   ],
-  "variableRootDD": "vegHeightShrub"
+  "variableRootDD": "vegHeight"
 }

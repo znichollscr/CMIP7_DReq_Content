@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "nppGrass_tavg-z0-hxy-ng",
-  "cell_methods": "area: time: mean where natural_grasses (comment: mask=grassFrac)",
+  "branded_variable": "nppGrass_tavg-z0-hxy-lnd",
+  "cell_methods": "area: time: mean where land",
   "cmip6_compound_name": "Emon.nppGrass",
-  "description": "Net Primary Production on Grass Tiles as Carbon Mass Flux [kgC m-2 s-1]",
+  "description": "Total NPP of grass in the grid cell",
   "dimensions": [
     "longitude",
     "latitude",

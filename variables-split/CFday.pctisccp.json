@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "pctisccp_tavg-z0-hxy-cl",
-  "cell_methods": "area: time: mean where cloud",
+  "cell_methods": "area: time: mean where cloud (weighted by ISCCP total cloud area)",
   "cmip6_compound_name": "CFday.pctisccp",
-  "description": "ISCCP Mean Cloud Top Pressure",
+  "description": "time-means are weighted by the ISCCP Total Cloud Fraction - see  http://cfmip.metoffice.com/COSP.html",
   "dimensions": [
     "longitude",
     "latitude",

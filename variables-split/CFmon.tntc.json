@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "tntc_tavg-l-hxy-x",
   "cell_methods": "area: time: mean",
   "cmip6_compound_name": "CFmon.tntc",
-  "description": "Tendency of Air Temperature Due to Convection",
+  "description": "Tendencies from cumulus convection scheme.",
   "dimensions": [
     "longitude",
     "latitude",

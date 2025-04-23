@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "tntrs_tavg-l-hxy-x",
   "cell_methods": "area: time: mean",
   "cmip6_compound_name": "AERmon.tntrs",
-  "description": "Tendency of Air Temperature Due to Shortwave Radiative Heating",
+  "description": "shortwave heating rates",
   "dimensions": [
     "longitude",
     "latitude",

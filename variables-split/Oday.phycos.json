@@ -1,18 +1,20 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "phycos_tavg-z0-hxy-sea",
+  "branded_variable": "phyco_tavg-z00-hxy-sea",
   "cell_methods": "area: mean where sea time: mean",
   "cmip6_compound_name": "Oday.phycos",
-  "description": "Sea Surface Phytoplankton Carbon Concentration",
+  "description": "sum of phytoplankton organic carbon component concentrations at the sea surface",
   "dimensions": [
     "longitude",
     "latitude",
-    "time"
+    "time",
+    "depth0m"
   ],
   "id": "TBD",
   "label": "TBD",
   "type": [
     "TBD"
   ],
-  "variableRootDD": "phycos"
+  "variableRootDD": "phyco"
 }

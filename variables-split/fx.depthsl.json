@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "depthsl_ti-z0-hxy-x",
   "cell_methods": "area: mean",
   "cmip6_compound_name": "fx.depthsl",
-  "description": "Total (Cumulative) Thickness of All Soil Layers",
+  "description": "Total (cumulative) thickness of all soil layers. This is the sum of individual thicknesses of all soil layers.",
   "dimensions": [
     "longitude",
     "latitude"

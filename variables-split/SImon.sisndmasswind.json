@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "sisndmasswind_tavg-z0-hxy-si",
-  "cell_methods": "area: time: mean where sea_ice (comment: mask=siconc)",
+  "cell_methods": "area: time: mean where sea_ice",
   "cmip6_compound_name": "SImon.sisndmasswind",
-  "description": "Snow Mass Rate of Change Through Wind Drift of Snow",
+  "description": "Rate of change of snow mass due to wind-driven transport into the ocean divided by grid-cell area.",
   "dimensions": [
     "longitude",
     "latitude",

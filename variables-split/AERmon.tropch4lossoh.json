@@ -1,14 +1,20 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "tropch4lossoh_tavg-l-hxy-x",
+  "branded_variable": "tropch4lossoh_tavg-z0-hm-x",
   "cell_methods": "area: time: mean",
   "cmip6_compound_name": "AERmon.tropch4lossoh",
-  "description": "Tropospheric loss of methane by OH",
+  "description": "This is the loss rate of tropospheric methane due to reaction with the hydroxy (OH) radical. The distinction between stratosphere and troposphere should be consistent with the tropopause used to calculate the pressure of the tropopause (ptp).  It should have zero values in the stratosphere.",
   "dimensions": [
-    "longitude",
-    "latitude",
-    "alevel",
-    "time"
+    "area:",
+    "time:",
+    "mean",
+    "(reported",
+    "as",
+    "0",
+    "in",
+    "the",
+    "stratosphere)"
   ],
   "id": "TBD",
   "label": "TBD",

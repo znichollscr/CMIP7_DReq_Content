@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "lon_ti-z0-hxys-x",
   "cell_methods": "area: point",
   "cmip6_compound_name": "fx.lon",
-  "description": "Longitude",
+  "description": "Longitude is positive eastward; its units of degree_east (or equivalent) indicate this explicitly. In a latitude-longitude system defined with respect to a rotated North Pole, the standard name of grid_longitude should be used instead of longitude. Grid longitude is positive in the grid-eastward direction, but its units should be plain degree.",
   "dimensions": [
     "site"
   ],

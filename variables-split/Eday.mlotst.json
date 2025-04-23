@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "mlotst_tavg-z0-hxy-sea",
   "cell_methods": "area: mean where sea time: mean",
   "cmip6_compound_name": "Eday.mlotst",
-  "description": "Ocean Mixed Layer Thickness Defined by Sigma T",
+  "description": "Sigma T is potential density referenced to ocean surface. Defined by Sigma T of 0.03 kg m-3 wrt to model level closest to 10 m depth.",
   "dimensions": [
     "longitude",
     "latitude",

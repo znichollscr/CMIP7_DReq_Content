@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "siflfwbot_tavg-z0-hxy-si",
-  "cell_methods": "area: time: mean where sea_ice (comment: mask=siconc)",
+  "branded_variable": "fsitherm_tavg-z0-hxy-si",
+  "cell_methods": "area: time: mean where sea_ice",
   "cmip6_compound_name": "SImon.siflfwbot",
-  "description": "Freshwater Flux from Sea Ice",
+  "description": "Total flux of fresh water from water into sea ice divided by grid-cell area. This flux is positive when fresh water enters the ocean, and is therefore negative during ice growth and positive during ice melt.",
   "dimensions": [
     "longitude",
     "latitude",
@@ -14,5 +15,5 @@
   "type": [
     "TBD"
   ],
-  "variableRootDD": "siflfwbot"
+  "variableRootDD": "fsitherm"
 }

@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "iareagr_tavg-z0-hm-gis",
-  "cell_methods": "area: sum where grounded_ice_sheet (comment: mask=sfgrlf) time: mean",
+  "branded_variable": "iareagr_tavg-z0-hm-fis",
+  "cell_methods": "area: sum where floating_ice_shelf time: mean",
   "cmip6_compound_name": "IyrGre.iareagr",
-  "description": "Area Covered by Grounded Ice Sheet",
+  "description": "Greenland",
   "dimensions": [
     "time"
   ],

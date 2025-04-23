@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "siextents_tavg-z0-hm-x",
+  "branded_variable": "siextent_tavg-z0-hm-x",
   "cell_methods": "area: time: mean",
   "cmip6_compound_name": "SIday.siextents",
-  "description": "Sea-Ice Extent South",
+  "description": "Total integrated area of all Southern Hemisphere grid cells that are covered by at least 15% areal fraction of sea ice (siconc >= 0.15). Does not include grid cells partially covered by land.",
   "dimensions": [
     "time"
   ],
@@ -12,5 +13,5 @@
   "type": [
     "TBD"
   ],
-  "variableRootDD": "siextents"
+  "variableRootDD": "siextent"
 }

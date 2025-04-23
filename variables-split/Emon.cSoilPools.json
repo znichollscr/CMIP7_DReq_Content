@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "cSoilPools_tavg-z0-hxy-lnd",
   "cell_methods": "area: mean where land time: mean",
   "cmip6_compound_name": "Emon.cSoilPools",
-  "description": "Carbon Mass in Each Model Soil Pool (Summed over Vertical Levels)",
+  "description": "For models with multiple soil carbon pools, report each pool here. If models also have vertical discretisation these should be aggregated",
   "dimensions": [
     "longitude",
     "latitude",

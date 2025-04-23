@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "dissic_tavg-l-hxy-sea",
   "cell_methods": "area: mean where sea time: mean",
   "cmip6_compound_name": "Omon.dissic",
-  "description": "Dissolved Inorganic Carbon Concentration",
+  "description": "Dissolved inorganic carbon (CO3+HCO3+H2CO3) concentration",
   "dimensions": [
     "longitude",
     "latitude",

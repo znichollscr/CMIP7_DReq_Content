@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "wetnh3_tavg-z0-hxy-x",
   "cell_methods": "area: time: mean",
   "cmip6_compound_name": "AERmon.wetnh3",
-  "description": "Wet Deposition Rate of NH3",
+  "description": "Surface deposition rate of ammonia (NH3) due to wet processes",
   "dimensions": [
     "longitude",
     "latitude",

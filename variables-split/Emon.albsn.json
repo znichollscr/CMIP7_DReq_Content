@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "albsn_tavg-z0-hxy-sn",
-  "cell_methods": "area: time: mean where snow (comment: mask=snc)",
+  "cell_methods": "area: time: mean where snow (weighted by downwelling shortwave radiation at surface)",
   "cmip6_compound_name": "Emon.albsn",
-  "description": "Snow Albedo",
+  "description": "This is similar to Eday.albsn, but providing monthly averages",
   "dimensions": [
     "longitude",
     "latitude",

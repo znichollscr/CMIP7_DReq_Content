@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "tasmin_tstat-h02-hxy-x",
   "cell_methods": "area: mean time: minimum",
   "cmip6_compound_name": "day.tasmin",
-  "description": "Daily Minimum Near-Surface Air Temperature",
+  "description": "minimum near-surface (usually, 2 meter) air temperature (add cell_method attribute \"time: min\")",
   "dimensions": [
     "longitude",
     "latitude",

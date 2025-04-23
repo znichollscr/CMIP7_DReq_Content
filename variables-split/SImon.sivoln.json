@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "sivoln_tavg-z0-hm-x",
-  "cell_methods": "area: time: mean",
+  "branded_variable": "sivol_tavg-z0-hm-x",
+  "cell_methods": "area: sum time: mean",
   "cmip6_compound_name": "SImon.sivoln",
-  "description": "Sea-Ice Volume North",
+  "description": "Total integrated volume of sea ice in the Northern Hemisphere.",
   "dimensions": [
     "time"
   ],
@@ -12,5 +13,5 @@
   "type": [
     "TBD"
   ],
-  "variableRootDD": "sivoln"
+  "variableRootDD": "sivol"
 }

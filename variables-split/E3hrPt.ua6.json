@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "ua6_tpt-z0-hxy-air",
+  "branded_variable": "ua_tpt-z0-hxy-air",
   "cell_methods": "area: mean where air time: point",
   "cmip6_compound_name": "E3hrPt.ua6",
-  "description": "Eastward wind",
+  "description": "Zonal wind (positive in a eastward direction) on 6 pressure levels in the lower troposphere",
   "dimensions": [
     "longitude",
     "latitude",
@@ -15,5 +16,5 @@
   "type": [
     "TBD"
   ],
-  "variableRootDD": "ua6"
+  "variableRootDD": "ua"
 }

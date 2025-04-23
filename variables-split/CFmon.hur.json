@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "hur_tavg-l-hxy-x",
   "cell_methods": "area: time: mean",
   "cmip6_compound_name": "CFmon.hur",
-  "description": "Relative Humidity",
+  "description": "The relative humidity with respect to liquid water for T> 0 C, and with respect to ice for T<0 C.",
   "dimensions": [
     "longitude",
     "latitude",

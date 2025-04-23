@@ -1,13 +1,12 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "phycpico_tavg-z0-hxy-sea",
-  "cell_methods": "area: mean where sea time: mean",
+  "branded_variable": "phycpico_ti-z0-hm-x",
+  "cell_methods": "??",
   "cmip6_compound_name": "Oday.phycpico",
-  "description": "Carbon concentration of picophytoplankton",
+  "description": "Mole Concentration of Picophytoplankton Expressed as Carbon in Sea Water\n",
   "dimensions": [
-    "longitude",
-    "latitude",
-    "time"
+    "??"
   ],
   "id": "TBD",
   "label": "TBD",

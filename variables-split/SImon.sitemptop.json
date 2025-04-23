@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "sitemptop_tavg-z0-hxy-si",
-  "cell_methods": "area: time: mean where sea_ice (comment: mask=siconc)",
+  "branded_variable": "ts_tavg-z0-hxy-si",
+  "cell_methods": "area: mean where sea_ice time: point",
   "cmip6_compound_name": "SImon.sitemptop",
-  "description": "Surface Temperature of Sea Ice",
+  "description": "Mean surface temperature of the sea-ice covered part of the grid cell. Wherever snow covers the ice, the surface temperature of the snow is used for the averaging, otherwise the surface temperature of the ice is used.",
   "dimensions": [
     "longitude",
     "latitude",
@@ -14,5 +15,5 @@
   "type": [
     "TBD"
   ],
-  "variableRootDD": "sitemptop"
+  "variableRootDD": "ts"
 }

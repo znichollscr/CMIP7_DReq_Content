@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "basin_ti-z0-hxy-x",
   "cell_methods": "area: mean",
   "cmip6_compound_name": "Ofx.basin",
-  "description": "Region Selection Index",
+  "description": "A variable with the standard name of region contains strings which indicate geographical regions. These strings must be chosen from the standard region list.",
   "dimensions": [
     "longitude",
     "latitude"

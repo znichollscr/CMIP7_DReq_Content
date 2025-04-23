@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "meanage_tavg-l-hxy-x",
   "cell_methods": "area: time: mean",
   "cmip6_compound_name": "AERmon.meanage",
-  "description": "Mean Age of Stratospheric Air",
+  "description": "The mean age of air is defined as the mean time that a stratospheric air mass has been out of contact with the well-mixed troposphere.",
   "dimensions": [
     "longitude",
     "latitude",

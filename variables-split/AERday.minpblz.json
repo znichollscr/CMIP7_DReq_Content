@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "minpblz_tstat-z0-hxy-x",
+  "branded_variable": "bldepmin_tstat-z0-hxy-x",
   "cell_methods": "area: mean time: minimum",
   "cmip6_compound_name": "AERday.minpblz",
-  "description": "Minimum PBL Height",
+  "description": "minimum boundary layer height during the day (add cell_methods attribute: \"time: minimum\")",
   "dimensions": [
     "longitude",
     "latitude",
@@ -14,5 +15,5 @@
   "type": [
     "TBD"
   ],
-  "variableRootDD": "minpblz"
+  "variableRootDD": "bldepmin"
 }

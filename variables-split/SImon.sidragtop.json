@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "sidragtop_tavg-z0-hxy-si",
-  "cell_methods": "area: time: mean where sea_ice (comment: mask=siconc)",
+  "cell_methods": "area: time: mean where sea_ice",
   "cmip6_compound_name": "SImon.sidragtop",
-  "description": "Atmospheric Drag Coefficient",
+  "description": "Atmospheric drag coefficient that is used to calculate the atmospheric momentum drag on sea ice.",
   "dimensions": [
     "longitude",
     "latitude",

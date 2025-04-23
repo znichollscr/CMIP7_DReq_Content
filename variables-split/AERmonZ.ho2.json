@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "ho2_tavg-p39-hy-air",
   "cell_methods": "longitude: time: mean where air",
   "cmip6_compound_name": "AERmonZ.ho2",
-  "description": "HO2 Volume Mixing Ratio",
+  "description": "Mole fraction is used in the construction mole_fraction_of_X_in_Y, where X is a material constituent of Y.  The chemical formula of hydroperoxyl radical is HO2.",
   "dimensions": [
     "latitude",
     "plev39",

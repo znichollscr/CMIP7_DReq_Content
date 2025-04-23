@@ -1,15 +1,16 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "ccn02_tavg-l-hxy-x",
   "cell_methods": "area: time: mean",
   "cmip6_compound_name": "AERmon.ccn02",
-  "description": "CCN concentration at 0.2 percent supersaturation",
+  "description": "This is the concentration of cloud condensation nuclei (CCN) at 0.2% supersaturation, based on aerosol chemical composition and size",
   "dimensions": [
     "longitude",
     "latitude",
     "alevel",
     "time",
-    "rh100p2pct"
+    "rh102pct"
   ],
   "id": "TBD",
   "label": "TBD",

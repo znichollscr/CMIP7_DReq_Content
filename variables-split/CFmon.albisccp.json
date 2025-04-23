@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "albisccp_tavg-z0-hxy-cl",
-  "cell_methods": "area: time: mean where cloud",
+  "branded_variable": "albisccp_tavg-z0-hxy-x",
+  "cell_methods": "area: mean (weighted by incident surface diffuse shortwave in band) time: point",
   "cmip6_compound_name": "CFmon.albisccp",
-  "description": "ISCCP Mean Cloud Albedo",
+  "description": "time-means weighted by the ISCCP Total Cloud Fraction - see http://cfmip.metoffice.com/COSP.html",
   "dimensions": [
     "longitude",
     "latitude",

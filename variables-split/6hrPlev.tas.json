@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "tas_tavg-h02-hxy-x",
   "cell_methods": "area: time: mean",
   "cmip6_compound_name": "6hrPlev.tas",
-  "description": "Near-Surface Air Temperature",
+  "description": "near-surface (usually, 2 meter) air temperature",
   "dimensions": [
     "longitude",
     "latitude",

@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "ccn_tavg-z0-hxy-x",
-  "cell_methods": "area: time: mean",
+  "branded_variable": "ccn_tavg-z0-hxy-ccl",
+  "cell_methods": "area: time: mean where convective_cloud (but only in upper-most layer of convective liquid water cloud and weighted by area of convective liquid water cloud top as seen from TOA)",
   "cmip6_compound_name": "AERmon.ccn",
-  "description": "Cloud Condensation Nuclei Concentration at Liquid Cloud Top",
+  "description": "proposed name: number_concentration_of_ambient_aerosol_in_air_at_liquid_water_cloud_top",
   "dimensions": [
     "longitude",
     "latitude",

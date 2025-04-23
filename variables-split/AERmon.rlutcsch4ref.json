@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "rlutcsch4ref_tavg-z0-hxy-x",
   "cell_methods": "area: time: mean",
   "cmip6_compound_name": "AERmon.rlutcsch4ref",
-  "description": "TOA outgoing longwave flux assuming clear sky and reference methane field ",
+  "description": "This is the outgoing longwave flux at the top-of-atmosphere for clear-sky conditions from a diagnostic call to the radiation scheme with a reference methane field",
   "dimensions": [
     "longitude",
     "latitude",

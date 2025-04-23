@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "intparag_tavg-z0-hxy-sea",
-  "cell_methods": "area: mean where sea depth: sum where sea time: mean",
+  "cell_methods": "area: mean where sea time: mean",
   "cmip6_compound_name": "Omon.intparag",
-  "description": "Aragonite Production",
+  "description": "Vertically integrated aragonite production",
   "dimensions": [
     "longitude",
     "latitude",

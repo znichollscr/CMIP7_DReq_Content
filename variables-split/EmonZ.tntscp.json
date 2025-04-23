@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "tntscp_tavg-p39-hy-air",
   "cell_methods": "longitude: time: mean where air",
   "cmip6_compound_name": "EmonZ.tntscp",
-  "description": "Tendency of Air Temperature Due to Stratiform Clouds and Precipitation",
+  "description": "zonal mean; hence YZT",
   "dimensions": [
     "latitude",
     "plev39",

@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "ua_tpt-l-hxy-x",
-  "cell_methods": "time: point",
+  "cell_methods": "area: mean time: point",
   "cmip6_compound_name": "6hrLev.ua",
-  "description": "Eastward Wind",
+  "description": "Zonal wind (positive in a eastward direction).",
   "dimensions": [
     "longitude",
     "latitude",

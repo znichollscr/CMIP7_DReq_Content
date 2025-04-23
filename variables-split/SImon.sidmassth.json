@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "sidmassth_tavg-z0-hxy-sea",
-  "cell_methods": "area: mean where sea time: mean",
+  "branded_variable": "sidmassth_tavg-z0-hxy-si",
+  "cell_methods": "area: mean where sea_ice time: mean",
   "cmip6_compound_name": "SImon.sidmassth",
-  "description": "Sea-Ice Mass Change from Thermodynamics",
+  "description": "Total change in sea-ice mass from thermodynamic processes divided by grid-cell area.",
   "dimensions": [
     "longitude",
     "latitude",

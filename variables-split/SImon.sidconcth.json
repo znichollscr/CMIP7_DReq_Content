@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "sidconcth_tavg-z0-hxy-sea",
-  "cell_methods": "area: mean where sea time: mean",
+  "branded_variable": "sidconcth_tavg-z0-hxy-si",
+  "cell_methods": "area: mean where sea_ice time: mean",
   "cmip6_compound_name": "SImon.sidconcth",
-  "description": "Sea-Ice Area Percentage Tendency Due to Thermodynamics",
+  "description": "Total change in sea-ice area fraction through thermodynamic processes.",
   "dimensions": [
     "longitude",
     "latitude",

@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "prhmax_tstat-z0-hxy-x",
   "cell_methods": "area: mean time: maximum",
   "cmip6_compound_name": "Emon.prhmax",
-  "description": "Maximum Hourly Precipitation Rate",
+  "description": "In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics.",
   "dimensions": [
     "longitude",
     "latitude",

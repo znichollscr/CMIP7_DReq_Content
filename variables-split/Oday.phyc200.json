@@ -1,14 +1,15 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "phyc_tavg-z0-hxy-x",
-  "cell_methods": "area: time: mean",
+  "branded_variable": "phyc_tavg-z0-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
   "cmip6_compound_name": "Oday.phyc200",
-  "description": "Phytoplankton Carbon Concentration",
+  "description": "sum of phytoplankton carbon component concentrations. In most (all?) cases this is the sum of phycdiat and phycmisc (i.e., \"Diatom Carbon Concentration\" and \"Non-Diatom Phytoplankton Carbon Concentration\"",
   "dimensions": [
     "longitude",
     "latitude",
     "time",
-    "swp20bar"
+    "oplev20bar"
   ],
   "id": "TBD",
   "label": "TBD",

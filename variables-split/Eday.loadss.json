@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "loadss_tavg-z0-hxy-x",
   "cell_methods": "area: time: mean",
   "cmip6_compound_name": "Eday.loadss",
-  "description": "Load of Sea-Salt Aerosol",
+  "description": "The total dry mass of sea salt aerosol particles per unit area.",
   "dimensions": [
     "longitude",
     "latitude",

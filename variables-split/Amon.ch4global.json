@@ -1,7 +1,8 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "ch4global_tavg-z0-hm-x",
-  "cell_methods": "height: sum (through atmospheric column) area: sum time: mean",
+  "branded_variable": "ch4_tavg-z0-hm-x",
+  "cell_methods": "height: area: time: mean (with all samples weighted by the number of moles of air in the sample)",
   "cmip6_compound_name": "Amon.ch4global",
   "description": "Global Mean Mole Fraction of CH4",
   "dimensions": [
@@ -12,5 +13,5 @@
   "type": [
     "TBD"
   ],
-  "variableRootDD": "ch4global"
+  "variableRootDD": "ch4"
 }

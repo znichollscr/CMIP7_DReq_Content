@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "bigthetaoga_tavg-l-hm-sea",
+  "branded_variable": "bigthetao_tavg-l-hm-sea",
   "cell_methods": "area: mean where sea time: mean",
   "cmip6_compound_name": "Omon.bigthetaoga",
-  "description": "Global Average Sea Water Conservative Temperature",
+  "description": "Diagnostic should be contributed only for models using conservative temperature as prognostic field.",
   "dimensions": [
     "olevel",
     "time"
@@ -13,5 +14,5 @@
   "type": [
     "TBD"
   ],
-  "variableRootDD": "bigthetaoga"
+  "variableRootDD": "bigthetao"
 }

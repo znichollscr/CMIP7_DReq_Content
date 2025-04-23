@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "wap500_tavg-p0500-hxy-air",
+  "branded_variable": "wap_tavg-p0500-hxy-air",
   "cell_methods": "area: time: mean where air",
   "cmip6_compound_name": "CFday.wap500",
-  "description": "Pressure Tendency",
+  "description": "at 500 hPa level; commonly referred to as \"omega\", this represents the vertical component of velocity in pressure coordinates (positive down)",
   "dimensions": [
     "longitude",
     "latitude",
@@ -15,5 +16,5 @@
   "type": [
     "TBD"
   ],
-  "variableRootDD": "wap500"
+  "variableRootDD": "wap"
 }

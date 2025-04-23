@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "sisnmass_tavg-z0-hxy-si",
-  "cell_methods": "area: time: mean where sea_ice (comment: mask=siconc)",
+  "branded_variable": "sisnmass_tavg-z0-hxy-x",
+  "cell_methods": "area: sum time: mean",
   "cmip6_compound_name": "SImon.sisnmass",
-  "description": "Snow Mass per Area",
+  "description": "Total mass of snow on sea ice divided by grid-cell area. This then allows one to analyse the storage of latent heat in the snow, and to calculate the snow-water equivalent.",
   "dimensions": [
     "longitude",
     "latitude",

@@ -1,7 +1,8 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "tsns_tavg-z0-hxy-lnd",
-  "cell_methods": "area: mean where land time: mean",
+  "branded_variable": "??_tavg-z0-hxy-lnd",
+  "cell_methods": "area: mean where land time: mean (weighted by snow area)",
   "cmip6_compound_name": "Eday.tsns",
   "description": "Snow Surface Temperature",
   "dimensions": [
@@ -14,5 +15,5 @@
   "type": [
     "TBD"
   ],
-  "variableRootDD": "tsns"
+  "variableRootDD": "??"
 }

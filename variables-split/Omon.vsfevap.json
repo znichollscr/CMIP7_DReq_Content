@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "vsfevap_tavg-z0-hxy-sea",
   "cell_methods": "area: mean where sea time: mean",
   "cmip6_compound_name": "Omon.vsfevap",
-  "description": "Virtual Salt Flux into Sea Water Due to Evaporation",
+  "description": "zero for models using real water fluxes.",
   "dimensions": [
     "longitude",
     "latitude",

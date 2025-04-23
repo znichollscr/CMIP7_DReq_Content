@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "mmrdust_tavg-l-hxy-x",
   "cell_methods": "area: time: mean",
   "cmip6_compound_name": "AERmon.mmrdust",
-  "description": "Dust Aerosol Mass Mixing Ratio",
+  "description": "Dry mass fraction of dust aerosol particles in air.",
   "dimensions": [
     "longitude",
     "latitude",

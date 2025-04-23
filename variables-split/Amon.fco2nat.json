@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "fco2nat_tavg-z0-hxy-x",
   "cell_methods": "area: time: mean",
   "cmip6_compound_name": "Amon.fco2nat",
-  "description": "Surface Carbon Mass Flux into the Atmosphere Due to Natural Sources [kgC m-2 s-1]",
+  "description": "This is what the atmosphere sees (on its own grid).  This field should be equivalent to the combined natural fluxes of carbon (requested in the L_mon and O_mon tables) that account for natural exchanges between the atmosphere and land or ocean reservoirs (i.e., \"net ecosystem biospheric productivity\", for land, and \"air to sea CO2 flux\", for ocean.)",
   "dimensions": [
     "longitude",
     "latitude",

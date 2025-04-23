@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "sisndmassmelt_tavg-z0-hxy-si",
-  "cell_methods": "area: time: mean where sea_ice (comment: mask=siconc)",
+  "cell_methods": "area: time: mean where sea_ice",
   "cmip6_compound_name": "SImon.sisndmassmelt",
-  "description": "Snow Mass Rate of Change Through Melt",
+  "description": "Rate of change of snow mass through melt divided by grid-cell area. Always negative or zero.",
   "dimensions": [
     "longitude",
     "latitude",

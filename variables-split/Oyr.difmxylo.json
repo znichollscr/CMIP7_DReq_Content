@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "difmxylo_tavg-l-hxy-sea",
   "cell_methods": "area: mean where sea time: mean",
   "cmip6_compound_name": "Oyr.difmxylo",
-  "description": "Ocean Momentum XY Laplacian Diffusivity",
+  "description": "Lateral Laplacian viscosity applied to the momentum equations.",
   "dimensions": [
     "longitude",
     "latitude",

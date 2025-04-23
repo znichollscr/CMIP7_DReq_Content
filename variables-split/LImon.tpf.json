@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "tpf_tavg-z0-hxy-lnd",
   "cell_methods": "area: mean where land time: mean",
   "cmip6_compound_name": "LImon.tpf",
-  "description": "Permafrost Layer Thickness",
+  "description": "where land over land: This is the mean thickness of the permafrost layer in the land portion of the grid cell.  Reported as missing in permafrost-free regions.",
   "dimensions": [
     "longitude",
     "latitude",

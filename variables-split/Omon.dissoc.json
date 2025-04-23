@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "dissoc_tavg-l-hxy-sea",
   "cell_methods": "area: mean where sea time: mean",
   "cmip6_compound_name": "Omon.dissoc",
-  "description": "Dissolved Organic Carbon Concentration",
+  "description": "Sum of dissolved carbon component concentrations explicitly represented (i.e. not ~40 uM refractory unless explicit)",
   "dimensions": [
     "longitude",
     "latitude",

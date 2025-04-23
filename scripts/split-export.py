@@ -85,7 +85,7 @@ def main():
             raise FileExistsError(out_file)
 
         with open(out_file, "w") as fh:
-            json.dump(to_write, fh, indent=2, sort_keys=2)
+            json.dump(to_write, fh, indent=2, sort_keys=True)
 
 
 if __name__ == "__main__":

@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "rsut_tpt-z0-hxys-x",
   "cell_methods": "area: point time: point",
   "cmip6_compound_name": "CFsubhr.rsut",
-  "description": "TOA Outgoing Shortwave Radiation",
+  "description": "at the top of the atmosphere",
   "dimensions": [
     "site",
     "time1"

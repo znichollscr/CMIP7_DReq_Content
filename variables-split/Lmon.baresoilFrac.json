@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "baresoilFrac_tavg-z0-hxy-lnd",
-  "cell_methods": "area: mean where land over all_area_types time: mean",
+  "branded_variable": "baresoilFrac_tavg-z0-hxy-x",
+  "cell_methods": "area: mean time:mean\" (or \"area time: mean\")",
   "cmip6_compound_name": "Lmon.baresoilFrac",
-  "description": "Bare Soil Percentage Area Coverage",
+  "description": "Percentage of entire grid cell  that is covered by bare soil.",
   "dimensions": [
     "longitude",
     "latitude",

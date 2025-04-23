@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "cProductLut_tpt-z0-hxy-lus",
+  "branded_variable": "cProduct_tpt-z0-hxy-lus",
   "cell_methods": "area: mean where sector time: point",
   "cmip6_compound_name": "Eyr.cProductLut",
-  "description": "Wood and Agricultural Product Pool Carbon Associated with Land-Use Tiles",
+  "description": "Anthropogenic pools associated with land use tiles into which harvests and cleared carbon are deposited before release into atmosphere PLUS any remaining anthropogenic pools that may be associated with lands which were converted into land use tiles during reported period. Examples of products include paper, cardboard, timber for construction, and crop harvest for food or fuel. Does NOT include residue which is deposited into soil or litter; end of year values (not annual mean).",
   "dimensions": [
     "longitude",
     "latitude",
@@ -15,5 +16,5 @@
   "type": [
     "TBD"
   ],
-  "variableRootDD": "cProductLut"
+  "variableRootDD": "cProduct"
 }

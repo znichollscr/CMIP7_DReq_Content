@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "clivimodis_tavg-z0-hxy-x",
   "cell_methods": "area: time: mean",
   "cmip6_compound_name": "CFmon.clivimodis",
-  "description": "MODIS Ice Water Path",
+  "description": "Mass of ice water in the column divided by the area of the column (not just the area of the cloudy portion of the column) as seen by the MODIS instrument simulator.",
   "dimensions": [
     "longitude",
     "latitude",

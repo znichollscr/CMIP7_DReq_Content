@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "abs550aer_tavg-z0-hxy-x",
   "cell_methods": "area: time: mean",
   "cmip6_compound_name": "AERmon.abs550aer",
-  "description": "Ambient Aerosol Absorption Optical Thickness at 550nm",
+  "description": "Optical thickness of atmospheric aerosols at wavelength 550 nanometers.",
   "dimensions": [
     "longitude",
     "latitude",

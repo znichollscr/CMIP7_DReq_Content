@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "tasLut_tavg-h02-hxy-lus",
+  "branded_variable": "tas_tavg-h02-hxy-lus",
   "cell_methods": "area: time: mean where sector",
   "cmip6_compound_name": "Emon.tasLut",
-  "description": "Near-Surface Air Temperature on Land Use Tile",
+  "description": "Air temperature is the bulk temperature of the air, not the surface (skin) temperature.",
   "dimensions": [
     "longitude",
     "latitude",
@@ -16,5 +17,5 @@
   "type": [
     "TBD"
   ],
-  "variableRootDD": "tasLut"
+  "variableRootDD": "tas"
 }

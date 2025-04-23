@@ -1,18 +1,20 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "chldiazos_tavg-z0-hxy-sea",
+  "branded_variable": "chldiaz_tavg-z00-hxy-sea",
   "cell_methods": "area: mean where sea time: mean",
   "cmip6_compound_name": "Omon.chldiazos",
-  "description": "Surface Mass Concentration of Diazotrophs Expressed as Chlorophyll in Sea Water",
+  "description": "chlorophyll concentration from the diazotrophic phytoplankton component alone",
   "dimensions": [
     "longitude",
     "latitude",
-    "time"
+    "time",
+    "depth0m"
   ],
   "id": "TBD",
   "label": "TBD",
   "type": [
     "TBD"
   ],
-  "variableRootDD": "chldiazos"
+  "variableRootDD": "chldiaz"
 }

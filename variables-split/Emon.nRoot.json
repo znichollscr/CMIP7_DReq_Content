@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "nRoot_tavg-z0-hxy-lnd",
   "cell_methods": "area: mean where land time: mean",
   "cmip6_compound_name": "Emon.nRoot",
-  "description": "Nitrogen Mass in Roots",
+  "description": "including fine and coarse roots.",
   "dimensions": [
     "longitude",
     "latitude",

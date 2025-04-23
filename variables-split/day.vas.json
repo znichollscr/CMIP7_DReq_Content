@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "vas_tavg-h010-hxy-x",
   "cell_methods": "area: time: mean",
   "cmip6_compound_name": "day.vas",
-  "description": "Northward Near-Surface Wind",
+  "description": "Northward component of the near surface wind",
   "dimensions": [
     "longitude",
     "latitude",

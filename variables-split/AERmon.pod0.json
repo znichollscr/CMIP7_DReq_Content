@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "pod0_tsum-z0-hxy-x",
-  "cell_methods": "area: mean time: sum",
+  "cell_methods": "area: mean time: sum (with each sample weighted by the time-interval it represents)",
   "cmip6_compound_name": "AERmon.pod0",
-  "description": "Phytotoxic Ozone Dose",
+  "description": "Accumulated stomatal ozone flux over the threshold of 0 mol m-2 s-1; Computation: Time Integral of (hourly above canopy ozone concentration * stomatal conductance * Rc/(Rb+Rc) )",
   "dimensions": [
     "longitude",
     "latitude",

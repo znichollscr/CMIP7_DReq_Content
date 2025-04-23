@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "pbo_tavg-z0-hxy-sea",
   "cell_methods": "area: mean where sea time: mean",
   "cmip6_compound_name": "Omon.pbo",
-  "description": "Sea Water Pressure at Sea Floor",
+  "description": "\"Sea water pressure\" is the pressure that exists in the medium of sea water.  It includes the pressure due to overlying sea water, sea ice, air and any other medium that may be present.",
   "dimensions": [
     "longitude",
     "latitude",

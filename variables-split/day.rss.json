@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "rss_tavg-z0-hxy-x",
   "cell_methods": "area: time: mean",
   "cmip6_compound_name": "day.rss",
-  "description": "Net Shortwave Surface Radiation",
+  "description": "Net shortwave radiation",
   "dimensions": [
     "longitude",
     "latitude",
