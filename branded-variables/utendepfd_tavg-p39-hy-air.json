@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "utendepfd_tavg-p39-hy-air",
+  "cell_methods": "longitude: time: mean where air",
+  "description": "TBC (clashes in original table)",
+  "dimensions": [
+    "latitude",
+    "plev39",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "utendepfd"
+}

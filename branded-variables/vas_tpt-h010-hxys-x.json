@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "vas_tpt-h010-hxys-x",
+  "cell_methods": "area: point time: point",
+  "description": "Northward component of the near surface wind",
+  "dimensions": [
+    "site",
+    "time1",
+    "height10m"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "vas"
+}

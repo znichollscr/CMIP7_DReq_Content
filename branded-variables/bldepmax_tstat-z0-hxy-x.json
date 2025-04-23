@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "bldepmax_tstat-z0-hxy-x",
+  "cell_methods": "area: mean time: maximum",
+  "description": "maximum boundary layer height during the day (add cell_methods attribute: \"time: maximum\")",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "bldepmax"
+}

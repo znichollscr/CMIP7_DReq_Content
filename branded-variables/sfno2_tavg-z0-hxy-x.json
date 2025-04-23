@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "sfno2_tavg-z0-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "Mole fraction is used in the construction mole_fraction_of_X_in_Y, where X is a material constituent of Y.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time",
+    "height50m"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "sfno2"
+}

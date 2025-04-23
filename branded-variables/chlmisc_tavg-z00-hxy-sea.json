@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "chlmisc_tavg-z00-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "description": "chlorophyll from additional phytoplankton component concentrations alone",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time",
+    "depth0m"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "chlmisc"
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "exparagob_tavg-z0-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "description": "Downward sinking flux of aragonite at seafloor",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "depthseafloor",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "exparagob"
+}

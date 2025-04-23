@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "pctisccp_tavg-z0-hxy-cl",
+  "cell_methods": "area: time: mean where cloud (weighted by ISCCP total cloud area)",
+  "description": "TBC (clashes in original table)",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "pctisccp"
+}

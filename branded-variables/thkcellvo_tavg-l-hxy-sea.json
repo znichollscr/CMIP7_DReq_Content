@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "thkcellvo_tavg-l-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "description": "The time varying thickness of ocean cells centered at v-points (points for velocity in the y-direction). \"Thickness\" means the vertical extent of a layer. \"Cell\" refers to a model grid-cell.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "olevel",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "thkcellvo"
+}

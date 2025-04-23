@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "??_tavg-z0-hxy-lnd",
+  "cell_methods": "area: mean where land time: mean (weighted by snow area)",
+  "description": "Snow Surface Temperature",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "??"
+}

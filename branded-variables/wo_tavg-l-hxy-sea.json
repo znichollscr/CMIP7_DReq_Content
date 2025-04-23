@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "wo_tavg-l-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "description": "Prognostic z-ward velocity component resolved by the model.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "olevel",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "wo"
+}

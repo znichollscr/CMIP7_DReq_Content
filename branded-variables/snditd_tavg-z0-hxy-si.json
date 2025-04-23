@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "snditd_tavg-z0-hxy-si",
+  "cell_methods": "area: time: mean where sea_ice (weighted by area of sea ice)",
+  "description": "Actual thickness of snow in each ice thickness category, NOT snow volume divided by grid area (vector with one entry for each ice thickness category starting from the thinnest category, netcdf file should use thickness bounds of categories as third coordinate axis). It can also be derived by dividing the volume of snow by the area of snow in each thickness category.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "iceband",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "snditd"
+}

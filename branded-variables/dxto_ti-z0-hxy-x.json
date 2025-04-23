@@ -1,0 +1,16 @@
+{
+  "@context": "TBD",
+  "branded_variable": "dxto_ti-z0-hxy-x",
+  "cell_methods": "area: point",
+  "description": "The linear extent of the cell in the x direction of the horizontal grid centered at t-points (points for tracers such as temperature, salinity, etc.). Not applicable to unstructured grids.",
+  "dimensions": [
+    "longitude",
+    "latitude"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "dxto"
+}

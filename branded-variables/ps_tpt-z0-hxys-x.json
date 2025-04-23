@@ -1,0 +1,16 @@
+{
+  "@context": "TBD",
+  "branded_variable": "ps_tpt-z0-hxys-x",
+  "cell_methods": "area: point time: point",
+  "description": "not, in general, the same as mean sea-level pressure",
+  "dimensions": [
+    "site",
+    "time1"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "ps"
+}

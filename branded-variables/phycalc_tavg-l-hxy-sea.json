@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "phycalc_tavg-l-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "description": "TBC (clashes in original table)",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "olevel",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "phycalc"
+}

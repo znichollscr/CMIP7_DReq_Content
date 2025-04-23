@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "msftyzmpa_tavg-rhon-ht-sea",
+  "cell_methods": "grid_longitude: sum where sea time: mean",
+  "description": "CMIP5 called this \"due to Bolus Advection\".  Name change respects the more general physics of the mesoscale parameterizations.",
+  "dimensions": [
+    "gridlatitude",
+    "rho",
+    "basin",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "msftyzmpa"
+}

@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "fsn_tavg-z0-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "description": "Flux of nitrogen into the ocean due to deposition (sum of dry and wet deposition), fixation (the production of ammonia from nitrogen gas by diazotrophs) and runoff (liquid water which drains from land).",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "fsn"
+}

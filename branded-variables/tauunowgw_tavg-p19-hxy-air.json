@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "tauunowgw_tavg-p19-hxy-air",
+  "cell_methods": "area: time: mean where air",
+  "description": "Vertical flux of zonal momentum within the non-orographic gravity wave parameterization associated with the westward propagating modes.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "plev19",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "tauunowgw"
+}

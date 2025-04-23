@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "raGrass_tavg-z0-hxy-lnd",
+  "cell_methods": "area: mean where land time: mean",
+  "description": "Total RA of grass in the grid cell",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "raGrass"
+}

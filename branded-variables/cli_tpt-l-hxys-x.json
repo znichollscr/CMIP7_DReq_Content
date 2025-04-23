@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "cli_tpt-l-hxys-x",
+  "cell_methods": "area: point time: point",
+  "description": "Includes both large-scale and convective cloud. This is the mass of  cloud ice  in the grid cell divided by the mass of air (including the water in all phases) in the grid cell.  This includes precipitating hydrometeors ONLY if the precipitating hydrometeors affect the calculation of radiative transfer in model.",
+  "dimensions": [
+    "alevel",
+    "site",
+    "time1"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "cli"
+}

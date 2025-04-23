@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "chepsoa_tavg-z0-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "If model lumps SOA emissions with POA, then the sum of POA and SOA emissions is reported as OA emissions. \"mass\" refers to the mass of primary organic matter, not mass of organic carbon alone.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "chepsoa"
+}

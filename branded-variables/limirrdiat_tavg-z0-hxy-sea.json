@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "limirrdiat_tavg-z0-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "description": "Growth limitation of diatoms due to solar irradiance. \"Growth limitation due to solar irradiance\" means the ratio of the growth rate of a species population in the environment (where the amount of sunlight reaching a location may be limited) to the theoretical growth rate if there were no such limit on solar irradiance.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "limirrdiat"
+}

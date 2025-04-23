@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "scldncl_tavg-z0-hxy-scl",
+  "cell_methods": "area: time: mean where stratiform_cloud (but only in upper-most layer of stratiform liquid water cloud and weighted by area of stratiform liquid water cloud top as seen from space)",
+  "description": "TBC (clashes in original table)",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "scldncl"
+}

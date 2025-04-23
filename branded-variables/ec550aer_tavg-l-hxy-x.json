@@ -1,0 +1,19 @@
+{
+  "@context": "TBD",
+  "branded_variable": "ec550aer_tavg-l-hxy-x",
+  "cell_methods": "area: time: mean (weighted by downwelling solar radiation)",
+  "description": "Aerosol Extinction at 550nm",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "alevel",
+    "time",
+    "lambda550nm"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "ec550aer"
+}

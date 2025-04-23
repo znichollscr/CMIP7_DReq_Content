@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "cGeologicStorage_tavg-z0-hm-x",
+  "cell_methods": "area: mean",
+  "description": "Mass of carbon that has been intentionally sequestered in geologic storage. The definition of geologic storage here is that it be stored for periods of time that are long as compared to the simulation. ",
+  "dimensions": [
+    "area:",
+    "time:",
+    "mean"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "cGeologicStorage"
+}

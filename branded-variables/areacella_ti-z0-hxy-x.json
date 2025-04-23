@@ -1,0 +1,16 @@
+{
+  "@context": "TBD",
+  "branded_variable": "areacella_ti-z0-hxy-x",
+  "cell_methods": "area: sum",
+  "description": "Cell areas for any grid used to report atmospheric variables and any other variable using that grid (e.g., soil moisture content). These cell areas should be defined to enable exact calculation of global integrals (e.g., of vertical fluxes of energy at the surface and top of the atmosphere).",
+  "dimensions": [
+    "longitude",
+    "latitude"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "areacella"
+}

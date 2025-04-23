@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "prra_tavg-z0-hxy-si",
+  "cell_methods": "area: time: mean where sea_ice",
+  "description": "Mass of liquid precipitation falling onto sea ice divided by grid-cell area. If the rain is directly put into the ocean, it should not be counted towards sipr. Always positive or zero.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "prra"
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "lossn2o_tavg-l-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "monthly averaged atmospheric loss",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "alevel",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "lossn2o"
+}

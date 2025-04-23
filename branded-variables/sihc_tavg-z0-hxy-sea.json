@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "sihc_tavg-z0-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "description": "Heat content of all ice in grid cell divided by grid-cell area. This includes both the latent and sensible heat content contributions. Water at 0C is assumed to have a heat content of 0 J. This variable does not include heat content of snow, but does include heat content of brine. Heat content is always negative since both the sensible and the latent heat content of ice are less than that of water. Note that the CF standard name is incorrect since heat content is not only function of temperature but also of salinity, plus the link with temperature is not linear. A new CF standard name is currently being proposed to address this issue (https://github.com/cf-convention/vocabularies/issues/253).",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "sihc"
+}

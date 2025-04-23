@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "deptho_ti-z0-hxy-sea",
+  "cell_methods": "area: mean where sea",
+  "description": "Ocean bathymetry. Reported here is the sea floor depth for present day relative to z=0 geoid. Reported as missing for land grid cells.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "depthseafloor"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "deptho"
+}

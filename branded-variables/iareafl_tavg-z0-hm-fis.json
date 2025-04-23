@@ -1,0 +1,15 @@
+{
+  "@context": "TBD",
+  "branded_variable": "iareafl_tavg-z0-hm-fis",
+  "cell_methods": "area: sum where floating_ice_shelf time: mean",
+  "description": "TBC (clashes in original table)",
+  "dimensions": [
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "iareafl"
+}

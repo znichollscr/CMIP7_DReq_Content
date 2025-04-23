@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "va_tpt-p7h-hxy-air",
+  "cell_methods": "area: mean where air time: point",
+  "description": "Meridional wind (positive in a northward direction).",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "plev7h",
+    "time1"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "va"
+}
