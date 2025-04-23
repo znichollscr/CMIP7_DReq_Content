@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "e90inst_tpt-l-hxy-x",
-  "cell_methods": "area: mean",
+  "cell_methods": "area: mean time: point",
   "cmip6_compound_name": "AERmon.e90inst",
-  "description": "Artificial tracer with 90 day lifetime",
+  "description": "Mole fraction of an artificial tracer with a 90-day lifetime (e90)",
   "dimensions": [
     "longitude",
     "latitude",

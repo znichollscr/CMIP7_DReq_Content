@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "tslsiLut_tavg-z0-hxy-lus",
+  "branded_variable": "ts_tavg-z0-hxy-lus",
   "cell_methods": "area: time: mean where sector",
   "cmip6_compound_name": "Emon.tslsiLut",
-  "description": "Surface Temperature on Landuse Tile",
+  "description": "Surface temperature (i.e. temperature at which long-wave radiation emitted)",
   "dimensions": [
     "longitude",
     "latitude",
@@ -15,5 +16,5 @@
   "type": [
     "TBD"
   ],
-  "variableRootDD": "tslsiLut"
+  "variableRootDD": "ts"
 }

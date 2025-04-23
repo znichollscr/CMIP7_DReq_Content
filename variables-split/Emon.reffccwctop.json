@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "reffccwctop_tavg-z0-hxy-x",
-  "cell_methods": "area: time: mean",
+  "branded_variable": "reffccwctop_tavg-z0-hxy-ccl",
+  "cell_methods": "area: time: mean where convective_cloud (weighted by area of upper-most cloud layer)",
   "cmip6_compound_name": "Emon.reffccwctop",
-  "description": "Cloud-Top Effective Radius of Liquid or Ice Cloud at Liquid or Ice Cloud Top ",
+  "description": "Cloud-Top Effective Radius of Liquid or Ice Cloud at Liquid or Ice Cloud Top",
   "dimensions": [
     "longitude",
     "latitude",

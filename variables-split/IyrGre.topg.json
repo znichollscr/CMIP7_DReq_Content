@@ -1,12 +1,13 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "topg_tavg-z0-hxy-gis",
-  "cell_methods": "area: time: mean where grounded_ice_sheet (comment: mask=sfgrlf)",
+  "cell_methods": "area: time: mean where grounded_ice_sheet",
   "cmip6_compound_name": "IyrGre.topg",
-  "description": "Bedrock Altitude",
+  "description": "This is needed in case bed rock elevation changes in time",
   "dimensions": [
-    "xgre",
-    "ygre",
+    "longitude",
+    "latitude",
     "time"
   ],
   "id": "TBD",

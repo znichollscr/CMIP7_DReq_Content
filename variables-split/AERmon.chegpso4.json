@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "chegpso4_tavg-l-hxy-x",
   "cell_methods": "area: time: mean",
   "cmip6_compound_name": "AERmon.chegpso4",
-  "description": "Gas-Phase Production Rate of SO4",
+  "description": "proposed name: tendency_of_atmosphere_mass_content_of_sulfate_dry_aerosol_due_to_gas_phase_net_chemical_production",
   "dimensions": [
     "longitude",
     "latitude",

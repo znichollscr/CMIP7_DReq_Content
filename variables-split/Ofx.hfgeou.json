@@ -1,13 +1,13 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "hfgeou_ti-z0-hxy-sea",
   "cell_methods": "area: mean where sea",
   "cmip6_compound_name": "Ofx.hfgeou",
-  "description": "Upward Geothermal Heat Flux at Sea Floor",
+  "description": "Upward geothermal heat flux per unit area on the sea floor",
   "dimensions": [
     "longitude",
-    "latitude",
-    "depthseafloor"
+    "latitude"
   ],
   "id": "TBD",
   "label": "TBD",

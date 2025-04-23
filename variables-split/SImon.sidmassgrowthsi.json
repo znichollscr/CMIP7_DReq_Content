@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "sidmassgrowthsi_tavg-z0-hxy-sea",
-  "cell_methods": "area: mean where sea time: mean",
+  "branded_variable": "sidmassgrowthsi_tavg-z0-hxy-si",
+  "cell_methods": "area: mean where sea_ice time: mean",
   "cmip6_compound_name": "SImon.sidmassgrowthsi",
-  "description": "Sea-Ice Mass Change Through Snow-to-Ice Conversion",
+  "description": "Rate of change of sea-ice mass due to transformation of snow to sea ice divided by grid-cell area. Always positive or zero.",
   "dimensions": [
     "longitude",
     "latitude",

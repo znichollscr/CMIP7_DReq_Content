@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "mmrss_tavg-l-hxy-x",
   "cell_methods": "area: time: mean",
   "cmip6_compound_name": "AERmon.mmrss",
-  "description": "Sea-Salt Aerosol Mass Mixing Ratio",
+  "description": "Mass fraction in the atmosphere of sea salt aerosol (dry mass).",
   "dimensions": [
     "longitude",
     "latitude",

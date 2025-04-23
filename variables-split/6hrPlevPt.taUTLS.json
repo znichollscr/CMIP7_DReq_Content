@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "taUTLS_tpt-z0-hxy-x",
-  "cell_methods": "time: point",
+  "branded_variable": "ta_tpt-z0-hxy-x",
+  "cell_methods": "area: mean time: point",
   "cmip6_compound_name": "6hrPlevPt.taUTLS",
-  "description": "6 hourly instantaneous temperature in the UTLS region ",
+  "description": "6 hourly instantaneous temperature at 5 pressure levels in the UTLS region (150, 175, 200, 225, and 250 hPa)",
   "dimensions": [
     "longitude",
     "latitude",
@@ -15,5 +16,5 @@
   "type": [
     "TBD"
   ],
-  "variableRootDD": "taUTLS"
+  "variableRootDD": "ta"
 }

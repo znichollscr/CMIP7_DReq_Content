@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "prCrop_tavg-z0-hxy-crp",
-  "cell_methods": "area: time: mean where crops (comment: mask=cropFrac)",
+  "cell_methods": "area: time: mean where crops",
   "cmip6_compound_name": "Eday.prCrop",
-  "description": "Precipitation over Crop Tile",
+  "description": "includes both liquid and solid phases",
   "dimensions": [
     "longitude",
     "latitude",

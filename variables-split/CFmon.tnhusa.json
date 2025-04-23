@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "tnhusa_tavg-l-hxy-x",
   "cell_methods": "area: time: mean",
   "cmip6_compound_name": "CFmon.tnhusa",
-  "description": "Tendency of Specific Humidity Due to Advection",
+  "description": "Tendency of Specific Humidity due to Advection",
   "dimensions": [
     "longitude",
     "latitude",

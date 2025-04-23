@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "pfull_tpt-l-hxys-x",
   "cell_methods": "area: point time: point",
   "cmip6_compound_name": "CFsubhr.pfull",
-  "description": "Pressure at Model Full-Levels",
+  "description": "Air pressure on model levels",
   "dimensions": [
     "alevel",
     "site",

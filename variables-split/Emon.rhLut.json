@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "rhLut_tavg-z0-hxy-lus",
   "cell_methods": "area: time: mean where sector",
   "cmip6_compound_name": "Emon.rhLut",
-  "description": "Heterotrophic Respiration on Land-Use Tile as Carbon Mass Flux [kgC m-2 s-1]",
+  "description": "Carbon mass flux per unit area into atmosphere due to heterotrophic respiration on land (respiration by consumers), calculated on land-use tiles.",
   "dimensions": [
     "longitude",
     "latitude",

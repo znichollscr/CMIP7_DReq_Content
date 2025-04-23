@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "o3inst_tpt-l-hxy-x",
-  "cell_methods": "area: mean",
+  "cell_methods": "area: mean time: point",
   "cmip6_compound_name": "AERmon.o3inst",
-  "description": "O3 volume mixing ratio ",
+  "description": "This is the mole fraction of ozone in air, sampled on the first day of the month as an instantaneous field.",
   "dimensions": [
     "longitude",
     "latitude",

@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "msftmrhompa_tavg-rhon-hys-x",
-  "cell_methods": "longitude: sum (comment: basin sum [along zig-zag grid path]) depth: sum time: mean",
+  "branded_variable": "msftmz_tavg-rhon-hys-sea",
+  "cell_methods": "longitude: rho: sum where sea (along a zig-zag grid path spanning a basin) time: mean",
   "cmip6_compound_name": "Omon.msftmrhompa",
-  "description": "Ocean Meridional Overturning Mass Streamfunction Due to Parameterized Mesoscale Advection",
+  "description": "CMIP5 called this \"due to Bolus Advection\".  Name change respects the more general physics of the mesoscale parameterizations.",
   "dimensions": [
     "latitude",
     "rho",
@@ -15,5 +16,5 @@
   "type": [
     "TBD"
   ],
-  "variableRootDD": "msftmrhompa"
+  "variableRootDD": "msftmz"
 }

@@ -1,12 +1,13 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "tsn_tavg-z0-hxy-is",
-  "cell_methods": "area: time: mean where ice_sheet",
+  "branded_variable": "tsn_tavg-z0-hxy-lnd",
+  "cell_methods": "depth: mean area: mean where land time: mean (weighted by snow mass on land)",
   "cmip6_compound_name": "ImonAnt.tsn",
-  "description": "Snow Internal Temperature",
+  "description": "quantity averaged over ice sheet (grounded ice sheet and floating ice shelf) only. Needed to analyse the impact of downscaling methods",
   "dimensions": [
-    "xant",
-    "yant",
+    "longitude",
+    "latitude",
     "time"
   ],
   "id": "TBD",

@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "cVegLut_tpt-z0-hxy-lus",
+  "branded_variable": "cVeg_tpt-z0-hxy-lus",
   "cell_methods": "area: mean where sector time: point",
   "cmip6_compound_name": "Eyr.cVegLut",
-  "description": "Carbon in Vegetation on Land-Use Tiles",
+  "description": "end of year values (not annual mean)",
   "dimensions": [
     "longitude",
     "latitude",
@@ -15,5 +16,5 @@
   "type": [
     "TBD"
   ],
-  "variableRootDD": "cVegLut"
+  "variableRootDD": "cVeg"
 }

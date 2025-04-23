@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "nProduct_tavg-z0-hxy-lnd",
   "cell_methods": "area: mean where land time: mean",
   "cmip6_compound_name": "Emon.nProduct",
-  "description": "Nitrogen Mass in Products of Land-Use Change",
+  "description": "Report missing data over ocean grid cells. For fractional land report value averaged over the land fraction.",
   "dimensions": [
     "longitude",
     "latitude",

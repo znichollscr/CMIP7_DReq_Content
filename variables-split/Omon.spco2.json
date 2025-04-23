@@ -1,14 +1,14 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "spco2_tavg-z00-hxy-sea",
+  "branded_variable": "spco2_tavg-z0-hxy-sea",
   "cell_methods": "area: mean where sea time: mean",
   "cmip6_compound_name": "Omon.spco2",
-  "description": "Surface Aqueous Partial Pressure of CO2",
+  "description": "The surface called \"surface\" means the lower boundary of the atmosphere. The partial pressure of a dissolved gas in sea water is the partial pressure in air with which it would be in equilibrium. The partial pressure of a gaseous constituent of air is the pressure which it alone would exert with unchanged temperature and number of moles per unit volume. The chemical formula for carbon dioxide is CO2.",
   "dimensions": [
     "longitude",
     "latitude",
-    "time",
-    "depth0m"
+    "time"
   ],
   "id": "TBD",
   "label": "TBD",

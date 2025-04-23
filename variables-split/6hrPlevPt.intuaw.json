@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "intuaw_tpt-z0-hxy-x",
   "cell_methods": "area: mean time: point",
   "cmip6_compound_name": "6hrPlevPt.intuaw",
-  "description": "6 hourly instantaneous vertical integral of zonal water vapor flux",
+  "description": "Vertically integrated eastward moisture transport (Mass weighted vertical integral of the product of eastward wind by total water mass per unit mass)",
   "dimensions": [
     "longitude",
     "latitude",

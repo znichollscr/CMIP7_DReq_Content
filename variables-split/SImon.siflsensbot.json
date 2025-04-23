@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "siflsensbot_tavg-z0-hxy-si",
-  "cell_methods": "area: time: mean where sea_ice (comment: mask=siconc)",
+  "cell_methods": "area: time: mean where sea_ice",
   "cmip6_compound_name": "SImon.siflsensbot",
-  "description": "Net Upward Sensible Heat Flux under Sea Ice",
+  "description": "Net sensible heat flux under sea ice from or to the ocean\u00a0(energy flow per sea ice area). Per sign convention, heat from the ocean is counted as negative since it describes an upward heat flux.",
   "dimensions": [
     "longitude",
     "latitude",

@@ -1,12 +1,14 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "mmrno3_tpt-z0-hxys-x",
   "cell_methods": "area: point time: point",
   "cmip6_compound_name": "E3hrPt.mmrno3",
-  "description": "Instantaneous surface NO3 aerosol mass mixing ratio at CF sites",
+  "description": "This variable represents the instantaneous surface NO3 Aerosol Mass Mixing Ratio at CF sites, sampled every 3 hours",
   "dimensions": [
     "site",
-    "time1"
+    "time1",
+    "height50m"
   ],
   "id": "TBD",
   "label": "TBD",

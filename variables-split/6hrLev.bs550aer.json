@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "bs550aer_tpt-l-hxy-x",
   "cell_methods": "area: mean time: point",
   "cmip6_compound_name": "6hrLev.bs550aer",
-  "description": "Aerosol Backscatter Coefficient",
+  "description": "Aerosol  Backscatter at wavelength 550nm and scattering angle 180 degrees, computed from extinction and lidar ratio",
   "dimensions": [
     "longitude",
     "latitude",

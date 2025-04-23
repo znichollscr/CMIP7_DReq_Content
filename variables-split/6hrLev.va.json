@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "va_tpt-l-hxy-x",
-  "cell_methods": "time: point",
+  "cell_methods": "area:mean time:point",
   "cmip6_compound_name": "6hrLev.va",
-  "description": "Northward Wind",
+  "description": "Meridional wind (positive in a northward direction).",
   "dimensions": [
     "longitude",
     "latitude",

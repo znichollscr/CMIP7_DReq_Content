@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "tauvo_tavg-z0-hxy-sea",
   "cell_methods": "area: mean where sea time: mean",
   "cmip6_compound_name": "3hr.tauvo",
-  "description": "Sea Water Surface Downward Y Stress",
+  "description": "The stress on the liquid ocean from interactions with overlying atmosphere, sea ice, ice shelf, etc.",
   "dimensions": [
     "longitude",
     "latitude",

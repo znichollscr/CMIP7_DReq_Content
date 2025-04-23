@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "hfls_tavg-z0-hxy-x",
   "cell_methods": "area: time: mean",
   "cmip6_compound_name": "3hr.hfls",
-  "description": "Surface Upward Latent Heat Flux",
+  "description": "This is the 3-hour mean flux.",
   "dimensions": [
     "longitude",
     "latitude",

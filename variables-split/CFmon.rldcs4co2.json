@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "rldcs4co2_tavg-l-hxy-x",
   "cell_methods": "area: time: mean",
   "cmip6_compound_name": "CFmon.rldcs4co2",
-  "description": "Downwelling Clear-Sky Longwave Radiation 4XCO2 Atmosphere",
+  "description": "Downwelling clear-sky longwave radiation calculated using carbon dioxide concentrations increased fourfold (includes the fluxes at the surface and TOA)",
   "dimensions": [
     "longitude",
     "latitude",

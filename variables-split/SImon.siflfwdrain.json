@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "siflfwdrain_tavg-z0-hxy-si",
-  "cell_methods": "area: time: mean where sea_ice (comment: mask=siconc)",
+  "cell_methods": "area: time: mean where sea_ice",
   "cmip6_compound_name": "SImon.siflfwdrain",
-  "description": "Freshwater Flux from Sea-Ice Surface",
+  "description": "Total flux of fresh water from sea-ice surface into underlying ocean divided by grid-cell area. This combines both surface meltwater that drains directly into the ocean and the drainage of surface melt ponds. By definition, this flux is always positive.",
   "dimensions": [
     "longitude",
     "latitude",

@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "tnhusd_tpt-l-hxys-x",
   "cell_methods": "area: point time: point",
   "cmip6_compound_name": "CFsubhr.tnhusd",
-  "description": "Tendency of Specific Humidity Due to Numerical Diffusion",
+  "description": "This includes any horizontal or vertical numerical moisture diffusion not associated with the parametrized moist physics or the resolved dynamics.  For example, any vertical diffusion which is part of the boundary layer mixing scheme should be excluded, as should any diffusion which is included in the terms from the resolved dynamics.   This term is required to check the closure of the moisture budget.",
   "dimensions": [
     "alevel",
     "site",

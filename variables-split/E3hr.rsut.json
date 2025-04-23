@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "rsut_tavg-z0-hxy-x",
   "cell_methods": "area: time: mean",
   "cmip6_compound_name": "E3hr.rsut",
-  "description": "TOA Outgoing Shortwave Radiation",
+  "description": "TOA outgoing shortwave radiation",
   "dimensions": [
     "longitude",
     "latitude",

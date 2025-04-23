@@ -1,19 +1,20 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "thetaot2000_tavg-z0-hxy-sea",
+  "branded_variable": "thetao_tavg-z02000-hxy-sea",
   "cell_methods": "area: depth: time: mean where sea",
   "cmip6_compound_name": "Emon.thetaot2000",
-  "description": "Depth Average Potential Temperature of Upper 2000m",
+  "description": "Upper 2000m, 2D field",
   "dimensions": [
     "longitude",
     "latitude",
     "time",
-    "depth2000m"
+    "olayer2000m"
   ],
   "id": "TBD",
   "label": "TBD",
   "type": [
     "TBD"
   ],
-  "variableRootDD": "thetaot2000"
+  "variableRootDD": "thetao"
 }

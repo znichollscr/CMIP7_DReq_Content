@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "h2_tavg-l-hxy-x",
   "cell_methods": "area: time: mean",
   "cmip6_compound_name": "AERmon.h2",
-  "description": "H2 volume mixing ratio",
+  "description": "This is the mole fraction of molecular hydrogen (H2) in air",
   "dimensions": [
     "longitude",
     "latitude",

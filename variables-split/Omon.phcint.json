@@ -1,19 +1,15 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "phcint_tavg-z00-hxy-sea",
-  "cell_methods": "area: mean where sea",
+  "branded_variable": "phcint_tavg-z0-hxy-x",
+  "cell_methods": "The cell_methods should include a time \"method\" (is it \"time: mean\"?)",
   "cmip6_compound_name": "Omon.phcint",
-  "description": "Integrated Ocean Heat Content from Potential Temperature ",
+  "description": "This is the vertically-integrated heat content derived from potential temperature (thetao).",
   "dimensions": [
     "longitude",
     "latitude",
-    "swplayers",
-    "swplayers",
-    "time",
-    "depth0m",
-    "depth300m",
-    "depth700m",
-    "depth2000m"
+    "oplev4",
+    "time"
   ],
   "id": "TBD",
   "label": "TBD",

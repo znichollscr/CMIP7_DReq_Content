@@ -1,11 +1,11 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "msftyrho_tavg-rhon-ht-x",
-  "cell_methods": "time: mean grid_longitude: mean",
+  "branded_variable": "msftyz_tavg-rhon-hm-sea",
+  "cell_methods": "grid_longitude: sum where sea time: mean",
   "cmip6_compound_name": "Omon.msftyrho",
-  "description": "Ocean Y Overturning Mass Streamfunction",
+  "description": "Overturning mass streamfunction arising from all advective mass transport processes, resolved and parameterized.",
   "dimensions": [
-    "gridlatitude",
     "rho",
     "basin",
     "time"
@@ -15,5 +15,5 @@
   "type": [
     "TBD"
   ],
-  "variableRootDD": "msftyrho"
+  "variableRootDD": "msftyz"
 }

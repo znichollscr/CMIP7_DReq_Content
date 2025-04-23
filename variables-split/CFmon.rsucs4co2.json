@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "rsucs4co2_tavg-l-hxy-x",
   "cell_methods": "area: time: mean",
   "cmip6_compound_name": "CFmon.rsucs4co2",
-  "description": "Upwelling Clear-Sky Shortwave Radiation 4XCO2 Atmosphere",
+  "description": "Upwelling clear-sky shortwave radiation calculated using carbon dioxide concentrations increased fourfold",
   "dimensions": [
     "longitude",
     "latitude",

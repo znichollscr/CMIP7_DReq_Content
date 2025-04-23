@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "difvho_tavg-l-hxy-sea",
   "cell_methods": "area: mean where sea time: mean",
   "cmip6_compound_name": "Oyr.difvho",
-  "description": "Ocean Vertical Heat Diffusivity",
+  "description": "Vertical/dianeutral diffusivity applied to prognostic temperature field.",
   "dimensions": [
     "longitude",
     "latitude",

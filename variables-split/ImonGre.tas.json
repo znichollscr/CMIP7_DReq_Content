@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "tas_tavg-h02-hm-is",
   "cell_methods": "area: time: mean where ice_sheet",
   "cmip6_compound_name": "ImonGre.tas",
-  "description": "Near-Surface Air Temperature",
+  "description": "quantity averaged over ice sheet (grounded ice sheet and floating ice shelf) only. Needed to analyse the impact of downscaling methods",
   "dimensions": [
     "time",
     "height2m"

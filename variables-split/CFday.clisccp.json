@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "clisccp_tavg-p7c-hxy-air",
   "cell_methods": "area: time: mean where air",
   "cmip6_compound_name": "CFday.clisccp",
-  "description": "ISCCP Cloud Area Percentage",
+  "description": "Percentage cloud cover in optical depth categories.",
   "dimensions": [
     "longitude",
     "latitude",

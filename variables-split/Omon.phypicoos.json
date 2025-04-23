@@ -1,18 +1,20 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "phypicoos_tavg-z0-hxy-sea",
+  "branded_variable": "phypico_tavg-z00-hxy-sea",
   "cell_methods": "area: mean where sea time: mean",
   "cmip6_compound_name": "Omon.phypicoos",
-  "description": "Surface Mole Concentration of Picophytoplankton Expressed as Carbon in Sea Water",
+  "description": "carbon concentration from the picophytoplankton (<2 um) component alone",
   "dimensions": [
     "longitude",
     "latitude",
-    "time"
+    "time",
+    "depth0m"
   ],
   "id": "TBD",
   "label": "TBD",
   "type": [
     "TBD"
   ],
-  "variableRootDD": "phypicoos"
+  "variableRootDD": "phypico"
 }

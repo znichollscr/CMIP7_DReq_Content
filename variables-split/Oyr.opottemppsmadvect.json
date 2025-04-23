@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "opottemppsmadvect_tavg-l-hxy-sea",
   "cell_methods": "area: mean where sea time: mean",
   "cmip6_compound_name": "Oyr.opottemppsmadvect",
-  "description": "Tendency of Sea Water Potential Temperature Expressed as Heat Content Due to Parameterized Submesoscale Advection",
+  "description": "Tendency of heat content for a grid cell from parameterized submesoscale eddy advection. Reported only for models that use potential temperature as prognostic field.",
   "dimensions": [
     "longitude",
     "latitude",

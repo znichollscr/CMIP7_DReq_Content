@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "fAnthDisturb_tavg-z0-hxy-lnd",
   "cell_methods": "area: mean where land time: mean",
   "cmip6_compound_name": "Emon.fAnthDisturb",
-  "description": "Carbon Mass Flux from Vegetation, Litter or Soil Pools into the Atmosphere Due to any Human Activity [kgC m-2 s-1]",
+  "description": "Anthropogenic flux of carbon as carbon dioxide into the atmosphere. That is, emissions influenced, caused, or created by human activity. Anthropogenic emission of carbon dioxide includes fossil fuel use, cement production, agricultural burning and sources associated with anthropogenic land use change, except forest regrowth.",
   "dimensions": [
     "longitude",
     "latitude",

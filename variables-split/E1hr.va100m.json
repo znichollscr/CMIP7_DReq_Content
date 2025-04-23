@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "va100m_tpt-h0100-hxy-x",
+  "branded_variable": "va_tpt-h0100-hxy-x",
   "cell_methods": "area: mean time: point",
   "cmip6_compound_name": "E1hr.va100m",
-  "description": "Northward Wind at 100m",
+  "description": "Meridional wind (positive in a northward direction) at 100m above the surface.",
   "dimensions": [
     "longitude",
     "latitude",
@@ -15,5 +16,5 @@
   "type": [
     "TBD"
   ],
-  "variableRootDD": "va100m"
+  "variableRootDD": "va"
 }

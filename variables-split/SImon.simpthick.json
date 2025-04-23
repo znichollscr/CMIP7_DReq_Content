@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "simpthick_tavg-z0-hxy-simp",
-  "cell_methods": "area: time: mean where sea_ice_melt_pond (comment: mask=simpconc)",
+  "branded_variable": "simpthick_tavg-z0-hxy-si",
+  "cell_methods": "area: time: mean where sea_ice",
   "cmip6_compound_name": "SImon.simpthick",
-  "description": "Melt Pond Depth",
+  "description": "Average depth of melt ponds on sea ice, that is melt pond volume divided by melt pond area.",
   "dimensions": [
     "longitude",
     "latitude",

@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "residualFrac_tavg-z0-hxy-lnd",
-  "cell_methods": "area: mean where land over all_area_types time: mean",
+  "branded_variable": "residualFrac_tavg-z0-hxy-x",
+  "cell_methods": "area: mean time:mean\" (or \"area time: mean\")",
   "cmip6_compound_name": "Lmon.residualFrac",
-  "description": "Percentage of Grid Cell That Is Land but neither Vegetation Covered nor Bare Soil",
+  "description": "fraction of entire grid cell  that is land and is covered by \"non-vegetation\" and \"non-bare-soil\" (e.g., urban, ice, lakes, etc.)",
   "dimensions": [
     "longitude",
     "latitude",

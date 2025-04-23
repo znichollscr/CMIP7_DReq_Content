@@ -1,13 +1,15 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "mmrnh4_tavg-z0-hxy-x",
   "cell_methods": "area: time: mean",
   "cmip6_compound_name": "AERday.mmrnh4",
-  "description": "Daily mean surface NH4 ",
+  "description": "Daily mean NH4 mass mixing ratio in lowest model layer",
   "dimensions": [
     "longitude",
     "latitude",
-    "time"
+    "time",
+    "height50m"
   ],
   "id": "TBD",
   "label": "TBD",

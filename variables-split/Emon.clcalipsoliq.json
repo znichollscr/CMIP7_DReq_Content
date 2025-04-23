@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "clcalipsoliq_tavg-h40-hxy-x",
-  "cell_methods": "time: mean",
+  "branded_variable": "clcalipsoliq_tavg-h40-hxy-air",
+  "cell_methods": "area: time: mean where air",
   "cmip6_compound_name": "Emon.clcalipsoliq",
-  "description": "CALIPSO Liquid Cloud Percentage",
+  "description": "CALIPSO Liquid Cloud Fraction",
   "dimensions": [
     "longitude",
     "latitude",

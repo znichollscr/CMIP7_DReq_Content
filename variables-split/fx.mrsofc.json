@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "mrsofc_ti-z0-hxy-lnd",
   "cell_methods": "area: mean where land",
   "cmip6_compound_name": "fx.mrsofc",
-  "description": "Capacity of Soil to Store Water (Field Capacity)",
+  "description": "reported \"where land\": divide the total water holding capacity of all the soil in the grid cell by the land area in the grid cell;  reported as \"missing\" where the land fraction is 0.",
   "dimensions": [
     "longitude",
     "latitude"

@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "zostoga_tavg-z0-hm-sea",
   "cell_methods": "area: mean where sea time: mean",
   "cmip6_compound_name": "Omon.zostoga",
-  "description": "Global Average Thermosteric Sea Level Change",
+  "description": "There is no CMIP6 request for zosga nor zossga.",
   "dimensions": [
     "time"
   ],

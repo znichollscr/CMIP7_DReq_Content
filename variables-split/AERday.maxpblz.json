@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "maxpblz_tstat-z0-hxy-x",
+  "branded_variable": "bldepmax_tstat-z0-hxy-x",
   "cell_methods": "area: mean time: maximum",
   "cmip6_compound_name": "AERday.maxpblz",
-  "description": "Maximum PBL Height",
+  "description": "maximum boundary layer height during the day (add cell_methods attribute: \"time: maximum\")",
   "dimensions": [
     "longitude",
     "latitude",
@@ -14,5 +15,5 @@
   "type": [
     "TBD"
   ],
-  "variableRootDD": "maxpblz"
+  "variableRootDD": "bldepmax"
 }

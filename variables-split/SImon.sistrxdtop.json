@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "sistrxdtop_tavg-z0-hxy-si",
-  "cell_methods": "area: time: mean where sea_ice (comment: mask=siconc)",
+  "cell_methods": "area: mean where sea_ice time: point",
   "cmip6_compound_name": "SImon.sistrxdtop",
-  "description": "X-Component of Atmospheric Stress on Sea Ice",
+  "description": "X-component of the atmospheric stress on the surface of sea ice divided by grid-cell area.",
   "dimensions": [
     "longitude",
     "latitude",

@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "ta_tavg-p19-hxy-x",
-  "cell_methods": "time: mean",
+  "branded_variable": "ta_tavg-p19-hxy-air",
+  "cell_methods": "area: time: mean where air",
   "cmip6_compound_name": "Eday.ta",
-  "description": "Air Temperature",
+  "description": "The difference is to request greater vertical",
   "dimensions": [
     "longitude",
     "latitude",

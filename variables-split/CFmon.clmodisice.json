@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "clmodisice_tavg-p7c-hxy-air",
   "cell_methods": "area: time: mean where air",
   "cmip6_compound_name": "CFmon.clmodisice",
-  "description": "MODIS Ice Topped Cloud Area Fraction",
+  "description": "Percentage ice-cloud cover in optical depth categories, as seen by the MODIS instrument simulator. Dimensions of tau (optical depth) and cloud-top pressure are the same as used by clisccp output from the ISCCP satellite simulator. ",
   "dimensions": [
     "longitude",
     "latitude",

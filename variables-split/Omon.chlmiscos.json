@@ -1,18 +1,20 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "chlmiscos_tavg-z0-hxy-sea",
+  "branded_variable": "chlmisc_tavg-z00-hxy-sea",
   "cell_methods": "area: mean where sea time: mean",
   "cmip6_compound_name": "Omon.chlmiscos",
-  "description": "Surface Mass Concentration of Other Phytoplankton Expressed as Chlorophyll in Sea Water",
+  "description": "chlorophyll from additional phytoplankton component concentrations alone",
   "dimensions": [
     "longitude",
     "latitude",
-    "time"
+    "time",
+    "depth0m"
   ],
   "id": "TBD",
   "label": "TBD",
   "type": [
     "TBD"
   ],
-  "variableRootDD": "chlmiscos"
+  "variableRootDD": "chlmisc"
 }

@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "utendwtem_tavg-p39-hy-air",
   "cell_methods": "longitude: time: mean where air",
   "cmip6_compound_name": "EdayZ.utendwtem",
-  "description": "Tendency of Eastward Wind Due to TEM Upward Advection",
+  "description": "Zonal mean tendency of eastward wind due to TEM upward advection",
   "dimensions": [
     "latitude",
     "plev39",

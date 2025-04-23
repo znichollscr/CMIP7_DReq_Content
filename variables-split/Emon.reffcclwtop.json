@@ -1,7 +1,8 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "reffcclwtop_tavg-z0-hxy-ccl",
-  "cell_methods": "area: time: mean where convective_cloud (weighted by total convective cloud area)",
+  "cell_methods": "area: time: mean where convective_cloud (weighted by area of upper-most convective cloud layer)",
   "cmip6_compound_name": "Emon.reffcclwtop",
   "description": "Cloud-Top Effective Droplet Radius in Convective Cloud",
   "dimensions": [

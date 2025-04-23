@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "zfull_ti-l-hxy-x",
   "cell_methods": "area: mean",
   "cmip6_compound_name": "fx.zfull",
-  "description": "Altitude of Model Full-Levels",
+  "description": "Provide only if altitude of full model levels is fixed",
   "dimensions": [
     "longitude",
     "latitude",

@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "thkcello_ti-l-hxy-sea",
   "cell_methods": "area: mean where sea",
   "cmip6_compound_name": "Ofx.thkcello",
-  "description": "Ocean Model Cell Thickness",
+  "description": "Thickness of ocean cells. \"Thickness\" means the vertical extent of a layer. \"Cell\" refers to a model grid-cell.",
   "dimensions": [
     "longitude",
     "latitude",

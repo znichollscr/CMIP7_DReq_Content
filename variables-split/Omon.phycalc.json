@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "phycalc_tavg-l-hxy-sea",
   "cell_methods": "area: mean where sea time: mean",
   "cmip6_compound_name": "Omon.phycalc",
-  "description": "Mole Concentration of Calcareous Phytoplankton Expressed as Carbon in Sea Water",
+  "description": "carbon concentration from calcareous (calcite-producing) phytoplankton component alone",
   "dimensions": [
     "longitude",
     "latitude",

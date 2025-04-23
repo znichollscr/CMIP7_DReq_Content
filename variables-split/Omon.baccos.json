@@ -1,18 +1,20 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "baccos_tavg-z0-hxy-sea",
+  "branded_variable": "bacc_tavg-z00-hxy-sea",
   "cell_methods": "area: mean where sea time: mean",
   "cmip6_compound_name": "Omon.baccos",
-  "description": "Surface Bacterial Carbon Concentration",
+  "description": "sum of bacterial carbon component concentrations",
   "dimensions": [
     "longitude",
     "latitude",
-    "time"
+    "time",
+    "depth0m"
   ],
   "id": "TBD",
   "label": "TBD",
   "type": [
     "TBD"
   ],
-  "variableRootDD": "baccos"
+  "variableRootDD": "bacc"
 }

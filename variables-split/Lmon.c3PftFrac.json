@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "c3PftFrac_tavg-z0-hxy-lnd",
-  "cell_methods": "area: mean where land over all_area_types time: mean",
+  "branded_variable": "c3PftFrac_tavg-z0-hxy-x",
+  "cell_methods": "area: mean time:mean\" (or \"area time: mean\")",
   "cmip6_compound_name": "Lmon.c3PftFrac",
-  "description": "Percentage Cover by C3 Plant Functional Type",
+  "description": "Percentage of entire grid cell  that is covered by C3 PFTs (including grass, crops, and trees).",
   "dimensions": [
     "longitude",
     "latitude",

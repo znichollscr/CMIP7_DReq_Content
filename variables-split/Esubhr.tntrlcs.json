@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "tntrlcs_tpt-l-hxys-x",
   "cell_methods": "area: point time: point",
   "cmip6_compound_name": "Esubhr.tntrlcs",
-  "description": "Tendency of Air Temperature Due to Clear Sky Longwave Radiative Heating",
+  "description": "alevel site time1",
   "dimensions": [
     "alevel",
     "site",

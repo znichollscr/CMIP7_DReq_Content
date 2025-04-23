@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "hur500_tpt-p0500-hxy-x",
-  "cell_methods": "area: mean time: point",
+  "branded_variable": "hur_tpt-p0500-hxy-air",
+  "cell_methods": "area: mean where air time: point",
   "cmip6_compound_name": "6hrPlevPt.hur500",
-  "description": "hu500",
+  "description": "Relative humidity at 500 hPa, 6 hourly instantaneous",
   "dimensions": [
     "longitude",
     "latitude",
@@ -15,5 +16,5 @@
   "type": [
     "TBD"
   ],
-  "variableRootDD": "hur500"
+  "variableRootDD": "hur"
 }

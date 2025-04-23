@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "intdic_tavg-z0-hxy-sea",
-  "cell_methods": "area: mean where sea depth: sum where sea time: mean",
+  "cell_methods": "depth: sum where sea (over entire ocean column) area: time: mean",
   "cmip6_compound_name": "Omon.intdic",
-  "description": "Dissolved Inorganic Carbon Content",
+  "description": "Vertically integrated DIC",
   "dimensions": [
     "longitude",
     "latitude",

@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "mrso10_tavg-z01-hxy-lnd",
+  "branded_variable": "mrsol_tavg-z01-hxy-lnd",
   "cell_methods": "area: mean where land time: mean",
   "cmip6_compound_name": "Eday.mrso10",
-  "description": "mrso10",
+  "description": "Soil moisture in the top 10 cm of the soil column",
   "dimensions": [
     "longitude",
     "latitude",
@@ -15,5 +16,5 @@
   "type": [
     "TBD"
   ],
-  "variableRootDD": "mrso10"
+  "variableRootDD": "mrsol"
 }

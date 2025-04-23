@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "ta850_tavg-p0850-hxy-air",
   "cell_methods": "area: time: mean where air",
   "cmip6_compound_name": "Eday.ta850",
-  "description": "Air Temperature",
+  "description": "Air temperature at 850hPa",
   "dimensions": [
     "longitude",
     "latitude",

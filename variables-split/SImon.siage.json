@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "siage_tavg-z0-hxy-si",
-  "cell_methods": "area: time: mean where sea_ice (comment: mask=siconc)",
+  "cell_methods": "area: time: mean where sea_ice",
   "cmip6_compound_name": "SImon.siage",
-  "description": "Age of Sea Ice",
+  "description": "Age of sea ice since its formation in open water.",
   "dimensions": [
     "longitude",
     "latitude",

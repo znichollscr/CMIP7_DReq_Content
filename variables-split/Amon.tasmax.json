@@ -1,13 +1,14 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "tasmax_tstat-h02-hxy-x",
   "cell_methods": "area: mean time: maximum within days time: mean over days",
   "cmip6_compound_name": "Amon.tasmax",
-  "description": "Daily Maximum Near-Surface Air Temperature",
+  "description": "monthly mean of the daily-maximum near-surface air temperature.",
   "dimensions": [
     "longitude",
     "latitude",
-    "time4",
+    "time2",
     "height2m"
   ],
   "id": "TBD",

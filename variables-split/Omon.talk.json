@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "talk_tavg-l-hxy-sea",
   "cell_methods": "area: mean where sea time: mean",
   "cmip6_compound_name": "Omon.talk",
-  "description": "Total Alkalinity",
+  "description": "total alkalinity equivalent concentration (including carbonate, borate, phosphorus, silicon, and nitrogen components)",
   "dimensions": [
     "longitude",
     "latitude",

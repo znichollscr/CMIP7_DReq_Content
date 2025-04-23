@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "od550oa_tavg-z0-hxy-x",
   "cell_methods": "area: time: mean",
   "cmip6_compound_name": "AERmon.od550oa",
-  "description": "Total Organic Aerosol Optical Depth at 550nm",
+  "description": "total organic aerosol AOD, comprises all organic aerosols, primary + secondary ; natural + anthropogenic including biomasss burning organic aerosol",
   "dimensions": [
     "longitude",
     "latitude",

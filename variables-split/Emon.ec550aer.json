@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "ec550aer_tavg-l-hxy-x",
-  "cell_methods": "area: time: mean",
+  "cell_methods": "area: time: mean (weighted by downwelling solar radiation)",
   "cmip6_compound_name": "Emon.ec550aer",
-  "description": "Aerosol Extinction Coefficient",
+  "description": "Aerosol Extinction at 550nm",
   "dimensions": [
     "longitude",
     "latitude",
