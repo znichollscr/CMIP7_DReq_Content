@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "snc_tavg-z0-hxy-si",
+  "cell_methods": "area: time: mean where sea_ice",
+  "description": "Area fraction of the sea-ice surface that is covered by snow. In many models that do not explicitly resolve an areal fraction of snow, this variable will always be either 0 or 1.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "snc"
+}

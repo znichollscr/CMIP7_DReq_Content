@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "mrfso_tavg-z0-hxy-lnd",
+  "cell_methods": "area: mean where land time: mean",
+  "description": "the mass (summed over all all layers) of frozen water.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "mrfso"
+}

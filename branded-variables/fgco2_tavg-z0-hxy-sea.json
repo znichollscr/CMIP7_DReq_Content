@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "fgco2_tavg-z0-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "description": "Gas exchange flux of CO2 (positive into ocean)",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "fgco2"
+}

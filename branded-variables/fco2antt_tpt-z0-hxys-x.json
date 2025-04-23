@@ -1,0 +1,16 @@
+{
+  "@context": "TBD",
+  "branded_variable": "fco2antt_tpt-z0-hxys-x",
+  "cell_methods": "area: point time: point",
+  "description": "This is requested only for the emission-driven coupled carbon climate model runs.  Does not include natural fire sources but, includes all anthropogenic sources, including fossil fuel use, cement production, agricultural burning, and sources associated with anthropogenic land use change excluding forest regrowth.",
+  "dimensions": [
+    "site",
+    "time1"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "fco2antt"
+}

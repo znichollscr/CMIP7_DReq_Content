@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "vegHeight_tavg-z0-hxy-veg",
+  "cell_methods": "area: time: mean where vegetation",
+  "description": "Vegetation height averaged over all vegetation types and over the vegetated fraction of a grid cell.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "vegHeight"
+}

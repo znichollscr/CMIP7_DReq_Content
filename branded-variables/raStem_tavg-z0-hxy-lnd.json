@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "raStem_tavg-z0-hxy-lnd",
+  "cell_methods": "area: mean where land time: mean",
+  "description": "added for completeness with Ra_root",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "raStem"
+}

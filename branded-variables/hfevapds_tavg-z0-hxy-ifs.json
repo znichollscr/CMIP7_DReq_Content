@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "hfevapds_tavg-z0-hxy-ifs",
+  "cell_methods": "area: time: mean where ice_free_sea over sea",
+  "description": "This is defined as \"where ice_free_sea over sea\"",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "hfevapds"
+}

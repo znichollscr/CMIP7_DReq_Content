@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "fsitherm_tavg-z0-hxy-si",
+  "cell_methods": "area: time: mean where sea_ice",
+  "description": "Total flux of fresh water from water into sea ice divided by grid-cell area. This flux is positive when fresh water enters the ocean, and is therefore negative during ice growth and positive during ice melt.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "fsitherm"
+}

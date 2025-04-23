@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "rsds_tavg-z0-hxy-ufs",
+  "cell_methods": "\"area: time: mean where unfrozen_soil (at the surface, but frozen below zero isotherm)\"",
+  "description": "Surface Downwelling Shortwave Radiation over the portion of a land grid cell not covered by ice sheets or snow. Can be used for computation of surface albedo.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "rsds"
+}

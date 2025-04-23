@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "dmso_tavg-l-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "description": "Mole concentration of dimethyl sulphide in water",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "olevel",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "dmso"
+}

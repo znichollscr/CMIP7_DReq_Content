@@ -1,0 +1,16 @@
+{
+  "@context": "TBD",
+  "branded_variable": "depthl_ti-z0-hxy-x",
+  "cell_methods": "area: mean",
+  "description": "Depth of lakes, if this quantity is present in the model. If computed via volume and area, then this is lake volume divided by lake area.",
+  "dimensions": [
+    "longitude",
+    "latitude"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "depthl"
+}

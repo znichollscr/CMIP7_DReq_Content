@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "c14Veg_tavg-z0-hxy-lnd",
+  "cell_methods": "area: mean where land time: mean",
+  "description": "only requested for DECK HIST",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "c14Veg"
+}

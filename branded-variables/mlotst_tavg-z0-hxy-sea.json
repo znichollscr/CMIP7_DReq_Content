@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "mlotst_tavg-z0-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "description": "TBC (clashes in original table)",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time",
+    "deltasigt"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "mlotst"
+}

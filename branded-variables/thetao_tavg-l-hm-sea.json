@@ -1,0 +1,16 @@
+{
+  "@context": "TBD",
+  "branded_variable": "thetao_tavg-l-hm-sea",
+  "cell_methods": "depth: area: mean where sea time: mean",
+  "description": "Diagnostic should be contributed even for models using conservative temperature as prognostic field",
+  "dimensions": [
+    "olevel",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "thetao"
+}

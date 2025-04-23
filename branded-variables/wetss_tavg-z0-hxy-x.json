@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "wetss_tavg-z0-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "Deposition rate of sea salt aerosols (measured by the dry mass) due to wet processes",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "wetss"
+}

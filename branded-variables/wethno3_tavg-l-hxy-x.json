@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "wethno3_tavg-l-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "This is the loss rate of nitric acid (HNO3) from the atmosphere due to wet deposition",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "alevel",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "wethno3"
+}

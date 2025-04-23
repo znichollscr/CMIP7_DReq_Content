@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "zmisc_tavg-l-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "description": "carbon from additional zooplankton component concentrations alone (e.g. Micro, meso).  Since the models all have different numbers of components, this variable has been included to provide a check for intercomparison between models since some phytoplankton groups are supersets.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "olevel",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "zmisc"
+}

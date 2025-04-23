@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "tdps_tavg-h02-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "Dew point temperature is the temperature at which a parcel of air reaches saturation upon being cooled at constant pressure and specific humidity.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time",
+    "height2m"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "tdps"
+}

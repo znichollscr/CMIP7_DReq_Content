@@ -1,0 +1,16 @@
+{
+  "@context": "TBD",
+  "branded_variable": "rsutcs_tpt-z0-hxys-x",
+  "cell_methods": "area: point time: point",
+  "description": "Calculated in the absence of clouds.",
+  "dimensions": [
+    "site",
+    "time1"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "rsutcs"
+}

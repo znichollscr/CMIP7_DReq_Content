@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "mrsol_tpt-z0p1-hxy-lnd",
+  "cell_methods": "area: mean where land time: point",
+  "description": "the mass of water in all phases in a thin surface soil layer.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time1",
+    "sdepth1"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "mrsol"
+}

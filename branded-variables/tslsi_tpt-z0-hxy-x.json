@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "tslsi_tpt-z0-hxy-x",
+  "cell_methods": "area: mean (where  land or sea ice or ice shelf) time: point",
+  "description": "Surface temperature of all surfaces except open ocean, sampled synoptically.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time1"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "tslsi"
+}

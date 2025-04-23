@@ -1,0 +1,16 @@
+{
+  "@context": "TBD",
+  "branded_variable": "sftof_ti-z0-hxy-x",
+  "cell_methods": "area: mean",
+  "description": "This is the area fraction at the ocean surface.",
+  "dimensions": [
+    "longitude",
+    "latitude"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "sftof"
+}

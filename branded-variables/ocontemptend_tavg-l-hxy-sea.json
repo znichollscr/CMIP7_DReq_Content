@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "ocontemptend_tavg-l-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "description": "Tendency of heat content for a grid cell from all processes. Reported only for models that use conservative temperature as prognostic field.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "olevel",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "ocontemptend"
+}
