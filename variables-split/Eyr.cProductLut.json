@@ -1,0 +1,19 @@
+{
+  "@context": "TBD",
+  "branded_variable": "cProductLut_tpt-z0-hxy-lus",
+  "cell_methods": "area: mean where sector time: point",
+  "cmip6_compound_name": "Eyr.cProductLut",
+  "description": "Wood and Agricultural Product Pool Carbon Associated with Land-Use Tiles",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "landUse",
+    "time1"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "cProductLut"
+}

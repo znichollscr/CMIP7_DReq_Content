@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "phalf_tpt-l-hxys-x",
+  "cell_methods": "area: point time: point",
+  "cmip6_compound_name": "CFsubhr.phalf",
+  "description": "Pressure on Model Half-Levels",
+  "dimensions": [
+    "alevhalf",
+    "site",
+    "time1"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "phalf"
+}

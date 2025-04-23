@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "lithk_tavg-z0-hxy-is",
+  "cell_methods": "area: time: mean where ice_sheet",
+  "cmip6_compound_name": "IyrGre.lithk",
+  "description": "Ice Sheet Thickness",
+  "dimensions": [
+    "xgre",
+    "ygre",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "lithk"
+}

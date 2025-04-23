@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "rsussi_tavg-z0-hxy-si",
+  "cell_methods": "area: time: mean where sea_ice (comment: mask=siconc)",
+  "cmip6_compound_name": "Emon.rsussi",
+  "description": "Surface Upwelling Shortwave Radiation over Sea Ice",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "rsussi"
+}

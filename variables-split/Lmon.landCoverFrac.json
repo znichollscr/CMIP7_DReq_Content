@@ -1,0 +1,19 @@
+{
+  "@context": "TBD",
+  "branded_variable": "landCoverFrac_tavg-z0-hxy-lnd",
+  "cell_methods": "area: mean where land over all_area_types time: mean",
+  "cmip6_compound_name": "Lmon.landCoverFrac",
+  "description": "Percentage of Area by Vegetation or Land-Cover Category",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "vegtype",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "landCoverFrac"
+}

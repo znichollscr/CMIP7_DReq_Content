@@ -1,0 +1,23 @@
+{
+  "@context": "TBD",
+  "branded_variable": "scint_tavg-z00-hxy-sea",
+  "cell_methods": "area: mean where sea",
+  "cmip6_compound_name": "Omon.scint",
+  "description": "Integral wrt depth of seawater practical salinity expressed as salt mass content",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "swplayers",
+    "time",
+    "depth0m",
+    "depth300m",
+    "depth700m",
+    "depth2000m"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "scint"
+}

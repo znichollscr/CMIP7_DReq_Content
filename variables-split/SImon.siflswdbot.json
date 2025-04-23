@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "siflswdbot_tavg-z0-hxy-si",
+  "cell_methods": "area: time: mean where sea_ice (comment: mask=siconc)",
+  "cmip6_compound_name": "SImon.siflswdbot",
+  "description": "Downwelling Shortwave Flux under Sea Ice",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "siflswdbot"
+}

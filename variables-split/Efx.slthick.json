@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "slthick_ti-l-hxy-lnd",
+  "cell_methods": "area: mean where land",
+  "cmip6_compound_name": "Efx.slthick",
+  "description": "Thickness of Soil Layers",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "sdepth"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "slthick"
+}

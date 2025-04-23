@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "hfds_tavg-z0-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "cmip6_compound_name": "3hr.hfds",
+  "description": "Downward Heat Flux at Sea Water Surface\n",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "hfds"
+}

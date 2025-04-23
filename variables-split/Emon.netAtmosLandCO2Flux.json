@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "netAtmosLandCO2Flux_tavg-z0-hxy-lnd",
+  "cell_methods": "area: mean where land time: mean",
+  "cmip6_compound_name": "Emon.netAtmosLandCO2Flux",
+  "description": "Net Flux of CO2 Between Atmosphere and Land (Positive into Land) as a Result of All Processes [kgC m-2 s-1]",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "netAtmosLandCO2Flux"
+}

@@ -1,0 +1,19 @@
+{
+  "@context": "TBD",
+  "branded_variable": "evu_tavg-l-hxy-x",
+  "cell_methods": "area: time: mean",
+  "cmip6_compound_name": "CFmon.evu",
+  "description": "Eddy Viscosity Coefficient for Momentum",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "alevel",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "evu"
+}

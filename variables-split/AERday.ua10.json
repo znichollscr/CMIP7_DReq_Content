@@ -1,0 +1,19 @@
+{
+  "@context": "TBD",
+  "branded_variable": "ua10_tavg-p010-hxy-air",
+  "cell_methods": "area: time: mean where air",
+  "cmip6_compound_name": "AERday.ua10",
+  "description": "Eastward Wind at 10hPa",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time",
+    "p10"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "ua10"
+}

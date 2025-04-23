@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "sftlf_ti-z0-hxy-x",
+  "cell_methods": "area: mean",
+  "cmip6_compound_name": "fx.sftlf",
+  "description": "Percentage of the Grid Cell Occupied by Land (Including Lakes)",
+  "dimensions": [
+    "longitude",
+    "latitude"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "sftlf"
+}

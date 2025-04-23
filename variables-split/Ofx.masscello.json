@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "masscello_ti-l-hxy-x",
+  "cell_methods": "area: mean",
+  "cmip6_compound_name": "Ofx.masscello",
+  "description": "Ocean Grid-Cell Mass per Area",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "olevel"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "masscello"
+}

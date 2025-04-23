@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "rsd_tpt-l-hxys-x",
+  "cell_methods": "area: point time: point",
+  "cmip6_compound_name": "CFsubhr.rsd",
+  "description": "Downwelling Shortwave Radiation",
+  "dimensions": [
+    "alevhalf",
+    "site",
+    "time1"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "rsd"
+}

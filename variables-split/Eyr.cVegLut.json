@@ -1,0 +1,19 @@
+{
+  "@context": "TBD",
+  "branded_variable": "cVegLut_tpt-z0-hxy-lus",
+  "cell_methods": "area: mean where sector time: point",
+  "cmip6_compound_name": "Eyr.cVegLut",
+  "description": "Carbon in Vegetation on Land-Use Tiles",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "landUse",
+    "time1"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "cVegLut"
+}

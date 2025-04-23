@@ -1,0 +1,19 @@
+{
+  "@context": "TBD",
+  "branded_variable": "huss_tpt-h02-hxy-x",
+  "cell_methods": "area: mean time: point",
+  "cmip6_compound_name": "3hr.huss",
+  "description": "Near-Surface Specific Humidity",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time1",
+    "height2m"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "huss"
+}

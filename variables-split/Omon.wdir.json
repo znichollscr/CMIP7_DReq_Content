@@ -1,0 +1,19 @@
+{
+  "@context": "TBD",
+  "branded_variable": "wdir_tavg-z00-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "cmip6_compound_name": "Omon.wdir",
+  "description": "Total Wave Direction",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time",
+    "depth0m"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "wdir"
+}

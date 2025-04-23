@@ -1,0 +1,19 @@
+{
+  "@context": "TBD",
+  "branded_variable": "rsdo_tavg-l-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "cmip6_compound_name": "Oday.rsdo",
+  "description": "Downwelling Shortwave Radiation in Sea Water\n",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "olevel",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "rsdo"
+}

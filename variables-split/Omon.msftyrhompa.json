@@ -1,0 +1,19 @@
+{
+  "@context": "TBD",
+  "branded_variable": "msftyrhompa_tavg-rhon-ht-x",
+  "cell_methods": "time: mean grid_longitude: mean",
+  "cmip6_compound_name": "Omon.msftyrhompa",
+  "description": "Ocean Y Overturning Mass Streamfunction Due to Parameterized Mesoscale Advection",
+  "dimensions": [
+    "gridlatitude",
+    "rho",
+    "basin",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "msftyrhompa"
+}

@@ -1,0 +1,19 @@
+{
+  "@context": "TBD",
+  "branded_variable": "mmrso4_tavg-l-hxy-x",
+  "cell_methods": "area: time: mean",
+  "cmip6_compound_name": "AERmon.mmrso4",
+  "description": "Aerosol Sulfate Mass Mixing Ratio",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "alevel",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "mmrso4"
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "albsn_tavg-z0-hxy-sn",
+  "cell_methods": "area: time: mean where snow (comment: mask=snc)",
+  "cmip6_compound_name": "Emon.albsn",
+  "description": "Snow Albedo",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "albsn"
+}

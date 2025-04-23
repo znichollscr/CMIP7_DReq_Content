@@ -1,0 +1,19 @@
+{
+  "@context": "TBD",
+  "branded_variable": "reffclis_tavg-l-hxy-scl",
+  "cell_methods": "area: time: mean where stratiform_cloud (weighted by total stratiform cloud area)",
+  "cmip6_compound_name": "Emon.reffclis",
+  "description": "Hydrometeor Effective Radius of Stratiform Cloud Ice",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "alevel",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "reffclis"
+}

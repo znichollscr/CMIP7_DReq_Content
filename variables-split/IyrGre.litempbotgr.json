@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "litempbotgr_tavg-z0-hxy-gis",
+  "cell_methods": "area: time: mean where grounded_ice_sheet (comment: mask=sfgrlf)",
+  "cmip6_compound_name": "IyrGre.litempbotgr",
+  "description": "Basal Temperature of Grounded Ice Sheet",
+  "dimensions": [
+    "xgre",
+    "ygre",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "litempbotgr"
+}

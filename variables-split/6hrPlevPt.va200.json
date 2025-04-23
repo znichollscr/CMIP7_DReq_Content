@@ -1,0 +1,19 @@
+{
+  "@context": "TBD",
+  "branded_variable": "va200_tpt-z0-hxy-x",
+  "cell_methods": "area: mean time: point",
+  "cmip6_compound_name": "6hrPlevPt.va200",
+  "description": "va200",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time1",
+    "p200"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "va200"
+}

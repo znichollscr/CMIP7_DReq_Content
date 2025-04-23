@@ -1,0 +1,19 @@
+{
+  "@context": "TBD",
+  "branded_variable": "volcello_tavg-l-hxy-sea",
+  "cell_methods": "area: sum where sea time: mean",
+  "cmip6_compound_name": "Odec.volcello",
+  "description": "Ocean Grid-Cell Volume",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "olevel",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "volcello"
+}

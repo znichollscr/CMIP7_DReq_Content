@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "fco2fos_tpt-z0-hxys-x",
+  "cell_methods": "area: point time: point",
+  "cmip6_compound_name": "CFsubhr.fco2fos",
+  "description": "Carbon Mass Flux into Atmosphere Due to Fossil Fuel Emissions of CO2 [kgC m-2 s-1]",
+  "dimensions": [
+    "site",
+    "time1"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "fco2fos"
+}

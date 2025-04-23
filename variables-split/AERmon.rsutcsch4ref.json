@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "rsutcsch4ref_tavg-z0-hxy-x",
+  "cell_methods": "area: time: mean",
+  "cmip6_compound_name": "AERmon.rsutcsch4ref",
+  "description": "TOA outgoing shortwave flux assuming clear-sky and reference methane field ",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "rsutcsch4ref"
+}

@@ -1,0 +1,19 @@
+{
+  "@context": "TBD",
+  "branded_variable": "tob_tavg-z0-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "cmip6_compound_name": "Omon.tob",
+  "description": "Sea Water Potential Temperature at Sea Floor",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "depthseafloor",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "tob"
+}

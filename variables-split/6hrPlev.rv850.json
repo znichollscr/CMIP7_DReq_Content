@@ -1,0 +1,19 @@
+{
+  "@context": "TBD",
+  "branded_variable": "rv850_tavg-p0850-hxy-air",
+  "cell_methods": "area: time: mean where air",
+  "cmip6_compound_name": "6hrPlev.rv850",
+  "description": "Relative Vorticity at 850hPa",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time",
+    "p850"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "rv850"
+}

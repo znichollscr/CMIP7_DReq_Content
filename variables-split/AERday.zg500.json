@@ -1,0 +1,19 @@
+{
+  "@context": "TBD",
+  "branded_variable": "zg500_tavg-p0500-hxy-air",
+  "cell_methods": "area: time: mean where air",
+  "cmip6_compound_name": "AERday.zg500",
+  "description": "Geopotential Height at 500hPa",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time",
+    "p500"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "zg500"
+}

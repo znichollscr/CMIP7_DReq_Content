@@ -1,0 +1,16 @@
+{
+  "@context": "TBD",
+  "branded_variable": "sivoln_tavg-z0-hm-x",
+  "cell_methods": "area: time: mean",
+  "cmip6_compound_name": "SIday.sivoln",
+  "description": "Sea-Ice Volume North",
+  "dimensions": [
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "sivoln"
+}

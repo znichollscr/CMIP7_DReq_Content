@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "irrLut_tavg-z0-hxy-x",
+  "cell_methods": "area: mean",
+  "cmip6_compound_name": "day.irrLut",
+  "description": "irrigation water withdrawal",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "irrLut"
+}

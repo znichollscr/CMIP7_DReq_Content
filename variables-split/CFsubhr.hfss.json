@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "hfss_tpt-z0-hxys-x",
+  "cell_methods": "area: point time: point",
+  "cmip6_compound_name": "CFsubhr.hfss",
+  "description": "Surface Upward Sensible Heat Flux",
+  "dimensions": [
+    "site",
+    "time1"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "hfss"
+}

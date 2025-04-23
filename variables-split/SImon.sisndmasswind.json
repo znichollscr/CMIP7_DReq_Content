@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "sisndmasswind_tavg-z0-hxy-si",
+  "cell_methods": "area: time: mean where sea_ice (comment: mask=siconc)",
+  "cmip6_compound_name": "SImon.sisndmasswind",
+  "description": "Snow Mass Rate of Change Through Wind Drift of Snow",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "sisndmasswind"
+}

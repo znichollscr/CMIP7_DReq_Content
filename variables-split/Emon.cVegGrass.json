@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "cVegGrass_tavg-z0-hxy-ng",
+  "cell_methods": "area: time: mean where natural_grasses (comment: mask=grassFrac)",
+  "cmip6_compound_name": "Emon.cVegGrass",
+  "description": "Carbon Mass in Vegetation on Grass Tiles",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "cVegGrass"
+}

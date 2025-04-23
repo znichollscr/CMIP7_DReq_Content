@@ -1,0 +1,19 @@
+{
+  "@context": "TBD",
+  "branded_variable": "uaUTLS_tpt-z0-hxy-air",
+  "cell_methods": "area: mean where air time: point",
+  "cmip6_compound_name": "6hrPlevPt.uaUTLS",
+  "description": "6 hourly instantaneous northward wind in the UTLS region ",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "plev5u",
+    "time1"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "uaUTLS"
+}

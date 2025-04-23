@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "irrDem_tavg-z0-hxy-x",
+  "cell_methods": "area: mean",
+  "cmip6_compound_name": "day.irrDem",
+  "description": "irrigation water demand",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "irrDem"
+}

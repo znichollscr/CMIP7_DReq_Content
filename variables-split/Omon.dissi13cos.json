@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "dissi13cos_tavg-z0-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "cmip6_compound_name": "Omon.dissi13cos",
+  "description": "Surface Dissolved Inorganic Carbon-13 Concentration",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "dissi13cos"
+}

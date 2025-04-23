@@ -1,0 +1,19 @@
+{
+  "@context": "TBD",
+  "branded_variable": "wap500_tavg-p0500-hxy-air",
+  "cell_methods": "area: time: mean where air",
+  "cmip6_compound_name": "CFday.wap500",
+  "description": "Pressure Tendency",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time",
+    "p500"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "wap500"
+}

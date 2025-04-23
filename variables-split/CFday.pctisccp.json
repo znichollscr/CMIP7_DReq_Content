@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "pctisccp_tavg-z0-hxy-cl",
+  "cell_methods": "area: time: mean where cloud",
+  "cmip6_compound_name": "CFday.pctisccp",
+  "description": "ISCCP Mean Cloud Top Pressure",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "pctisccp"
+}

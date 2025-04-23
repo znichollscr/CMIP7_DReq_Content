@@ -1,0 +1,16 @@
+{
+  "@context": "TBD",
+  "branded_variable": "lat_ti-z0-hxys-x",
+  "cell_methods": "area: point",
+  "cmip6_compound_name": "fx.lat",
+  "description": "Latitude",
+  "dimensions": [
+    "site"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "lat"
+}

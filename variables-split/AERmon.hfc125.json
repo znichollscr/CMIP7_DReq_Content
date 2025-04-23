@@ -1,0 +1,19 @@
+{
+  "@context": "TBD",
+  "branded_variable": "hfc125_tavg-l-hxy-x",
+  "cell_methods": "area: time: mean",
+  "cmip6_compound_name": "AERmon.hfc125",
+  "description": "Mole Fraction of HFC125",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "alevel",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "hfc125"
+}

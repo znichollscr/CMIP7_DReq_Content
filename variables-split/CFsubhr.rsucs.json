@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "rsucs_tpt-l-hxys-x",
+  "cell_methods": "area: point time: point",
+  "cmip6_compound_name": "CFsubhr.rsucs",
+  "description": "Upwelling Clear-Sky Shortwave Radiation",
+  "dimensions": [
+    "alevhalf",
+    "site",
+    "time1"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "rsucs"
+}

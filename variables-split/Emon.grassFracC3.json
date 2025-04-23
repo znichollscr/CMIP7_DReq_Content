@@ -1,0 +1,19 @@
+{
+  "@context": "TBD",
+  "branded_variable": "grassFracC3_tavg-z0-hxy-lnd",
+  "cell_methods": "area: mean where land over all_area_types time: mean",
+  "cmip6_compound_name": "Emon.grassFracC3",
+  "description": "C3 Natural Grass Area Percentage",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time",
+    "typec3natg"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "grassFracC3"
+}

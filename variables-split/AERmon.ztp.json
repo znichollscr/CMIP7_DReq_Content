@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "ztp_tavg-z0-hxy-x",
+  "cell_methods": "area: time: mean",
+  "cmip6_compound_name": "AERmon.ztp",
+  "description": "Tropopause Altitude Above Geoid",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "ztp"
+}

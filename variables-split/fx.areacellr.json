@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "areacellr_ti-z0-hxy-x",
+  "cell_methods": "area: sum",
+  "cmip6_compound_name": "fx.areacellr",
+  "description": "Grid-Cell Area for River Model Variables",
+  "dimensions": [
+    "longitude",
+    "latitude"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "areacellr"
+}

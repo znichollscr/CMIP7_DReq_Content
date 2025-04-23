@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "cGeologicStorage_tavg-z0-hxy-x",
+  "cell_methods": "area: mean",
+  "cmip6_compound_name": "Lmon.cGeologicStorage",
+  "description": "Carbon Mass in Geologic Storage",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "cGeologicStorage"
+}

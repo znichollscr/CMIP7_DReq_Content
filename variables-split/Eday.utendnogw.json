@@ -1,0 +1,19 @@
+{
+  "@context": "TBD",
+  "branded_variable": "utendnogw_tavg-p19-hxy-air",
+  "cell_methods": "area: time: mean where air",
+  "cmip6_compound_name": "Eday.utendnogw",
+  "description": "Tendency of eastward wind due to non-orographic gravity waves",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "plev19",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "utendnogw"
+}

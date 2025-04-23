@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "nVeg_tavg-z0-hxy-lnd",
+  "cell_methods": "area: mean where land time: mean",
+  "cmip6_compound_name": "Emon.nVeg",
+  "description": "Nitrogen Mass in Vegetation",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "nVeg"
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "pr17O_tavg-z0-hxy-x",
+  "cell_methods": "area: time: mean",
+  "cmip6_compound_name": "Emon.pr17O",
+  "description": "Precipitation Flux of Water Containing Oxygen-17 (H2 17O)",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "pr17O"
+}

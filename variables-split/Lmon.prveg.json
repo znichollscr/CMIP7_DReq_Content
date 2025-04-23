@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "prveg_tavg-z0-hxy-lnd",
+  "cell_methods": "area: mean where land time: mean",
+  "cmip6_compound_name": "Lmon.prveg",
+  "description": "Precipitation onto Canopy",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "prveg"
+}

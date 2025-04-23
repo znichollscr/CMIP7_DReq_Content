@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "gppTree_tavg-z0-hxy-tree",
+  "cell_methods": "area: time: mean where trees (comment: mask=treeFrac)",
+  "cmip6_compound_name": "Emon.gppTree",
+  "description": "Gross Primary Production on Tree Tiles as Carbon Mass Flux [kgC m-2 s-1]",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "gppTree"
+}

@@ -1,0 +1,19 @@
+{
+  "@context": "TBD",
+  "branded_variable": "hur100_tpt-p0100-hxy-x",
+  "cell_methods": "area: mean time: point",
+  "cmip6_compound_name": "6hrPlevPt.hur100",
+  "description": "hur100",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time1",
+    "p100"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "hur100"
+}

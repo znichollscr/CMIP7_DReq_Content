@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "fVegSoilMortality_tavg-z0-hxy-lnd",
+  "cell_methods": "area: mean where land time: mean",
+  "cmip6_compound_name": "Emon.fVegSoilMortality",
+  "description": "Total Carbon Mass Flux from Vegetation to Soil as a Result of Mortality",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "fVegSoilMortality"
+}

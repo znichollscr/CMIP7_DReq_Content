@@ -1,0 +1,19 @@
+{
+  "@context": "TBD",
+  "branded_variable": "airmass_tavg-l-hxy-x",
+  "cell_methods": "area: time: mean",
+  "cmip6_compound_name": "AERmon.airmass",
+  "description": "Vertically Integrated Mass Content of Air in Layer",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "alevel",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "airmass"
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "fN2O_tavg-z0-hxy-lnd",
+  "cell_methods": "area: mean where land time: mean",
+  "cmip6_compound_name": "Emon.fN2O",
+  "description": "Total Land N2O Flux",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "fN2O"
+}

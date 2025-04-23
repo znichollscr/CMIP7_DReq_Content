@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "mmrbc_tpt-z0-hxys-x",
+  "cell_methods": "area: point time: point",
+  "cmip6_compound_name": "E3hrPt.mmrbc",
+  "description": "Elemental carbon mass mixing ratio",
+  "dimensions": [
+    "site",
+    "time1"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "mmrbc"
+}

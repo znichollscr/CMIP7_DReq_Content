@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "fNgasFire_tavg-z0-hxy-lnd",
+  "cell_methods": "area: mean where land time: mean",
+  "cmip6_compound_name": "Emon.fNgasFire",
+  "description": "Total Nitrogen Lost to the Atmosphere (Including NHx, NOx, N2O, N2) from Fire",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "fNgasFire"
+}

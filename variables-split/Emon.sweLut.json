@@ -1,0 +1,19 @@
+{
+  "@context": "TBD",
+  "branded_variable": "sweLut_tavg-z0-hxy-lus",
+  "cell_methods": "area: time: mean where sector",
+  "cmip6_compound_name": "Emon.sweLut",
+  "description": "Snow Water Equivalent on Land-Use Tile",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "landUse",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "sweLut"
+}

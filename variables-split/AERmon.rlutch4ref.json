@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "rlutch4ref_tavg-z0-hxy-x",
+  "cell_methods": "area: time: mean",
+  "cmip6_compound_name": "AERmon.rlutch4ref",
+  "description": "TOA outgoing longwave flux assuming reference methane field",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "rlutch4ref"
+}

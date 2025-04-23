@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "rhLitter_tavg-z0-hxy-lnd",
+  "cell_methods": "area: mean where land time: mean",
+  "cmip6_compound_name": "Emon.rhLitter",
+  "description": "Carbon Mass Flux into Atmosphere Due to Heterotrophic Respiration from Litter on Land",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "rhLitter"
+}

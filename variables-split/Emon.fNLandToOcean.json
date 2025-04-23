@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "fNLandToOcean_tavg-z0-hxy-lnd",
+  "cell_methods": "area: mean where land time: mean",
+  "cmip6_compound_name": "Emon.fNLandToOcean",
+  "description": "Lateral Transfer of Nitrogen out of Grid Cell That Eventually Goes into Ocean",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "fNLandToOcean"
+}

@@ -1,0 +1,19 @@
+{
+  "@context": "TBD",
+  "branded_variable": "co23D_tavg-l-hxy-x",
+  "cell_methods": "area: time: mean",
+  "cmip6_compound_name": "Emon.co23D",
+  "description": "3D-Field of Transported CO2",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "alevel",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "co23D"
+}

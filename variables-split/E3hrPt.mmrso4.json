@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "mmrso4_tpt-z0-hxys-x",
+  "cell_methods": "area: point time: point",
+  "cmip6_compound_name": "E3hrPt.mmrso4",
+  "description": "Instantaneous Aerosol Sulfate Mass Mixing Ratio at CF sites",
+  "dimensions": [
+    "site",
+    "time1"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "mmrso4"
+}

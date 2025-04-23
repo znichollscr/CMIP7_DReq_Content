@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "rsdt_tcld-z0-hxy-x",
+  "cell_methods": "area: mean time: mean within days time: mean over days",
+  "cmip6_compound_name": "E1hrClimMon.rsdt",
+  "description": "TOA Incident Shortwave Radiation",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time3"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "rsdt"
+}

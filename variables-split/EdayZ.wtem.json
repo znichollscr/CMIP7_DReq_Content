@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "wtem_tavg-p39-hy-air",
+  "cell_methods": "longitude: time: mean where air",
+  "cmip6_compound_name": "EdayZ.wtem",
+  "description": "Transformed Eulerian Mean Upward Wind",
+  "dimensions": [
+    "latitude",
+    "plev39",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "wtem"
+}

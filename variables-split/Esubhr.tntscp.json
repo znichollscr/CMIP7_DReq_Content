@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "tntscp_tpt-l-hxys-x",
+  "cell_methods": "area: point time: point",
+  "cmip6_compound_name": "Esubhr.tntscp",
+  "description": "Tendency of Air Temperature Due to Stratiform Clouds and Precipitation",
+  "dimensions": [
+    "alevel",
+    "site",
+    "time1"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "tntscp"
+}

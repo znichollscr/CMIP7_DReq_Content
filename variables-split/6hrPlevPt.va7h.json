@@ -1,0 +1,19 @@
+{
+  "@context": "TBD",
+  "branded_variable": "va_tpt-p7h-hxy-air",
+  "cell_methods": "area: mean where air time: point",
+  "cmip6_compound_name": "6hrPlevPt.va7h",
+  "description": "Northward Wind",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "plev7h",
+    "time1"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "va"
+}

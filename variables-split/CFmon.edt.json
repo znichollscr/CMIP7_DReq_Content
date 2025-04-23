@@ -1,0 +1,19 @@
+{
+  "@context": "TBD",
+  "branded_variable": "edt_tavg-l-hxy-x",
+  "cell_methods": "area: time: mean",
+  "cmip6_compound_name": "CFmon.edt",
+  "description": "Eddy Diffusivity Coefficient for Temperature",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "alevel",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "edt"
+}

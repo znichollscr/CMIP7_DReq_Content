@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "cVegShrub_tavg-z0-hxy-shb",
+  "cell_methods": "area: time: mean where shrubs (comment: mask=shrubFrac)",
+  "cmip6_compound_name": "Emon.cVegShrub",
+  "description": "Carbon Mass in Vegetation on Shrub Tiles",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "cVegShrub"
+}

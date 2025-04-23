@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "areacellg_ti-z0-hxy-x",
+  "cell_methods": "area: sum",
+  "cmip6_compound_name": "IfxAnt.areacellg",
+  "description": "Grid-Cell Area for Ice Sheet Variables",
+  "dimensions": [
+    "longitude",
+    "latitude"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "areacellg"
+}

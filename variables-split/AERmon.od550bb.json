@@ -1,0 +1,19 @@
+{
+  "@context": "TBD",
+  "branded_variable": "od550bb_tavg-z0-hxy-x",
+  "cell_methods": "area: time: mean",
+  "cmip6_compound_name": "AERmon.od550bb",
+  "description": "Aerosol Optical Depth at 550nm Due to Biomass Burning",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time",
+    "lambda550nm"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "od550bb"
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "reffclwc_tpt-l-hxys-ccl",
+  "cell_methods": "area: mean where convective_cloud time: point",
+  "cmip6_compound_name": "Esubhr.reffclwc",
+  "description": "Convective Cloud Liquid Droplet Effective Radius",
+  "dimensions": [
+    "alevel",
+    "site",
+    "time1"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "reffclwc"
+}

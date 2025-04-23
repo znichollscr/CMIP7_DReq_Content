@@ -1,0 +1,19 @@
+{
+  "@context": "TBD",
+  "branded_variable": "pfull_tavg-l-hxy-x",
+  "cell_methods": "area: time: mean",
+  "cmip6_compound_name": "CFday.pfull",
+  "description": "Pressure at Model Full-Levels",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "alevel",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "pfull"
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "rsdsdiff_tavg-z0-hxy-x",
+  "cell_methods": "area: time: mean",
+  "cmip6_compound_name": "Eday.rsdsdiff",
+  "description": "Surface Diffuse Downwelling Shortwave Radiation",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "rsdsdiff"
+}

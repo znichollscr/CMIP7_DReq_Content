@@ -1,0 +1,19 @@
+{
+  "@context": "TBD",
+  "branded_variable": "thetao_tavg-z0-hxy-x",
+  "cell_methods": "area: time: mean",
+  "cmip6_compound_name": "Oday.thetao200",
+  "description": "Sea Water Potential Temperature at 200 meters",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time",
+    "swp20bar"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "thetao"
+}

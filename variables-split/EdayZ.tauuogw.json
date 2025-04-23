@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "tauuogw_tavg-p39-hy-air",
+  "cell_methods": "longitude: time: mean where air",
+  "cmip6_compound_name": "EdayZ.tauuogw",
+  "description": "Zonal mean eastward Reynolds stress from orographic gravity wave parameterization",
+  "dimensions": [
+    "latitude",
+    "plev39",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "tauuogw"
+}

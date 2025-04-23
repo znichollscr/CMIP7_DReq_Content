@@ -1,0 +1,19 @@
+{
+  "@context": "TBD",
+  "branded_variable": "msftmzsmpa_tavg-l-hys-x",
+  "cell_methods": "longitude: sum (comment: basin sum [along zig-zag grid path]) depth: sum time: mean",
+  "cmip6_compound_name": "Omon.msftmzsmpa",
+  "description": "Ocean Meridional Overturning Mass Streamfunction Due to Parameterized Submesoscale Advection",
+  "dimensions": [
+    "latitude",
+    "olevel",
+    "basin",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "msftmzsmpa"
+}

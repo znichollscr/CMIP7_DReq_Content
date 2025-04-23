@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "sftflf_ti-z0-hxy-x",
+  "cell_methods": "area: mean",
+  "cmip6_compound_name": "Efx.sftflf",
+  "description": "Floating Ice Shelf Area Percentage",
+  "dimensions": [
+    "longitude",
+    "latitude"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "sftflf"
+}

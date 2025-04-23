@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "litempbotfl_tavg-z0-hxy-fis",
+  "cell_methods": "area: time: mean where floating_ice_shelf (comment: mask=sftflf)",
+  "cmip6_compound_name": "IyrGre.litempbotfl",
+  "description": "Basal Temperature of Floating Ice Shelf",
+  "dimensions": [
+    "xgre",
+    "ygre",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "litempbotfl"
+}

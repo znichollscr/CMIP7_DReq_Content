@@ -1,0 +1,19 @@
+{
+  "@context": "TBD",
+  "branded_variable": "cSoilLevels_tavg-l-hxy-lnd",
+  "cell_methods": "area: mean where land time: mean",
+  "cmip6_compound_name": "Emon.cSoilLevels",
+  "description": "Carbon Mass in Each Model Soil Level (Summed over All Soil Carbon Pools in That Level)",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "sdepth",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "cSoilLevels"
+}

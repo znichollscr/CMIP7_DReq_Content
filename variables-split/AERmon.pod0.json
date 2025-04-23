@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "pod0_tsum-z0-hxy-x",
+  "cell_methods": "area: mean time: sum",
+  "cmip6_compound_name": "AERmon.pod0",
+  "description": "Phytotoxic Ozone Dose",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "pod0"
+}

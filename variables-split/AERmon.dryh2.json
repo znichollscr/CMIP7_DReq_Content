@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "dryh2_tavg-z0-hxy-x",
+  "cell_methods": "area: time: mean",
+  "cmip6_compound_name": "AERmon.dryh2",
+  "description": "Total loss rate of molecular hydrogen (H2) from the atmosphere via soil sink",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "dryh2"
+}

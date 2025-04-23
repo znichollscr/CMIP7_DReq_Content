@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "clt_tavg-z0-hxy-x",
+  "cell_methods": "area: time: mean",
+  "cmip6_compound_name": "day.clt",
+  "description": "Total Cloud Cover Percentage",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "clt"
+}
