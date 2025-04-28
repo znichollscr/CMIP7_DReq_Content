@@ -1,16 +1,10 @@
 {
-  "@context": "TBD",
   "branded_variable": "areacellr_ti-z0-hxy-x",
   "cell_methods": "area: sum",
   "description": "Cell areas for any grid used to report river model variables (may be the same as for atmospheric variables). These cell areas should be defined to enable exact calculation of area integrals (e.g., of vertical fluxes of energy at the surface and top of the atmosphere).",
   "dimensions": [
     "longitude",
     "latitude"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "areacellr"
 }

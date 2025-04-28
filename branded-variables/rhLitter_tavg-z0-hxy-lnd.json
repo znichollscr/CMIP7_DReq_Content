@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "rhLitter_tavg-z0-hxy-lnd",
   "cell_methods": "area: mean where land time: mean",
   "description": "Needed to calculate litter bulk turnover time. Includes respiration from CWD as well.",
@@ -7,11 +6,6 @@
     "longitude",
     "latitude",
     "time"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "rhLitter"
 }

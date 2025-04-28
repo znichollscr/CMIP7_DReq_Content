@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "ocontempmint_tavg-z0-hxy-sea",
   "cell_methods": "area: mean where sea time: mean",
   "description": "Full column sum of density*cell thickness*conservative temperature. If the model is Boussinesq, then use Boussinesq reference density for the density factor.",
@@ -7,11 +6,6 @@
     "longitude",
     "latitude",
     "time"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "ocontempmint"
 }

@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "uas_tavg-h010-hxy-x",
   "cell_methods": "area: time: mean",
   "description": "Eastward component of the near-surface (usually, 10 meters)  wind",
@@ -8,11 +7,6 @@
     "latitude",
     "time",
     "height10m"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "uas"
 }

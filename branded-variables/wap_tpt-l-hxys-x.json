@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "wap_tpt-l-hxys-x",
   "cell_methods": "area: point time: point",
   "description": "commonly referred to as \"omega\", this represents the vertical component of velocity in pressure coordinates (positive down)",
@@ -7,11 +6,6 @@
     "alevel",
     "site",
     "time1"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "wap"
 }

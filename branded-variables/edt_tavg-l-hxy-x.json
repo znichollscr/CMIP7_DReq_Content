@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "edt_tavg-l-hxy-x",
   "cell_methods": "area: time: mean",
   "description": "Vertical diffusion coefficient for temperature due to parametrised eddies",
@@ -8,11 +7,6 @@
     "latitude",
     "alevel",
     "time"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "edt"
 }

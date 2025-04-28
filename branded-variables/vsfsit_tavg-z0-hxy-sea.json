@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "vsfsit_tavg-z0-hxy-sea",
   "cell_methods": "area: mean where sea time: mean",
   "description": "This variable measures the virtual salt flux into sea water due to the melting of sea ice. It is set to zero in models which receive a real water flux.",
@@ -7,11 +6,6 @@
     "longitude",
     "latitude",
     "time"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "vsfsit"
 }

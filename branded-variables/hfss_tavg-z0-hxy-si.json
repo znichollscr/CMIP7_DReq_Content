@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "hfss_tavg-z0-hxy-si",
   "cell_methods": "area: time: mean where sea_ice",
   "description": "Net sensible heat flux over sea ice\u00a0(energy flow per sea ice area). Positive for a downward heat flux.",
@@ -7,11 +6,6 @@
     "longitude",
     "latitude",
     "time"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "hfss"
 }

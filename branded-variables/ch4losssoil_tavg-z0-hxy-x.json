@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "ch4losssoil_tavg-z0-hxy-x",
   "cell_methods": "area: time: mean",
   "description": "Loss rate of methane from the atmosphere due to soil sink",
@@ -7,11 +6,6 @@
     "longitude",
     "latitude",
     "time"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "ch4losssoil"
 }

@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "aod550volso4_tavg-z0-hxy-x",
   "cell_methods": "area: time: mean",
   "description": "This is the monthly averaged aerosol optical thickness at 550 nm due to stratospheric volcanic sulphate aerosols",
@@ -8,11 +7,6 @@
     "latitude",
     "time",
     "lambda550nm"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "aod550volso4"
 }

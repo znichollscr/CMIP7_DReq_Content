@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "ua_tpt-l-hxy-x",
   "cell_methods": "area: mean time: point",
   "description": "Zonal wind (positive in a eastward direction).",
@@ -8,11 +7,6 @@
     "latitude",
     "alevel",
     "time1"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "ua"
 }

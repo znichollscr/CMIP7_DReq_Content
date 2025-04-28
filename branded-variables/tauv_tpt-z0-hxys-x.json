@@ -1,16 +1,10 @@
 {
-  "@context": "TBD",
   "branded_variable": "tauv_tpt-z0-hxys-x",
   "cell_methods": "area: point time: point",
   "description": "Downward northward wind stress at the surface",
   "dimensions": [
     "site",
     "time1"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "tauv"
 }

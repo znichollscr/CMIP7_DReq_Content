@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "tropo3ste_tavg-z0-hm-x",
   "cell_methods": "area: time: mean",
   "description": "Ozone tracer intended to map out strat-trop exchange (STE) of ozone in the troposphere. It represents the ozone volume mixing ratio in the troposphere that is considered to be stratospheric in origin. It should be consistent with the definition of tropopause used to calculate the pressure of the tropopause (ptp). It should have zero values in the stratosphere and non-zero positive values in the troposphere. ",
@@ -13,11 +12,6 @@
     "in",
     "the",
     "stratosphere)"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "tropo3ste"
 }

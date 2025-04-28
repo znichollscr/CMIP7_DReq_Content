@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "evspsbl_tavg-z0-hxy-lnd",
   "cell_methods": "area: mean where land time: mean",
   "description": "Evaporation at surface (also known as evapotranspiration): flux of water into the atmosphere due to conversion of both liquid and solid phases to vapor (from underlying surface and vegetation)",
@@ -7,11 +6,6 @@
     "longitude",
     "latitude",
     "time"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "evspsbl"
 }

@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "cldnci_tavg-z0-hxy-cl",
   "cell_methods": "area: time: mean where cloud (but only in upper-most layer of ice water cloud and weighted by area of ice cloud top as seen from TOA)",
   "description": "Concentration 'as seen from space' over ice-cloud portion of grid cell.  This is the value from uppermost model layer with ice cloud or, if available, it is the sum over all ice cloud tops, no matter where they occur, as long as they are seen from the top of the atmosphere. Weight by total ice cloud top fraction (as seen from TOA) of each time sample when computing monthly mean.",
@@ -7,11 +6,6 @@
     "longitude",
     "latitude",
     "time"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "cldnci"
 }

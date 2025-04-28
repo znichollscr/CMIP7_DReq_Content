@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "siflswdbot_tavg-z0-hxy-si",
   "cell_methods": "area: time: mean where sea_ice",
   "description": "Downwelling shortwave flux underneath sea ice, i.e. the amount of shortwave radiation that penetrates the sea ice and reaches the sea ice-ocean interface\u00a0(energy flow per sea ice area). Always positive or zero.",
@@ -7,11 +6,6 @@
     "longitude",
     "latitude",
     "time"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "siflswdbot"
 }

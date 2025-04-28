@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "expcob_tavg-z0-hxy-sea",
   "cell_methods": "area: mean where sea time: mean",
   "description": "TBC (clashes in original table)",
@@ -8,11 +7,6 @@
     "latitude",
     "depthseafloor",
     "time"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "expcob"
 }

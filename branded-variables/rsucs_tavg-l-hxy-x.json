@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "rsucs_tavg-l-hxy-x",
   "cell_methods": "area: time: mean",
   "description": "Includes also the fluxes at the surface and TOA.",
@@ -8,11 +7,6 @@
     "latitude",
     "alevhalf",
     "time"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "rsucs"
 }

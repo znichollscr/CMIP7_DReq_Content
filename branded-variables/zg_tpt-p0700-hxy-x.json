@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "zg_tpt-p0700-hxy-x",
   "cell_methods": "area: mean time: point",
   "description": "700 hPa geopotential height at 6 hourly instantaneous frequency",
@@ -8,11 +7,6 @@
     "latitude",
     "time1",
     "p700"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "zg"
 }

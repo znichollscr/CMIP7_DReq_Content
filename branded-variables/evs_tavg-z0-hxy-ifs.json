@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "evs_tavg-z0-hxy-ifs",
   "cell_methods": "area: mean where ice_free_sea over sea time: mean",
   "description": "computed as the total mass of water vapor evaporating from the ice-free portion of the ocean  divided by the area of the ocean portion of the grid cell.",
@@ -7,11 +6,6 @@
     "longitude",
     "latitude",
     "time"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "evs"
 }

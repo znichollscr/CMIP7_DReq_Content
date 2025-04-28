@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "sidmassmeltlat_tavg-z0-hxy-si",
   "cell_methods": "area: mean where sea_ice time: mean",
   "description": "Rate of change of sea-ice mass through lateral melting/dissolution divided by grid-cell area (report zero if not explicitly calculated thermodynamically). Always negative or zero.",
@@ -7,11 +6,6 @@
     "longitude",
     "latitude",
     "time"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "sidmassmeltlat"
 }

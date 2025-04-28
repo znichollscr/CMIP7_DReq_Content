@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "hfrunoffds_tavg-z0-hxy-sea",
   "cell_methods": "area: mean where sea time: mean",
   "description": "Heat flux associated with liquid water which drains from land. It is calculated relative to the heat that would be transported by runoff water entering the sea at zero degrees Celsius. ",
@@ -7,11 +6,6 @@
     "longitude",
     "latitude",
     "time"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "hfrunoffds"
 }

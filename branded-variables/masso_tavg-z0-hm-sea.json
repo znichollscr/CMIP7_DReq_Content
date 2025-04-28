@@ -1,15 +1,9 @@
 {
-  "@context": "TBD",
   "branded_variable": "masso_tavg-z0-hm-sea",
   "cell_methods": "area: sum where sea time: mean",
   "description": "Total mass of liquid sea water. For Boussinesq models, report this diagnostic as Boussinesq reference density times total volume.",
   "dimensions": [
     "time"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "masso"
 }

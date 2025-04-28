@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "nMineralNH4_tavg-z0-hxy-lnd",
   "cell_methods": "area: mean where land time: mean",
   "description": "SUM of ammonium over all soil layers",
@@ -7,11 +6,6 @@
     "longitude",
     "latitude",
     "time"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "nMineralNH4"
 }

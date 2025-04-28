@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "fNloss_tavg-z0-hxy-lnd",
   "cell_methods": "area: mean where land time: mean",
   "description": "Not all models split losses into gaseous and leaching",
@@ -7,11 +6,6 @@
     "longitude",
     "latitude",
     "time"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "fNloss"
 }

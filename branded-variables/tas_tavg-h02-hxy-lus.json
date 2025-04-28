@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "tas_tavg-h02-hxy-lus",
   "cell_methods": "area: time: mean where sector",
   "description": "Air temperature is the bulk temperature of the air, not the surface (skin) temperature.",
@@ -9,11 +8,6 @@
     "landUse",
     "time",
     "height2m"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "tas"
 }

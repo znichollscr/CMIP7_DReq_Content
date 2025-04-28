@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "uos_tavg-z0-hxy-sea",
   "cell_methods": "area: mean where sea time: mean",
   "description": "Daily surface prognostic x-ward velocity component resolved by the model.",
@@ -7,11 +6,6 @@
     "longitude",
     "latitude",
     "time"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "uos"
 }

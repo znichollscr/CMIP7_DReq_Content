@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "rsutcs_tpt-z0-hxy-x",
   "cell_methods": "area: mean time: point",
   "description": "Calculated in the absence of clouds.",
@@ -7,11 +6,6 @@
     "longitude",
     "latitude",
     "time1"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "rsutcs"
 }

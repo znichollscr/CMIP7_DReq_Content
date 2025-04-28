@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "lai_tavg-z0-hxy-lnd",
   "cell_methods": "area: mean where land time: mean",
   "description": "A ratio obtained by dividing the total upper leaf surface area of vegetation by the (horizontal) surface area of the land on which it grows.",
@@ -7,11 +6,6 @@
     "longitude",
     "latitude",
     "time"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "lai"
 }

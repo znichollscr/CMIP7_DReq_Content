@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "msftmz_tavg-rhon-hys-sea",
   "cell_methods": "longitude: rho: sum where sea (along a zig-zag grid path spanning a basin) time: mean",
   "description": "TBC (clashes in original table)",
@@ -8,11 +7,6 @@
     "rho",
     "basin",
     "time"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "msftmz"
 }

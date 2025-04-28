@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "mmraerh2o_tpt-z0-hxys-x",
   "cell_methods": "area: point time: point",
   "description": "This variable represents the instantaneous surface aerosol water\u00a0Mass Mixing Ratio at CF sites, sampled every 3 hours",
@@ -7,11 +6,6 @@
     "site",
     "time1",
     "height50m"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "mmraerh2o"
 }

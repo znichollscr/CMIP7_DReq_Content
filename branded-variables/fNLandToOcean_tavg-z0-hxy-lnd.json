@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "fNLandToOcean_tavg-z0-hxy-lnd",
   "cell_methods": "area: mean where land time: mean",
   "description": "leached nitrogen etc that goes into run off or river routing and finds its way into ocean should be reported here.",
@@ -7,11 +6,6 @@
     "longitude",
     "latitude",
     "time"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "fNLandToOcean"
 }

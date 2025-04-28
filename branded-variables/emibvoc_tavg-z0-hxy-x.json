@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "emibvoc_tavg-z0-hxy-x",
   "cell_methods": "area: time: mean",
   "description": "Integrate 3D emission field vertically to 2d field._If_ fixed molecular weight of NMVOC is not available in model, please provide in units of kilomole m-2 s-1 (i.e. kg m-2 s-1 as if model NMVOC had molecular weight of 1) and add a comment to your file.",
@@ -7,11 +6,6 @@
     "longitude",
     "latitude",
     "time"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "emibvoc"
 }

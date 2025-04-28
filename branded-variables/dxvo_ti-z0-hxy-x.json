@@ -1,16 +1,10 @@
 {
-  "@context": "TBD",
   "branded_variable": "dxvo_ti-z0-hxy-x",
   "cell_methods": "area: point",
   "description": "The linear extent of the cell in the x direction of the horizontal grid centered at v-points (points for velocity in the y-direction). Not applicable to unstructured grids.",
   "dimensions": [
     "longitude",
     "latitude"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "dxvo"
 }

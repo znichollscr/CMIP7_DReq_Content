@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "fFire_tavg-z0-hxy-lnd",
   "cell_methods": "area: mean where land time: mean",
   "description": "CO2 emissions (expressed as a carbon mass flux) from natural fires + human ignition fires as calculated by the fire module of the DGVM, but excluding any CO2 flux from fire included in fLuc, defined below (CO2 Flux to Atmosphere from Land Use Change).",
@@ -7,11 +6,6 @@
     "longitude",
     "latitude",
     "time"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "fFire"
 }

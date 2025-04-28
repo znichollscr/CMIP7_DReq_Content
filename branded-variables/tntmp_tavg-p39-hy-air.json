@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "tntmp_tavg-p39-hy-air",
   "cell_methods": "longitude: time: mean where air",
   "description": "Zonal mean tendency of air temperature due to model physics, with the extended number of vertical levels",
@@ -7,11 +6,6 @@
     "latitude",
     "plev39",
     "time"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "tntmp"
 }

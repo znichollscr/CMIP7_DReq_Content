@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "tropoz_tavg-z0-hm-x",
   "cell_methods": "area: time: mean",
   "description": "Tropospheric ozone column, should be consistent with definition of tropopause used to calculate the pressure of the tropopause (ptp).",
@@ -13,11 +12,6 @@
     "in",
     "the",
     "stratosphere)"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "tropoz"
 }

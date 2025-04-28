@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "tssi_tavg-z0-hxy-si",
   "cell_methods": "area: mean where sea_ice time: point",
   "description": "Mean temperature at the snow-ice interface. This is the surface temperature of ice where snow thickness is zero.",
@@ -7,11 +6,6 @@
     "longitude",
     "latitude",
     "time"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "tssi"
 }

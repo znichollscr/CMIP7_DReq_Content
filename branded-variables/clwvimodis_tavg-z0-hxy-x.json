@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "clwvimodis_tavg-z0-hxy-x",
   "cell_methods": "area: time: mean",
   "description": "Mass of condensed (liquid + ice) water in the column divided by the area of the column (not just the area of the cloudy portion of the column) as seen by the MODIS instrument simulator.",
@@ -7,11 +6,6 @@
     "longitude",
     "latitude",
     "time"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "clwvimodis"
 }

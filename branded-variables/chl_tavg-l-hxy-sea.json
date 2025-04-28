@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "chl_tavg-l-hxy-sea",
   "cell_methods": "area: mean where sea time: mean",
   "description": "sum of chlorophyll from all phytoplankton group concentrations.  In most models this is equal to chldiat+chlmisc, that is the sum of \"Diatom Chlorophyll Mass Concentration\" plus \"Other Phytoplankton Chlorophyll Mass Concentration\"",
@@ -8,11 +7,6 @@
     "latitude",
     "olevel",
     "time"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "chl"
 }

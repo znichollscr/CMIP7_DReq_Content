@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "hurs_tavg-h02-hxy-x",
   "cell_methods": "area: time: mean",
   "description": "TBC (clashes in original table)",
@@ -8,11 +7,6 @@
     "latitude",
     "time",
     "height2m"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "hurs"
 }

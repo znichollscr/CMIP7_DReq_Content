@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "dfe_tavg-z00-hxy-sea",
   "cell_methods": "area: mean where sea time: mean",
   "description": "dissolved iron in sea water is meant to include both Fe2+ and Fe3+ ions (but not, e.g., particulate detrital iron)",
@@ -8,11 +7,6 @@
     "latitude",
     "time",
     "depth0m"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "dfe"
 }

@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "hur_tpt-p0850-hxy-air",
   "cell_methods": "area: mean where air time: point",
   "description": "Relative humidity at 850 hPa",
@@ -8,11 +7,6 @@
     "latitude",
     "time1",
     "p850"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "hur"
 }

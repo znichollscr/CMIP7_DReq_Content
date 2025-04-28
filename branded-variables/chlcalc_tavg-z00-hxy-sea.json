@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "chlcalc_tavg-z00-hxy-sea",
   "cell_methods": "area: mean where sea time: mean",
   "description": "chlorophyll concentration from the calcite-producing phytoplankton component alone",
@@ -8,11 +7,6 @@
     "latitude",
     "time",
     "depth0m"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "chlcalc"
 }

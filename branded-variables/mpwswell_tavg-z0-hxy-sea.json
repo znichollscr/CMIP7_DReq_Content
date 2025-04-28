@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "mpwswell_tavg-z0-hxy-sea",
   "cell_methods": "area: mean where sea time: mean",
   "description": "Average wave period (i.e., time in-between two wave crests) of swell waves only (i.e., waves that have propagated away from their generation area). In spectral wind wave models, it is calculated using spectral moments, mathematical measures that describe the shape and characteristics of the wave spectrum.",
@@ -7,11 +6,6 @@
     "longitude",
     "latitude",
     "time"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "mpwswell"
 }

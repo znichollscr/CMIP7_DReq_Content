@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "bs550aer_tpt-l-hxy-x",
   "cell_methods": "area: mean time: point",
   "description": "Aerosol  Backscatter at wavelength 550nm and scattering angle 180 degrees, computed from extinction and lidar ratio",
@@ -9,11 +8,6 @@
     "alevel",
     "time1",
     "lambda550nm"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "bs550aer"
 }

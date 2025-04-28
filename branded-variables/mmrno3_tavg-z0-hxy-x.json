@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "mmrno3_tavg-z0-hxy-x",
   "cell_methods": "area: time: mean",
   "description": "Daily mean NO3 aerosol mass mixing ratio in lowest model layer",
@@ -8,11 +7,6 @@
     "latitude",
     "time",
     "height50m"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "mmrno3"
 }

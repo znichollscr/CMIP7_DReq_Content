@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "bldepmin_tstat-z0-hxy-x",
   "cell_methods": "area: mean time: minimum",
   "description": "minimum boundary layer height during the day (add cell_methods attribute: \"time: minimum\")",
@@ -7,11 +6,6 @@
     "longitude",
     "latitude",
     "time"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "bldepmin"
 }

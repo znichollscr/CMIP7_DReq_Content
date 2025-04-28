@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "clisccp_tavg-p7c-hxy-air",
   "cell_methods": "area: time: mean where air",
   "description": "Percentage cloud cover in optical depth categories.",
@@ -9,11 +8,6 @@
     "plev7c",
     "tau",
     "time"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "clisccp"
 }

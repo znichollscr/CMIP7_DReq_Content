@@ -1,15 +1,9 @@
 {
-  "@context": "TBD",
   "branded_variable": "cfc12_tavg-z0-hm-x",
   "cell_methods": "height: sum (through atmospheric column) area: sum time: mean",
   "description": "Mole fraction is used in the construction mole_fraction_of_X_in_Y, where X is a material constituent of Y.  The chemical formula of CFC12 is CF2Cl2.  The IUPAC name for CFC12 is dichloro-difluoro-methane.",
   "dimensions": [
     "time"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "cfc12"
 }

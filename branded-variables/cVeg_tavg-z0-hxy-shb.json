@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "cVeg_tavg-z0-hxy-shb",
   "cell_methods": "area: time: mean where shrubs",
   "description": "\"Content\" indicates a quantity per unit area. \"Vegetation\" means any plants e.g. trees, shrubs, grass. Plants are autotrophs i.e. \"producers\" of biomass using carbon obtained from carbon dioxide.",
@@ -7,11 +6,6 @@
     "longitude",
     "latitude",
     "time"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "cVeg"
 }

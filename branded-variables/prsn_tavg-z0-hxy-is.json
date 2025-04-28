@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "prsn_tavg-z0-hxy-is",
   "cell_methods": "area: time: mean where ice_sheet",
   "description": "quantity averaged over ice sheet (grounded ice sheet and floating ice shelf) only. Needed to analyse the impact of downscaling methods",
@@ -7,11 +6,6 @@
     "longitude",
     "latitude",
     "time"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "prsn"
 }

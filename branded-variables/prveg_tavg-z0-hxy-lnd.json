@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "prveg_tavg-z0-hxy-lnd",
   "cell_methods": "area: mean where land time: mean",
   "description": "the precipitation flux that is intercepted by the vegetation canopy (if present in model) before reaching the ground.",
@@ -7,11 +6,6 @@
     "longitude",
     "latitude",
     "time"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "prveg"
 }

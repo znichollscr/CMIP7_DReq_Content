@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "irr_tavg-z0-hxy-lus",
   "cell_methods": "area: time: mean where sector",
   "description": "Mass flux of water due to irrigation.",
@@ -8,11 +7,6 @@
     "latitude",
     "landUse",
     "time"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "irr"
 }

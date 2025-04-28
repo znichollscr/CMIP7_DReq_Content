@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "rsuto3ref_tavg-z0-hxy-x",
   "cell_methods": "area: time: mean",
   "description": "This is top-of-atmosphere outgoing shortwave flux for all-sky conditions from a diagnostic call to the radiation scheme, using a reference ozone field",
@@ -7,11 +6,6 @@
     "longitude",
     "latitude",
     "time"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "rsuto3ref"
 }

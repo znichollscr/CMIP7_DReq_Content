@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "prsnIs_tavg-z0-hxy-is",
   "cell_methods": "area: time: mean where ice_sheet",
   "description": "quantity averaged over ice_sheet (meaning grounded ice sheet and floating ice shelf) only, to avoid contamination from other surfaces (eg: permafrost)",
@@ -7,11 +6,6 @@
     "longitude",
     "latitude",
     "time"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "prsnIs"
 }

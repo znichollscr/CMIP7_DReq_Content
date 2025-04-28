@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "hur_tpt-p0100-hxy-x",
   "cell_methods": "area: mean time: point",
   "description": "Relative humidity at 100 hPa",
@@ -8,11 +7,6 @@
     "latitude",
     "time1",
     "p100"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "hur"
 }

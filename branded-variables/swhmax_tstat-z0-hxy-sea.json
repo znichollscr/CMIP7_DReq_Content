@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "swhmax_tstat-z0-hxy-sea",
   "cell_methods": "area: mean where sea time: maximum",
   "description": "Highest value of the significant wave height simulated within a given time range (e.g., daily or monthly). The significant wave height (swh) is derived from the wave spectrum using spectral moments. Specifically, swh is four times the square root of the integral over all directions and all frequencies of the two-dimensional wave spectrum.",
@@ -7,11 +6,6 @@
     "longitude",
     "latitude",
     "time"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "swhmax"
 }

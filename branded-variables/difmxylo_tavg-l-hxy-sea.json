@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "difmxylo_tavg-l-hxy-sea",
   "cell_methods": "area: mean where sea time: mean",
   "description": "Lateral Laplacian viscosity applied to the momentum equations.",
@@ -8,11 +7,6 @@
     "latitude",
     "olevel",
     "time"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "difmxylo"
 }

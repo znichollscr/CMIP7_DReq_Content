@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "wetbc_tavg-z0-hxy-x",
   "cell_methods": "area: time: mean",
   "description": "Surface deposition rate of black carbon (dry mass) due to wet processes",
@@ -7,11 +6,6 @@
     "longitude",
     "latitude",
     "time"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "wetbc"
 }

@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "fNProduct_tavg-z0-hxy-lnd",
   "cell_methods": "area: mean where land time: mean",
   "description": "When land use change results in deforestation of natural vegetation (trees or grasslands) then natural biomass is removed. The treatment of deforested biomass differs significantly across models, but it should be straight-forward to compare deforested biomass across models.",
@@ -7,11 +6,6 @@
     "longitude",
     "latitude",
     "time"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "fNProduct"
 }

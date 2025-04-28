@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "h2prod_tavg-l-hxy-x",
   "cell_methods": "area: time: mean",
   "description": "This is the production of molecular hydrogen (H2) in the atmosphere due to chemical production",
@@ -8,11 +7,6 @@
     "latitude",
     "alevel",
     "time"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "h2prod"
 }

@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "rsdcs4co2_tavg-l-hxy-x",
   "cell_methods": "area: time: mean",
   "description": "Downwelling clear-sky shortwave radiation calculated using carbon dioxide concentrations increased fourfold",
@@ -8,11 +7,6 @@
     "latitude",
     "alevhalf",
     "time"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "rsdcs4co2"
 }

@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "raLut_tavg-z0-hxy-lnd",
   "cell_methods": "area: mean where land time: mean",
   "description": "Carbon mass flux per unit area into atmosphere due to autotrophic respiration on land (respiration by producers) [see rh for heterotrophic production]. Calculated on land-use tiles.",
@@ -8,11 +7,6 @@
     "latitude",
     "landUse",
     "time"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "raLut"
 }

@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "stratch4loss_tavg-z0-hm-x",
   "cell_methods": "area: time: mean",
   "description": "This is the loss rate of stratospheric methane by all chemical destruction. The distinction between the stratosphere and troposphere should be consistent with the tropopause as used in the calculation of the tropopause pressure (ptp). It should have zero values in the troposphere. ",
@@ -13,11 +12,6 @@
     "in",
     "the",
     "troposphere)"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "stratch4loss"
 }

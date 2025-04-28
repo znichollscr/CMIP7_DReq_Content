@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "cls_tavg-l-hxy-x",
   "cell_methods": "area: time: mean",
   "description": "Cloud area fraction (reported as a percentage) for the whole atmospheric column due to stratiform clouds, as seen from the surface or the top of the atmosphere. Includes both large-scale and convective cloud.",
@@ -8,11 +7,6 @@
     "latitude",
     "alevel",
     "time"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "cls"
 }

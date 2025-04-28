@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "sisnmass_tavg-z0-hxy-x",
   "cell_methods": "area: sum time: mean",
   "description": "Total mass of snow on sea ice divided by grid-cell area. This then allows one to analyse the storage of latent heat in the snow, and to calculate the snow-water equivalent.",
@@ -7,11 +6,6 @@
     "longitude",
     "latitude",
     "time"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "sisnmass"
 }

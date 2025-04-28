@@ -1,15 +1,9 @@
 {
-  "@context": "TBD",
   "branded_variable": "ch4_tavg-z0-hm-x",
   "cell_methods": "height: area: time: mean (with all samples weighted by the number of moles of air in the sample)",
   "description": "Global Mean Mole Fraction of CH4",
   "dimensions": [
     "time"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "ch4"
 }

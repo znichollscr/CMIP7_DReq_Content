@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "co2_tavg-z0-hxy-x",
   "cell_methods": "area: time: mean",
   "description": "As co2, but only at the surface",
@@ -8,11 +7,6 @@
     "latitude",
     "time",
     "height50m"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "co2"
 }

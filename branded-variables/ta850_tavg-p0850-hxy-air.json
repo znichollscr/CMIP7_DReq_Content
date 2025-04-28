@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "ta850_tavg-p0850-hxy-air",
   "cell_methods": "area: time: mean where air",
   "description": "Air temperature at 850hPa",
@@ -8,11 +7,6 @@
     "latitude",
     "time",
     "p850"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "ta850"
 }

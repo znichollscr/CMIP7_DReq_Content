@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "baresoilFrac_tavg-z0-hxy-x",
   "cell_methods": "area: mean time:mean\" (or \"area time: mean\")",
   "description": "Percentage of entire grid cell  that is covered by bare soil.",
@@ -8,11 +7,6 @@
     "latitude",
     "time",
     "typebare"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "baresoilFrac"
 }

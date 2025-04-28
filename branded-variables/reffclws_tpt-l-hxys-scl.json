@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "reffclws_tpt-l-hxys-scl",
   "cell_methods": "area: mean where stratiform_cloud time: point",
   "description": "alevel site time1",
@@ -7,11 +6,6 @@
     "alevel",
     "site",
     "time1"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "reffclws"
 }

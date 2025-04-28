@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "tran_tavg-z0-hxy-lnd",
   "cell_methods": "area: mean where land time: mean",
   "description": "Transpiration (may include dew formation as a negative flux).",
@@ -7,11 +6,6 @@
     "longitude",
     "latitude",
     "time"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "tran"
 }

@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "t17d_tavg-z0-hxy-sea",
   "cell_methods": "area: mean where sea time: mean",
   "description": "Monthly 17C isotherm depth",
@@ -7,11 +6,6 @@
     "longitude",
     "latitude",
     "time"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "t17d"
 }

@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "nppShrub_tavg-z0-hxy-lnd",
   "cell_methods": "area: time: mean where land",
   "description": "Total NPP of shrubs in the grid cell",
@@ -7,11 +6,6 @@
     "longitude",
     "latitude",
     "time"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "nppShrub"
 }

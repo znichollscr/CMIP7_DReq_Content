@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "utendogw_tavg-p19-hxy-air",
   "cell_methods": "area: time: mean where air",
   "description": "Tendency of eastward wind induced by the parameterized orographic gravity wave drag",
@@ -8,11 +7,6 @@
     "latitude",
     "plev19",
     "time"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "utendogw"
 }

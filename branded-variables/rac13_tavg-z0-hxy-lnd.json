@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "rac13_tavg-z0-hxy-lnd",
   "cell_methods": "area: mean where land time: mean",
   "description": "Flux of carbon-13 into the atmosphere due to plant respiration. Plant respiration is the sum of respiration by parts of plants both above and below the soil. It is assumed that all the respired carbon dioxide is emitted to the atmosphere. ",
@@ -7,11 +6,6 @@
     "longitude",
     "latitude",
     "time"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "rac13"
 }

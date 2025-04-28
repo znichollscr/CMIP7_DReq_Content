@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "va_tavg-h0100-hxy-x",
   "cell_methods": "area: time: mean",
   "description": "Meridional wind (positive in a northward direction) at 100m",
@@ -8,11 +7,6 @@
     "latitude",
     "time",
     "height100m"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "va"
 }

@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "thkcello_ti-l-hxy-sea",
   "cell_methods": "area: mean where sea",
   "description": "Thickness of ocean cells. \"Thickness\" means the vertical extent of a layer. \"Cell\" refers to a model grid-cell.",
@@ -7,11 +6,6 @@
     "longitude",
     "latitude",
     "olevel"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "thkcello"
 }

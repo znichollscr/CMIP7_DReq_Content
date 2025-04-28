@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "phalf_tpt-l-hxys-x",
   "cell_methods": "area: point time: point",
   "description": "Air pressure on model half-levels",
@@ -7,11 +6,6 @@
     "alevhalf",
     "site",
     "time1"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "phalf"
 }

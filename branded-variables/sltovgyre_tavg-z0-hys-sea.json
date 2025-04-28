@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "sltovgyre_tavg-z0-hys-sea",
   "cell_methods": "depth: longitude: sum where sea (along a zig-zag grid path spanning a basin)  time: mean",
   "description": "From all advective mass transport processes, resolved and parameterized.",
@@ -7,11 +6,6 @@
     "latitude",
     "basin",
     "time"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "sltovgyre"
 }

@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "mc_tpt-l-hxys-x",
   "cell_methods": "area: point time: point",
   "description": "The net mass flux should represent the difference between the updraft and downdraft components.  This is calculated as the convective mass flux divided by the area of the whole grid cell (not just the area of the updrafts).",
@@ -7,11 +6,6 @@
     "alevhalf",
     "site",
     "time1"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "mc"
 }

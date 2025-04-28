@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "hurs_tpt-h02-hxy-x",
   "cell_methods": "area: mean time: point",
   "description": "This is the relative humidity with respect to liquid water for T> 0 C, and with respect to ice for T<0 C.",
@@ -8,11 +7,6 @@
     "latitude",
     "time1",
     "height2m"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "hurs"
 }

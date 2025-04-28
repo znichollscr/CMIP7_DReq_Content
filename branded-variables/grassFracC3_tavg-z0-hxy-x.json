@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "grassFracC3_tavg-z0-hxy-x",
   "cell_methods": "area: mean time:mean\" (or \"area time: mean\")",
   "description": "Percentage of entire grid cell covered by C3 natural grass.",
@@ -8,11 +7,6 @@
     "latitude",
     "time",
     "typec3natg"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "grassFracC3"
 }

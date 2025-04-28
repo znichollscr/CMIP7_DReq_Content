@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "sfriver_tavg-z0-hxy-sea",
   "cell_methods": "area: mean where sea time: mean",
   "description": "This field is physical, and it arises when rivers carry a nonzero salt content.  Often this is zero, with rivers assumed to be fresh.",
@@ -7,11 +6,6 @@
     "longitude",
     "latitude",
     "time"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "sfriver"
 }

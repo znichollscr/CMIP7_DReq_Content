@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "difvho_tavg-l-hxy-sea",
   "cell_methods": "area: mean where sea time: mean",
   "description": "Vertical/dianeutral diffusivity applied to prognostic temperature field.",
@@ -8,11 +7,6 @@
     "latitude",
     "olevel",
     "time"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "difvho"
 }

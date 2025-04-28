@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "intppdiaz_tavg-z0-hxy-sea",
   "cell_methods": "depth: sum where sea (over entire ocean column) area: time: mean",
   "description": "Vertically integrated primary (organic carbon) production by the diazotrophs alone",
@@ -7,11 +6,6 @@
     "longitude",
     "latitude",
     "time"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "intppdiaz"
 }

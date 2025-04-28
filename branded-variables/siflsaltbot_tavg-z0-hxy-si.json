@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "siflsaltbot_tavg-z0-hxy-si",
   "cell_methods": "area: time: mean where sea_ice",
   "description": "Total flux of salt from water into sea ice divided by grid-cell area. This flux is upward (negative) during ice growth when salt is embedded into the ice and downward (positive) during melt when salt from sea ice is again released to the ocean.",
@@ -7,11 +6,6 @@
     "longitude",
     "latitude",
     "time"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "siflsaltbot"
 }

@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "raRoot_tavg-z0-hxy-lnd",
   "cell_methods": "area: mean where land time: mean",
   "description": "Total autotrophic respiration from all belowground plant parts.  This has benchmarking value because the sum of Rh and root respiration can be compared to observations of total soil respiration.",
@@ -7,11 +6,6 @@
     "longitude",
     "latitude",
     "time"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "raRoot"
 }

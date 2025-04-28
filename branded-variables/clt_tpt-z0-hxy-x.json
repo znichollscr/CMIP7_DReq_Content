@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "clt_tpt-z0-hxy-x",
   "cell_methods": "area: mean time: point",
   "description": "for the whole atmospheric column, as seen from the surface or the top of the atmosphere. Include both large-scale and convective cloud.",
@@ -7,11 +6,6 @@
     "longitude",
     "latitude",
     "time1"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "clt"
 }

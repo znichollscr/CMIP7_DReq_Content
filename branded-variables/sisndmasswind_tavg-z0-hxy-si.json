@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "sisndmasswind_tavg-z0-hxy-si",
   "cell_methods": "area: time: mean where sea_ice",
   "description": "Rate of change of snow mass due to wind-driven transport into the ocean divided by grid-cell area.",
@@ -7,11 +6,6 @@
     "longitude",
     "latitude",
     "time"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "sisndmasswind"
 }

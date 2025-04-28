@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "cnc_tavg-z0-hxy-x",
   "cell_methods": "area: mean time:mean\" (or \"area time: mean\")",
   "description": "Canopy covered fraction",
@@ -7,11 +6,6 @@
     "longitude",
     "latitude",
     "time"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "cnc"
 }

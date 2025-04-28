@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "pfull_tpt-l-hxy-x",
   "cell_methods": "area: mean time: point",
   "description": "Air pressure on model levels",
@@ -8,11 +7,6 @@
     "latitude",
     "alevel",
     "time1"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "pfull"
 }

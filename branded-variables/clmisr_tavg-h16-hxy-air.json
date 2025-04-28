@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "clmisr_tavg-h16-hxy-air",
   "cell_methods": "area: time: mean where air",
   "description": "MISR cloud area fraction",
@@ -9,11 +8,6 @@
     "alt16",
     "tau",
     "time"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "clmisr"
 }

@@ -1,16 +1,10 @@
 {
-  "@context": "TBD",
   "branded_variable": "mrsofc_ti-z0-hxy-lnd",
   "cell_methods": "area: mean where land",
   "description": "reported \"where land\": divide the total water holding capacity of all the soil in the grid cell by the land area in the grid cell;  reported as \"missing\" where the land fraction is 0.",
   "dimensions": [
     "longitude",
     "latitude"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "mrsofc"
 }

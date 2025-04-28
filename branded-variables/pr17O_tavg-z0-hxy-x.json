@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "pr17O_tavg-z0-hxy-x",
   "cell_methods": "area: time: mean",
   "description": "Precipitation mass flux of water molecules that contain the oxygen-17 isotope (H2 17O), including solid and liquid phases.",
@@ -7,11 +6,6 @@
     "longitude",
     "latitude",
     "time"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "pr17O"
 }

@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "emic3h6_tavg-z0-hxy-x",
   "cell_methods": "area: time: mean",
   "description": "This is the total emission rate of propene (C3H6) into the atmosphere",
@@ -7,11 +6,6 @@
     "longitude",
     "latitude",
     "time"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "emic3h6"
 }

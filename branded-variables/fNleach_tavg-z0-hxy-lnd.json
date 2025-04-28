@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "fNleach_tavg-z0-hxy-lnd",
   "cell_methods": "area: mean where land time: mean",
   "description": "In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics. The specification of a physical process by the phrase \"due_to_\" process means that the quantity named is a single term in a sum of terms which together compose the general quantity named by omitting the phrase. \"Leaching\" means the loss of water soluble chemical species from soil. Runoff is the liquid water which drains from land. If not specified, \"runoff\" refers to the sum of surface runoff and subsurface drainage.",
@@ -7,11 +6,6 @@
     "longitude",
     "latitude",
     "time"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "fNleach"
 }

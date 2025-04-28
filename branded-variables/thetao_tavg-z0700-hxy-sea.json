@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "thetao_tavg-z0700-hxy-sea",
   "cell_methods": "area: depth: time: mean where sea",
   "description": "Upper 700m, 2D field",
@@ -8,11 +7,6 @@
     "latitude",
     "time",
     "olayer700m"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "thetao"
 }

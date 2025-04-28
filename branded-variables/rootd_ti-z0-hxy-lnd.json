@@ -1,16 +1,10 @@
 {
-  "@context": "TBD",
   "branded_variable": "rootd_ti-z0-hxy-lnd",
   "cell_methods": "area: mean where land",
   "description": "report the maximum soil depth reachable by plant roots (if defined in model), i.e., the maximum soil depth from which they can extract moisture; report as \"missing\" where the land fraction is 0.",
   "dimensions": [
     "longitude",
     "latitude"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "rootd"
 }

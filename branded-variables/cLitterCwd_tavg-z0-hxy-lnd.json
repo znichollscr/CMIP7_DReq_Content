@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "cLitterCwd_tavg-z0-hxy-lnd",
   "cell_methods": "area: mean where land time: mean",
   "description": "\"Content\" indicates a quantity per unit area. \"Wood debris\" means dead organic matter composed of coarse wood. It is distinct from fine litter. The precise distinction between \"fine\" and \"coarse\" is model dependent.",
@@ -7,11 +6,6 @@
     "longitude",
     "latitude",
     "time"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "cLitterCwd"
 }

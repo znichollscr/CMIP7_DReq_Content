@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "phycalcos_tavg-z0-hxy-sea",
   "cell_methods": "area: mean where sea time: mean",
   "description": "carbon concentration from calcareous (calcite-producing) phytoplankton component alone",
@@ -7,11 +6,6 @@
     "longitude",
     "latitude",
     "time"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "phycalcos"
 }

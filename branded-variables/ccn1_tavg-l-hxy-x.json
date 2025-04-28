@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "ccn1_tavg-l-hxy-x",
   "cell_methods": "area: time: mean",
   "description": "This is the concentration of cloud condensation nuclei (CCN) at 1.0 percent supersaturation, based on aerosol chemical composition and size",
@@ -9,11 +8,6 @@
     "alevel",
     "time",
     "rh101pct"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "ccn1"
 }

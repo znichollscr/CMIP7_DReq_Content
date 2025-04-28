@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "osaltpsmadvect_tavg-l-hxy-sea",
   "cell_methods": "area: mean where sea time: mean",
   "description": "Tendency of salt content for a grid cell from parameterized submesoscale eddy advection.",
@@ -8,11 +7,6 @@
     "latitude",
     "olevel",
     "time"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "osaltpsmadvect"
 }

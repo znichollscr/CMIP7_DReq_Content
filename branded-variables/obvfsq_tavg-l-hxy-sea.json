@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "obvfsq_tavg-l-hxy-sea",
   "cell_methods": "area: mean where sea time: mean",
   "description": "The phrase \"square_of_X\" means X*X. Frequency is the number of oscillations of a wave per unit time. Brunt-Vaisala frequency is also sometimes called \"buoyancy frequency\" and is a measure of the vertical stratification of the medium.",
@@ -8,11 +7,6 @@
     "latitude",
     "olevel",
     "time"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "obvfsq"
 }

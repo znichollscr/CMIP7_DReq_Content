@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "irr_tavg-z0-hm-x",
   "cell_methods": "area: mean",
   "description": "TBC (clashes in original table)",
@@ -7,11 +6,6 @@
     "area:",
     "time:",
     "mean"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "irr"
 }

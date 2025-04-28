@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "rlutcs_tcld-z0-hxy-x",
   "cell_methods": "area: mean time: mean within days time: mean over days",
   "description": "Upwelling clear-sky longwave radiation at top of atmosphere",
@@ -7,11 +6,6 @@
     "longitude",
     "latitude",
     "time3"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "rlutcs"
 }

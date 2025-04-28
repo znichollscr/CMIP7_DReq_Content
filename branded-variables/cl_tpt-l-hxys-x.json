@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "cl_tpt-l-hxys-x",
   "cell_methods": "area: point time: point",
   "description": "Includes both large-scale and convective cloud.",
@@ -7,11 +6,6 @@
     "alevel",
     "site",
     "time1"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "cl"
 }

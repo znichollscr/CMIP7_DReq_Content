@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "nh4_tavg-z00-hxy-sea",
   "cell_methods": "area: mean where sea time: mean",
   "description": "Mole concentration means moles (amount of substance) per unit volume and is used in the construction mole_concentration_of_X_in_Y, where X is a material constituent of Y.",
@@ -8,11 +7,6 @@
     "latitude",
     "time",
     "depth0m"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "nh4"
 }

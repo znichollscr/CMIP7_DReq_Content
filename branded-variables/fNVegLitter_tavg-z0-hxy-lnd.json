@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "fNVegLitter_tavg-z0-hxy-lnd",
   "cell_methods": "area: mean where land time: mean",
   "description": "In accordance with common usage in geophysical disciplines, \"flux\" implies per unit area, called \"flux density\" in physics. \"Litter\" is dead plant material in or above the soil. \"Vegetation\" means any living plants e.g. trees, shrubs, grass.",
@@ -7,11 +6,6 @@
     "longitude",
     "latitude",
     "time"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "fNVegLitter"
 }

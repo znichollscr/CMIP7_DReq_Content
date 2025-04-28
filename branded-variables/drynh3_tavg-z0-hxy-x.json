@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "drynh3_tavg-z0-hxy-x",
   "cell_methods": "area: time: mean",
   "description": "TBC (clashes in original table)",
@@ -7,11 +6,6 @@
     "longitude",
     "latitude",
     "time"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "drynh3"
 }

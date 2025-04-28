@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "sftlkf_ti-z0-hxy-x",
   "cell_methods": "area: mean",
   "description": "Fraction of horizontal land grid cell area occupied by lake.",
@@ -7,11 +6,6 @@
     "longitude",
     "latitude",
     "typelkins"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "sftlkf"
 }

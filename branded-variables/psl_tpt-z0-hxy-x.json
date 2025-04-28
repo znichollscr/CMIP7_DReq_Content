@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "psl_tpt-z0-hxy-x",
   "cell_methods": "area: mean time: point",
   "description": "TBC (clashes in original table)",
@@ -7,11 +6,6 @@
     "longitude",
     "latitude",
     "time1"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "psl"
 }

@@ -37,8 +37,6 @@ def main():
         if len(records) == 1:
             # no dups
             branded_variable_info = records[0]
-            branded_variable_info.pop("@@review_requested")
-            branded_variable_info.pop("cmip6_compound_name")
 
         else:
             records_checker = copy.deepcopy(records)
@@ -71,9 +69,18 @@ def main():
 
                 branded_variable_info["description"] = "TBC (clashes in original table)"
 
-            branded_variable_info.pop("@@review_requested")
+        # Drop out keys that aren't used/Laurent can set
+        for k in (
+            "@@review_requested",
+            "cmip6_compound_name",
+            "label",
+            "type",
+            "id",
+            "@context",
+        ):
+            branded_variable_info.pop(k, None)
 
-        out_file = OUT_DIR / f"{branded_variable}.json"
+        out_file = OUT_DIR / f"{branded_variable.lower()}.json"
         with open(out_file, "w") as fh:
             json.dump(branded_variable_info, fh, indent=2, sort_keys=True)
 

@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "intparag_tavg-z0-hxy-sea",
   "cell_methods": "area: mean where sea time: mean",
   "description": "Vertically integrated aragonite production",
@@ -7,11 +6,6 @@
     "longitude",
     "latitude",
     "time"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "intparag"
 }

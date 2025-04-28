@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "wetso4_tavg-z0-hxy-x",
   "cell_methods": "area: time: mean",
   "description": "proposed name: tendency_of_atmosphere_mass_content_of_sulfate_dry_aerosol_due_to_wet_deposition",
@@ -7,11 +6,6 @@
     "longitude",
     "latitude",
     "time"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "wetso4"
 }

@@ -1,15 +1,9 @@
 {
-  "@context": "TBD",
   "branded_variable": "phycpico_ti-z0-hm-x",
   "cell_methods": "??",
   "description": "Mole Concentration of Picophytoplankton Expressed as Carbon in Sea Water\n",
   "dimensions": [
     "??"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "phycpico"
 }

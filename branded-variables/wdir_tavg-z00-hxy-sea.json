@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "wdir_tavg-z00-hxy-sea",
   "cell_methods": "area: mean where sea time: mean",
   "description": "Mean direction of wave propagation (direction from which the wave is coming) derived from the total wave energy spectrum, incorporating both wind-sea and swell waves.\u00a0This variable is usually expressed in degrees relative to true north.",
@@ -8,11 +7,6 @@
     "latitude",
     "time",
     "depth0m"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "wdir"
 }

@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "pso_tavg-z0-hxy-sea",
   "cell_methods": "area: mean where sea time: mean",
   "description": "The surface called \"surface\" means the lower boundary of the atmosphere.  \"Sea water pressure\" is the pressure that exists in the medium of sea water.  It includes the pressure due to overlying sea water, sea ice, air and any other medium that may be present.",
@@ -7,11 +6,6 @@
     "longitude",
     "latitude",
     "time"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "pso"
 }

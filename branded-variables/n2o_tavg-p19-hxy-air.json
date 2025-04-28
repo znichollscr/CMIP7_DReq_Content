@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "n2o_tavg-p19-hxy-air",
   "cell_methods": "area: time: mean where air",
   "description": "Mole fraction is used in the construction mole_fraction_of_X_in_Y, where X is a material constituent of Y.   The chemical formula of  nitrous oxide is N2O.",
@@ -8,11 +7,6 @@
     "latitude",
     "plev19",
     "time"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "n2o"
 }

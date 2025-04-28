@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "mlotstmax_tstat-z0-hxy-sea",
   "cell_methods": "area: mean where sea time: maximum",
   "description": "Sigma T is potential density referenced to ocean surface. Defined by Sigma T of 0.03 kg m-3 wrt to model level closest to 10 m depth.",
@@ -8,11 +7,6 @@
     "latitude",
     "time",
     "deltasigt"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "mlotstmax"
 }

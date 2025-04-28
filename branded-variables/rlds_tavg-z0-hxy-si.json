@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "rlds_tavg-z0-hxy-si",
   "cell_methods": "area: time: mean where sea_ice",
   "description": "Downwelling longwave flux from the atmosphere to the sea-ice surface\u00a0(energy flow per sea ice area). Always positive or zero.",
@@ -7,11 +6,6 @@
     "longitude",
     "latitude",
     "time"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "rlds"
 }

@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "utendwtem_tavg-p39-hy-air",
   "cell_methods": "longitude: time: mean where air",
   "description": "Zonal mean tendency of eastward wind due to TEM upward advection",
@@ -7,11 +6,6 @@
     "latitude",
     "plev39",
     "time"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "utendwtem"
 }

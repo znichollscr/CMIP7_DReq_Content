@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "vegHeight_tavg-z0-hxy-x",
   "cell_methods": "area: time: mean where natiural_grasses",
   "description": "Vegetation height averaged over the grass fraction of a grid cell.",
@@ -7,11 +6,6 @@
     "longitude",
     "latitude",
     "time"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "vegHeight"
 }

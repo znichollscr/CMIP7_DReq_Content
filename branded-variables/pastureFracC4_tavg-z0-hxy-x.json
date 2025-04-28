@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "pastureFracC4_tavg-z0-hxy-x",
   "cell_methods": "area: mean time:mean\" (or \"area time: mean\")",
   "description": "Percentage of entire grid cell covered by C4 pasture",
@@ -8,11 +7,6 @@
     "latitude",
     "time",
     "typec4pastures"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "pastureFracC4"
 }

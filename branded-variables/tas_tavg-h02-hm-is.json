@@ -1,16 +1,10 @@
 {
-  "@context": "TBD",
   "branded_variable": "tas_tavg-h02-hm-is",
   "cell_methods": "area: time: mean where ice_sheet",
   "description": "quantity averaged over ice sheet (grounded ice sheet and floating ice shelf) only. Needed to analyse the impact of downscaling methods",
   "dimensions": [
     "time",
     "height2m"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "tas"
 }

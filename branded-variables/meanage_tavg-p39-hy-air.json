@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "meanage_tavg-p39-hy-air",
   "cell_methods": "longitude: time: mean where air",
   "description": "The mean age of air is defined as the mean time that a stratospheric air mass has been out of contact with the well-mixed troposphere.",
@@ -7,11 +6,6 @@
     "latitude",
     "plev39",
     "time"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "meanage"
 }

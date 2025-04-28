@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "nbp or necb_tavg-z0-hxy-lus",
   "cell_methods": "area: time: mean where sector",
   "description": "Computed as npp minus heterotrophic respiration minus fire minus C leaching minus harvesting/clearing. Positive rate is into the land, negative rate is from the land.  Do not include fluxes from anthropogenic product pools to atmosphere",
@@ -8,11 +7,6 @@
     "latitude",
     "landUse",
     "time"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "nbp or necb"
 }

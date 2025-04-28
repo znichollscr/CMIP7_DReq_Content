@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "reffclic_tavg-l-hxy-x",
   "cell_methods": "area: time: mean where convenctive_cloud",
   "description": "This is defined as the in-cloud ratio of the third moment over the second moment of the particle size distribution (obtained by considering only the cloudy portion of the grid cell).",
@@ -8,11 +7,6 @@
     "latitude",
     "alevel",
     "time"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "reffclic"
 }

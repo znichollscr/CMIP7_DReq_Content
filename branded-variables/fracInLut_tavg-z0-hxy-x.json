@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "fracInLut_tavg-z0-hxy-x",
   "cell_methods": "area: mean time:mean\" (or \"area time: mean\")",
   "description": "Cumulative percentage transitions over the year; note that percentage should be reported as a percentage of atmospheric grid cell",
@@ -8,11 +7,6 @@
     "latitude",
     "landUse",
     "time"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "fracInLut"
 }

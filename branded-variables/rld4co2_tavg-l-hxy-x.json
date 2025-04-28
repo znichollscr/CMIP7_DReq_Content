@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "rld4co2_tavg-l-hxy-x",
   "cell_methods": "area: time: mean",
   "description": "Downwelling longwave radiation calculated using carbon dioxide concentrations increased fourfold (includes the fluxes at the surface and TOA)",
@@ -8,11 +7,6 @@
     "latitude",
     "alevhalf",
     "time"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "rld4co2"
 }

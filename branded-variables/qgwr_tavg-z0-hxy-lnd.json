@@ -1,5 +1,4 @@
 {
-  "@context": "TBD",
   "branded_variable": "qgwr_tavg-z0-hxy-lnd",
   "cell_methods": "area: mean where land time: mean",
   "description": "water_flux_from_soil_layer_to_groundwater",
@@ -7,11 +6,6 @@
     "longitude",
     "latitude",
     "time"
-  ],
-  "id": "TBD",
-  "label": "TBD",
-  "type": [
-    "TBD"
   ],
   "variableRootDD": "qgwr"
 }
