@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "topg_tavg-z0-hxy-gis",
+  "cell_methods": "area: time: mean where grounded_ice_sheet (mask=sfgrlf)",
+  "cmip6_compound_name": "IyrAnt.topg",
+  "description": "Bedrock Altitude",
+  "dimensions": [
+    "xant",
+    "yant",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "topg"
+}

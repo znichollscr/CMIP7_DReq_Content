@@ -1,0 +1,19 @@
+{
+  "@context": "TBD",
+  "branded_variable": "co2_tcla-p19-hxy-air",
+  "cell_methods": "area: mean where air time: mean within years time: mean over years",
+  "cmip6_compound_name": "Amon.co2Clim",
+  "description": "Mole Fraction of CO2",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "plev19",
+    "time2"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "co2"
+}

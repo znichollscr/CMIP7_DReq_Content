@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "yvelbase_tavg-z0-hxy-is",
+  "cell_methods": "area: time: mean where ice_sheet",
+  "cmip6_compound_name": "IyrAnt.yvelbase",
+  "description": "Y-Component of Land Ice Basal Velocity",
+  "dimensions": [
+    "xant",
+    "yant",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "yvelbase"
+}

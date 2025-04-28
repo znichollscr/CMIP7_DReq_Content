@@ -1,0 +1,19 @@
+{
+  "@context": "TBD",
+  "branded_variable": "tslsiLut_tavg-z0-hxy-lus",
+  "cell_methods": "area: time: mean where sector",
+  "cmip6_compound_name": "Emon.tslsiLut",
+  "description": "Surface Temperature on Landuse Tile",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "landUse",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "tslsiLut"
+}

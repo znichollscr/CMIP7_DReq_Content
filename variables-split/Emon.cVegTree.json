@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "cVegTree_tavg-z0-hxy-tree",
+  "cell_methods": "area: time: mean where trees (mask=treeFrac)",
+  "cmip6_compound_name": "Emon.cVegTree",
+  "description": "Carbon Mass in Vegetation on Tree Tiles",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "cVegTree"
+}

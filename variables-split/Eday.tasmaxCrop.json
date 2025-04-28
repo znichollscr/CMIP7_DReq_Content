@@ -1,0 +1,19 @@
+{
+  "@context": "TBD",
+  "branded_variable": "tasmaxCrop_tstat-h02-hxy-crp",
+  "cell_methods": "area: mean where crops time: maximum",
+  "cmip6_compound_name": "Eday.tasmaxCrop",
+  "description": "Daily Maximum Near-Surface Air Temperature over Crop Tile",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time",
+    "height2m"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "tasmaxCrop"
+}

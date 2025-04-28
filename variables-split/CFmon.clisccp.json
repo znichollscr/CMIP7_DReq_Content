@@ -1,0 +1,20 @@
+{
+  "@context": "TBD",
+  "branded_variable": "clisccp_tavg-p7c-hxy-air",
+  "cell_methods": "area: time: mean where air",
+  "cmip6_compound_name": "CFmon.clisccp",
+  "description": "ISCCP Cloud Area Percentage",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "plev7c",
+    "tau",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "clisccp"
+}

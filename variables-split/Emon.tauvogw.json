@@ -1,0 +1,19 @@
+{
+  "@context": "TBD",
+  "branded_variable": "tauvogw_tavg-p19-hxy-air",
+  "cell_methods": "area: time: mean where air",
+  "cmip6_compound_name": "Emon.tauvogw",
+  "description": "Northward Reynolds stress from orographic gravity wave parameterization",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "plev19",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "tauvogw"
+}

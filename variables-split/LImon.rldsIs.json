@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "rldsIs_tavg-z0-hxy-is",
+  "cell_methods": "area: time: mean where ice_sheet",
+  "cmip6_compound_name": "LImon.rldsIs",
+  "description": "Ice Sheet Surface Downwelling Longwave Radiation",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "rldsIs"
+}

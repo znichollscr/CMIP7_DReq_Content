@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "qgwr_tavg-z0-hxy-lnd",
+  "cell_methods": "area: mean where land time: mean",
+  "cmip6_compound_name": "Eday.qgwr",
+  "description": "Groundwater Recharge from Soil Layer",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "qgwr"
+}

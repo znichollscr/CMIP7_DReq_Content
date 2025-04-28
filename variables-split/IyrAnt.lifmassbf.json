@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "lifmassbf_tavg-z0-hxy-is",
+  "cell_methods": "area: time: mean where ice_sheet",
+  "cmip6_compound_name": "IyrAnt.lifmassbf",
+  "description": "Land Ice Vertical Front Mass Balance Flux",
+  "dimensions": [
+    "xant",
+    "yant",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "lifmassbf"
+}

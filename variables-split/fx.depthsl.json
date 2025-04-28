@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "depthsl_ti-z0-hxy-x",
+  "cell_methods": "area: mean",
+  "cmip6_compound_name": "fx.depthsl",
+  "description": "Total (Cumulative) Thickness of All Soil Layers",
+  "dimensions": [
+    "longitude",
+    "latitude"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "depthsl"
+}

@@ -1,0 +1,19 @@
+{
+  "@context": "TBD",
+  "branded_variable": "ta700_tavg-p0700-hxy-air",
+  "cell_methods": "area: time: mean where air",
+  "cmip6_compound_name": "CFday.ta700",
+  "description": "Air Temperature",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time",
+    "p700"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "ta700"
+}

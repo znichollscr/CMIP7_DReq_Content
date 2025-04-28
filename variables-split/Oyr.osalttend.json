@@ -1,0 +1,19 @@
+{
+  "@context": "TBD",
+  "branded_variable": "osalttend_tavg-l-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "cmip6_compound_name": "Oyr.osalttend",
+  "description": "Tendency of Sea Water Salinity Expressed as Salt Content",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "olevel",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "osalttend"
+}

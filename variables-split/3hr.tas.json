@@ -1,0 +1,19 @@
+{
+  "@context": "TBD",
+  "branded_variable": "tas_tpt-h02-hxy-x",
+  "cell_methods": "area: mean time: point",
+  "cmip6_compound_name": "3hr.tas",
+  "description": "Near-Surface Air Temperature",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time1",
+    "height2m"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "tas"
+}

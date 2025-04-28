@@ -1,0 +1,20 @@
+{
+  "@context": "TBD",
+  "branded_variable": "clmodis_tavg-p7c-hxy-air",
+  "cell_methods": "area: time: mean where air",
+  "cmip6_compound_name": "CFmon.clmodis",
+  "description": "MODIS Cloud Area Fraction",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "plev7c",
+    "tau",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "clmodis"
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "emic3h6_tavg-z0-hxy-x",
+  "cell_methods": "area: time: mean",
+  "cmip6_compound_name": "AERmon.emic3h6",
+  "description": "total emission rate of C3H6",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "emic3h6"
+}

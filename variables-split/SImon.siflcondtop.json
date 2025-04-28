@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "siflcondtop_tavg-z0-hxy-si",
+  "cell_methods": "area: time: mean where sea_ice (mask=siconc)",
+  "cmip6_compound_name": "SImon.siflcondtop",
+  "description": "Net Conductive Heat Flux in Sea Ice at the Surface",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "siflcondtop"
+}

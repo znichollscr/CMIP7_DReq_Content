@@ -1,0 +1,19 @@
+{
+  "@context": "TBD",
+  "branded_variable": "pfull_tcla-l-hxy-x",
+  "cell_methods": "area: mean time: mean within years time: mean over years",
+  "cmip6_compound_name": "Amon.pfull",
+  "description": "Pressure at Model Full-Levels",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "alevel",
+    "time2"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "pfull"
+}

@@ -1,0 +1,19 @@
+{
+  "@context": "TBD",
+  "branded_variable": "zg700_tpt-p0700-hxy-x",
+  "cell_methods": "area: mean time: point",
+  "cmip6_compound_name": "6hrPlevPt.zg700",
+  "description": "zg700",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time1",
+    "p700"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "zg700"
+}

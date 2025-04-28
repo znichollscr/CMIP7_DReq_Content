@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "rootd_ti-z0-hxy-x",
+  "cell_methods": "area: mean",
+  "cmip6_compound_name": "fx.rootd",
+  "description": "Maximum Root Depth",
+  "dimensions": [
+    "longitude",
+    "latitude"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "rootd"
+}

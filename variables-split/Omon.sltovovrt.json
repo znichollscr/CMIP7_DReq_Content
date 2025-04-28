@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "sltovovrt_tavg-z0-hys-x",
+  "cell_methods": "longitude: sum (basin sum [along zig-zag grid path]) depth: sum time: mean",
+  "cmip6_compound_name": "Omon.sltovovrt",
+  "description": "Northward Ocean Salt Transport Due to Overturning",
+  "dimensions": [
+    "latitude",
+    "basin",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "sltovovrt"
+}

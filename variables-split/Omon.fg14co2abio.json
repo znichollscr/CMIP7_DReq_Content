@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "fg14co2abio_tavg-z0-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "cmip6_compound_name": "Omon.fg14co2abio",
+  "description": "Surface Downward Mass Flux of Carbon-14 as Abiotic 14CO2 [kgC m-2 s-1]",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "fg14co2abio"
+}

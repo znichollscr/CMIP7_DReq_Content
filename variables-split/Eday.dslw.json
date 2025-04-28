@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "dslw_tavg-z0-hxy-lnd",
+  "cell_methods": "area: mean where land time: mean",
+  "cmip6_compound_name": "Eday.dslw",
+  "description": "Change in Soil Moisture",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "dslw"
+}

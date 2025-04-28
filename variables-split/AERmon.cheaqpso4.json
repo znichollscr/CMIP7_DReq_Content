@@ -1,0 +1,19 @@
+{
+  "@context": "TBD",
+  "branded_variable": "cheaqpso4_tavg-l-hxy-x",
+  "cell_methods": "area: time: mean",
+  "cmip6_compound_name": "AERmon.cheaqpso4",
+  "description": "Aqueous-Phase Production Rate of SO4",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "alevel",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "cheaqpso4"
+}

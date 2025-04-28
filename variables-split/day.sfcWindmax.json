@@ -1,0 +1,19 @@
+{
+  "@context": "TBD",
+  "branded_variable": "sfcWindmax_tstat-h010-hxy-x",
+  "cell_methods": "area: mean time: maximum",
+  "cmip6_compound_name": "day.sfcWindmax",
+  "description": "Daily Maximum Near-Surface Wind Speed",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time",
+    "height10m"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "sfcWindmax"
+}

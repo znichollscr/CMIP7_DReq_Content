@@ -1,0 +1,19 @@
+{
+  "@context": "TBD",
+  "branded_variable": "zmeso_tavg-l-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "cmip6_compound_name": "Oday.zmeso",
+  "description": "Mole Concentration of Mesozooplankton Expressed as Carbon in Sea Water",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "olevel",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "zmeso"
+}

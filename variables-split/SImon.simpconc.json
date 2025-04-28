@@ -1,0 +1,19 @@
+{
+  "@context": "TBD",
+  "branded_variable": "simpconc_tavg-z0-hxy-si",
+  "cell_methods": "area: time: mean where sea_ice (mask=siconc)",
+  "cmip6_compound_name": "SImon.simpconc",
+  "description": "Fraction of Sea Ice Covered by Melt Pond",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time",
+    "typemp"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "simpconc"
+}

@@ -1,0 +1,19 @@
+{
+  "@context": "TBD",
+  "branded_variable": "cropFrac_tavg-z0-hxy-x",
+  "cell_methods": "area: time: mean",
+  "cmip6_compound_name": "Lmon.cropFrac",
+  "description": "Percentage Crop Cover",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time",
+    "typecrop"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "cropFrac"
+}

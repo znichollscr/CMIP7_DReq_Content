@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "sifllwdtop_tavg-z0-hxy-si",
+  "cell_methods": "area: time: mean where sea_ice (mask=siconca)",
+  "cmip6_compound_name": "SImon.sifllwdtop",
+  "description": "Downwelling Longwave Flux over Sea Ice",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "sifllwdtop"
+}

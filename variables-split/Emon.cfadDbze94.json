@@ -1,0 +1,20 @@
+{
+  "@context": "TBD",
+  "branded_variable": "cfadDbze94_tavg-h40-hxy-air",
+  "cell_methods": "area: time: mean where air",
+  "cmip6_compound_name": "Emon.cfadDbze94",
+  "description": "CloudSat Radar Reflectivity CFAD",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "alt40",
+    "dbze",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "cfadDbze94"
+}

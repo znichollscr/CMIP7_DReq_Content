@@ -1,0 +1,19 @@
+{
+  "@context": "TBD",
+  "branded_variable": "wap6_tpt-z0-hxy-air",
+  "cell_methods": "area: mean where air time: point",
+  "cmip6_compound_name": "E3hrPt.wap6",
+  "description": "Omega (=dp/dt)",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "plev6",
+    "time1"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "wap6"
+}

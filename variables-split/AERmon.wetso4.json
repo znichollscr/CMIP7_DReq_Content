@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "wetso4_tavg-z0-hxy-x",
+  "cell_methods": "area: time: mean",
+  "cmip6_compound_name": "AERmon.wetso4",
+  "description": "Wet Deposition Rate of SO4",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "wetso4"
+}

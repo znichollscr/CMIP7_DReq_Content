@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "t17d_tavg-z0-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "cmip6_compound_name": "Emon.t17d",
+  "description": "Depth of 17 degree Celsius Isotherm",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "t17d"
+}

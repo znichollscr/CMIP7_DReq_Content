@@ -1,0 +1,19 @@
+{
+  "@context": "TBD",
+  "branded_variable": "lossn2o_tavg-l-hxy-x",
+  "cell_methods": "area: time: mean",
+  "cmip6_compound_name": "AERmon.lossn2o",
+  "description": "Monthly Loss of Atmospheric Nitrous Oxide",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "alevel",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "lossn2o"
+}

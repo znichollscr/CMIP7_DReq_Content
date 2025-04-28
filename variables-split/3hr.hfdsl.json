@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "hfdsl_tavg-z0-hxy-x",
+  "cell_methods": "area: time: mean",
+  "cmip6_compound_name": "3hr.hfdsl",
+  "description": "Ground heat flux at 3hr",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "hfdsl"
+}

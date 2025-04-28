@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "vt100_tavg-p0100-hy-air",
+  "cell_methods": "longitude: time: mean where air",
+  "cmip6_compound_name": "AERmonZ.vt100",
+  "description": "Northward Eddy Temperature Flux",
+  "dimensions": [
+    "latitude",
+    "time",
+    "p100"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "vt100"
+}

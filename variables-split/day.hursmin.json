@@ -1,0 +1,19 @@
+{
+  "@context": "TBD",
+  "branded_variable": "hursmin_tstat-h02-hxy-x",
+  "cell_methods": "area: mean time: minimum",
+  "cmip6_compound_name": "day.hursmin",
+  "description": "Daily Minimum Near-Surface Relative Humidity",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time",
+    "height2m"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "hursmin"
+}

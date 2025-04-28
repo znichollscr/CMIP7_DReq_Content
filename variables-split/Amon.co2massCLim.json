@@ -1,0 +1,16 @@
+{
+  "@context": "TBD",
+  "branded_variable": "co2_tcla-z0-hm-x",
+  "cell_methods": "height: sum (through atmospheric column) area: sum time: mean within years time: mean over years",
+  "cmip6_compound_name": "Amon.co2massCLim",
+  "description": "Total Atmospheric Mass of CO2",
+  "dimensions": [
+    "time2"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "co2"
+}

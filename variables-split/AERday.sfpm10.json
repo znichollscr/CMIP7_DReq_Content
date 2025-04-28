@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "sfpm10_tavg-z0-hxy-x",
+  "cell_methods": "area: time: mean",
+  "cmip6_compound_name": "AERday.sfpm10",
+  "description": "Daily mean surface PM10",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "sfpm10"
+}

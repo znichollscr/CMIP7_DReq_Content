@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "prCrop_tavg-z0-hxy-crp",
+  "cell_methods": "area: time: mean where crops (mask=cropFrac)",
+  "cmip6_compound_name": "Eday.prCrop",
+  "description": "Precipitation over Crop Tile",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "prCrop"
+}

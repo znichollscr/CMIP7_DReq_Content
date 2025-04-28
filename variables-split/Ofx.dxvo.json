@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "dxvo_ti-z0-hxy-x",
+  "cell_methods": "area: point",
+  "cmip6_compound_name": "Ofx.dxvo",
+  "description": "Cell Length in the X Direction at v-points",
+  "dimensions": [
+    "longitude",
+    "latitude"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "dxvo"
+}

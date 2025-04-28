@@ -1,0 +1,19 @@
+{
+  "@context": "TBD",
+  "branded_variable": "fracOutLut_tsum-z0-hxy-lnd",
+  "cell_methods": "area: mean where land over all_area_types time: sum",
+  "cmip6_compound_name": "Eyr.fracOutLut",
+  "description": "Annual Gross Percentage of Land-Use Tile That Was Transferred into Other Land-Use Tiles",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "landUse",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "fracOutLut"
+}

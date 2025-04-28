@@ -1,0 +1,19 @@
+{
+  "@context": "TBD",
+  "branded_variable": "emiavnox_tavg-l-hxy-x",
+  "cell_methods": "area: time: mean",
+  "cmip6_compound_name": "AERmon.emiavnox",
+  "description": "Emission rate of NOx from aviation",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "alevel",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "emiavnox"
+}

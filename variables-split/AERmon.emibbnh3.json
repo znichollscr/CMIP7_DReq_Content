@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "emibbnh3_tavg-z0-hxy-x",
+  "cell_methods": "area: time: mean",
+  "cmip6_compound_name": "AERmon.emibbnh3",
+  "description": "total emission rate of NH3 from all biomass burning",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "emibbnh3"
+}

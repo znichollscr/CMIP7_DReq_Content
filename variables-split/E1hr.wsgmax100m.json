@@ -1,0 +1,19 @@
+{
+  "@context": "TBD",
+  "branded_variable": "wsgmax100m_tstat-h0100-hxy-x",
+  "cell_methods": "area: mean time: maximum",
+  "cmip6_compound_name": "E1hr.wsgmax100m",
+  "description": "Maximum Wind Speed of Gust at 100m",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time",
+    "height100m"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "wsgmax100m"
+}

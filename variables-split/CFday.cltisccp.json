@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "cltisccp_tavg-z0-hxy-x",
+  "cell_methods": "area: time: mean",
+  "cmip6_compound_name": "CFday.cltisccp",
+  "description": "ISCCP Total Cloud Cover Percentage",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "cltisccp"
+}

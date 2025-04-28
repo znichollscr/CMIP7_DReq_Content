@@ -1,0 +1,19 @@
+{
+  "@context": "TBD",
+  "branded_variable": "ua_tpt-p7h-hxy-air",
+  "cell_methods": "area: mean where air time: point",
+  "cmip6_compound_name": "6hrPlevPt.ua7h",
+  "description": "Eastward Wind",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "plev7h",
+    "time1"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "ua"
+}

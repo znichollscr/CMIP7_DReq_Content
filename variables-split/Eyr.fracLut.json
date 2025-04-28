@@ -1,0 +1,19 @@
+{
+  "@context": "TBD",
+  "branded_variable": "fracLut_tpt-z0-hxy-x",
+  "cell_methods": "area: mean time: point",
+  "cmip6_compound_name": "Eyr.fracLut",
+  "description": "Percentage of Grid Cell for Each Land-Use Tile",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "landUse",
+    "time1"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "fracLut"
+}

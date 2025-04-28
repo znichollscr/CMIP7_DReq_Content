@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "fsitherm_tavg-z0-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "cmip6_compound_name": "Omon.fsitherm",
+  "description": "Water Flux into Sea Water Due to Sea Ice Thermodynamics",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "fsitherm"
+}

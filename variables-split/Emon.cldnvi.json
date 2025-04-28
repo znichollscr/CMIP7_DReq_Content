@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "cldnvi_tavg-z0-hxy-x",
+  "cell_methods": "area: time: mean",
+  "cmip6_compound_name": "Emon.cldnvi",
+  "description": "Column Integrated Cloud Droplet Number",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "cldnvi"
+}

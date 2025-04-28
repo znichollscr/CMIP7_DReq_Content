@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "c13Veg_tavg-z0-hxy-lnd",
+  "cell_methods": "area: mean where land time: mean",
+  "cmip6_compound_name": "Emon.c13Veg",
+  "description": "Mass of 13C in Vegetation",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "c13Veg"
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "tnhus_tpt-l-hxys-x",
+  "cell_methods": "area: point time: point",
+  "cmip6_compound_name": "CFsubhr.tnhus",
+  "description": "Tendency of Specific Humidity",
+  "dimensions": [
+    "alevel",
+    "site",
+    "time1"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "tnhus"
+}

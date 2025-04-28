@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "gppGrass_tavg-z0-hxy-ng",
+  "cell_methods": "area: time: mean where natural_grasses (mask=grassFrac)",
+  "cmip6_compound_name": "Emon.gppGrass",
+  "description": "Gross Primary Production on Grass Tiles as Carbon Mass Flux [kgC m-2 s-1]",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "gppGrass"
+}

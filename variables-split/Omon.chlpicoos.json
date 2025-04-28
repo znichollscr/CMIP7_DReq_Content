@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "chlpicoos_tavg-z0-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "cmip6_compound_name": "Omon.chlpicoos",
+  "description": "Surface Mass Concentration of Picophytoplankton Expressed as Chlorophyll in Sea Water",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "chlpicoos"
+}

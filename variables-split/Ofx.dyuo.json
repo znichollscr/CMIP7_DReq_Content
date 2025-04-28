@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "dyuo_ti-z0-hxy-x",
+  "cell_methods": "area: point",
+  "cmip6_compound_name": "Ofx.dyuo",
+  "description": "Cell Length in the Y Direction at u-points",
+  "dimensions": [
+    "longitude",
+    "latitude"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "dyuo"
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "pr_tpt-z0-hxy-x",
+  "cell_methods": "area: mean time: point",
+  "cmip6_compound_name": "6hrPlevPt.pr",
+  "description": "surface precipitation",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time1"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "pr"
+}

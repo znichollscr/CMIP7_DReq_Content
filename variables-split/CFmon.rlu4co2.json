@@ -1,0 +1,19 @@
+{
+  "@context": "TBD",
+  "branded_variable": "rlu4co2_tavg-l-hxy-x",
+  "cell_methods": "area: time: mean",
+  "cmip6_compound_name": "CFmon.rlu4co2",
+  "description": "Upwelling Longwave Radiation 4XCO2 Atmosphere",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "alevhalf",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "rlu4co2"
+}

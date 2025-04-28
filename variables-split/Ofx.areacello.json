@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "areacello_ti-z0-hxy-x",
+  "cell_methods": "area: sum",
+  "cmip6_compound_name": "Ofx.areacello",
+  "description": "Grid-Cell Area for Ocean Variables",
+  "dimensions": [
+    "longitude",
+    "latitude"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "areacello"
+}

@@ -1,0 +1,19 @@
+{
+  "@context": "TBD",
+  "branded_variable": "chldiat_tavg-l-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "cmip6_compound_name": "Omon.chldiat",
+  "description": "Mass Concentration of Diatoms Expressed as Chlorophyll in Sea Water",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "olevel",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "chldiat"
+}

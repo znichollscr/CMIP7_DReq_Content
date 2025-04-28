@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "wetlandCH4cons_tavg-z0-hxy-lnd",
+  "cell_methods": "area: mean where land time: mean",
+  "cmip6_compound_name": "Emon.wetlandCH4cons",
+  "description": "Grid Averaged Methane Consumption (Methanotrophy) from Wetlands",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "wetlandCH4cons"
+}

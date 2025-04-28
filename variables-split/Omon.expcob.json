@@ -1,0 +1,19 @@
+{
+  "@context": "TBD",
+  "branded_variable": "expcob_tavg-z0-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "cmip6_compound_name": "Omon.expcob",
+  "description": "Sinking Flux of Particulate Organic Carbon Reaching the Ocean Bottom",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "depthseafloor",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "expcob"
+}

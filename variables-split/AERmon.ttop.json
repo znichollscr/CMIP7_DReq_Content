@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "ttop_tavg-z0-hxy-x",
+  "cell_methods": "area: time: mean",
+  "cmip6_compound_name": "AERmon.ttop",
+  "description": "Air Temperature at Cloud Top",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "ttop"
+}

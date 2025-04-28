@@ -1,0 +1,16 @@
+{
+  "@context": "TBD",
+  "branded_variable": "cfc11global_tavg-z0-hm-x",
+  "cell_methods": "height: sum (through atmospheric column) area: sum time: mean",
+  "cmip6_compound_name": "Amon.cfc11global",
+  "description": "Global Mean Mole Fraction of CFC11",
+  "dimensions": [
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "cfc11global"
+}

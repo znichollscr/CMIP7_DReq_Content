@@ -1,0 +1,19 @@
+{
+  "@context": "TBD",
+  "branded_variable": "mrso10_tavg-z01-hxy-lnd",
+  "cell_methods": "area: mean where land time: mean",
+  "cmip6_compound_name": "Eday.mrso10",
+  "description": "mrso10",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time",
+    "sdepth10"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "mrso10"
+}

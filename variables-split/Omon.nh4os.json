@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "nh4os_tavg-z0-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "cmip6_compound_name": "Omon.nh4os",
+  "description": "Surface Dissolved Ammonium Concentration",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "nh4os"
+}

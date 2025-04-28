@@ -1,0 +1,19 @@
+{
+  "@context": "TBD",
+  "branded_variable": "swhmax_tstat-z00-hxy-sea",
+  "cell_methods": "area: mean where sea time: maximum",
+  "cmip6_compound_name": "Omon.swhmax",
+  "description": "Maximum Significant Wave Height",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time",
+    "depth0m"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "swhmax"
+}

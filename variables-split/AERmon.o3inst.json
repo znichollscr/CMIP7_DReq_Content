@@ -1,0 +1,19 @@
+{
+  "@context": "TBD",
+  "branded_variable": "o3inst_tpt-l-hxy-x",
+  "cell_methods": "area: mean",
+  "cmip6_compound_name": "AERmon.o3inst",
+  "description": "O3 volume mixing ratio ",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "alevel",
+    "time1"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "o3inst"
+}

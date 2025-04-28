@@ -1,0 +1,16 @@
+{
+  "@context": "TBD",
+  "branded_variable": "tendlibmassbf_tavg-z0-hm-is",
+  "cell_methods": "area: sum where ice_sheet time: mean",
+  "cmip6_compound_name": "IyrAnt.tendlibmassbf",
+  "description": "Total Basal Mass Balance Flux",
+  "dimensions": [
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "tendlibmassbf"
+}

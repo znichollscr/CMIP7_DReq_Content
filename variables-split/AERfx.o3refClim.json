@@ -1,0 +1,19 @@
+{
+  "@context": "TBD",
+  "branded_variable": "o3ref_tavg-l-hxy-x",
+  "cell_methods": "area: time: mean (monthly mean fixed annual cycle)",
+  "cmip6_compound_name": "AERfx.o3refClim",
+  "description": "Fixed Reference Climatology of Mole Fraction of Ozone in Air ",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "alevel",
+    "timefxc"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "o3ref"
+}

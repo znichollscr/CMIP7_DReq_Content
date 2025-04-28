@@ -1,0 +1,16 @@
+{
+  "@context": "TBD",
+  "branded_variable": "tosga_tavg-z0-hm-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "cmip6_compound_name": "Omon.tosga",
+  "description": "Global Average Sea Surface Temperature",
+  "dimensions": [
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "tosga"
+}

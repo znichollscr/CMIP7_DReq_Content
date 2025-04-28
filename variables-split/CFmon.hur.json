@@ -1,0 +1,19 @@
+{
+  "@context": "TBD",
+  "branded_variable": "hur_tavg-l-hxy-x",
+  "cell_methods": "area: time: mean",
+  "cmip6_compound_name": "CFmon.hur",
+  "description": "Relative Humidity",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "alevel",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "hur"
+}

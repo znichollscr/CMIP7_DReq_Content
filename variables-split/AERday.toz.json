@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "toz_tavg-z0-hxy-x",
+  "cell_methods": "area: time: mean",
+  "cmip6_compound_name": "AERday.toz",
+  "description": "Total Column Ozone",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "toz"
+}

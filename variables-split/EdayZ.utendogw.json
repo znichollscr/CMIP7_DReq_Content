@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "utendogw_tavg-p39-hy-air",
+  "cell_methods": "longitude: time: mean where air",
+  "cmip6_compound_name": "EdayZ.utendogw",
+  "description": "Eastward Acceleration Due to Orographic Gravity Wave Drag",
+  "dimensions": [
+    "latitude",
+    "plev39",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "utendogw"
+}

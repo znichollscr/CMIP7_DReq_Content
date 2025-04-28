@@ -1,0 +1,19 @@
+{
+  "@context": "TBD",
+  "branded_variable": "clhcalipso_tavg-p0220-hxy-air",
+  "cell_methods": "area: time: mean where air",
+  "cmip6_compound_name": "CFmon.clhcalipso",
+  "description": "CALIPSO High Level Cloud Area Percentage",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time",
+    "p220"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "clhcalipso"
+}

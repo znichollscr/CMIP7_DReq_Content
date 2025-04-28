@@ -1,0 +1,19 @@
+{
+  "@context": "TBD",
+  "branded_variable": "taUTLS_tpt-z0-hxy-x",
+  "cell_methods": "time: point",
+  "cmip6_compound_name": "6hrPlevPt.taUTLS",
+  "description": "6 hourly instantaneous temperature in the UTLS region ",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "plev5u",
+    "time1"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "taUTLS"
+}

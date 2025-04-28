@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "phycnano_tavg-z0-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "cmip6_compound_name": "Oday.phycnano",
+  "description": "Carbon concentration of nanophytoplankton",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "phycnano"
+}

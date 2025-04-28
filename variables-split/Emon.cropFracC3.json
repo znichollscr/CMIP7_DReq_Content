@@ -1,0 +1,19 @@
+{
+  "@context": "TBD",
+  "branded_variable": "cropFracC3_tavg-z0-hxy-x",
+  "cell_methods": "area: time: mean",
+  "cmip6_compound_name": "Emon.cropFracC3",
+  "description": "Percentage Cover by C3 Crops",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time",
+    "typec3crop"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "cropFracC3"
+}

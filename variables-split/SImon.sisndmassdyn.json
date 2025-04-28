@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "sisndmassdyn_tavg-z0-hxy-si",
+  "cell_methods": "area: time: mean where sea_ice (mask=siconc)",
+  "cmip6_compound_name": "SImon.sisndmassdyn",
+  "description": "Snow Mass Rate of Change Through Advection by Sea-Ice Dynamics",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "sisndmassdyn"
+}

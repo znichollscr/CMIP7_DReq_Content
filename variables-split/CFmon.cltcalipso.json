@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "cltcalipso_tavg-z0-hxy-x",
+  "cell_methods": "area: time: mean",
+  "cmip6_compound_name": "CFmon.cltcalipso",
+  "description": "CALIPSO Total Cloud Cover Percentage",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "cltcalipso"
+}

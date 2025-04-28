@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "rsdsoni_tavg-z0-hxy-ifs",
+  "cell_methods": "area: time: mean where ice_free_sea over sea",
+  "cmip6_compound_name": "Emon.rsdsoni",
+  "description": "Surface Downwelling Shortwave Radiation over Ocean Not Covered by Sea Ice",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "rsdsoni"
+}

@@ -1,0 +1,19 @@
+{
+  "@context": "TBD",
+  "branded_variable": "c3h6_tavg-l-hxy-x",
+  "cell_methods": "area: time: mean",
+  "cmip6_compound_name": "AERmon.c3h6",
+  "description": "C3H6 Volume Mixing Ratio",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "alevel",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "c3h6"
+}

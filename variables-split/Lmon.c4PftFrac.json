@@ -1,0 +1,19 @@
+{
+  "@context": "TBD",
+  "branded_variable": "c4PftFrac_tavg-z0-hxy-x",
+  "cell_methods": "area: time: mean",
+  "cmip6_compound_name": "Lmon.c4PftFrac",
+  "description": "Percentage Cover by C4 Plant Functional Type",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time",
+    "typec4pft"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "c4PftFrac"
+}

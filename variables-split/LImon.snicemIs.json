@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "snicemIs_tavg-z0-hxy-is",
+  "cell_methods": "area: time: mean where ice_sheet",
+  "cmip6_compound_name": "LImon.snicemIs",
+  "description": "Ice Sheet Surface Snow and Ice Melt Flux",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "snicemIs"
+}

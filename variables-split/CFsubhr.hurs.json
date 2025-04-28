@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "hurs_tpt-h02-hxys-x",
+  "cell_methods": "area: point time: point",
+  "cmip6_compound_name": "CFsubhr.hurs",
+  "description": "Near-Surface Relative Humidity",
+  "dimensions": [
+    "site",
+    "time1",
+    "height2m"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "hurs"
+}

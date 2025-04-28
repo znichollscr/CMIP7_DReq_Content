@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "prraIs_tavg-z0-hxy-is",
+  "cell_methods": "area: time: mean where ice_sheet",
+  "cmip6_compound_name": "LImon.prraIs",
+  "description": "Ice Sheet Rainfall Rate",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "prraIs"
+}

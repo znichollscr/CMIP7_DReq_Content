@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "tos_tpt-z0-hxy-sea",
+  "cell_methods": "area: mean where sea time: point",
+  "cmip6_compound_name": "3hr.tos",
+  "description": "Sea Surface Temperature",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time1"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "tos"
+}

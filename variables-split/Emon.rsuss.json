@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "rsuss_tavg-z0-hxy-sn",
+  "cell_methods": "area: time: mean where snow (mask=snc)",
+  "cmip6_compound_name": "Emon.rsuss",
+  "description": "Surface Upwelling Shortwave Radiation over Snow",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "rsuss"
+}

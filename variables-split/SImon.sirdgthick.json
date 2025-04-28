@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "sirdgthick_tavg-z0-hxy-sir",
+  "cell_methods": "area: time: mean where sea_ice_ridges (mask=sirdgconc)",
+  "cmip6_compound_name": "SImon.sirdgthick",
+  "description": "Ridged Ice Thickness",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "sirdgthick"
+}

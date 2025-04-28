@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "rlutcs_tpt-z0-hxy-x",
+  "cell_methods": "area: mean time: point",
+  "cmip6_compound_name": "CF3hr.rlutcs",
+  "description": "TOA Outgoing Clear-Sky Longwave Radiation",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time1"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "rlutcs"
+}

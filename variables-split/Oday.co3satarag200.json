@@ -1,0 +1,19 @@
+{
+  "@context": "TBD",
+  "branded_variable": "co3satarag_tavg-z0-hxy-x",
+  "cell_methods": "area: time: mean",
+  "cmip6_compound_name": "Oday.co3satarag200",
+  "description": "Mole Concentration of Carbonate Ion in Equilibrium with Pure Aragonite in Sea Water",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time",
+    "op20bar"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "co3satarag"
+}

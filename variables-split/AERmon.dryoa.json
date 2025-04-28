@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "dryoa_tavg-z0-hxy-x",
+  "cell_methods": "area: time: mean",
+  "cmip6_compound_name": "AERmon.dryoa",
+  "description": "Dry Deposition Rate of Dry Aerosol Total Organic Matter",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "dryoa"
+}

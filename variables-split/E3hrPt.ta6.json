@@ -1,0 +1,19 @@
+{
+  "@context": "TBD",
+  "branded_variable": "ta6_tpt-z0-hxy-air",
+  "cell_methods": "area: mean where air time: point",
+  "cmip6_compound_name": "E3hrPt.ta6",
+  "description": "Air temperature",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "plev6",
+    "time1"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "ta6"
+}
