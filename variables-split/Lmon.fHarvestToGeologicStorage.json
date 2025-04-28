@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "fHarvestToGeologicStorage_tavg-z0-hxy-x",
-  "cell_methods": "area: mean",
+  "branded_variable": "fHarvestToGeologicStorage_tavg-z0-hxy-lnd",
+  "cell_methods": "area:mean where land time: mean",
   "cmip6_compound_name": "Lmon.fHarvestToGeologicStorage",
-  "description": "Harvested Biomass That Goes into Geological Storage",
+  "description": "Flux of carbon harvested from biomass that goes into geologic storage for the purposes of intentional carbon dioxide removal, via efforts such as bioenergy with carbon capture and storage (BECCS) or biomass removal and storage (BiCRS). The definition of geologic storage here is that the resulting carbon be  stored for a period of time that is long relative to that of the simulation. ",
   "dimensions": [
     "longitude",
     "latitude",

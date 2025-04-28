@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "reffclws_tpt-l-hxys-scl",
   "cell_methods": "area: mean where stratiform_cloud time: point",
   "cmip6_compound_name": "Esubhr.reffclws",
-  "description": "Stratiform Cloud Liquid Droplet Effective Radius",
+  "description": "alevel site time1",
   "dimensions": [
     "alevel",
     "site",

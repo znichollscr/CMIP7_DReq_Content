@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "hfls_tpt-z0-hxys-x",
   "cell_methods": "area: point time: point",
   "cmip6_compound_name": "CFsubhr.hfls",
-  "description": "Surface Upward Latent Heat Flux",
+  "description": "includes both evaporation and sublimation",
   "dimensions": [
     "site",
     "time1"

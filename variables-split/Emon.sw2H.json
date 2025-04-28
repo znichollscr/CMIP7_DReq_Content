@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "sw2H_tavg-l-hxy-sea",
   "cell_methods": "area: mean where sea time: mean",
   "cmip6_compound_name": "Emon.sw2H",
-  "description": "Isotopic Ratio of Deuterium in Sea Water",
+  "description": "Ratio of abundance of hydrogen-2 (2H) atoms to hydrogen-1 (1H) atoms in sea water",
   "dimensions": [
     "longitude",
     "latitude",

@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "sidmasstranx_tavg-z0-hxy-x",
-  "cell_methods": "time: mean",
+  "branded_variable": "sidmasstranx_tavg-z0-hxy-si",
+  "cell_methods": "area: time: mean where sea_ice",
   "cmip6_compound_name": "SImon.sidmasstranx",
-  "description": "X-Component of Sea-Ice Mass Transport",
+  "description": "X-component of the sea-ice drift-induced transport of snow and sea ice mass.",
   "dimensions": [
     "longitude",
     "latitude",

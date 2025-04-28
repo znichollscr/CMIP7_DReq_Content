@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "vas_tpt-h010-hxy-x",
   "cell_methods": "area: mean time: point",
   "cmip6_compound_name": "E1hr.vas",
-  "description": "Surface wind speed Northward Component",
+  "description": "Meridional wind (positive in a northward direction) at 10 meters above the surface. ",
   "dimensions": [
     "longitude",
     "latitude",

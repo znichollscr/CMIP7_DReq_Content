@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "cVegTree_tavg-z0-hxy-tree",
-  "cell_methods": "area: time: mean where trees (mask=treeFrac)",
+  "branded_variable": "cVeg_tavg-z0-hxy-tree",
+  "cell_methods": "area: time: mean where trees",
   "cmip6_compound_name": "Emon.cVegTree",
-  "description": "Carbon Mass in Vegetation on Tree Tiles",
+  "description": "\"Content\" indicates a quantity per unit area. \"Vegetation\" means any plants e.g. trees, shrubs, grass. Plants are autotrophs i.e. \"producers\" of biomass using carbon obtained from carbon dioxide.",
   "dimensions": [
     "longitude",
     "latitude",
@@ -14,5 +15,5 @@
   "type": [
     "TBD"
   ],
-  "variableRootDD": "cVegTree"
+  "variableRootDD": "cVeg"
 }

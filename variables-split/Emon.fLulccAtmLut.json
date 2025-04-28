@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "fLulccAtmLut_tavg-z0-hxy-lus",
+  "branded_variable": "fLuc_tavg-z0-hxy-lus",
   "cell_methods": "area: time: mean where sector",
   "cmip6_compound_name": "Emon.fLulccAtmLut",
-  "description": "Carbon Transferred Directly to Atmosphere Due to any Land-Use or Land-Cover Change Activities [kgC m-2 s-1]",
+  "description": "This annual mean flux refers to the transfer of carbon directly to the atmosphere due to any land-use or land-cover change activities.  Include carbon transferred due to deforestation or agricultural directly into atmosphere, and  emissions form anthropogenic pools into atmosphere",
   "dimensions": [
     "longitude",
     "latitude",
@@ -15,5 +16,5 @@
   "type": [
     "TBD"
   ],
-  "variableRootDD": "fLulccAtmLut"
+  "variableRootDD": "fLuc"
 }

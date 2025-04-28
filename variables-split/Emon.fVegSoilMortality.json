@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "fVegSoilMortality_tavg-z0-hxy-lnd",
   "cell_methods": "area: mean where land time: mean",
   "cmip6_compound_name": "Emon.fVegSoilMortality",
-  "description": "Total Carbon Mass Flux from Vegetation to Soil as a Result of Mortality",
+  "description": "needed to separate changing vegetation C turnover times resulting from changing allocation versus changing mortality",
   "dimensions": [
     "longitude",
     "latitude",

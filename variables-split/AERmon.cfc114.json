@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "cfc114_tavg-l-hxy-x",
   "cell_methods": "area: time: mean",
   "cmip6_compound_name": "AERmon.cfc114",
-  "description": "Mole Fraction of CFC114",
+  "description": "Mole fraction of cfc114 in air",
   "dimensions": [
     "longitude",
     "latitude",

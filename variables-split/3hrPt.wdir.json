@@ -1,14 +1,14 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "wdir_tpt-z00-hxy-sea",
+  "branded_variable": "wdir_tavg-z0-hxy-sea",
   "cell_methods": "area: mean where sea time: mean",
   "cmip6_compound_name": "3hrPt.wdir",
-  "description": "Total Wave Direction",
+  "description": "Mean direction of wave propagation (direction from which the wave is coming) derived from the total wave energy spectrum, incorporating both wind-sea and swell waves.\u00a0This variable is usually expressed in degrees relative to true north.",
   "dimensions": [
     "longitude",
     "latitude",
-    "time1",
-    "depth0m"
+    "time"
   ],
   "id": "TBD",
   "label": "TBD",

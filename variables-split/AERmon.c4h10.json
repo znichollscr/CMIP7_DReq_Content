@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "c4h10_tavg-l-hxy-x",
   "cell_methods": "area: time: mean",
   "cmip6_compound_name": "AERmon.c4h10",
-  "description": "C4H10  volume mixing ratio",
+  "description": "Mole fraction of butane (C4H10) in air",
   "dimensions": [
     "longitude",
     "latitude",

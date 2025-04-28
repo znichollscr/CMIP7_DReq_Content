@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "intpp_tavg-z0-hxy-sea",
-  "cell_methods": "area: mean where sea depth: sum where sea time: mean",
+  "cell_methods": "depth: sum where sea (over entire ocean column) area: time: mean",
   "cmip6_compound_name": "Oday.intpp",
-  "description": "Primary Organic Carbon Production by All Types of Phytoplankton",
+  "description": "Vertically integrated total primary (organic carbon) production by phytoplankton. This should equal the sum of intpdiat+intpphymisc, but those individual components may be unavailable in some models.",
   "dimensions": [
     "longitude",
     "latitude",

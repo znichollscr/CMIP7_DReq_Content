@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "sifllwdtop_tavg-z0-hxy-si",
-  "cell_methods": "area: time: mean where sea_ice (mask=siconc)",
+  "branded_variable": "rlds_tavg-z0-hxy-si",
+  "cell_methods": "area: time: mean where sea_ice",
   "cmip6_compound_name": "SIday.sifllwdtop",
-  "description": "Downwelling Longwave Flux over Sea Ice",
+  "description": "Downwelling longwave flux from the atmosphere to the sea-ice surface\u00a0(energy flow per sea ice area). Always positive or zero.",
   "dimensions": [
     "longitude",
     "latitude",
@@ -14,5 +15,5 @@
   "type": [
     "TBD"
   ],
-  "variableRootDD": "sifllwdtop"
+  "variableRootDD": "rlds"
 }

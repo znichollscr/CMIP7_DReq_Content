@@ -1,14 +1,14 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "wppwindsea_tavg-z00-hxy-sea",
+  "branded_variable": "wppwindsea_tavg-z0-hxy-sea",
   "cell_methods": "area: mean where sea time: mean",
   "cmip6_compound_name": "Omon.wppwindsea",
-  "description": "Wind Sea Wave Peak Period",
+  "description": "Wave period associated with the most energetic wind-sea waves (i.e., local wind waves).\u00a0In spectral wind wave models,\u00a0this represents the spectral peak\u00a0across part of the two-dimensional wave spectrum, incorporating just wind-sea waves.",
   "dimensions": [
     "longitude",
     "latitude",
-    "time",
-    "depth0m"
+    "time"
   ],
   "id": "TBD",
   "label": "TBD",

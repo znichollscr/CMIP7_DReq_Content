@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "sisaltmass_tavg-z0-hxy-sea",
-  "cell_methods": "area: mean where sea time: mean",
+  "branded_variable": "sisaltmass_tavg-z0-hxy-si",
+  "cell_methods": "area: time: mean where sea_ice",
   "cmip6_compound_name": "SImon.sisaltmass",
-  "description": "Mass of Salt in Sea Ice",
+  "description": "Total mass of all salt in sea ice divided by grid-cell area. Sometimes, models implicitly or explicitly assume a different salinity of the ice for thermodynamic considerations than they do for closing the salt budget with the ocean. In these cases, the total mass of all salt in sea ice should be calculated from the salinity value used in the calculation of the salt budget.",
   "dimensions": [
     "longitude",
     "latitude",

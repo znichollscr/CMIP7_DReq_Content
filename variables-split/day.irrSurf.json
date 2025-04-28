@@ -1,18 +1,19 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "irrSurf_tavg-z0-hxy-x",
+  "branded_variable": "irr_tavg-z0-hm-x",
   "cell_methods": "area: mean",
   "cmip6_compound_name": "day.irrSurf",
-  "description": "irrigation water withdrawal from surface water",
+  "description": "the amount of water withdrawal for irrigation from surface water, including rivers, lakes, reservoirs, etc.)",
   "dimensions": [
-    "longitude",
-    "latitude",
-    "time"
+    "area:",
+    "time:",
+    "mean"
   ],
   "id": "TBD",
   "label": "TBD",
   "type": [
     "TBD"
   ],
-  "variableRootDD": "irrSurf"
+  "variableRootDD": "irr"
 }

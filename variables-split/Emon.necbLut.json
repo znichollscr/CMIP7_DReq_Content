@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "necbLut_tavg-z0-hxy-lus",
+  "branded_variable": "nbp or necb_tavg-z0-hxy-lus",
   "cell_methods": "area: time: mean where sector",
   "cmip6_compound_name": "Emon.necbLut",
-  "description": "Net Carbon Mass Flux into Land-Use Tile [kgC m-2 s-1]",
+  "description": "Computed as npp minus heterotrophic respiration minus fire minus C leaching minus harvesting/clearing. Positive rate is into the land, negative rate is from the land.  Do not include fluxes from anthropogenic product pools to atmosphere",
   "dimensions": [
     "longitude",
     "latitude",
@@ -15,5 +16,5 @@
   "type": [
     "TBD"
   ],
-  "variableRootDD": "necbLut"
+  "variableRootDD": "nbp or necb"
 }

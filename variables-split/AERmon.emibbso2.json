@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "emibbso2_tavg-z0-hxy-x",
   "cell_methods": "area: time: mean",
   "cmip6_compound_name": "AERmon.emibbso2",
-  "description": "total emission rate of SO2 from all biomass burning",
+  "description": "Total emission rate of SO2 into the atmosphere from all biomass burning (natural and anthropogenic). ",
   "dimensions": [
     "longitude",
     "latitude",

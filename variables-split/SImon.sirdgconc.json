@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "sirdgconc_tavg-z0-hxy-si",
-  "cell_methods": "area: time: mean where sea_ice (mask=siconc)",
+  "branded_variable": "sirdgconc_tavg-z0-hxy-x",
+  "cell_methods": "area: time: mean",
   "cmip6_compound_name": "SImon.sirdgconc",
-  "description": "Fraction of Ridged Sea Ice",
+  "description": "Area fraction of sea-ice surface that is ridged sea ice.",
   "dimensions": [
     "longitude",
     "latitude",

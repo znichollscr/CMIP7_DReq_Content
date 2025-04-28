@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "dcw_tavg-z0-hxy-lnd",
   "cell_methods": "area: mean where land time: mean",
   "cmip6_compound_name": "Eday.dcw",
-  "description": "Change in Interception Storage",
+  "description": "change_over_time_in_canopy_water_amount",
   "dimensions": [
     "longitude",
     "latitude",

@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "uaUTLS_tpt-z0-hxy-air",
+  "branded_variable": "ua_tpt-z0-hxy-air",
   "cell_methods": "area: mean where air time: point",
   "cmip6_compound_name": "6hrPlevPt.uaUTLS",
-  "description": "6 hourly instantaneous northward wind in the UTLS region ",
+  "description": "6 hourly instantaneous northward wind at 5 pressure levels in the UTLS region (150, 175, 200, 225, and 250 hPa)",
   "dimensions": [
     "longitude",
     "latitude",
@@ -15,5 +16,5 @@
   "type": [
     "TBD"
   ],
-  "variableRootDD": "uaUTLS"
+  "variableRootDD": "ua"
 }

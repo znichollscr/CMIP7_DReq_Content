@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "siforcecorioly_tavg-z0-hxy-si",
-  "cell_methods": "area: time: mean where sea_ice (mask=siconc)",
+  "cell_methods": "area: time: mean where sea_ice",
   "cmip6_compound_name": "SImon.siforcecorioly",
-  "description": "Coriolis Force Term in Force Balance (Y-Component)",
+  "description": "Y-component of the force on sea ice caused by the Coriolis force divided by grid-cell area.",
   "dimensions": [
     "longitude",
     "latitude",

@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "dryhno3_tavg-z0-hxy-x",
   "cell_methods": "area: time: mean",
   "cmip6_compound_name": "AERmon.dryhno3",
-  "description": "Dry deposition of HNO3",
+  "description": "This is the loss of nitric acid (HNO3) from the atmosphere due to dry deposition",
   "dimensions": [
     "longitude",
     "latitude",

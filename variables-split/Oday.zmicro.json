@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "zmicro_tavg-l-hxy-sea",
   "cell_methods": "area: mean where sea time: mean",
   "cmip6_compound_name": "Oday.zmicro",
-  "description": "Mole Concentration of microzooplankton Expressed as Carbon in Sea Water\n",
+  "description": "carbon\u00a0concentration from the microzooplankton (<20 um) component alone",
   "dimensions": [
     "longitude",
     "latitude",

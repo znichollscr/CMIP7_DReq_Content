@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "mrros_tavg-z0-hxy-lnd",
   "cell_methods": "area: mean where land time: mean",
   "cmip6_compound_name": "Lmon.mrros",
-  "description": "Surface Runoff",
+  "description": "the total surface runoff leaving the land portion of the grid cell.",
   "dimensions": [
     "longitude",
     "latitude",

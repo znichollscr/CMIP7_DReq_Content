@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "prw_tpt-z0-hxys-x",
   "cell_methods": "area: point time: point",
   "cmip6_compound_name": "CFsubhr.prw",
-  "description": "Water Vapor Path",
+  "description": "vertically integrated through the atmospheric column",
   "dimensions": [
     "site",
     "time1"

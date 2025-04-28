@@ -1,12 +1,13 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "hfgeoubed_ti-z0-hxy-gis",
   "cell_methods": "area: mean where grounded_ice_sheet",
   "cmip6_compound_name": "IfxAnt.hfgeoubed",
-  "description": "Geothermal Heat Flux Beneath Land Ice",
+  "description": NaN,
   "dimensions": [
-    "xant",
-    "yant"
+    "longitude",
+    "latitude"
   ],
   "id": "TBD",
   "label": "TBD",

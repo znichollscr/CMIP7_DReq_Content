@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "snmIs_tavg-z0-hxy-is",
+  "branded_variable": "snm_tavg-z0-hxy-is",
   "cell_methods": "area: time: mean where ice_sheet",
   "cmip6_compound_name": "LImon.snmIs",
-  "description": "Ice Sheet Surface Snow Melt",
+  "description": "Loss of snow mass resulting from surface melting. Computed as the surface melt water from snow on the ice sheet portion of the grid cell divided by the ice_sheet area in the grid cell; report as 0.0 for snow-free land_ice regions; report as missing where the land fraction is 0.",
   "dimensions": [
     "longitude",
     "latitude",
@@ -14,5 +15,5 @@
   "type": [
     "TBD"
   ],
-  "variableRootDD": "snmIs"
+  "variableRootDD": "snm"
 }

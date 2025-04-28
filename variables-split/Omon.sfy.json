@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "sfy_tavg-l-hxy-sea",
   "cell_methods": "area: mean where sea time: mean",
   "cmip6_compound_name": "Omon.sfy",
-  "description": "3D Ocean Salt Mass Y Transport",
+  "description": "Contains all contributions to 'y-ward' salt mass transport from resolved and parameterized processes. Report on native horizontal grid.",
   "dimensions": [
     "longitude",
     "latitude",

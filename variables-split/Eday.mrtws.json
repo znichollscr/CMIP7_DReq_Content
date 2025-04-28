@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "mrtws_tavg-z0-hxy-lnd",
   "cell_methods": "area: mean where land time: mean",
   "cmip6_compound_name": "Eday.mrtws",
-  "description": "Terrestrial Water Storage",
+  "description": "canopy_and_surface_and_subsurface_water_amount",
   "dimensions": [
     "longitude",
     "latitude",

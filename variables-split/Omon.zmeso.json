@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "zmeso_tavg-l-hxy-sea",
   "cell_methods": "area: mean where sea time: mean",
   "cmip6_compound_name": "Omon.zmeso",
-  "description": "Mole Concentration of Mesozooplankton Expressed as Carbon in Sea Water",
+  "description": "carbon  concentration from mesozooplankton (20-200 um) component alone",
   "dimensions": [
     "longitude",
     "latitude",

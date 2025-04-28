@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "mcd_tavg-l-hxy-x",
   "cell_methods": "area: time: mean",
   "cmip6_compound_name": "CFmon.mcd",
-  "description": "Downdraft Convective Mass Flux",
+  "description": "Calculated as the convective mass flux divided by the area of the whole grid cell (not just the area of the cloud).",
   "dimensions": [
     "longitude",
     "latitude",

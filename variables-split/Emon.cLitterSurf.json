@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "cLitterSurf_tavg-z0-hxy-lnd",
   "cell_methods": "area: mean where land time: mean",
   "cmip6_compound_name": "Emon.cLitterSurf",
-  "description": "Carbon Mass in Above-Ground Litter",
+  "description": "Surface or near-surface litter pool fed by leaf and above-ground litterfall",
   "dimensions": [
     "longitude",
     "latitude",

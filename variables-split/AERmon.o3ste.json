@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "o3ste_tavg-l-hxy-x",
   "cell_methods": "area: time: mean",
   "cmip6_compound_name": "AERmon.o3ste",
-  "description": "Stratospheric Ozone Tracer Volume Mixing Ratio",
+  "description": "Ozone tracer intended to map out strat-trop exchange (STE) of ozone.",
   "dimensions": [
     "longitude",
     "latitude",

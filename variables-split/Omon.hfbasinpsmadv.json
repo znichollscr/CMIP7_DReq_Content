@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "hfbasinpsmadv_tavg-z0-hys-x",
-  "cell_methods": "longitude: sum (basin sum [along zig-zag grid path]) depth: sum time: mean",
+  "branded_variable": "hfbasinpsmadv_tavg-z0-hys-sea",
+  "cell_methods": "depth: longitude: sum where sea (along a zig-zag grid path spanning a basin) where sea time: mean",
   "cmip6_compound_name": "Omon.hfbasinpsmadv",
-  "description": "Northward Ocean Heat Transport Due to Parameterized Submesoscale Advection",
+  "description": "Contributions to heat transport from parameterized mesoscale eddy-induced advective transport. Diagnosed here as a function of latitude and basin.  Use Celsius for temperature scale.",
   "dimensions": [
     "latitude",
     "basin",

@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "ps_tpt-z0-hxy-x",
   "cell_methods": "area: mean time: point",
   "cmip6_compound_name": "E1hr.ps",
-  "description": "Surface Air Pressure",
+  "description": "Surface pressure. ",
   "dimensions": [
     "longitude",
     "latitude",

@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "sifllwutop_tavg-z0-hxy-si",
-  "cell_methods": "area: time: mean where sea_ice (mask=siconca)",
+  "branded_variable": "rlus_tavg-z0-hxy-si",
+  "cell_methods": "area: time: mean where sea_ice",
   "cmip6_compound_name": "SImon.sifllwutop",
-  "description": "Upwelling Longwave Flux over Sea Ice",
+  "description": "Upward longwave flux from the sea-ice surface to the atmosphere\u00a0(energy flow per sea ice area). Always positive or zero.",
   "dimensions": [
     "longitude",
     "latitude",
@@ -14,5 +15,5 @@
   "type": [
     "TBD"
   ],
-  "variableRootDD": "sifllwutop"
+  "variableRootDD": "rlus"
 }

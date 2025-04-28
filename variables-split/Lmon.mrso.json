@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "mrso_tavg-z0-hxy-lnd",
   "cell_methods": "area: mean where land time: mean",
   "cmip6_compound_name": "Lmon.mrso",
-  "description": "Total Soil Moisture Content",
+  "description": "the mass per unit area  (summed over all soil layers) of water in all phases.",
   "dimensions": [
     "longitude",
     "latitude",

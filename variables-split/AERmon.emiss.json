@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "emiss_tavg-z0-hxy-x",
   "cell_methods": "area: time: mean",
   "cmip6_compound_name": "AERmon.emiss",
-  "description": "Total Emission Rate of Sea-Salt Aerosol",
+  "description": "Integrate 3D emission field vertically to 2d field.",
   "dimensions": [
     "longitude",
     "latitude",

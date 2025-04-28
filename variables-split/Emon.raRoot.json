@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "raRoot_tavg-z0-hxy-lnd",
   "cell_methods": "area: mean where land time: mean",
   "cmip6_compound_name": "Emon.raRoot",
-  "description": "Total Respiration from Roots as Carbon Mass Flux [kgC m-2 s-1]",
+  "description": "Total autotrophic respiration from all belowground plant parts.  This has benchmarking value because the sum of Rh and root respiration can be compared to observations of total soil respiration.",
   "dimensions": [
     "longitude",
     "latitude",

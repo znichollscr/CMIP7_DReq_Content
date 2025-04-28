@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "mmroa_tavg-l-hxy-x",
   "cell_methods": "area: time: mean",
   "cmip6_compound_name": "AERmon.mmroa",
-  "description": "Total Organic Aerosol Mass Mixing Ratio",
+  "description": "We recommend a scale factor of POM=1.4*OC, unless your model has more detailed info available.",
   "dimensions": [
     "longitude",
     "latitude",

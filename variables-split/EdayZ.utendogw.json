@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "utendogw_tavg-p39-hy-air",
   "cell_methods": "longitude: time: mean where air",
   "cmip6_compound_name": "EdayZ.utendogw",
-  "description": "Eastward Acceleration Due to Orographic Gravity Wave Drag",
+  "description": "Zonal mean tendency of eastward wind induced by the parameterized orographic gravity wave drag",
   "dimensions": [
     "latitude",
     "plev39",

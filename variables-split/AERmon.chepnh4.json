@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "chepnh4_tavg-l-hxy-x",
   "cell_methods": "area: time: mean",
   "cmip6_compound_name": "AERmon.chepnh4",
-  "description": "Net chemical production of ammonium aerosol",
+  "description": "Net chemical production rate of ammonium aerosol in the atmosphere.",
   "dimensions": [
     "longitude",
     "latitude",

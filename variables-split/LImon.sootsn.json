@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "sootsn_tavg-z0-hxy-lnd",
   "cell_methods": "area: mean where land time: mean",
   "cmip6_compound_name": "LImon.sootsn",
-  "description": "Snow Soot Content",
+  "description": "the entire land portion of the grid cell is considered, with snow soot content set to 0.0 in regions free of snow.",
   "dimensions": [
     "longitude",
     "latitude",

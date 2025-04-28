@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "drynoy_tavg-z0-hxy-x",
   "cell_methods": "area: time: mean",
   "cmip6_compound_name": "AERmon.drynoy",
-  "description": "Dry Deposition Rate of NOy",
+  "description": NaN,
   "dimensions": [
     "longitude",
     "latitude",

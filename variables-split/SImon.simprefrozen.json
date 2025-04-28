@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "simprefrozen_tavg-z0-hxy-simp",
-  "cell_methods": "area: time: mean where sea_ice_melt_pond (mask=simpconc)",
+  "cell_methods": "area: time: mean where sea_ice_melt_pond",
   "cmip6_compound_name": "SImon.simprefrozen",
-  "description": "Thickness of Refrozen Ice on Melt Pond",
+  "description": "Volume of refrozen ice on melt ponds divided by melt pond covered area.",
   "dimensions": [
     "longitude",
     "latitude",

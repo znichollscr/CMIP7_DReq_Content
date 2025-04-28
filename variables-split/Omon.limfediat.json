@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "limfediat_tavg-z0-hxy-sea",
   "cell_methods": "area: mean where sea time: mean",
   "cmip6_compound_name": "Omon.limfediat",
-  "description": "Iron Limitation of Diatoms",
+  "description": "Diatoms are phytoplankton with an external skeleton made of silica. Phytoplankton are algae that grow where there is sufficient light to support photosynthesis. \"Iron growth limitation\" means the ratio of the growth rate of a species population in the environment (where there is a finite availability of iron) to the theoretical growth rate if there were no such limit on iron availability.",
   "dimensions": [
     "longitude",
     "latitude",

@@ -1,13 +1,14 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "irrGw_tavg-z0-hxy-x",
+  "branded_variable": "irrGw_tavg-z0-hm-x",
   "cell_methods": "area: mean",
   "cmip6_compound_name": "day.irrGw",
-  "description": "irrigation water withdrawal from groundwater",
+  "description": "the amount of water withdrawal for irrigation from ground water, including deep soil water, confined and unconfined aquifer, etc",
   "dimensions": [
-    "longitude",
-    "latitude",
-    "time"
+    "area:",
+    "time:",
+    "mean"
   ],
   "id": "TBD",
   "label": "TBD",

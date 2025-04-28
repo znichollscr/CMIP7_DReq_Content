@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "jpdftaureicemodis_tavg-z0-hxy-x",
   "cell_methods": "area: time: mean",
   "cmip6_compound_name": "Eday.jpdftaureicemodis",
-  "description": "MODIS Joint Distribution of Optical Thickness and Particle Size, Ice",
+  "description": "MODIS Optical Thickness-Particle Size joint  distribution, ice",
   "dimensions": [
     "longitude",
     "latitude",

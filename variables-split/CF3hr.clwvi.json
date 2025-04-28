@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "clwvi_tpt-z0-hxy-x",
   "cell_methods": "area: mean time: point",
   "cmip6_compound_name": "CF3hr.clwvi",
-  "description": "Condensed Water Path",
+  "description": "mass of condensed (liquid + ice) water in the column divided by the area of the column (not just the area of the cloudy portion of the column). Includes precipitating hydrometeors ONLY if the precipitating hydrometeor affects the calculation of radiative transfer in model.",
   "dimensions": [
     "longitude",
     "latitude",

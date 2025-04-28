@@ -1,12 +1,13 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "modelCellAreai_tavg-z0-hxy-x",
   "cell_methods": "area: sum time: mean",
   "cmip6_compound_name": "IyrGre.modelCellAreai",
-  "description": "The Cell Area of the Ice Sheet Model",
+  "description": "When interpolated to a regular grid, it should be interpolated (not summed) with a conservative scheme to preserve total area",
   "dimensions": [
-    "xgre",
-    "ygre",
+    "longitude",
+    "latitude",
     "time"
   ],
   "id": "TBD",

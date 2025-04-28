@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "hur850_tpt-p0850-hxy-air",
+  "branded_variable": "hur_tpt-p0850-hxy-air",
   "cell_methods": "area: mean where air time: point",
   "cmip6_compound_name": "6hrPlevPt.hur850",
-  "description": "hur850",
+  "description": "Relative humidity at 850 hPa",
   "dimensions": [
     "longitude",
     "latitude",
@@ -15,5 +16,5 @@
   "type": [
     "TBD"
   ],
-  "variableRootDD": "hur850"
+  "variableRootDD": "hur"
 }

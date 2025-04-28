@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "sisnthick_tavg-z0-hxy-si",
-  "cell_methods": "area: mean where snow over sea_ice area: time: mean where sea_ice",
+  "branded_variable": "snd_tavg-z0-hxy-si",
+  "cell_methods": "area: mean where sea_ice (weighted by area of snow on sea ice) time: mean",
   "cmip6_compound_name": "SImon.sisnthick",
-  "description": "Snow Thickness",
+  "description": "Actual thickness of snow averaged over the snow-covered part of the sea ice. This thickness is usually directly available within the model formulation. It can also be derived by dividing the total volume of snow by the area of the snow.",
   "dimensions": [
     "longitude",
     "latitude",
@@ -14,5 +15,5 @@
   "type": [
     "TBD"
   ],
-  "variableRootDD": "sisnthick"
+  "variableRootDD": "snd"
 }

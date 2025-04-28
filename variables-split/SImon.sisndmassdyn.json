@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "sisndmassdyn_tavg-z0-hxy-si",
-  "cell_methods": "area: time: mean where sea_ice (mask=siconc)",
+  "cell_methods": "area: time: mean where sea_ice",
   "cmip6_compound_name": "SImon.sisndmassdyn",
-  "description": "Snow Mass Rate of Change Through Advection by Sea-Ice Dynamics",
+  "description": "Rate of change of snow mass due to sea ice dynamics (advection, divergence, etc.) divided by grid-cell area.",
   "dimensions": [
     "longitude",
     "latitude",

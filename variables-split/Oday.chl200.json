@@ -1,14 +1,15 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "chl_tavg-z0-hxy-x",
-  "cell_methods": "area: time: mean",
+  "branded_variable": "chl_tavg-z0-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
   "cmip6_compound_name": "Oday.chl200",
-  "description": "Mass Concentration of Total Phytoplankton Expressed as Chlorophyll in Sea Water at 200 meters",
+  "description": "Sum of chlorophyll from all phytoplankton group concentrations. In most models this is equal to chldiat+chlmisc, that is the sum of Diatom Chlorophyll Mass Concentration and Other Phytoplankton Chlorophyll Mass Concentration",
   "dimensions": [
     "longitude",
     "latitude",
     "time",
-    "op20bar"
+    "oplev20bar"
   ],
   "id": "TBD",
   "label": "TBD",

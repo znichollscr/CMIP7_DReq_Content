@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "h2o_tavg-l-hxy-x",
   "cell_methods": "area: time: mean",
   "cmip6_compound_name": "AERmon.h2o",
-  "description": "Mass Fraction of Water",
+  "description": "includes all phases of water",
   "dimensions": [
     "longitude",
     "latitude",

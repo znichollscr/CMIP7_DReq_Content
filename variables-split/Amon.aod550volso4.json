@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "aod550volso4_tavg-z0-hxy-x",
   "cell_methods": "area: time: mean",
   "cmip6_compound_name": "Amon.aod550volso4",
-  "description": "Monthly Aerosol Optical Depth at 550nm Due to Stratospheric Volcanic Aerosols",
+  "description": "This is the monthly averaged aerosol optical thickness at 550 nm due to stratospheric volcanic sulphate aerosols",
   "dimensions": [
     "longitude",
     "latitude",

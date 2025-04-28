@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "rsuslni_tavg-z0-hxy-ufs",
-  "cell_methods": "area: time: mean where unfrozen_soil (at the surface, but frozen below zero isotherm)",
+  "branded_variable": "rsus_tavg-z0-hxy-ufs",
+  "cell_methods": "\"area: time: mean where unfrozen_soil (at the surface, but frozen below zero isotherm)\"",
   "cmip6_compound_name": "Emon.rsuslni",
-  "description": "Surface Upwelling Shortwave Radiation over Land Not Covered by Ice Sheets or Snow",
+  "description": "Surface Upwelling Shortwave Radiation over the portion of a land grid cell not covered by ice sheets or snow. Can be used for computation of surface albedo.",
   "dimensions": [
     "longitude",
     "latitude",
@@ -14,5 +15,5 @@
   "type": [
     "TBD"
   ],
-  "variableRootDD": "rsuslni"
+  "variableRootDD": "rsus"
 }

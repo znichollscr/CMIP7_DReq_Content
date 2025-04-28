@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "sidmassmeltbot_tavg-z0-hxy-sea",
-  "cell_methods": "area: mean where sea time: mean",
+  "branded_variable": "sidmassmeltbot_tavg-z0-hxy-si",
+  "cell_methods": "area: mean where sea_ice time: mean",
   "cmip6_compound_name": "SImon.sidmassmeltbot",
-  "description": "Sea-Ice Mass Change Through Bottom Melting",
+  "description": "Rate of change of sea-ice mass through melting/dissolution at the ice bottom divided by grid-cell area. Note that this number is always zero or negative since sea-ice growth is collected in sidmassgrowthbot. This is to account for differential growth and melt in models with a sub-grid scale ice thickness distribution.",
   "dimensions": [
     "longitude",
     "latitude",

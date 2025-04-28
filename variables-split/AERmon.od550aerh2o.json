@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "od550aerh2o_tavg-z0-hxy-x",
   "cell_methods": "area: time: mean",
   "cmip6_compound_name": "AERmon.od550aerh2o",
-  "description": "Aerosol Water Optical Thickness at 550nm",
+  "description": "proposed name: atmosphere_optical_thickness_due_to_water_ambient_aerosol",
   "dimensions": [
     "longitude",
     "latitude",

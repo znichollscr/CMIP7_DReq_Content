@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "clcalipso_tavg-h40-hxy-air",
   "cell_methods": "area: time: mean where air",
   "cmip6_compound_name": "CFday.clcalipso",
-  "description": "CALIPSO Percentage Cloud Cover",
+  "description": "Percentage cloud cover in CALIPSO standard atmospheric layers.",
   "dimensions": [
     "longitude",
     "latitude",

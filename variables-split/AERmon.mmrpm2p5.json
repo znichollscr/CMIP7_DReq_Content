@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "mmrpm2p5_tavg-l-hxy-x",
   "cell_methods": "area: time: mean",
   "cmip6_compound_name": "AERmon.mmrpm2p5",
-  "description": "PM2.5 Mass Mixing Ratio",
+  "description": "Mass fraction atmospheric particulate compounds with an aerodynamic diameter of less than or equal to 2.5 micrometers",
   "dimensions": [
     "longitude",
     "latitude",

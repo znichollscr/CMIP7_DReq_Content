@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "sw18O_tavg-l-hxy-x",
-  "cell_methods": "area: time: mean",
+  "branded_variable": "sw18O_tavg-l-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
   "cmip6_compound_name": "Emon.sw18O",
-  "description": "Isotopic Ratio of Oxygen-18 in Sea Water",
+  "description": "Ratio of abundance of oxygen-18 (18O) atoms to oxygen-16 (16O) atoms in sea water",
   "dimensions": [
     "longitude",
     "latitude",

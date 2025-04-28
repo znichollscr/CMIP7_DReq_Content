@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "sltovovrt_tavg-z0-hys-x",
-  "cell_methods": "longitude: sum (basin sum [along zig-zag grid path]) depth: sum time: mean",
+  "branded_variable": "sltovovrt_tavg-z0-hys-sea",
+  "cell_methods": "depth: longitude: sum where sea (along a zig-zag grid path spanning a basin)  time: mean",
   "cmip6_compound_name": "Omon.sltovovrt",
-  "description": "Northward Ocean Salt Transport Due to Overturning",
+  "description": "From all advective mass transport processes, resolved and parameterized.",
   "dimensions": [
     "latitude",
     "basin",

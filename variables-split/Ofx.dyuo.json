@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "dyuo_ti-z0-hxy-x",
   "cell_methods": "area: point",
   "cmip6_compound_name": "Ofx.dyuo",
-  "description": "Cell Length in the Y Direction at u-points",
+  "description": "The linear extent of the cell in the y direction of the horizontal grid centered at u-points (points for velocity in the x-direction). Not applicable to unstructured grids.",
   "dimensions": [
     "longitude",
     "latitude"

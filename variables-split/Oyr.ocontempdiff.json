@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "ocontempdiff_tavg-l-hxy-sea",
   "cell_methods": "area: mean where sea time: mean",
   "cmip6_compound_name": "Oyr.ocontempdiff",
-  "description": "Tendency of Sea Water Conservative Temperature Expressed as Heat Content Due to Parameterized Dianeutral Mixing",
+  "description": "Tendency of heat content for a grid cell from parameterized dianeutral mixing. Reported only for models that use conservative temperature as prognostic field.",
   "dimensions": [
     "longitude",
     "latitude",

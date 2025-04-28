@@ -1,12 +1,13 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "litempbotgr_tavg-z0-hxy-gis",
-  "cell_methods": "area: time: mean where grounded_ice_sheet (mask=sfgrlf)",
+  "branded_variable": "litempbot_tavg-z0-hxy-gis",
+  "cell_methods": "area: time: mean where grounded_ice_sheet (comment: mask=sfgrlf)",
   "cmip6_compound_name": "ImonGre.litempbotgr",
-  "description": "Basal Temperature of Grounded Ice Sheet",
+  "description": "quantity averaged over grounded ice sheet",
   "dimensions": [
-    "xgre",
-    "ygre",
+    "longitude",
+    "latitude",
     "time"
   ],
   "id": "TBD",
@@ -14,5 +15,5 @@
   "type": [
     "TBD"
   ],
-  "variableRootDD": "litempbotgr"
+  "variableRootDD": "litempbot"
 }

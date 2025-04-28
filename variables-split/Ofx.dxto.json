@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "dxto_ti-z0-hxy-x",
   "cell_methods": "area: point",
   "cmip6_compound_name": "Ofx.dxto",
-  "description": "Cell Length in the X Direction at t-points",
+  "description": "The linear extent of the cell in the x direction of the horizontal grid centered at t-points (points for tracers such as temperature, salinity, etc.). Not applicable to unstructured grids.",
   "dimensions": [
     "longitude",
     "latitude"

@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "tsnIs_tavg-z0-hxy-is",
-  "cell_methods": "area: time: mean where ice_sheet",
+  "branded_variable": "tsn_tavg-z0-hxy-is",
+  "cell_methods": "depth: mean area: time: mean where ice_sheet (weighted by snow mass on ice sheet)",
   "cmip6_compound_name": "LImon.tsnIs",
-  "description": "Ice Sheet Snow Internal Temperature",
+  "description": "quantity averaged over ice_sheet (meaning grounded ice sheet and floating ice shelf) only, to avoid contamination from other surfaces (eg: permafrost)",
   "dimensions": [
     "longitude",
     "latitude",
@@ -14,5 +15,5 @@
   "type": [
     "TBD"
   ],
-  "variableRootDD": "tsnIs"
+  "variableRootDD": "tsn"
 }

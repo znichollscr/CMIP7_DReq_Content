@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "sidmassmelttop_tavg-z0-hxy-sea",
-  "cell_methods": "area: mean where sea time: mean",
+  "branded_variable": "sidmassmelttop_tavg-z0-hxy-si",
+  "cell_methods": "area: mean where sea_ice time: mean",
   "cmip6_compound_name": "SImon.sidmassmelttop",
-  "description": "Sea-Ice Mass Change Through Surface Melting",
+  "description": "Rate of change of sea-ice mass through melting at the ice surface divided by grid-cell area. This number is independent of the actual fate of the meltwater, and will hence include all sea-ice meltwater that drains into the ocean and all sea-ice meltwater that is collected by a melt-pond parameterisation. Always negative or zero.",
   "dimensions": [
     "longitude",
     "latitude",

@@ -1,14 +1,14 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "mpw_tavg-z00-hxy-sea",
+  "branded_variable": "mpw_tavg-z0-hxy-sea",
   "cell_methods": "area: mean where sea time: mean",
   "cmip6_compound_name": "3hr.mpw",
-  "description": "Total Wave Mean Period",
+  "description": "Average wave period (i.e., time in-between two wave crests) across the entire two-dimensional wave spectrum, incorporating both wind-sea and swell waves. In spectral wind wave models, it is calculated using spectral moments, mathematical measures that describe the shape and characteristics of the wave spectrum.",
   "dimensions": [
     "longitude",
     "latitude",
-    "time",
-    "depth0m"
+    "time"
   ],
   "id": "TBD",
   "label": "TBD",

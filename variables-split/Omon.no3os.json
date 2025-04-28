@@ -1,13 +1,15 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "no3os_tavg-z0-hxy-sea",
+  "branded_variable": "no3os_tavg-z00-hxy-sea",
   "cell_methods": "area: mean where sea time: mean",
   "cmip6_compound_name": "Omon.no3os",
-  "description": "Surface Dissolved Nitrate Concentration",
+  "description": "Mole concentration means moles (amount of substance) per unit volume and is used in the construction mole_concentration_of_X_in_Y, where X is a material constituent of Y.",
   "dimensions": [
     "longitude",
     "latitude",
-    "time"
+    "time",
+    "depth0m"
   ],
   "id": "TBD",
   "label": "TBD",

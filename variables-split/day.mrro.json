@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "mrro_tavg-z0-hxy-lnd",
   "cell_methods": "area: mean where land time: mean",
   "cmip6_compound_name": "day.mrro",
-  "description": "Total Runoff",
+  "description": "computed as the total runoff (including \"drainage\" through the base of the soil model) leaving the land portion of the grid cell divided by the land area in the grid cell.",
   "dimensions": [
     "longitude",
     "latitude",
