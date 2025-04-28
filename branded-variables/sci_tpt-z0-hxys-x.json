@@ -1,0 +1,10 @@
+{
+  "branded_variable": "sci_tpt-z0-hxys-x",
+  "cell_methods": "area: point time: mean",
+  "description": "Fraction of time that shallow convection occurs in the grid cell.",
+  "dimensions": [
+    "site",
+    "time1"
+  ],
+  "variableRootDD": "sci"
+}

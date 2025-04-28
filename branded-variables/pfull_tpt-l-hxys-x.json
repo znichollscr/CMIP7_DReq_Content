@@ -1,0 +1,11 @@
+{
+  "branded_variable": "pfull_tpt-l-hxys-x",
+  "cell_methods": "area: point time: point",
+  "description": "Air pressure on model levels",
+  "dimensions": [
+    "alevel",
+    "site",
+    "time1"
+  ],
+  "variableRootDD": "pfull"
+}

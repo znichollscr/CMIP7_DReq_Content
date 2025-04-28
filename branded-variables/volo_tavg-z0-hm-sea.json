@@ -1,0 +1,9 @@
+{
+  "branded_variable": "volo_tavg-z0-hm-sea",
+  "cell_methods": "depth: area: sum where sea time: mean",
+  "description": "Total volume of liquid sea water.",
+  "dimensions": [
+    "time"
+  ],
+  "variableRootDD": "volo"
+}

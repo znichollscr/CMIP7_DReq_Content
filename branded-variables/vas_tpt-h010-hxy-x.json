@@ -1,0 +1,12 @@
+{
+  "branded_variable": "vas_tpt-h010-hxy-x",
+  "cell_methods": "area: mean time: point",
+  "description": "TBC (clashes in original table)",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time1",
+    "height10m"
+  ],
+  "variableRootDD": "vas"
+}

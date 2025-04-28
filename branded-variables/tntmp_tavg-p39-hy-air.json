@@ -1,0 +1,11 @@
+{
+  "branded_variable": "tntmp_tavg-p39-hy-air",
+  "cell_methods": "longitude: time: mean where air",
+  "description": "Zonal mean tendency of air temperature due to model physics, with the extended number of vertical levels",
+  "dimensions": [
+    "latitude",
+    "plev39",
+    "time"
+  ],
+  "variableRootDD": "tntmp"
+}

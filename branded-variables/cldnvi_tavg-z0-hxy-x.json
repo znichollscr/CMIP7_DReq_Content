@@ -1,0 +1,11 @@
+{
+  "branded_variable": "cldnvi_tavg-z0-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "Droplets are liquid only.  Values are weighted by liquid cloud fraction in each layer when vertically integrating, and for monthly means the samples are weighted by total liquid cloud fraction (as seen from TOA).",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "cldnvi"
+}

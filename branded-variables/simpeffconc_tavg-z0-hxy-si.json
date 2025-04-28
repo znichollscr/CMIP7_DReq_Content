@@ -1,0 +1,12 @@
+{
+  "branded_variable": "simpeffconc_tavg-z0-hxy-si",
+  "cell_methods": "area: time: mean where sea_ice",
+  "description": "Area fraction of sea-ice surface that is covered by open melt ponds, that is melt ponds that are not covered by snow or ice lids. This represents the effective (i.e. radiatively-active) melt pond area fraction.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time",
+    "typemp"
+  ],
+  "variableRootDD": "simpeffconc"
+}

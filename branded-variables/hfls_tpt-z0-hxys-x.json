@@ -1,0 +1,10 @@
+{
+  "branded_variable": "hfls_tpt-z0-hxys-x",
+  "cell_methods": "area: point time: point",
+  "description": "includes both evaporation and sublimation",
+  "dimensions": [
+    "site",
+    "time1"
+  ],
+  "variableRootDD": "hfls"
+}

@@ -1,0 +1,12 @@
+{
+  "branded_variable": "h2_tavg-l-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "This is the mole fraction of molecular hydrogen (H2) in air",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "alevel",
+    "time"
+  ],
+  "variableRootDD": "h2"
+}

@@ -1,0 +1,12 @@
+{
+  "branded_variable": "hur_tavg-p19-hxy-air",
+  "cell_methods": "area: time: mean where air",
+  "description": "This is the relative humidity with respect to liquid water for T> 0 C, and with respect to ice for T<0 C.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "plev19",
+    "time"
+  ],
+  "variableRootDD": "hur"
+}

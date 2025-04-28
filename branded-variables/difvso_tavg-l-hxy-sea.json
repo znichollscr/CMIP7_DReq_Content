@@ -1,0 +1,12 @@
+{
+  "branded_variable": "difvso_tavg-l-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "description": "Vertical/dianeutral diffusivity applied to prognostic salinity field.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "olevel",
+    "time"
+  ],
+  "variableRootDD": "difvso"
+}

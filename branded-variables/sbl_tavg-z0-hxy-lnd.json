@@ -1,0 +1,11 @@
+{
+  "branded_variable": "sbl_tavg-z0-hxy-lnd",
+  "cell_methods": "area: mean where land time: mean",
+  "description": "The snow and ice sublimation flux is the loss of snow and ice mass resulting from their conversion to water vapor.  Computed as the total sublimation on the land portion of the grid cell divided by the land area in the grid cell; reported as missing for snow-free land regions; reported as missing where the land fraction is 0.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "sbl"
+}

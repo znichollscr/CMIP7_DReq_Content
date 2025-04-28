@@ -1,0 +1,11 @@
+{
+  "branded_variable": "cltc_tavg-z0-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "Convective cloud fraction",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "cltc"
+}

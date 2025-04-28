@@ -1,0 +1,11 @@
+{
+  "branded_variable": "rsu_tpt-l-hxys-x",
+  "cell_methods": "area: point time: point",
+  "description": "Upwelling shortwave radiation  (includes also the fluxes at the surface and top of atmosphere)",
+  "dimensions": [
+    "alevhalf",
+    "site",
+    "time1"
+  ],
+  "variableRootDD": "rsu"
+}

@@ -1,0 +1,11 @@
+{
+  "branded_variable": "zossq_tavg-z0-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "description": "Surface ocean geoid defines z=0.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "zossq"
+}

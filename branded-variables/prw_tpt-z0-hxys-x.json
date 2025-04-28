@@ -1,0 +1,10 @@
+{
+  "branded_variable": "prw_tpt-z0-hxys-x",
+  "cell_methods": "area: point time: point",
+  "description": "vertically integrated through the atmospheric column",
+  "dimensions": [
+    "site",
+    "time1"
+  ],
+  "variableRootDD": "prw"
+}

@@ -1,0 +1,11 @@
+{
+  "branded_variable": "emic2h5oh_tavg-z0-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "This is the total emission rate of ethanol (C2H5OH) into the atmosphere",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "emic2h5oh"
+}

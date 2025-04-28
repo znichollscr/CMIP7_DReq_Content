@@ -1,0 +1,11 @@
+{
+  "branded_variable": "nppLeaf_tavg-z0-hxy-lnd",
+  "cell_methods": "area: mean where land time: mean",
+  "description": "This is the rate of carbon uptake by leaves due to NPP",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "nppLeaf"
+}

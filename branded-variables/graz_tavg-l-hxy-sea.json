@@ -1,0 +1,12 @@
+{
+  "branded_variable": "graz_tavg-l-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "description": "Total grazing of phytoplankton by zooplankton defined as tendency of moles of carbon per cubic metre.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "olevel",
+    "time"
+  ],
+  "variableRootDD": "graz"
+}

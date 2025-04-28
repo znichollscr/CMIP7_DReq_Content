@@ -1,0 +1,12 @@
+{
+  "branded_variable": "od550bc_tavg-z0-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "Total aerosol AOD due to black carbon aerosol at a wavelength of 550 nanometres.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time",
+    "lambda550nm"
+  ],
+  "variableRootDD": "od550bc"
+}

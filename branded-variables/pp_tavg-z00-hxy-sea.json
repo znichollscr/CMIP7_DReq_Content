@@ -1,0 +1,12 @@
+{
+  "branded_variable": "pp_tavg-z00-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "description": "total primary (organic carbon) production by phytoplankton",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time",
+    "depth0m"
+  ],
+  "variableRootDD": "pp"
+}

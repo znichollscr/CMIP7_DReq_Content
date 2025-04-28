@@ -1,0 +1,12 @@
+{
+  "branded_variable": "froc_tavg-z0-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "description": "Organic Carbon loss to sediments",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "depthseafloor",
+    "time"
+  ],
+  "variableRootDD": "froc"
+}

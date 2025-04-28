@@ -1,0 +1,12 @@
+{
+  "branded_variable": "pastureFrac_tavg-z0-hxy-x",
+  "cell_methods": "area: mean time:mean\" (or \"area time: mean\")",
+  "description": "fraction of entire grid cell  that is covered by anthropogenic pasture.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time",
+    "typepasture"
+  ],
+  "variableRootDD": "pastureFrac"
+}

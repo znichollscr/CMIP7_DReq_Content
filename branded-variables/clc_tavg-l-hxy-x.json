@@ -1,0 +1,12 @@
+{
+  "branded_variable": "clc_tavg-l-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "Include only convective cloud.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "alevel",
+    "time"
+  ],
+  "variableRootDD": "clc"
+}

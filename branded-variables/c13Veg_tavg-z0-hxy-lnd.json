@@ -1,0 +1,11 @@
+{
+  "branded_variable": "c13Veg_tavg-z0-hxy-lnd",
+  "cell_methods": "area: mean where land time: mean",
+  "description": "Carbon-13 mass content per unit area in vegetation (any living plants e.g. trees, shrubs, grass).",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "c13Veg"
+}

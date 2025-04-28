@@ -1,0 +1,11 @@
+{
+  "branded_variable": "rhSoil_tavg-z0-hxy-lnd",
+  "cell_methods": "area: mean where land time: mean",
+  "description": "Needed to calculate soil bulk turnover time",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "rhSoil"
+}

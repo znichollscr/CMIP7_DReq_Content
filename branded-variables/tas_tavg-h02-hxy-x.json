@@ -1,0 +1,12 @@
+{
+  "branded_variable": "tas_tavg-h02-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "TBC (clashes in original table)",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time",
+    "height2m"
+  ],
+  "variableRootDD": "tas"
+}

@@ -1,0 +1,12 @@
+{
+  "branded_variable": "od550aer_tavg-z0-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "TBC (clashes in original table)",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time",
+    "lambda550nm"
+  ],
+  "variableRootDD": "od550aer"
+}

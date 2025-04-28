@@ -1,0 +1,11 @@
+{
+  "branded_variable": "rlus_tavg-z0-hxy-is",
+  "cell_methods": "area: time: mean where ice_sheet",
+  "description": "TBC (clashes in original table)",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "rlus"
+}

@@ -1,0 +1,11 @@
+{
+  "branded_variable": "intdic_tavg-z0-hxy-sea",
+  "cell_methods": "depth: sum where sea (over entire ocean column) area: time: mean",
+  "description": "Vertically integrated DIC",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "intdic"
+}

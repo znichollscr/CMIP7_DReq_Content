@@ -1,0 +1,12 @@
+{
+  "branded_variable": "rsucs4co2_tavg-l-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "Upwelling clear-sky shortwave radiation calculated using carbon dioxide concentrations increased fourfold",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "alevhalf",
+    "time"
+  ],
+  "variableRootDD": "rsucs4co2"
+}

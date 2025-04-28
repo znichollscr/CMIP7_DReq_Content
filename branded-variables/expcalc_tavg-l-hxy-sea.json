@@ -1,0 +1,12 @@
+{
+  "branded_variable": "expcalc_tavg-l-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "description": "Downward flux of Calcite",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "olevel",
+    "time"
+  ],
+  "variableRootDD": "expcalc"
+}

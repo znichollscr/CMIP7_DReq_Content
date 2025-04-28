@@ -1,0 +1,11 @@
+{
+  "branded_variable": "tas_tpt-h02-hxys-x",
+  "cell_methods": "area: point time: point",
+  "description": "near-surface (usually, 2 meter) air temperature",
+  "dimensions": [
+    "site",
+    "time1",
+    "height2m"
+  ],
+  "variableRootDD": "tas"
+}

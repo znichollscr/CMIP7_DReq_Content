@@ -1,0 +1,11 @@
+{
+  "branded_variable": "raTree_tavg-z0-hxy-lnd",
+  "cell_methods": "area: mean where land time: mean",
+  "description": "Total RA of trees in the grid cell",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "raTree"
+}

@@ -1,0 +1,12 @@
+{
+  "branded_variable": "od550oa_tavg-z0-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "total organic aerosol AOD, comprises all organic aerosols, primary + secondary ; natural + anthropogenic including biomasss burning organic aerosol",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time",
+    "lambda550nm"
+  ],
+  "variableRootDD": "od550oa"
+}

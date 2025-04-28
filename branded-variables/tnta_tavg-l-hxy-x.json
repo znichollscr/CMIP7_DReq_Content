@@ -1,0 +1,12 @@
+{
+  "branded_variable": "tnta_tavg-l-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "Tendency of Air Temperature due to Advection",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "alevel",
+    "time"
+  ],
+  "variableRootDD": "tnta"
+}

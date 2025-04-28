@@ -1,0 +1,11 @@
+{
+  "branded_variable": "intpp_tavg-z0-hxy-sea",
+  "cell_methods": "depth: sum where sea (over entire ocean column) area: time: mean",
+  "description": "TBC (clashes in original table)",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "intpp"
+}

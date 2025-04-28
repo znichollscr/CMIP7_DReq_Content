@@ -1,0 +1,11 @@
+{
+  "branded_variable": "ch4ref_ti-l-hxy-x",
+  "cell_methods": "area: mean",
+  "description": "This is the methane mole fraction that is used in a diagnostic call to the model's radiation scheme. It is only applicable when a methane double call is active in the model.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "alevel"
+  ],
+  "variableRootDD": "ch4ref"
+}

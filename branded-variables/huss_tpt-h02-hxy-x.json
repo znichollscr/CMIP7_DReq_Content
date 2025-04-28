@@ -1,0 +1,12 @@
+{
+  "branded_variable": "huss_tpt-h02-hxy-x",
+  "cell_methods": "area: mean time: point",
+  "description": "TBC (clashes in original table)",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time1",
+    "height2m"
+  ],
+  "variableRootDD": "huss"
+}

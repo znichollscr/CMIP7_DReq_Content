@@ -1,0 +1,12 @@
+{
+  "branded_variable": "mmrdust_tavg-l-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "Dry mass fraction of dust aerosol particles in air.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "alevel",
+    "time"
+  ],
+  "variableRootDD": "mmrdust"
+}

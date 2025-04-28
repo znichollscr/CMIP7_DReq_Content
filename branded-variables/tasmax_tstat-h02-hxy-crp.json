@@ -1,0 +1,12 @@
+{
+  "branded_variable": "tasmax_tstat-h02-hxy-crp",
+  "cell_methods": "area: mean where crops time: maximum",
+  "description": "maximum near-surface (usually, 2 meter) air temperature (add cell_method attribute \"time: max\")",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time",
+    "height2m"
+  ],
+  "variableRootDD": "tasmax"
+}

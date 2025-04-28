@@ -1,0 +1,11 @@
+{
+  "branded_variable": "intpcalcite_tavg-z0-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "description": "Vertically integrated calcite production",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "intpcalcite"
+}

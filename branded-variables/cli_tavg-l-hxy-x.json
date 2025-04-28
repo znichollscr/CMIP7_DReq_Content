@@ -1,0 +1,12 @@
+{
+  "branded_variable": "cli_tavg-l-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "TBC (clashes in original table)",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "alevel",
+    "time"
+  ],
+  "variableRootDD": "cli"
+}

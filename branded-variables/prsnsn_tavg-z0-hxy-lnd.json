@@ -1,0 +1,11 @@
+{
+  "branded_variable": "prsnsn_tavg-z0-hxy-lnd",
+  "cell_methods": "area: mean where land time: mean",
+  "description": "mass_fraction_of_snowfall_onto_snow",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "prsnsn"
+}

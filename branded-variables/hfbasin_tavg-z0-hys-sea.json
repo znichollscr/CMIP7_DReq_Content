@@ -1,0 +1,11 @@
+{
+  "branded_variable": "hfbasin_tavg-z0-hys-sea",
+  "cell_methods": "depth: longitude: sum where sea (along a zig-zag grid path spanning a basin) where sea time: mean",
+  "description": "Contains contributions from all physical processes affecting the northward heat transport, including resolved advection, parameterized advection, lateral diffusion, etc. Diagnosed here as a function of latitude and basin.   Use Celsius for temperature scale.",
+  "dimensions": [
+    "latitude",
+    "basin",
+    "time"
+  ],
+  "variableRootDD": "hfbasin"
+}

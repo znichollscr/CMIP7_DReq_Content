@@ -1,0 +1,11 @@
+{
+  "branded_variable": "tsn_tavg-z0-hxy-lnd",
+  "cell_methods": "depth: mean area: mean where land time: mean (weighted by snow mass on land)",
+  "description": "TBC (clashes in original table)",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "tsn"
+}

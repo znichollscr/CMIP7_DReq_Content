@@ -1,0 +1,11 @@
+{
+  "branded_variable": "siflcondbot_tavg-z0-hxy-si",
+  "cell_methods": "area: time: mean where sea_ice",
+  "description": "Net heat conduction flux at the ice base, i.e. the conductive heat flux from the centre of the lowermost vertical sea-ice grid box to the base of the sea ice\u00a0(energy flow per sea ice area). Positive for a downward heat flux.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "siflcondbot"
+}

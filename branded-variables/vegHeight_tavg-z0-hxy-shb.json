@@ -1,0 +1,11 @@
+{
+  "branded_variable": "vegHeight_tavg-z0-hxy-shb",
+  "cell_methods": "area: time: mean where shrubs",
+  "description": "Vegetation height averaged over the shrub fraction of a grid cell.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "vegHeight"
+}

@@ -1,0 +1,12 @@
+{
+  "branded_variable": "o3inst_tpt-l-hxy-x",
+  "cell_methods": "area: mean time: point",
+  "description": "This is the mole fraction of ozone in air, sampled on the first day of the month as an instantaneous field.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "alevel",
+    "time1"
+  ],
+  "variableRootDD": "o3inst"
+}

@@ -1,0 +1,11 @@
+{
+  "branded_variable": "cl_tpt-l-hxys-x",
+  "cell_methods": "area: point time: point",
+  "description": "Includes both large-scale and convective cloud.",
+  "dimensions": [
+    "alevel",
+    "site",
+    "time1"
+  ],
+  "variableRootDD": "cl"
+}

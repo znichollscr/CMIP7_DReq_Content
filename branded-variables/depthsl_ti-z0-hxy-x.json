@@ -1,0 +1,10 @@
+{
+  "branded_variable": "depthsl_ti-z0-hxy-x",
+  "cell_methods": "area: mean",
+  "description": "Total (cumulative) thickness of all soil layers. This is the sum of individual thicknesses of all soil layers.",
+  "dimensions": [
+    "longitude",
+    "latitude"
+  ],
+  "variableRootDD": "depthsl"
+}

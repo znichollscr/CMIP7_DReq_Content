@@ -1,0 +1,12 @@
+{
+  "branded_variable": "o3_tcla-p19-hxy-air",
+  "cell_methods": "area: mean where air time: mean within years time: mean over years",
+  "description": "Mole fraction is used in the construction mole_fraction_of_X_in_Y, where X is a material constituent of Y.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "plev19",
+    "time2"
+  ],
+  "variableRootDD": "o3"
+}

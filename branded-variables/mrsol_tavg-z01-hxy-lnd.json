@@ -1,0 +1,12 @@
+{
+  "branded_variable": "mrsol_tavg-z01-hxy-lnd",
+  "cell_methods": "area: mean where land time: mean",
+  "description": "TBC (clashes in original table)",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time",
+    "sdepth10"
+  ],
+  "variableRootDD": "mrsol"
+}

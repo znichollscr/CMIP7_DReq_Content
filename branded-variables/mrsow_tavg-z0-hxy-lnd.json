@@ -1,0 +1,11 @@
+{
+  "branded_variable": "mrsow_tavg-z0-hxy-lnd",
+  "cell_methods": "area: mean where land time: mean",
+  "description": "relative_soil_moisture_content_above_field_capacity",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "mrsow"
+}

@@ -1,0 +1,11 @@
+{
+  "branded_variable": "sidmassth_tavg-z0-hxy-si",
+  "cell_methods": "area: mean where sea_ice time: mean",
+  "description": "Total change in sea-ice mass from thermodynamic processes divided by grid-cell area.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "sidmassth"
+}

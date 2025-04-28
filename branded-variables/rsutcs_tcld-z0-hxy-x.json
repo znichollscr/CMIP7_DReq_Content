@@ -1,0 +1,11 @@
+{
+  "branded_variable": "rsutcs_tcld-z0-hxy-x",
+  "cell_methods": "area: mean time: mean within days time: mean over days",
+  "description": "Calculated in the absence of clouds.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time3"
+  ],
+  "variableRootDD": "rsutcs"
+}

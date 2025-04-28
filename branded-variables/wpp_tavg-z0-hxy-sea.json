@@ -1,0 +1,11 @@
+{
+  "branded_variable": "wpp_tavg-z0-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "description": "Wave period associated with the most energetic waves in total wave spectrum, incorporating both wind-sea and swell waves.\u00a0In spectral wind wave models,\u00a0this represents the spectral peak\u00a0across the entire two-dimensional wave spectrum, incorporating both wind-sea and swell waves.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "wpp"
+}

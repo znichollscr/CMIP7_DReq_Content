@@ -1,0 +1,11 @@
+{
+  "branded_variable": "evspsblsoi_tavg-z0-hxy-lnd",
+  "cell_methods": "area: mean where land time: mean",
+  "description": "includes sublimation.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "evspsblsoi"
+}

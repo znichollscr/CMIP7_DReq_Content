@@ -1,0 +1,11 @@
+{
+  "branded_variable": "h2o_tavg-p39-hy-air",
+  "cell_methods": "longitude: time: mean where air",
+  "description": "includes all phases of water",
+  "dimensions": [
+    "latitude",
+    "plev39",
+    "time"
+  ],
+  "variableRootDD": "h2o"
+}

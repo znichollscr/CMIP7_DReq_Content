@@ -1,0 +1,11 @@
+{
+  "branded_variable": "?_tavg-z0-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "description": "Total volume of sea ice divided by grid-cell area, also known as the equivalent thickness of sea ice.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "?"
+}

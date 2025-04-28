@@ -1,0 +1,11 @@
+{
+  "branded_variable": "fLuc_tavg-z0-hxy-lnd",
+  "cell_methods": "area: mean where land time: mean",
+  "description": "Net Carbon Mass Flux into Atmosphere due to Land Use Change",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "fLuc"
+}

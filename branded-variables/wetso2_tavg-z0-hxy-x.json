@@ -1,0 +1,11 @@
+{
+  "branded_variable": "wetso2_tavg-z0-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "Deposition rate of sulfur dioxide due to wet processes",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "wetso2"
+}

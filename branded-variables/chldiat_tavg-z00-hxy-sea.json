@@ -1,0 +1,12 @@
+{
+  "branded_variable": "chldiat_tavg-z00-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "description": "chlorophyll from diatom phytoplankton component concentration alone",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time",
+    "depth0m"
+  ],
+  "variableRootDD": "chldiat"
+}

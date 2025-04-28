@@ -1,0 +1,11 @@
+{
+  "branded_variable": "sistrxubot_tavg-z0-hxy-si",
+  "cell_methods": "area: mean where sea_ice time: point",
+  "description": "X-component of the ocean stress on the sea ice bottom divided by grid-cell area.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "sistrxubot"
+}

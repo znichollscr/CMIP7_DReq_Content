@@ -1,0 +1,12 @@
+{
+  "branded_variable": "zg_tpt-z0-hxy-x",
+  "cell_methods": "area: mean time: point",
+  "description": "Geopotential Height at 925 hPa, 6 hourly instantaneous",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time1",
+    "p925"
+  ],
+  "variableRootDD": "zg"
+}

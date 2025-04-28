@@ -1,0 +1,11 @@
+{
+  "branded_variable": "wtd_tavg-z0-hxy-lnd",
+  "cell_methods": "area: mean where land time: mean",
+  "description": "depth_of_soil_moisture_saturation",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "wtd"
+}

@@ -1,0 +1,11 @@
+{
+  "branded_variable": "sidmassgrowthwat_tavg-z0-hxy-si",
+  "cell_methods": "area: mean where sea_ice time: mean",
+  "description": "Rate of change of sea-ice mass due to sea ice formation in supercooled water (often through frazil formation) divided by grid-cell area. Always positive or zero.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "sidmassgrowthwat"
+}

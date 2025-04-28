@@ -1,0 +1,12 @@
+{
+  "branded_variable": "phymisc_tavg-z00-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "description": "carbon concentration from additional phytoplankton component alone",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time",
+    "depth0m"
+  ],
+  "variableRootDD": "phymisc"
+}

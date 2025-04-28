@@ -1,0 +1,11 @@
+{
+  "branded_variable": "clwmodis_tavg-z0-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "MODIS Liquid Cloud Fraction",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "clwmodis"
+}

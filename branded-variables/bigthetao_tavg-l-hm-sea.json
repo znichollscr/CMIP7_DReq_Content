@@ -1,0 +1,10 @@
+{
+  "branded_variable": "bigthetao_tavg-l-hm-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "description": "Diagnostic should be contributed only for models using conservative temperature as prognostic field.",
+  "dimensions": [
+    "olevel",
+    "time"
+  ],
+  "variableRootDD": "bigthetao"
+}

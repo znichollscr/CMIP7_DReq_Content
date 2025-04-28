@@ -1,0 +1,11 @@
+{
+  "branded_variable": "albsn_tavg-z0-hxy-sn",
+  "cell_methods": "area: time: mean where snow (weighted by downwelling shortwave radiation at surface)",
+  "description": "This is similar to Eday.albsn, but providing monthly averages",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "albsn"
+}

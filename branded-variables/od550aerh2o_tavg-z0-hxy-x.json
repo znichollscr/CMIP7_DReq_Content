@@ -1,0 +1,12 @@
+{
+  "branded_variable": "od550aerh2o_tavg-z0-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "proposed name: atmosphere_optical_thickness_due_to_water_ambient_aerosol",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time",
+    "lambda550nm"
+  ],
+  "variableRootDD": "od550aerh2o"
+}

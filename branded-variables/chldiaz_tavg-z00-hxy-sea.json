@@ -1,0 +1,12 @@
+{
+  "branded_variable": "chldiaz_tavg-z00-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "description": "chlorophyll concentration from the diazotrophic phytoplankton component alone",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time",
+    "depth0m"
+  ],
+  "variableRootDD": "chldiaz"
+}

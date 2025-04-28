@@ -1,0 +1,12 @@
+{
+  "branded_variable": "talk_tavg-l-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "description": "total alkalinity equivalent concentration (including carbonate, borate, phosphorus, silicon, and nitrogen components)",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "olevel",
+    "time"
+  ],
+  "variableRootDD": "talk"
+}

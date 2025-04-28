@@ -1,0 +1,11 @@
+{
+  "branded_variable": "cLitterSubSurf_tavg-z0-hxy-lnd",
+  "cell_methods": "area: mean where land time: mean",
+  "description": "subsurface litter pool fed by root inputs.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "cLitterSubSurf"
+}

@@ -1,0 +1,12 @@
+{
+  "branded_variable": "expc_tavg-l-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "description": "Downward flux of particulate organic carbon",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "olevel",
+    "time"
+  ],
+  "variableRootDD": "expc"
+}

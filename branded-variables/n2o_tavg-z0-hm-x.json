@@ -1,0 +1,9 @@
+{
+  "branded_variable": "n2o_tavg-z0-hm-x",
+  "cell_methods": "height: sum (through atmospheric column) area: sum time: mean",
+  "description": "Global mean Nitrous Oxide (N2O)",
+  "dimensions": [
+    "time"
+  ],
+  "variableRootDD": "n2o"
+}

@@ -1,0 +1,11 @@
+{
+  "branded_variable": "phycdiat_tavg-z0-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "description": "Mole Concentration of Diatoms Expressed as Carbon in Sea Water\n",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "phycdiat"
+}

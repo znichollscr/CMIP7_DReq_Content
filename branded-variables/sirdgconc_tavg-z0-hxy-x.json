@@ -1,0 +1,12 @@
+{
+  "branded_variable": "sirdgconc_tavg-z0-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "Area fraction of sea-ice surface that is ridged sea ice.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time",
+    "typesirdg"
+  ],
+  "variableRootDD": "sirdgconc"
+}

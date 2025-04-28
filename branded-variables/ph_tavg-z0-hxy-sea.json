@@ -1,0 +1,12 @@
+{
+  "branded_variable": "ph_tavg-z0-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "description": "negative log10 of hydrogen ion concentration with the concentration expressed as mol H kg-1.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time",
+    "oplev20bar"
+  ],
+  "variableRootDD": "ph"
+}

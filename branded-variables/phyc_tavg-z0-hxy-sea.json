@@ -1,0 +1,12 @@
+{
+  "branded_variable": "phyc_tavg-z0-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "description": "sum of phytoplankton carbon component concentrations. In most (all?) cases this is the sum of phycdiat and phycmisc (i.e., \"Diatom Carbon Concentration\" and \"Non-Diatom Phytoplankton Carbon Concentration\"",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time",
+    "oplev20bar"
+  ],
+  "variableRootDD": "phyc"
+}

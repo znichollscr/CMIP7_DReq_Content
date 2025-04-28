@@ -1,0 +1,9 @@
+{
+  "branded_variable": "co2mass_tavg-z0-hm-x",
+  "cell_methods": "height: sum (through atmospheric column) area: sum time: mean",
+  "description": "Total atmospheric mass of Carbon Dioxide",
+  "dimensions": [
+    "time"
+  ],
+  "variableRootDD": "co2mass"
+}

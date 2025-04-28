@@ -1,0 +1,12 @@
+{
+  "branded_variable": "landCoverFrac_tavg-z0-hxy-x",
+  "cell_methods": "area: mean time: mean\" (or \"area time: mean\")",
+  "description": "The categories may differ from model to model, depending on their  PFT definitions.   This may include natural PFTs, anthropogenic PFTs, bare soil, lakes, urban areas, etc.   Sum of all should equal the fraction of the grid-cell that is land.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "vegtype",
+    "time"
+  ],
+  "variableRootDD": "landCoverFrac"
+}

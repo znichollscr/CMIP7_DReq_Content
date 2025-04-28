@@ -1,0 +1,11 @@
+{
+  "branded_variable": "ci_tavg-z0-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "Fraction of time that convection occurs in the grid cell .",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "ci"
+}

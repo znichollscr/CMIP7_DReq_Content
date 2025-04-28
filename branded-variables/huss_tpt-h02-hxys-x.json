@@ -1,0 +1,11 @@
+{
+  "branded_variable": "huss_tpt-h02-hxys-x",
+  "cell_methods": "area: point time: point",
+  "description": "Near-surface (usually, 2 meter) specific humidity.",
+  "dimensions": [
+    "site",
+    "time1",
+    "height2m"
+  ],
+  "variableRootDD": "huss"
+}

@@ -1,0 +1,12 @@
+{
+  "branded_variable": "mmraerh2o_tavg-z0-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "Daily mean Aerosol water mass mixing ratio in lowest model layer",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time",
+    "height50m"
+  ],
+  "variableRootDD": "mmraerh2o"
+}

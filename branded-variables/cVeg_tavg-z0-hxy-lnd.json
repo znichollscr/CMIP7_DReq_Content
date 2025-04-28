@@ -1,0 +1,11 @@
+{
+  "branded_variable": "cVeg_tavg-z0-hxy-lnd",
+  "cell_methods": "area: mean where land time: mean",
+  "description": "Carbon mass per unit area in vegetation.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "cVeg"
+}

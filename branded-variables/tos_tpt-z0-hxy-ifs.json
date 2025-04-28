@@ -1,0 +1,11 @@
+{
+  "branded_variable": "tos_tpt-z0-hxy-ifs",
+  "cell_methods": "area: mean where ice_free_sea time: point",
+  "description": "temperature of surface of open ocean, sampled synoptically.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time1"
+  ],
+  "variableRootDD": "tos"
+}

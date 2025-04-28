@@ -1,0 +1,11 @@
+{
+  "branded_variable": "albc_tavg-z0-hxy-veg",
+  "cell_methods": "area: time: mean where vegetation (weighted by canopy area and by downwelling shortwave radiation at the surface)",
+  "description": "Canopy Albedo",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "albc"
+}

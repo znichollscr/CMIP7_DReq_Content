@@ -1,0 +1,12 @@
+{
+  "branded_variable": "od550lt1aer_tavg-z0-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "od550 due to particles with wet diameter less than 1 um  (\"ambient\" means \"wetted\"). When models do not include explicit size information, it can be assumed that all anthropogenic aerosols and natural secondary aerosols have diameter less than 1 um.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time",
+    "lambda550nm"
+  ],
+  "variableRootDD": "od550lt1aer"
+}

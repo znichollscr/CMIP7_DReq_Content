@@ -1,0 +1,11 @@
+{
+  "branded_variable": "rsus_tavg-z0-hxy-ifs",
+  "cell_methods": "area: time: mean where ice_free_sea",
+  "description": "Surface Upwelling Shortwave Radiation over the portion of an ocean grid cell not covered by sea ice. Can be used for computation of surface albedo.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "rsus"
+}

@@ -1,0 +1,11 @@
+{
+  "branded_variable": "rsuscs_tavg-z0-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "Surface Upwelling Clear-sky Shortwave Radiation",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "rsuscs"
+}

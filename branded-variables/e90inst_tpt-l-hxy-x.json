@@ -1,0 +1,12 @@
+{
+  "branded_variable": "e90inst_tpt-l-hxy-x",
+  "cell_methods": "area: mean time: point",
+  "description": "Mole fraction of an artificial tracer with a 90-day lifetime (e90)",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "alevel",
+    "time1"
+  ],
+  "variableRootDD": "e90inst"
+}

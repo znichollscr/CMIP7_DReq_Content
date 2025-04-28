@@ -1,0 +1,12 @@
+{
+  "branded_variable": "clcalipso_tavg-p0560-hxy-air",
+  "cell_methods": "area: time: mean where air",
+  "description": "Percentage cloud cover in layer centred on 560hPa",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time",
+    "p560"
+  ],
+  "variableRootDD": "clcalipso"
+}

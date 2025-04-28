@@ -1,0 +1,11 @@
+{
+  "branded_variable": "hfdsl_tavg-z0-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "Ground heat flux at 3hr",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "hfdsl"
+}

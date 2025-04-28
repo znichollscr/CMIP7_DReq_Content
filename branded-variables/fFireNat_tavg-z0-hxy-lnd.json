@@ -1,0 +1,11 @@
+{
+  "branded_variable": "fFireNat_tavg-z0-hxy-lnd",
+  "cell_methods": "area: mean where land time: mean",
+  "description": "CO2 emissions from natural fires",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "fFireNat"
+}

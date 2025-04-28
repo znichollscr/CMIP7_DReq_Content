@@ -1,0 +1,12 @@
+{
+  "branded_variable": "residualFrac_tavg-z0-hxy-x",
+  "cell_methods": "area: mean time:mean\" (or \"area time: mean\")",
+  "description": "TBC (clashes in original table)",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time",
+    "typeresidual"
+  ],
+  "variableRootDD": "residualFrac"
+}

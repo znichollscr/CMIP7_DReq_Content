@@ -1,0 +1,10 @@
+{
+  "branded_variable": "clt_tpt-z0-hxys-x",
+  "cell_methods": "area: point time: point",
+  "description": "for the whole atmospheric column, as seen from the surface or the top of the atmosphere. Include both large-scale and convective cloud.",
+  "dimensions": [
+    "site",
+    "time1"
+  ],
+  "variableRootDD": "clt"
+}

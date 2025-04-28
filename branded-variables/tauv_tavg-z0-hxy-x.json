@@ -1,0 +1,11 @@
+{
+  "branded_variable": "tauv_tavg-z0-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "TBC (clashes in original table)",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "tauv"
+}

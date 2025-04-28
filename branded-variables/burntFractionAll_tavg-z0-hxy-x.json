@@ -1,0 +1,12 @@
+{
+  "branded_variable": "burntFractionAll_tavg-z0-hxy-x",
+  "cell_methods": "area: mean time:mean\" (or \"area time: mean\")",
+  "description": "Percentage of grid cell burned due to all fires including natural and anthropogenic fires and those associated with anthropogenic land use change",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time",
+    "typeburnt"
+  ],
+  "variableRootDD": "burntFractionAll"
+}

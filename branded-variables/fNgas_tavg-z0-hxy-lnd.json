@@ -1,0 +1,11 @@
+{
+  "branded_variable": "fNgas_tavg-z0-hxy-lnd",
+  "cell_methods": "area: mean where land time: mean",
+  "description": "Total flux of Nitrogen from the land into the atmosphere.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "fNgas"
+}

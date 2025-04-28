@@ -1,0 +1,11 @@
+{
+  "branded_variable": "emich4_tavg-z0-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "This is the total emission rate of methane (CH4) into the atmosphere",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "emich4"
+}

@@ -1,0 +1,12 @@
+{
+  "branded_variable": "dissic_tavg-l-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "description": "Dissolved inorganic carbon (CO3+HCO3+H2CO3) concentration",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "olevel",
+    "time"
+  ],
+  "variableRootDD": "dissic"
+}

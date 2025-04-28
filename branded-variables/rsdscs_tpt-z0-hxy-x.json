@@ -1,0 +1,11 @@
+{
+  "branded_variable": "rsdscs_tpt-z0-hxy-x",
+  "cell_methods": "area: mean time: point",
+  "description": "Surface solar irradiance clear sky for UV calculations",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time1"
+  ],
+  "variableRootDD": "rsdscs"
+}

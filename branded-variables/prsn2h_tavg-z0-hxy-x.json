@@ -1,0 +1,11 @@
+{
+  "branded_variable": "prsn2h_tavg-z0-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "Precipitation mass flux of water molecules that contain one atom of the hydrogen-2 isotope (1H 2H O), including solid phase only.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "prsn2h"
+}

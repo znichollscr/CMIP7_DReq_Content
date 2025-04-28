@@ -1,0 +1,11 @@
+{
+  "branded_variable": "siforceintstry_tavg-z0-hxy-si",
+  "cell_methods": "area: time: mean where sea_ice",
+  "description": "Y-component of the force on sea ice caused by internal stress (divergence of sigma) divided by grid-cell area.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "siforceintstry"
+}

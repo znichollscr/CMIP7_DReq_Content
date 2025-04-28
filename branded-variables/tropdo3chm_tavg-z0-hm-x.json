@@ -1,0 +1,17 @@
+{
+  "branded_variable": "tropdo3chm_tavg-z0-hm-x",
+  "cell_methods": "area: time: mean",
+  "description": "This is the net chemical tendency of ozone in the troposphere. The distinction between the stratosphere and troposphere should be consistent with the definition of the tropopause used in the calculation of the tropopause pressure (ptp). It should have zero values in the stratosphere. ",
+  "dimensions": [
+    "area:",
+    "time:",
+    "mean",
+    "(reported",
+    "as",
+    "0",
+    "in",
+    "the",
+    "stratosphere)"
+  ],
+  "variableRootDD": "tropdo3chm"
+}

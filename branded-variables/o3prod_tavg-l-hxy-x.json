@@ -1,0 +1,12 @@
+{
+  "branded_variable": "o3prod_tavg-l-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "ONLY provide the sum of all the HO2/RO2 + NO reactions (as k*[HO2]*[NO])",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "alevel",
+    "time"
+  ],
+  "variableRootDD": "o3prod"
+}

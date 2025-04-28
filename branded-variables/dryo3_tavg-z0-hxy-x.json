@@ -1,0 +1,11 @@
+{
+  "branded_variable": "dryo3_tavg-z0-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": NaN,
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "dryo3"
+}

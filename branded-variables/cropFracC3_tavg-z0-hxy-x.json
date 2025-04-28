@@ -1,0 +1,12 @@
+{
+  "branded_variable": "cropFracC3_tavg-z0-hxy-x",
+  "cell_methods": "area: mean time:mean\" (or \"area time: mean\")",
+  "description": "Percentage of entire grid cell covered by C3 crops",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time",
+    "typec3crop"
+  ],
+  "variableRootDD": "cropFracC3"
+}

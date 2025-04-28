@@ -1,0 +1,10 @@
+{
+  "branded_variable": "fco2fos_tpt-z0-hxys-x",
+  "cell_methods": "area: point time: point",
+  "description": "This is the prescribed anthropogenic CO2 flux from fossil fuel use, including cement production, and flaring (but not from land-use changes, agricultural burning, forest regrowth, etc.)",
+  "dimensions": [
+    "site",
+    "time1"
+  ],
+  "variableRootDD": "fco2fos"
+}

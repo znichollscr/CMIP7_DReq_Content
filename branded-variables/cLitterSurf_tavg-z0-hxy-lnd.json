@@ -1,0 +1,11 @@
+{
+  "branded_variable": "cLitterSurf_tavg-z0-hxy-lnd",
+  "cell_methods": "area: mean where land time: mean",
+  "description": "Surface or near-surface litter pool fed by leaf and above-ground litterfall",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "cLitterSurf"
+}

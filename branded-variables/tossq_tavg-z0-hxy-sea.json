@@ -1,0 +1,11 @@
+{
+  "branded_variable": "tossq_tavg-z0-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "description": "Square of temperature of liquid ocean, averaged over the day.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "tossq"
+}

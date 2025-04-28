@@ -1,0 +1,12 @@
+{
+  "branded_variable": "pfull_tcla-l-hxy-x",
+  "cell_methods": "area: mean time: mean within years time: mean over years",
+  "description": "Air pressure on model levels",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "alevel",
+    "time2"
+  ],
+  "variableRootDD": "pfull"
+}

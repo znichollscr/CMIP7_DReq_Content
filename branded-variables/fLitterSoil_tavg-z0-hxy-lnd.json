@@ -1,0 +1,11 @@
+{
+  "branded_variable": "fLitterSoil_tavg-z0-hxy-lnd",
+  "cell_methods": "area: mean where land time: mean",
+  "description": "Carbon mass flux per unit area into soil from litter (dead plant material in or above the soil).",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "fLitterSoil"
+}

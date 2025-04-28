@@ -1,0 +1,11 @@
+{
+  "branded_variable": "fg14co2abio_tavg-z0-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "description": "Gas exchange flux of abiotic 14CO2 (positive into ocean)",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "fg14co2abio"
+}

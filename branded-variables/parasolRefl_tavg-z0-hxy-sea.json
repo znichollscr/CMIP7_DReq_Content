@@ -1,0 +1,12 @@
+{
+  "branded_variable": "parasolRefl_tavg-z0-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "description": "PARASOL Reflectance",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "sza5",
+    "time"
+  ],
+  "variableRootDD": "parasolRefl"
+}

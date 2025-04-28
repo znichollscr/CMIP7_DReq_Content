@@ -1,0 +1,10 @@
+{
+  "branded_variable": "prsn_tpt-z0-hxys-x",
+  "cell_methods": "area: point time: point",
+  "description": "at surface; includes precipitation of all forms of water in the solid phase",
+  "dimensions": [
+    "site",
+    "time1"
+  ],
+  "variableRootDD": "prsn"
+}

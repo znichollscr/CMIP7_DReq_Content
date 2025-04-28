@@ -1,0 +1,11 @@
+{
+  "branded_variable": "wfcorr_tavg-z0-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "description": "Computed as the water flux into the ocean due to flux correction divided by the area of the ocean portion of the grid cell.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "wfcorr"
+}

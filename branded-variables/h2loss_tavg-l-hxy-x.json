@@ -1,0 +1,12 @@
+{
+  "branded_variable": "h2loss_tavg-l-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "This is the loss rate of molecular hydrogen (H2) from the atmosphere due to chemical destruction",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "alevel",
+    "time"
+  ],
+  "variableRootDD": "h2loss"
+}

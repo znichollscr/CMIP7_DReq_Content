@@ -1,0 +1,11 @@
+{
+  "branded_variable": "sidconcdyn_tavg-z0-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "description": "Total change in sea-ice area fraction through dynamics-related processes (advection, divergence, etc.).",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "sidconcdyn"
+}

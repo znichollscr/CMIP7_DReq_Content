@@ -1,0 +1,12 @@
+{
+  "branded_variable": "arag_tavg-l-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "description": "sum of particulate aragonite components (e.g. Phytoplankton, Detrital, etc.)",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "olevel",
+    "time"
+  ],
+  "variableRootDD": "arag"
+}

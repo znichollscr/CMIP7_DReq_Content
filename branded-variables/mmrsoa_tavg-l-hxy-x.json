@@ -1,0 +1,12 @@
+{
+  "branded_variable": "mmrsoa_tavg-l-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "Mass fraction in the atmosphere of secondary organic aerosols (particulate organic matter formed within the atmosphere from gaseous precursors; dry mass).",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "alevel",
+    "time"
+  ],
+  "variableRootDD": "mmrsoa"
+}

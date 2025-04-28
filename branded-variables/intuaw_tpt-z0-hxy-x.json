@@ -1,0 +1,11 @@
+{
+  "branded_variable": "intuaw_tpt-z0-hxy-x",
+  "cell_methods": "area: mean time: point",
+  "description": "Vertically integrated eastward moisture transport (Mass weighted vertical integral of the product of eastward wind by total water mass per unit mass)",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time1"
+  ],
+  "variableRootDD": "intuaw"
+}

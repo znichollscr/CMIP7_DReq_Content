@@ -1,0 +1,12 @@
+{
+  "branded_variable": "co3_tavg-z0-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "description": "Mole concentration (number of moles per unit volume: molarity) of the carbonate anion (CO3).",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time",
+    "oplev20bar"
+  ],
+  "variableRootDD": "co3"
+}

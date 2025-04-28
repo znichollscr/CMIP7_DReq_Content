@@ -1,0 +1,12 @@
+{
+  "branded_variable": "osaltpadvect_tavg-l-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "description": "Tendency of salt content for a grid cell from parameterized eddy advection (any form of eddy advection).",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "olevel",
+    "time"
+  ],
+  "variableRootDD": "osaltpadvect"
+}

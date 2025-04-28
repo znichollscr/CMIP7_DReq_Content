@@ -1,0 +1,12 @@
+{
+  "branded_variable": "pastureFracC3_tavg-z0-hxy-x",
+  "cell_methods": "area: mean time:mean\" (or \"area time: mean\")",
+  "description": "Percentage of entire grid cell covered by C3 pasture",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time",
+    "typec3pastures"
+  ],
+  "variableRootDD": "pastureFracC3"
+}

@@ -1,0 +1,9 @@
+{
+  "branded_variable": "tendacabf_tavg-z0-hm-is",
+  "cell_methods": "area: sum where ice_sheet time: mean",
+  "description": "TBC (clashes in original table)",
+  "dimensions": [
+    "time"
+  ],
+  "variableRootDD": "tendacabf"
+}

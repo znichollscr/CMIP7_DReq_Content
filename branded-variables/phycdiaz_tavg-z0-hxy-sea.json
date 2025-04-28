@@ -1,0 +1,11 @@
+{
+  "branded_variable": "phycdiaz_tavg-z0-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "description": "Mole Concentration of Diazotrophs Expressed as Carbon in Sea Water\n",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "phycdiaz"
+}

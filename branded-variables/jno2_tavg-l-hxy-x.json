@@ -1,0 +1,12 @@
+{
+  "branded_variable": "jno2_tavg-l-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "Photolysis rate of nitrogen dioxide (NO2)",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "alevel",
+    "time"
+  ],
+  "variableRootDD": "jno2"
+}

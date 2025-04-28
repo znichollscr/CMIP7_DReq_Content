@@ -1,0 +1,11 @@
+{
+  "branded_variable": "nLeaf_tavg-z0-hxy-lnd",
+  "cell_methods": "area: mean where land time: mean",
+  "description": "\"Content\" indicates a quantity per unit area.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "nLeaf"
+}

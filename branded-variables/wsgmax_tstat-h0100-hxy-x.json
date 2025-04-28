@@ -1,0 +1,12 @@
+{
+  "branded_variable": "wsgmax_tstat-h0100-hxy-x",
+  "cell_methods": "area: mean time: maximum",
+  "description": "TBC (clashes in original table)",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time",
+    "height100m"
+  ],
+  "variableRootDD": "wsgmax"
+}

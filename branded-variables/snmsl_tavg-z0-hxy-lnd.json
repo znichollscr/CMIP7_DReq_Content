@@ -1,0 +1,11 @@
+{
+  "branded_variable": "snmsl_tavg-z0-hxy-lnd",
+  "cell_methods": "area: mean where land time: mean",
+  "description": "surface_snow_melt_flux_into_soil_layer",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "snmsl"
+}

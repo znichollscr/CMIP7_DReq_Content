@@ -1,0 +1,12 @@
+{
+  "branded_variable": "wap_tpt-z0-hxy-air",
+  "cell_methods": "area: mean where air time: point",
+  "description": "Omega (=dp/dt) on 6 pressure levels in the lower troposphere",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "plev6",
+    "time1"
+  ],
+  "variableRootDD": "wap"
+}

@@ -1,0 +1,12 @@
+{
+  "branded_variable": "od550soa_tavg-z0-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "total organic aerosol AOD due to secondary aerosol formation",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time",
+    "lambda550nm"
+  ],
+  "variableRootDD": "od550soa"
+}

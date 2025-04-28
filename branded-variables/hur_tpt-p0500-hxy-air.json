@@ -1,0 +1,12 @@
+{
+  "branded_variable": "hur_tpt-p0500-hxy-air",
+  "cell_methods": "area: mean where air time: point",
+  "description": "Relative humidity at 500 hPa, 6 hourly instantaneous",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time1",
+    "p500"
+  ],
+  "variableRootDD": "hur"
+}

@@ -1,0 +1,12 @@
+{
+  "branded_variable": "rv_tavg-p0850-hxy-air",
+  "cell_methods": "area: time: mean where air",
+  "description": "Relative vorticity is the upward component of the vorticity vector i.e. the component which arises from horizontal velocity.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time",
+    "p850"
+  ],
+  "variableRootDD": "rv"
+}

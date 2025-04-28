@@ -1,0 +1,12 @@
+{
+  "branded_variable": "dmso_tavg-z00-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "description": "Mole concentration of dimethyl sulphide in water in the near surface layer",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time",
+    "depth0m"
+  ],
+  "variableRootDD": "dmso"
+}

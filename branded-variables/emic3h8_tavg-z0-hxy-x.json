@@ -1,0 +1,11 @@
+{
+  "branded_variable": "emic3h8_tavg-z0-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "This is the total emission rate of propane (C3H8) into the atmosphere",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "emic3h8"
+}

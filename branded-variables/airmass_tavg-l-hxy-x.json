@@ -1,0 +1,12 @@
+{
+  "branded_variable": "airmass_tavg-l-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "The mass of air in an atmospheric layer.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "alevel",
+    "time"
+  ],
+  "variableRootDD": "airmass"
+}

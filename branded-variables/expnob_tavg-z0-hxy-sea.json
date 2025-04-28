@@ -1,0 +1,12 @@
+{
+  "branded_variable": "expnob_tavg-z0-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "description": "Downward sinking flux of particulate organic nitrogen at seafloor",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "depthseafloor",
+    "time"
+  ],
+  "variableRootDD": "expnob"
+}

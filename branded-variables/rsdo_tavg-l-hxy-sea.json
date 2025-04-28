@@ -1,0 +1,12 @@
+{
+  "branded_variable": "rsdo_tavg-l-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "description": "Downwelling Shortwave Radiation in Sea Water",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "olevel",
+    "time"
+  ],
+  "variableRootDD": "rsdo"
+}

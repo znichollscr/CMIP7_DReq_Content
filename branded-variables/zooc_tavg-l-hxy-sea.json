@@ -1,0 +1,12 @@
+{
+  "branded_variable": "zooc_tavg-l-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "description": "sum of zooplankton carbon component concentrations",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "olevel",
+    "time"
+  ],
+  "variableRootDD": "zooc"
+}

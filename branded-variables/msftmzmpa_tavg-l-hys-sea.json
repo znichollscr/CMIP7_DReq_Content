@@ -1,0 +1,12 @@
+{
+  "branded_variable": "msftmzmpa_tavg-l-hys-sea",
+  "cell_methods": "longitude: rho: sum where sea (along a zig-zag grid path spanning a basin) time: mean",
+  "description": "CMIP5 called this \"due to Bolus Advection\".  Name change respects the more general physics of the mesoscale parameterizations.",
+  "dimensions": [
+    "latitude",
+    "olevel",
+    "basin",
+    "time"
+  ],
+  "variableRootDD": "msftmzmpa"
+}

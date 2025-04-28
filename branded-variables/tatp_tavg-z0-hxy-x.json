@@ -1,0 +1,11 @@
+{
+  "branded_variable": "tatp_tavg-z0-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "2D monthly mean thermal tropopause calculated using WMO tropopause definition on 3d temperature",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "tatp"
+}

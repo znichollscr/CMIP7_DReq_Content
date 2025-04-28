@@ -1,0 +1,12 @@
+{
+  "branded_variable": "thetao_tavg-z0700-hxy-sea",
+  "cell_methods": "area: depth: time: mean where sea",
+  "description": "Upper 700m, 2D field",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time",
+    "olayer700m"
+  ],
+  "variableRootDD": "thetao"
+}

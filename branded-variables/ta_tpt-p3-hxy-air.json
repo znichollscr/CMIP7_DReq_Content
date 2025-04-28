@@ -1,0 +1,12 @@
+{
+  "branded_variable": "ta_tpt-p3-hxy-air",
+  "cell_methods": "area: mean where air time: point",
+  "description": "Air Temperature",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "plev3",
+    "time1"
+  ],
+  "variableRootDD": "ta"
+}

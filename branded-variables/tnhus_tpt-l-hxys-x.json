@@ -1,0 +1,11 @@
+{
+  "branded_variable": "tnhus_tpt-l-hxys-x",
+  "cell_methods": "area: point time: point",
+  "description": "Tendency of Specific Humidity",
+  "dimensions": [
+    "alevel",
+    "site",
+    "time1"
+  ],
+  "variableRootDD": "tnhus"
+}

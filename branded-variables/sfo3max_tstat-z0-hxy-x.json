@@ -1,0 +1,12 @@
+{
+  "branded_variable": "sfo3max_tstat-z0-hxy-x",
+  "cell_methods": "area: mean time: maximum",
+  "description": "maximum near-surface ozone  (add cell_methods attribute \"time: maximum\")",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time",
+    "height50m"
+  ],
+  "variableRootDD": "sfo3max"
+}

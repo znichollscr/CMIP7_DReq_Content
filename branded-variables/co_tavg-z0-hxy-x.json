@@ -1,0 +1,12 @@
+{
+  "branded_variable": "co_tavg-z0-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "This is the daily mean for CO volume mixing ratio in lowest model layer",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time",
+    "height50m"
+  ],
+  "variableRootDD": "co"
+}

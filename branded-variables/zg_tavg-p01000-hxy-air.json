@@ -1,0 +1,12 @@
+{
+  "branded_variable": "zg_tavg-p01000-hxy-air",
+  "cell_methods": "area: time: mean where air",
+  "description": "Geopotential height on the 1000 hPa surface",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time",
+    "p1000"
+  ],
+  "variableRootDD": "zg"
+}

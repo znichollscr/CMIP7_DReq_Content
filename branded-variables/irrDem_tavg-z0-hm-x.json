@@ -1,0 +1,11 @@
+{
+  "branded_variable": "irrDem_tavg-z0-hm-x",
+  "cell_methods": "area: mean",
+  "description": "the total amount of irrigation water demand",
+  "dimensions": [
+    "area:",
+    "time:",
+    "mean"
+  ],
+  "variableRootDD": "irrDem"
+}

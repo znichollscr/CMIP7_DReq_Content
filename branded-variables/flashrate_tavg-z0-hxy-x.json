@@ -1,0 +1,11 @@
+{
+  "branded_variable": "flashrate_tavg-z0-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "Lightning Flash Rate",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "flashrate"
+}

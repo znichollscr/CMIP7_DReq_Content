@@ -1,0 +1,12 @@
+{
+  "branded_variable": "cropFrac_tavg-z0-hxy-x",
+  "cell_methods": "area: mean time:mean\" (or \"area time: mean\")",
+  "description": "Percentage of entire grid cell  that is covered by crop.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time",
+    "typecrop"
+  ],
+  "variableRootDD": "cropFrac"
+}

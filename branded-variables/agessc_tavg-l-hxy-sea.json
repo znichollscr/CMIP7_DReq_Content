@@ -1,0 +1,12 @@
+{
+  "branded_variable": "agessc_tavg-l-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "description": "Time elapsed since water was last in surface layer of the ocean.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "olevel",
+    "time"
+  ],
+  "variableRootDD": "agessc"
+}

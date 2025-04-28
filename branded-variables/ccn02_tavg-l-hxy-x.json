@@ -1,0 +1,13 @@
+{
+  "branded_variable": "ccn02_tavg-l-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "This is the concentration of cloud condensation nuclei (CCN) at 0.2% supersaturation, based on aerosol chemical composition and size",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "alevel",
+    "time",
+    "rh102pct"
+  ],
+  "variableRootDD": "ccn02"
+}

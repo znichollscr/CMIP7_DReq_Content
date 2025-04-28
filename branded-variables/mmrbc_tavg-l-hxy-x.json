@@ -1,0 +1,12 @@
+{
+  "branded_variable": "mmrbc_tavg-l-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "Dry mass fraction of black carbon aerosol particles in air.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "alevel",
+    "time"
+  ],
+  "variableRootDD": "mmrbc"
+}

@@ -1,0 +1,11 @@
+{
+  "branded_variable": "tntscp_tpt-l-hxys-x",
+  "cell_methods": "area: point time: point",
+  "description": "alevel site time1",
+  "dimensions": [
+    "alevel",
+    "site",
+    "time1"
+  ],
+  "variableRootDD": "tntscp"
+}

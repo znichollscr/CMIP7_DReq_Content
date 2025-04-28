@@ -1,0 +1,12 @@
+{
+  "branded_variable": "detoc_tavg-l-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "description": "sum of detrital organic carbon component concentrations",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "olevel",
+    "time"
+  ],
+  "variableRootDD": "detoc"
+}

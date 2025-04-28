@@ -1,0 +1,11 @@
+{
+  "branded_variable": "nppTree_tavg-z0-hxy-lnd",
+  "cell_methods": "area: time: mean where land",
+  "description": "Total NPP of trees in the grid cell",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "nppTree"
+}

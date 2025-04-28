@@ -1,0 +1,11 @@
+{
+  "branded_variable": "prra_tavg-z0-hxy-lnd",
+  "cell_methods": "area: mean where land time: mean",
+  "description": "rainfall_flux",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "prra"
+}

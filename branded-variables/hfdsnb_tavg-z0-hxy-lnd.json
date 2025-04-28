@@ -1,0 +1,11 @@
+{
+  "branded_variable": "hfdsnb_tavg-z0-hxy-lnd",
+  "cell_methods": "area: mean where land time: mean",
+  "description": "Downward heat flux at snow botton",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "hfdsnb"
+}

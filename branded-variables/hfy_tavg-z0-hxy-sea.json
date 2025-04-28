@@ -1,0 +1,11 @@
+{
+  "branded_variable": "hfy_tavg-z0-hxy-sea",
+  "cell_methods": "area: mean where sea depth: sum where sea time: mean",
+  "description": "Ocean heat y transport vertically integrated over the whole ocean depth. Contains all contributions to 'y-ward' heat transport from resolved and parameterized processes. Use Celsius for temperature scale. Report on native horizontal grid.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "hfy"
+}

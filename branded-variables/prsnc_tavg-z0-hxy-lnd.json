@@ -1,0 +1,11 @@
+{
+  "branded_variable": "prsnc_tavg-z0-hxy-lnd",
+  "cell_methods": "area: mean where land time: mean",
+  "description": "convective_snowfall_flux",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "prsnc"
+}

@@ -1,0 +1,12 @@
+{
+  "branded_variable": "ec550aer_tpt-z0-hxy-x",
+  "cell_methods": "area: mean (weighted by downwelling solar radiation) time: point",
+  "description": "Aerosol Extinction @550nm",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time1",
+    "lambda550nm"
+  ],
+  "variableRootDD": "ec550aer"
+}

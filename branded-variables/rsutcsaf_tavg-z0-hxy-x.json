@@ -1,0 +1,11 @@
+{
+  "branded_variable": "rsutcsaf_tavg-z0-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "Flux corresponding to rsutcs resulting fom aerosol-free call to radiation",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "rsutcsaf"
+}

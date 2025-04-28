@@ -1,0 +1,11 @@
+{
+  "branded_variable": "rsut_tpt-z0-hxy-x",
+  "cell_methods": "area: mean time: point",
+  "description": "at the top of the atmosphere",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time1"
+  ],
+  "variableRootDD": "rsut"
+}

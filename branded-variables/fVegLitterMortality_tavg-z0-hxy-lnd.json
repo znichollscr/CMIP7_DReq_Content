@@ -1,0 +1,11 @@
+{
+  "branded_variable": "fVegLitterMortality_tavg-z0-hxy-lnd",
+  "cell_methods": "area: mean where land time: mean",
+  "description": "needed to separate changing vegetation C turnover times resulting from changing allocation versus changing mortality",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "fVegLitterMortality"
+}

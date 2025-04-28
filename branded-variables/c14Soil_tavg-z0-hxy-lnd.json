@@ -1,0 +1,11 @@
+{
+  "branded_variable": "c14Soil_tavg-z0-hxy-lnd",
+  "cell_methods": "area: mean where land time: mean",
+  "description": "Carbon-14 mass content per unit area in soil.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "c14Soil"
+}

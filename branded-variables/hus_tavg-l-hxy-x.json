@@ -1,0 +1,12 @@
+{
+  "branded_variable": "hus_tavg-l-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "Specific humidity is the mass fraction of water vapor in (moist) air.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "alevel",
+    "time"
+  ],
+  "variableRootDD": "hus"
+}

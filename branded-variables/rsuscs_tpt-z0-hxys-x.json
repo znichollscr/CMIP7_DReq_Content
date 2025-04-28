@@ -1,0 +1,10 @@
+{
+  "branded_variable": "rsuscs_tpt-z0-hxys-x",
+  "cell_methods": "area: point time: point",
+  "description": "Surface Upwelling Clear-sky Shortwave Radiation",
+  "dimensions": [
+    "site",
+    "time1"
+  ],
+  "variableRootDD": "rsuscs"
+}

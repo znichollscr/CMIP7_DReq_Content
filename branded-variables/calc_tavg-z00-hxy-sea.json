@@ -1,0 +1,12 @@
+{
+  "branded_variable": "calc_tavg-z00-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "description": "sum of particulate calcite component concentrations (e.g. Phytoplankton, Detrital, etc.)",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time",
+    "depth0m"
+  ],
+  "variableRootDD": "calc"
+}

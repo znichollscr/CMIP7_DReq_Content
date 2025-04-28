@@ -1,0 +1,11 @@
+{
+  "branded_variable": "wap_tpt-l-hxys-x",
+  "cell_methods": "area: point time: point",
+  "description": "commonly referred to as \"omega\", this represents the vertical component of velocity in pressure coordinates (positive down)",
+  "dimensions": [
+    "alevel",
+    "site",
+    "time1"
+  ],
+  "variableRootDD": "wap"
+}

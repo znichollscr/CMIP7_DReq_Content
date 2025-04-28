@@ -1,0 +1,11 @@
+{
+  "branded_variable": "sw_tavg-z0-hxy-lnd",
+  "cell_methods": "area: mean where land time: mean",
+  "description": "Total liquid water storage, other than soil, snow or interception storage (i.e. lakes, river channel or depression storage).",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "sw"
+}

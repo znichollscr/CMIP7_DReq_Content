@@ -1,0 +1,12 @@
+{
+  "branded_variable": "zmeso_tavg-z00-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "description": "carbon  concentration from mesozooplankton (20-200 um) component alone",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time",
+    "depth0m"
+  ],
+  "variableRootDD": "zmeso"
+}

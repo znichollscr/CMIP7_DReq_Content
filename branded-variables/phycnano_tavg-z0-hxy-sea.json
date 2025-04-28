@@ -1,0 +1,11 @@
+{
+  "branded_variable": "phycnano_tavg-z0-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "description": "Mole Concentration of Nanophytoplankton Expressed as Carbon in Sea Water",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "phycnano"
+}

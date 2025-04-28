@@ -1,0 +1,11 @@
+{
+  "branded_variable": "nppOther_tavg-z0-hxy-lnd",
+  "cell_methods": "area: mean where land time: mean",
+  "description": "added for completeness with npp_root",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "nppOther"
+}

@@ -1,0 +1,11 @@
+{
+  "branded_variable": "albisccp_tavg-z0-hxy-x",
+  "cell_methods": "area: mean (weighted by incident surface diffuse shortwave in band) time: point",
+  "description": "TBC (clashes in original table)",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "albisccp"
+}

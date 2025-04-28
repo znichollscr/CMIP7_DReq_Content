@@ -1,0 +1,11 @@
+{
+  "branded_variable": "cnc_tavg-z0-hxy-x",
+  "cell_methods": "area: mean time:mean\" (or \"area time: mean\")",
+  "description": "Canopy covered fraction",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "cnc"
+}

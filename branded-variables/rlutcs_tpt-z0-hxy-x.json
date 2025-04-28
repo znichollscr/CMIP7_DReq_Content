@@ -1,0 +1,11 @@
+{
+  "branded_variable": "rlutcs_tpt-z0-hxy-x",
+  "cell_methods": "area: mean time: point",
+  "description": "Upwelling clear-sky longwave radiation at top of atmosphere",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time1"
+  ],
+  "variableRootDD": "rlutcs"
+}

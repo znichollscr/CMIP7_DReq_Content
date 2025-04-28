@@ -1,0 +1,11 @@
+{
+  "branded_variable": "siforcecoriolx_tavg-z0-hxy-si",
+  "cell_methods": "area: time: mean where sea_ice",
+  "description": "X-component of the force on sea ice caused by the Coriolis force divided by grid-cell area.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "siforcecoriolx"
+}

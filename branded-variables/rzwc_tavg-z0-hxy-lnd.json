@@ -1,0 +1,11 @@
+{
+  "branded_variable": "rzwc_tavg-z0-hxy-lnd",
+  "cell_methods": "area: mean where land time: mean",
+  "description": "water_content_of_root_zone",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "rzwc"
+}

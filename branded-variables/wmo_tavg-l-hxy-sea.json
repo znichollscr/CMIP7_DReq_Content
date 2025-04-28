@@ -1,0 +1,12 @@
+{
+  "branded_variable": "wmo_tavg-l-hxy-sea",
+  "cell_methods": "area: sum where sea time: mean",
+  "description": "Upward mass transport from residual mean (resolved plus parameterized) advective transport.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "olevel",
+    "time"
+  ],
+  "variableRootDD": "wmo"
+}

@@ -1,0 +1,12 @@
+{
+  "branded_variable": "va_tpt-p3-hxy-air",
+  "cell_methods": "area: mean where air time: point",
+  "description": "Meridional wind (positive in a northward direction).",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "plev3",
+    "time1"
+  ],
+  "variableRootDD": "va"
+}

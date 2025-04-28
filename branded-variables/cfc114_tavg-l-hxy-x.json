@@ -1,0 +1,12 @@
+{
+  "branded_variable": "cfc114_tavg-l-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "Mole fraction of cfc114 in air",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "alevel",
+    "time"
+  ],
+  "variableRootDD": "cfc114"
+}

@@ -1,0 +1,12 @@
+{
+  "branded_variable": "sncitd_tavg-z0-hxy-si",
+  "cell_methods": "area: time: mean where sea_ice",
+  "description": "Area fraction of grid cell covered by snow in each ice thickness category (vector with one entry for each ice thickness category starting from the thinnest category, netcdf file should use thickness bounds of the categories as third coordinate axis).",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "iceband",
+    "time"
+  ],
+  "variableRootDD": "sncitd"
+}

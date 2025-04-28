@@ -1,0 +1,12 @@
+{
+  "branded_variable": "difvho_tavg-l-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "description": "Vertical/dianeutral diffusivity applied to prognostic temperature field.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "olevel",
+    "time"
+  ],
+  "variableRootDD": "difvho"
+}

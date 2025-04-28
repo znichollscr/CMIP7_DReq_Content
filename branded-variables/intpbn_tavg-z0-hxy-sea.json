@@ -1,0 +1,11 @@
+{
+  "branded_variable": "intpbn_tavg-z0-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "description": "Vertically integrated biogenic nitrogen production",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "intpbn"
+}

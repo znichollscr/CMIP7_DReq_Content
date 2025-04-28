@@ -1,0 +1,10 @@
+{
+  "branded_variable": "pr_tpt-z0-hxys-x",
+  "cell_methods": "area: point time: point",
+  "description": "at surface; includes both liquid and solid phases from all types of clouds (both large-scale and convective)",
+  "dimensions": [
+    "site",
+    "time1"
+  ],
+  "variableRootDD": "pr"
+}

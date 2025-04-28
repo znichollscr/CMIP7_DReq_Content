@@ -1,0 +1,12 @@
+{
+  "branded_variable": "cSoil_tavg-l-hxy-lnd",
+  "cell_methods": "area: mean where land time: mean",
+  "description": "for models with vertically discretised soil carbon, report total soil carbon for each level",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "sdepth",
+    "time"
+  ],
+  "variableRootDD": "cSoil"
+}

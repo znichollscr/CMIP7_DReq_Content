@@ -1,0 +1,12 @@
+{
+  "branded_variable": "o3ref_tavg-l-hxy-x",
+  "cell_methods": "area: time: mean (monthly mean fixed annual cycle)",
+  "description": "This is the ozone mole fraction that is used in a diagnostic call to the model's radiation scheme. It is only applicable when an ozone double call is active in the model.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "alevel",
+    "time"
+  ],
+  "variableRootDD": "o3ref"
+}

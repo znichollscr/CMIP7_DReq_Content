@@ -1,0 +1,11 @@
+{
+  "branded_variable": "dsw_tavg-z0-hxy-lnd",
+  "cell_methods": "area: mean where land time: mean",
+  "description": NaN,
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "dsw"
+}

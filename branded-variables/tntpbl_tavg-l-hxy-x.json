@@ -1,0 +1,12 @@
+{
+  "branded_variable": "tntpbl_tavg-l-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "Includes all boundary layer terms including diffusive terms.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "alevel",
+    "time"
+  ],
+  "variableRootDD": "tntpbl"
+}

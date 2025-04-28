@@ -1,0 +1,9 @@
+{
+  "branded_variable": "iareagr_tavg-z0-hm-fis",
+  "cell_methods": "area: sum where floating_ice_shelf time: mean",
+  "description": "TBC (clashes in original table)",
+  "dimensions": [
+    "time"
+  ],
+  "variableRootDD": "iareagr"
+}

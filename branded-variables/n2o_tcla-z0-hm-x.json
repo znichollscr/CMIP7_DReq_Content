@@ -1,0 +1,9 @@
+{
+  "branded_variable": "n2o_tcla-z0-hm-x",
+  "cell_methods": "height: sum (through atmospheric column) area: sum time: mean within years time: mean over years",
+  "description": "Global mean Nitrous Oxide (N2O)",
+  "dimensions": [
+    "time2"
+  ],
+  "variableRootDD": "n2o"
+}

@@ -1,0 +1,11 @@
+{
+  "branded_variable": "rsds_tpt-z0-hxy-x",
+  "cell_methods": "area: mean time: point",
+  "description": "Surface solar irradiance for UV calculations.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time1"
+  ],
+  "variableRootDD": "rsds"
+}

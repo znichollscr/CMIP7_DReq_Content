@@ -1,0 +1,12 @@
+{
+  "branded_variable": "chlmisc_tavg-l-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "description": "chlorophyll from additional phytoplankton component concentrations alone",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "olevel",
+    "time"
+  ],
+  "variableRootDD": "chlmisc"
+}

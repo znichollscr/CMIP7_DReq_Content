@@ -1,0 +1,11 @@
+{
+  "branded_variable": "nOther_tavg-z0-hxy-lnd",
+  "cell_methods": "area: mean where land time: mean",
+  "description": "E.g. fruits, seeds, etc.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "nOther"
+}

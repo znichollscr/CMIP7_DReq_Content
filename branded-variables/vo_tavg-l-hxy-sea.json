@@ -1,0 +1,12 @@
+{
+  "branded_variable": "vo_tavg-l-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "description": "Prognostic y-ward velocity component resolved by the model.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "olevel",
+    "time"
+  ],
+  "variableRootDD": "vo"
+}

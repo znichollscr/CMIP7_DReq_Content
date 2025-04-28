@@ -1,0 +1,12 @@
+{
+  "branded_variable": "sfpm25_tavg-z0-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "TBC (clashes in original table)",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time",
+    "height50m"
+  ],
+  "variableRootDD": "sfpm25"
+}

@@ -1,0 +1,11 @@
+{
+  "branded_variable": "lwp_tavg-z0-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "The total mass of liquid water in cloud per unit area.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "lwp"
+}

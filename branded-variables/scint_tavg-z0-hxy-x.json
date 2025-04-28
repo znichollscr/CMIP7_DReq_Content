@@ -1,0 +1,12 @@
+{
+  "branded_variable": "scint_tavg-z0-hxy-x",
+  "cell_methods": "The cell_methods should include a time \"method\" (is it \"time: mean\"?)",
+  "description": "This is a fundamental aspect of the changes in the hydrological cycle and their impact on the oceans, and due to new numerical schemes and vertical discretizations, it is important to calculate it consistently with the model formulation.\u00a0",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "oplev4",
+    "time"
+  ],
+  "variableRootDD": "scint"
+}

@@ -1,0 +1,12 @@
+{
+  "branded_variable": "h2prod_tavg-l-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "This is the production of molecular hydrogen (H2) in the atmosphere due to chemical production",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "alevel",
+    "time"
+  ],
+  "variableRootDD": "h2prod"
+}

@@ -1,0 +1,11 @@
+{
+  "branded_variable": "rsdscsdiff_tavg-z0-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "Surface downwelling solar irradiance from diffuse radiation for UV calculations in clear sky conditions",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "rsdscsdiff"
+}

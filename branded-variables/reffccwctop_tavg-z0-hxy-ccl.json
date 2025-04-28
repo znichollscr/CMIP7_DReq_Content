@@ -1,0 +1,11 @@
+{
+  "branded_variable": "reffccwctop_tavg-z0-hxy-ccl",
+  "cell_methods": "area: time: mean where convective_cloud (weighted by area of upper-most cloud layer)",
+  "description": "Cloud-Top Effective Radius of Liquid or Ice Cloud at Liquid or Ice Cloud Top",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "reffccwctop"
+}

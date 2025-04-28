@@ -1,0 +1,11 @@
+{
+  "branded_variable": "sfy_tavg-z0-hxy-sea",
+  "cell_methods": "area: mean where sea depth: sum where sea time: mean",
+  "description": "Ocean salt mass y transport vertically integrated over the whole ocean depth. Contains all contributions to 'y-ward' salt mass transport from resolved and parameterized processes. Report on native horizontal grid.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "sfy"
+}

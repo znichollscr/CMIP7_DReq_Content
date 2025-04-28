@@ -1,0 +1,10 @@
+{
+  "branded_variable": "rldscs_tpt-z0-hxys-x",
+  "cell_methods": "area: point time: point",
+  "description": "Surface downwelling clear-sky longwave radiation",
+  "dimensions": [
+    "site",
+    "time1"
+  ],
+  "variableRootDD": "rldscs"
+}

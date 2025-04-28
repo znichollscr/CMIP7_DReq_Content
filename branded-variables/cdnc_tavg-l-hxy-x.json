@@ -1,0 +1,12 @@
+{
+  "branded_variable": "cdnc_tavg-l-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "Cloud Droplet Number Concentration in liquid water clouds.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "alevel",
+    "time"
+  ],
+  "variableRootDD": "cdnc"
+}

@@ -1,0 +1,11 @@
+{
+  "branded_variable": "intpbp_tavg-z0-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "description": "Vertically integrated biogenic phosphorus production",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "intpbp"
+}

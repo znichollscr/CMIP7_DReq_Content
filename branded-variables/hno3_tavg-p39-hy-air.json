@@ -1,0 +1,11 @@
+{
+  "branded_variable": "hno3_tavg-p39-hy-air",
+  "cell_methods": "longitude: time: mean where air",
+  "description": "Mole fraction is used in the construction mole_fraction_of_X_in_Y, where X is a material constituent of Y.",
+  "dimensions": [
+    "latitude",
+    "plev39",
+    "time"
+  ],
+  "variableRootDD": "hno3"
+}

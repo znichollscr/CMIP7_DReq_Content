@@ -1,0 +1,12 @@
+{
+  "branded_variable": "o3ste_tavg-l-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "Ozone tracer intended to map out strat-trop exchange (STE) of ozone.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "alevel",
+    "time"
+  ],
+  "variableRootDD": "o3ste"
+}

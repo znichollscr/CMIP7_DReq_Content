@@ -1,0 +1,12 @@
+{
+  "branded_variable": "zfullo_tavg-l-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "description": "Depth below geoid",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "olevel",
+    "time"
+  ],
+  "variableRootDD": "zfullo"
+}

@@ -1,0 +1,12 @@
+{
+  "branded_variable": "huss_tavg-h02-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "Near-surface (usually, 2 meter) specific humidity.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time",
+    "height2m"
+  ],
+  "variableRootDD": "huss"
+}

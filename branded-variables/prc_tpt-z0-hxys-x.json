@@ -1,0 +1,10 @@
+{
+  "branded_variable": "prc_tpt-z0-hxys-x",
+  "cell_methods": "area: point time: point",
+  "description": "at surface; includes both liquid and solid phases.",
+  "dimensions": [
+    "site",
+    "time1"
+  ],
+  "variableRootDD": "prc"
+}

@@ -1,0 +1,11 @@
+{
+  "branded_variable": "slthick_ti-l-hxy-lnd",
+  "cell_methods": "area: mean where land",
+  "description": "Thickness of Soil Layers",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "sdepth"
+  ],
+  "variableRootDD": "slthick"
+}

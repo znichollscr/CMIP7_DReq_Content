@@ -1,0 +1,11 @@
+{
+  "branded_variable": "fNgasFire_tavg-z0-hxy-lnd",
+  "cell_methods": "area: mean where land time: mean",
+  "description": "Flux of Nitrogen from the land into the atmosphere due to fire",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "fNgasFire"
+}

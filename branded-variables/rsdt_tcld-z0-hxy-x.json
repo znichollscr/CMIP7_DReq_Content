@@ -1,0 +1,11 @@
+{
+  "branded_variable": "rsdt_tcld-z0-hxy-x",
+  "cell_methods": "area: mean time: mean within days time: mean over days",
+  "description": "Shortwave radiation incident at the top of the atmosphere",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time3"
+  ],
+  "variableRootDD": "rsdt"
+}

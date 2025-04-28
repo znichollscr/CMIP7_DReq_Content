@@ -1,0 +1,11 @@
+{
+  "branded_variable": "sithickrdg_tavg-z0-hxy-sir",
+  "cell_methods": "area: time: mean where sea_ice_ridges",
+  "description": "Total volume of ridged sea ice divided by area of ridges, i.e. mean thickness of ridged sea ice.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "sithickrdg"
+}

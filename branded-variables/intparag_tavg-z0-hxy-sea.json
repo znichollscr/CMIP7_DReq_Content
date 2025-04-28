@@ -1,0 +1,11 @@
+{
+  "branded_variable": "intparag_tavg-z0-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "description": "Vertically integrated aragonite production",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "intparag"
+}

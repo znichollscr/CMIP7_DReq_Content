@@ -1,0 +1,12 @@
+{
+  "branded_variable": "ua_tpt-z0-hxy-x",
+  "cell_methods": "area: mean time: point",
+  "description": "Zonal wind (positive in a eastward direction) at 200 hPa, 6hourly instantaneous",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time1",
+    "p200"
+  ],
+  "variableRootDD": "ua"
+}

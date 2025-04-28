@@ -1,0 +1,11 @@
+{
+  "branded_variable": "tauvogw_tavg-p39-hy-air",
+  "cell_methods": "longitude: time: mean where air",
+  "description": "Zonal mean vertical flux of meridional momentum within the orographic gravity wave parameterization",
+  "dimensions": [
+    "latitude",
+    "plev39",
+    "time"
+  ],
+  "variableRootDD": "tauvogw"
+}

@@ -1,0 +1,10 @@
+{
+  "branded_variable": "hfgeoubed_ti-z0-hxy-gis",
+  "cell_methods": "area: mean where grounded_ice_sheet",
+  "description": NaN,
+  "dimensions": [
+    "longitude",
+    "latitude"
+  ],
+  "variableRootDD": "hfgeoubed"
+}

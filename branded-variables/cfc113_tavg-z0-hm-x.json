@@ -1,0 +1,9 @@
+{
+  "branded_variable": "cfc113_tavg-z0-hm-x",
+  "cell_methods": "height: sum (through atmospheric column) area: sum time: mean",
+  "description": "TBC (clashes in original table)",
+  "dimensions": [
+    "time"
+  ],
+  "variableRootDD": "cfc113"
+}

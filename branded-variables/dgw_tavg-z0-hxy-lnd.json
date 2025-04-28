@@ -1,0 +1,11 @@
+{
+  "branded_variable": "dgw_tavg-z0-hxy-lnd",
+  "cell_methods": "area: mean where land time: mean",
+  "description": "change_over_time_in_groundwater",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "dgw"
+}

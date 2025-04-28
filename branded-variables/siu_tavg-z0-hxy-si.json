@@ -1,0 +1,11 @@
+{
+  "branded_variable": "siu_tavg-z0-hxy-si",
+  "cell_methods": "area: mean where sea_ice time: point",
+  "description": "X-component of sea-ice velocity on native model grid.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "siu"
+}

@@ -1,0 +1,11 @@
+{
+  "branded_variable": "tactop_tavg-z0-hxy-cl",
+  "cell_methods": "area: time: mean where cloud",
+  "description": "cloud_top refers to the top of the highest cloud. Air temperature is the bulk temperature of the air, not the surface (skin) temperature.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "tactop"
+}

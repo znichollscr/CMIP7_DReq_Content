@@ -1,0 +1,11 @@
+{
+  "branded_variable": "depdust_tavg-z0-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "Fdry mass deposition rate of dust",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "depdust"
+}

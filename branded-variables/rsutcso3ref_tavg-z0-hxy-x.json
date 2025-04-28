@@ -1,0 +1,11 @@
+{
+  "branded_variable": "rsutcso3ref_tavg-z0-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "This represents the top-of-atmosphere outgoing shortwave radiative flux assuming clear-sky conditions when a reference ozone field is used in a diagnostic call to the radiation scheme",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "rsutcso3ref"
+}

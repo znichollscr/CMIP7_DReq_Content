@@ -1,0 +1,11 @@
+{
+  "branded_variable": "emibbso2_tavg-z0-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "Total emission rate of SO2 into the atmosphere from all biomass burning (natural and anthropogenic). ",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "emibbso2"
+}

@@ -1,0 +1,11 @@
+{
+  "branded_variable": "tntr_tpt-l-hxys-x",
+  "cell_methods": "area: point time: point",
+  "description": "Tendency of Air Temperature due to Radiative Heating",
+  "dimensions": [
+    "alevel",
+    "site",
+    "time1"
+  ],
+  "variableRootDD": "tntr"
+}

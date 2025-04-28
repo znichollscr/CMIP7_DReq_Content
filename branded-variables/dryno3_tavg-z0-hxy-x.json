@@ -1,0 +1,11 @@
+{
+  "branded_variable": "dryno3_tavg-z0-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "Loss rate of nitrate (NO3) aerosol from the atmosphere due to dry deposition",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "dryno3"
+}

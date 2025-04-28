@@ -1,0 +1,12 @@
+{
+  "branded_variable": "rlucs_tavg-l-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "Includes also the fluxes at the surface and TOA.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "alevhalf",
+    "time"
+  ],
+  "variableRootDD": "rlucs"
+}

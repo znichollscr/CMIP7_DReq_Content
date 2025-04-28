@@ -1,0 +1,12 @@
+{
+  "branded_variable": "umo_tavg-l-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "description": "X-ward mass transport from residual mean (resolved plus parameterized) advective transport.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "olevel",
+    "time"
+  ],
+  "variableRootDD": "umo"
+}

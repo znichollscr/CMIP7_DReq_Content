@@ -1,0 +1,10 @@
+{
+  "branded_variable": "evspsbl_tpt-z0-hxys-x",
+  "cell_methods": "area: point time: point",
+  "description": "at surface; flux of water into the atmosphere due to conversion of both liquid and solid phases to vapor (from underlying surface and vegetation)",
+  "dimensions": [
+    "site",
+    "time1"
+  ],
+  "variableRootDD": "evspsbl"
+}

@@ -1,0 +1,12 @@
+{
+  "branded_variable": "phydiat_tavg-l-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "description": "carbon from the diatom phytoplankton component concentration alone",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "olevel",
+    "time"
+  ],
+  "variableRootDD": "phydiat"
+}

@@ -1,0 +1,12 @@
+{
+  "branded_variable": "tntscpbl_tavg-l-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "To be specified only in  models which do not separate cloud, precipitation and boundary layer terms.  Includes all boundary layer terms including diffusive ones.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "alevel",
+    "time"
+  ],
+  "variableRootDD": "tntscpbl"
+}

@@ -1,0 +1,12 @@
+{
+  "branded_variable": "bacc_tavg-z00-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "description": "sum of bacterial carbon component concentrations",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time",
+    "depth0m"
+  ],
+  "variableRootDD": "bacc"
+}

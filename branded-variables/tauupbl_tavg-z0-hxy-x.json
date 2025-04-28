@@ -1,0 +1,11 @@
+{
+  "branded_variable": "tauupbl_tavg-z0-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "surface",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "tauupbl"
+}

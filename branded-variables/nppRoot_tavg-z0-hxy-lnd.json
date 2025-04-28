@@ -1,0 +1,11 @@
+{
+  "branded_variable": "nppRoot_tavg-z0-hxy-lnd",
+  "cell_methods": "area: mean where land time: mean",
+  "description": "This is the rate of carbon uptake by roots due to NPP",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "nppRoot"
+}

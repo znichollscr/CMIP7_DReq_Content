@@ -1,0 +1,12 @@
+{
+  "branded_variable": "photo1d_tavg-l-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "proposed name: photolysis_rate_of_ozone_to_O1D",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "alevel",
+    "time"
+  ],
+  "variableRootDD": "photo1d"
+}

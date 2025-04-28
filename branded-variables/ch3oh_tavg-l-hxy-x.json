@@ -1,0 +1,12 @@
+{
+  "branded_variable": "ch3oh_tavg-l-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "Mole fraction of methanol (CH3OH) in air",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "alevel",
+    "time"
+  ],
+  "variableRootDD": "ch3oh"
+}

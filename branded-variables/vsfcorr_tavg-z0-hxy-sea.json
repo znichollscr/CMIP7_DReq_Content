@@ -1,0 +1,11 @@
+{
+  "branded_variable": "vsfcorr_tavg-z0-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "description": "It is set to zero in models which receive a real water flux.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "vsfcorr"
+}

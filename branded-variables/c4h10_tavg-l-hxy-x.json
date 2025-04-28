@@ -1,0 +1,12 @@
+{
+  "branded_variable": "c4h10_tavg-l-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "Mole fraction of butane (C4H10) in air",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "alevel",
+    "time"
+  ],
+  "variableRootDD": "c4h10"
+}

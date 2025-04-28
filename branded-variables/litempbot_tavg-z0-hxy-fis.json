@@ -1,0 +1,11 @@
+{
+  "branded_variable": "litempbot_tavg-z0-hxy-fis",
+  "cell_methods": "area: time: mean where floating_ice_shelf",
+  "description": "TBC (clashes in original table)",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "litempbot"
+}

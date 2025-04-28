@@ -1,0 +1,12 @@
+{
+  "branded_variable": "dissi14cabio_tavg-z00-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "description": "Abiotic Dissolved inorganic 14carbon (CO3+HCO3+H2CO3) concentration",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time",
+    "depth0m"
+  ],
+  "variableRootDD": "dissi14cabio"
+}

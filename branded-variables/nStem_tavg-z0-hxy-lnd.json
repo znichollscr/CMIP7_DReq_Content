@@ -1,0 +1,11 @@
+{
+  "branded_variable": "nStem_tavg-z0-hxy-lnd",
+  "cell_methods": "area: mean where land time: mean",
+  "description": "including sapwood and hardwood.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "nStem"
+}

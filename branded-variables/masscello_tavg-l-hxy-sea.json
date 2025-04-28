@@ -1,0 +1,12 @@
+{
+  "branded_variable": "masscello_tavg-l-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "description": "For Boussinesq models, report this diagnostic as Boussinesq reference density times grid celll volume.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "olevel",
+    "time"
+  ],
+  "variableRootDD": "masscello"
+}

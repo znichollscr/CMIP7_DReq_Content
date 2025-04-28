@@ -1,0 +1,12 @@
+{
+  "branded_variable": "c2h4_tavg-l-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "Mole fraction of ethene (C2H4) in air",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "alevel",
+    "time"
+  ],
+  "variableRootDD": "c2h4"
+}

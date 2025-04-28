@@ -1,0 +1,11 @@
+{
+  "branded_variable": "prsn18O_tavg-z0-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "Precipitation mass flux of water molecules that contain the oxygen-18 isotope (H2 18O), including solid phase only.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "prsn18O"
+}

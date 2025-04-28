@@ -1,0 +1,12 @@
+{
+  "branded_variable": "rsdoabsorb_tavg-l-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "description": "Tendency of heat content for a grid cell from penetrative shortwave radiation within a grid cell.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "olevel",
+    "time"
+  ],
+  "variableRootDD": "rsdoabsorb"
+}

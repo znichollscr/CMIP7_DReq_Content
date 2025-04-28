@@ -1,0 +1,11 @@
+{
+  "branded_variable": "snwc_tavg-z0-hxy-lnd",
+  "cell_methods": "area: mean where land time: mean",
+  "description": "canopy_snow_amount",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "snwc"
+}

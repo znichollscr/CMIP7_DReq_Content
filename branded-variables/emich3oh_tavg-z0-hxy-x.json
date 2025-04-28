@@ -1,0 +1,11 @@
+{
+  "branded_variable": "emich3oh_tavg-z0-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "This is the total emission rate of methanol (CH3OH) into the atmosphere",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "emich3oh"
+}

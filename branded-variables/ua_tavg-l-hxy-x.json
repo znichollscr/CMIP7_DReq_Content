@@ -1,0 +1,12 @@
+{
+  "branded_variable": "ua_tavg-l-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "Zonal wind (positive in a eastward direction).",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "alevel",
+    "time"
+  ],
+  "variableRootDD": "ua"
+}

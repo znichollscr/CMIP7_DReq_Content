@@ -1,0 +1,10 @@
+{
+  "branded_variable": "rsdt_tpt-z0-hxys-x",
+  "cell_methods": "area: point time: point",
+  "description": "at the top of the atmosphere",
+  "dimensions": [
+    "site",
+    "time1"
+  ],
+  "variableRootDD": "rsdt"
+}

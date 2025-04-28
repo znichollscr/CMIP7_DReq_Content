@@ -1,0 +1,11 @@
+{
+  "branded_variable": "sfcWind_tpt-h010-hxys-x",
+  "cell_methods": "area: point time: point",
+  "description": "This is the mean of the speed, not the speed computed from the mean u and v components of wind",
+  "dimensions": [
+    "site",
+    "time1",
+    "height10m"
+  ],
+  "variableRootDD": "sfcWind"
+}

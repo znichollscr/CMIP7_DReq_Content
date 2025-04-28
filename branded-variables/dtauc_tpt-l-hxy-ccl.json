@@ -1,0 +1,12 @@
+{
+  "branded_variable": "dtauc_tpt-l-hxy-ccl",
+  "cell_methods": "area: mean where convective_cloud time: point",
+  "description": "This is the in-cloud optical depth obtained by considering only the cloudy portion of the grid cell",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "alevel",
+    "time1"
+  ],
+  "variableRootDD": "dtauc"
+}

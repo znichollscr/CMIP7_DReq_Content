@@ -1,0 +1,12 @@
+{
+  "branded_variable": "mmrpm10_tavg-l-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "Mass fraction atmospheric particulate compounds with an aerodynamic diameter of less than or equal to 10 micrometers",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "alevel",
+    "time"
+  ],
+  "variableRootDD": "mmrpm10"
+}

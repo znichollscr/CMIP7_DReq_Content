@@ -1,0 +1,12 @@
+{
+  "branded_variable": "phalf_tavg-l-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "TBC (clashes in original table)",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "alevhalf",
+    "time"
+  ],
+  "variableRootDD": "phalf"
+}

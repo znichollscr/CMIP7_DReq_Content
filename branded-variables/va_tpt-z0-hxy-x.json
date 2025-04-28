@@ -1,0 +1,12 @@
+{
+  "branded_variable": "va_tpt-z0-hxy-x",
+  "cell_methods": "area: mean time: point",
+  "description": "Meridional wind (positive in a northward direction) at 200 hPa, 6 hourly instantaneous",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time1",
+    "p200"
+  ],
+  "variableRootDD": "va"
+}

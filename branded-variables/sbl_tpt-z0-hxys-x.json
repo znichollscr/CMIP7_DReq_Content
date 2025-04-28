@@ -1,0 +1,10 @@
+{
+  "branded_variable": "sbl_tpt-z0-hxys-x",
+  "cell_methods": "area: point time: point",
+  "description": "The snow and ice sublimation flux is the loss of snow and ice mass from the surface resulting from their conversion to water vapor that enters the atmosphere.",
+  "dimensions": [
+    "site",
+    "time1"
+  ],
+  "variableRootDD": "sbl"
+}

@@ -1,0 +1,10 @@
+{
+  "branded_variable": "sftlf_ti-z0-hxy-x",
+  "cell_methods": "area: mean",
+  "description": "Percentage of horizontal area occupied by land.",
+  "dimensions": [
+    "longitude",
+    "latitude"
+  ],
+  "variableRootDD": "sftlf"
+}

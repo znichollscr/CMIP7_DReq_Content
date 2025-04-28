@@ -1,0 +1,12 @@
+{
+  "branded_variable": "msftmz_tavg-l-hys-sea",
+  "cell_methods": "longitude: rho: sum where sea (along a zig-zag grid path spanning a basin) time: mean",
+  "description": "Overturning mass streamfunction arising from all advective mass transport processes, resolved and parameterized.",
+  "dimensions": [
+    "latitude",
+    "olevel",
+    "basin",
+    "time"
+  ],
+  "variableRootDD": "msftmz"
+}

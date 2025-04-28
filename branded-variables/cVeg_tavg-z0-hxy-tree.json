@@ -1,0 +1,11 @@
+{
+  "branded_variable": "cVeg_tavg-z0-hxy-tree",
+  "cell_methods": "area: time: mean where trees",
+  "description": "\"Content\" indicates a quantity per unit area. \"Vegetation\" means any plants e.g. trees, shrubs, grass. Plants are autotrophs i.e. \"producers\" of biomass using carbon obtained from carbon dioxide.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "cVeg"
+}

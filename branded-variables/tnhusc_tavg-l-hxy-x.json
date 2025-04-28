@@ -1,0 +1,12 @@
+{
+  "branded_variable": "tnhusc_tavg-l-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "Tendencies from cumulus convection scheme.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "alevel",
+    "time"
+  ],
+  "variableRootDD": "tnhusc"
+}

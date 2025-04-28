@@ -1,0 +1,11 @@
+{
+  "branded_variable": "snd_tavg-z0-hxy-lnd",
+  "cell_methods": "area: mean where land (weighted by snow area)  time: mean",
+  "description": "TBC (clashes in original table)",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "snd"
+}

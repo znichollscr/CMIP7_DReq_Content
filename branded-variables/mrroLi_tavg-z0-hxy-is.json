@@ -1,0 +1,11 @@
+{
+  "branded_variable": "mrroLi_tavg-z0-hxy-is",
+  "cell_methods": "area: time: mean where ice_sheet",
+  "description": "Runoff flux over land ice is the difference between any available liquid water in the snowpack less any refreezing. Computed as the sum of rainfall and melt of snow or ice less any refreezing or water retained in the snowpack",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "mrroLi"
+}

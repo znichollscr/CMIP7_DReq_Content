@@ -1,0 +1,12 @@
+{
+  "branded_variable": "tnhusa_tavg-l-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "Tendency of Specific Humidity due to Advection",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "alevel",
+    "time"
+  ],
+  "variableRootDD": "tnhusa"
+}

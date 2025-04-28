@@ -1,0 +1,12 @@
+{
+  "branded_variable": "o3loss_tavg-l-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "ONLY provide the sum of the following reactions: (i) O(1D)+H2O; (ii) O3+HO2; (iii) O3+OH; (iv) O3+alkenes (isoprene, ethene,...)",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "alevel",
+    "time"
+  ],
+  "variableRootDD": "o3loss"
+}

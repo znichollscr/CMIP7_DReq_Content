@@ -1,0 +1,11 @@
+{
+  "branded_variable": "icfriver_tavg-z0-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "description": "Inorganic Carbon supply to ocean through runoff (separate from gas exchange)",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "icfriver"
+}

@@ -1,0 +1,11 @@
+{
+  "branded_variable": "fLitterFire_tavg-z0-hxy-lnd",
+  "cell_methods": "area: mean where land time: mean",
+  "description": "Required for unambiguous separation of vegetation and soil + litter turnover times, since total fire flux draws from both sources",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "fLitterFire"
+}

@@ -1,0 +1,11 @@
+{
+  "branded_variable": "rlu_tpt-l-hxys-x",
+  "cell_methods": "area: point time: point",
+  "description": "Upwelling longwave radiation (includes the fluxes at the surface and TOA)",
+  "dimensions": [
+    "alevhalf",
+    "site",
+    "time1"
+  ],
+  "variableRootDD": "rlu"
+}

@@ -1,0 +1,11 @@
+{
+  "branded_variable": "nMineral_tavg-z0-hxy-lnd",
+  "cell_methods": "area: mean where land time: mean",
+  "description": "SUM of ammonium, nitrite, nitrate, etc over all soil layers",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "nMineral"
+}

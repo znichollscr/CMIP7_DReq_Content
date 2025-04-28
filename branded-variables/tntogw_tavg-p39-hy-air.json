@@ -1,0 +1,11 @@
+{
+  "branded_variable": "tntogw_tavg-p39-hy-air",
+  "cell_methods": "longitude: time: mean where air",
+  "description": "zonal mean; hence YZT",
+  "dimensions": [
+    "latitude",
+    "plev39",
+    "time"
+  ],
+  "variableRootDD": "tntogw"
+}

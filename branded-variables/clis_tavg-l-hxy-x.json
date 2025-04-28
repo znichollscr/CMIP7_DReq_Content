@@ -1,0 +1,12 @@
+{
+  "branded_variable": "clis_tavg-l-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "Calculated as the mass of stratiform cloud ice  in the grid cell divided by the mass of air (including the water in all phases) in the grid cell.  This includes precipitating hydrometeors ONLY if the precipitating hydrometeors affect the calculation of radiative transfer in model.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "alevel",
+    "time"
+  ],
+  "variableRootDD": "clis"
+}

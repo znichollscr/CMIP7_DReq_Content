@@ -1,0 +1,12 @@
+{
+  "branded_variable": "mmrno3_tavg-l-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "Dry mass fraction of nitrate aerosol particles in air.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "alevel",
+    "time"
+  ],
+  "variableRootDD": "mmrno3"
+}

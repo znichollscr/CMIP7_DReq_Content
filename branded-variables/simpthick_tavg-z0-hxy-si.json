@@ -1,0 +1,11 @@
+{
+  "branded_variable": "simpthick_tavg-z0-hxy-si",
+  "cell_methods": "area: time: mean where sea_ice",
+  "description": "Average depth of melt ponds on sea ice, that is melt pond volume divided by melt pond area.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "simpthick"
+}

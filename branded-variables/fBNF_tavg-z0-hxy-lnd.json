@@ -1,0 +1,11 @@
+{
+  "branded_variable": "fBNF_tavg-z0-hxy-lnd",
+  "cell_methods": "area: mean where land time: mean",
+  "description": "The fixation (uptake of nitrogen gas directly from the atmosphere) of nitrogen due to biological processes.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "fBNF"
+}

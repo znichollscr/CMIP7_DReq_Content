@@ -1,0 +1,13 @@
+{
+  "branded_variable": "jpdftaureicemodis_tavg-z0-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "TBC (clashes in original table)",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "effectRadIc",
+    "tau",
+    "time"
+  ],
+  "variableRootDD": "jpdftaureicemodis"
+}

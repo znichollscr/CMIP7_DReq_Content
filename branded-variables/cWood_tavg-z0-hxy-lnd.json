@@ -1,0 +1,11 @@
+{
+  "branded_variable": "cWood_tavg-z0-hxy-lnd",
+  "cell_methods": "area: mean where land time: mean",
+  "description": "Carbon Mass in Wood",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "cWood"
+}

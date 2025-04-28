@@ -1,0 +1,11 @@
+{
+  "branded_variable": "sitimefrac_tavg-z0-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "description": "Fraction of time steps of the averaging period during which sea ice is present (siconc > 0) in a grid cell.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "variableRootDD": "sitimefrac"
+}
