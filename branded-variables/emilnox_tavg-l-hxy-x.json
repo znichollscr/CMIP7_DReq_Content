@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "emilnox_tavg-l-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "Integrate the NOx production for lightning over model layer. proposed name: tendency_of_atmosphere_mass_content_of_nox_from_lightning",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "alevel",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "emilnox"
+}

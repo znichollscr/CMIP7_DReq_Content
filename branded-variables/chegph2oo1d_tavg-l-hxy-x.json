@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "chegph2oo1d_tavg-l-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "Primary production rate of the hydroxy (OH) radical via H2O+O1D",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "alevel",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "chegph2oo1d"
+}

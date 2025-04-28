@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "opottemppadvect_tavg-l-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "description": "Tendency of heat content for a grid cell from parameterized  eddy advection (all forms of eddy advection). Reported only for models that use potential temperature as prognostic field.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "olevel",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "opottemppadvect"
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "fLuc_tavg-z0-hxy-lus",
+  "cell_methods": "area: time: mean where sector",
+  "description": "This annual mean flux refers to the transfer of carbon directly to the atmosphere due to any land-use or land-cover change activities.  Include carbon transferred due to deforestation or agricultural directly into atmosphere, and  emissions form anthropogenic pools into atmosphere",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "landUse",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "fLuc"
+}

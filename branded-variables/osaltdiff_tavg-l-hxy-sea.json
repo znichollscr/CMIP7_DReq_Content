@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "osaltdiff_tavg-l-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "description": "Tendency of salt content for a grid cell from parameterized dianeutral mixing.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "olevel",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "osaltdiff"
+}

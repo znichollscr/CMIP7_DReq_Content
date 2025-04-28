@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "nep_tavg-z0-hxy-lnd",
+  "cell_methods": "area: mean where land time: mean",
+  "description": "Net Ecosystem Exchange",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "nep"
+}

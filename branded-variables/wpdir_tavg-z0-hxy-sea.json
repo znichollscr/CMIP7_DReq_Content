@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "wpdir_tavg-z0-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "description": "Direction of wave propagation (direction from which the wave is coming)\u00a0derived from the total wave energy spectrum, incorporating both wind-sea and swell waves, by identifying the direction associated with the peak (maximum) energy density. This variable is usually expressed in degrees relative to true north.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "wpdir"
+}

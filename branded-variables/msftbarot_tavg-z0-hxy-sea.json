@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "msftbarot_tavg-z0-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "description": "Streamfunction or its approximation for free surface models. See OMDP document for details.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "msftbarot"
+}

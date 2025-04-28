@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "fgdms_tavg-z0-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "description": "Gas exchange flux of DMS (positive into atmosphere)",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "fgdms"
+}

@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "hfrainds_tavg-z0-hxy-ifs",
+  "cell_methods": "area: time: mean where ice_free_sea over sea",
+  "description": "This is defined as \"where ice_free_sea over sea\"; i.e., the total flux (considered here) entering the ice-free portion of the grid cell divided by the area of the ocean portion of the grid cell.  All such heat fluxes are computed based on Celsius scale.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "hfrainds"
+}

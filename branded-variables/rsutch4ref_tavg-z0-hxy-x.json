@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "rsutch4ref_tavg-z0-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "This is the outgoing shortwave flux at the top-of-atmosphere for all-sky conditions from a diagnostic call to the radiation scheme with a reference methane field",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "rsutch4ref"
+}

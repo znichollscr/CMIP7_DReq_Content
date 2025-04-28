@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "msftyz_tavg-rhon-hm-sea",
+  "cell_methods": "grid_longitude: sum where sea time: mean",
+  "description": "Overturning mass streamfunction arising from all advective mass transport processes, resolved and parameterized.",
+  "dimensions": [
+    "rho",
+    "basin",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "msftyz"
+}

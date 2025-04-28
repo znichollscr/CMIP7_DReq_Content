@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "rhTree_tavg-z0-hxy-tree",
+  "cell_methods": "area: time: mean where trees",
+  "description": "Total RH of trees in the grid cell",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "rhTree"
+}

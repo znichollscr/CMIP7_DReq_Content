@@ -1,0 +1,15 @@
+{
+  "@context": "TBD",
+  "branded_variable": "ch4_tcla-z0-hm-x",
+  "cell_methods": "height: area: mean time: mean within years time: mean over years (with all samples weighted by the number of moles of air in the sample)",
+  "description": "Global Mean Mole Fraction of CH4",
+  "dimensions": [
+    "time2"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "ch4"
+}

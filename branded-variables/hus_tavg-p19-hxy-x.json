@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "hus_tavg-p19-hxy-x",
+  "cell_methods": "time: mean",
+  "description": "TBC (clashes in original table)",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "plev19",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "hus"
+}

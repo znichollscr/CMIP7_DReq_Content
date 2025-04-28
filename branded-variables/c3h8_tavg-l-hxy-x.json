@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "c3h8_tavg-l-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "Mole fraction is used in the construction mole_fraction_of_X_in_Y, where X is a material constituent of Y.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "alevel",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "c3h8"
+}

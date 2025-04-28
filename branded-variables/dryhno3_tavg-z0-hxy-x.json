@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "dryhno3_tavg-z0-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "This is the loss of nitric acid (HNO3) from the atmosphere due to dry deposition",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "dryhno3"
+}

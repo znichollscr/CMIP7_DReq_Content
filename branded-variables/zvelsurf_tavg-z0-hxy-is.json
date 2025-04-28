@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "zvelsurf_tavg-z0-hxy-is",
+  "cell_methods": "area: time: mean where ice_sheet",
+  "description": "A velocity is a vector quantity. \"Upward\" indicates a vector component which is positive when directed upward (negative downward). The surface called \"surface\" means the lower boundary of the atmosphere",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "zvelsurf"
+}

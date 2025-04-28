@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "sootsn_tavg-z0-hxy-lnd",
+  "cell_methods": "area: mean where land time: mean",
+  "description": "the entire land portion of the grid cell is considered, with snow soot content set to 0.0 in regions free of snow.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "sootsn"
+}

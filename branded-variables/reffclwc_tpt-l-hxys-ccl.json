@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "reffclwc_tpt-l-hxys-ccl",
+  "cell_methods": "area: mean where convective_cloud time: point",
+  "description": "alevel site time1",
+  "dimensions": [
+    "alevel",
+    "site",
+    "time1"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "reffclwc"
+}

@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "tntscpbl_tpt-l-hxys-x",
+  "cell_methods": "area: point time: point",
+  "description": "To be specified only in  models which do not separate cloud, precipitation and boundary layer terms.  Includes all boundary layer terms including diffusive ones.",
+  "dimensions": [
+    "alevel",
+    "site",
+    "time1"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "tntscpbl"
+}

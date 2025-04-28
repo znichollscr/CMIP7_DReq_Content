@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "rhGrass_tavg-z0-hxy-ng",
+  "cell_methods": "area: time: mean where natural_grasses",
+  "description": "Total RH of grass in the grid cell",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "rhGrass"
+}

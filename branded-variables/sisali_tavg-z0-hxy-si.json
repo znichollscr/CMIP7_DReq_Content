@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "sisali_tavg-z0-hxy-si",
+  "cell_methods": "area: time: mean where sea_ice",
+  "description": "Mean sea-ice salinity of all sea ice in grid cell. Sometimes, models implicitly or explicitly assume a different salinity of the ice for thermodynamic considerations than they do for closing the salt budget with the ocean. In these cases, the mean salinity used in the calculation of the salt budget should be reported.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "sisali"
+}

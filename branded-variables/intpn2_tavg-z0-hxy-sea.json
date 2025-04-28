@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "intpn2_tavg-z0-hxy-sea",
+  "cell_methods": "area: mean where sea time: mean",
+  "description": "Vertically integrated nitrogen fixation",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "intpn2"
+}

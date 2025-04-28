@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "phcint_tavg-z0-hxy-x",
+  "cell_methods": "The cell_methods should include a time \"method\" (is it \"time: mean\"?)",
+  "description": "This is the vertically-integrated heat content derived from potential temperature (thetao).",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "oplev4",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "phcint"
+}

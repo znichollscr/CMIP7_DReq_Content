@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "irrGw_tavg-z0-hm-x",
+  "cell_methods": "area: mean",
+  "description": "the amount of water withdrawal for irrigation from ground water, including deep soil water, confined and unconfined aquifer, etc",
+  "dimensions": [
+    "area:",
+    "time:",
+    "mean"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "irrGw"
+}

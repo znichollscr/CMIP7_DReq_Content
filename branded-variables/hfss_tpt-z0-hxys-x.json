@@ -1,0 +1,16 @@
+{
+  "@context": "TBD",
+  "branded_variable": "hfss_tpt-z0-hxys-x",
+  "cell_methods": "area: point time: point",
+  "description": "The surface sensible heat flux, also called turbulent heat flux, is the exchange of heat between the surface and the air by motion of air.",
+  "dimensions": [
+    "site",
+    "time1"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "hfss"
+}

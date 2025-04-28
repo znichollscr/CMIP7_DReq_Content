@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "cSoilPools_tavg-z0-hxy-lnd",
+  "cell_methods": "area: mean where land time: mean",
+  "description": "For models with multiple soil carbon pools, report each pool here. If models also have vertical discretisation these should be aggregated",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "soilpools",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "cSoilPools"
+}

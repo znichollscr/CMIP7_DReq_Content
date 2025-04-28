@@ -1,0 +1,18 @@
+{
+  "@context": "TBD",
+  "branded_variable": "mrsfl_tavg-l-hxy-lnd",
+  "cell_methods": "area: mean where land time: mean",
+  "description": "in each soil layer, the mass of water in ice phase.  Reported as \"missing\" for grid cells occupied entirely by \"sea\"",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "sdepth",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "mrsfl"
+}

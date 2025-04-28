@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "rlut_tcld-z0-hxy-x",
+  "cell_methods": "area: mean time: mean within days time: mean over days",
+  "description": "at the top of the atmosphere (to be compared with satellite measurements)",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time3"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "rlut"
+}

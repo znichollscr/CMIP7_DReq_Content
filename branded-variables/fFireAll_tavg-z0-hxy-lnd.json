@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "fFireAll_tavg-z0-hxy-lnd",
+  "cell_methods": "area: mean where land time: mean",
+  "description": "From all sources,  Including natural, anthropogenic and Land-use change. Only total fire emissions can be compared to observations.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "fFireAll"
+}

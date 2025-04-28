@@ -1,0 +1,16 @@
+{
+  "@context": "TBD",
+  "branded_variable": "lithk_ti-z0-hxy-is",
+  "cell_methods": "area: mean where ice_sheet",
+  "description": "The thickness of the ice sheet",
+  "dimensions": [
+    "longitude",
+    "latitude"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "lithk"
+}

@@ -1,0 +1,17 @@
+{
+  "@context": "TBD",
+  "branded_variable": "emico_tavg-z0-hxy-x",
+  "cell_methods": "area: time: mean",
+  "description": "Integrate 3D emission field vertically to 2d field.",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "id": "TBD",
+  "label": "TBD",
+  "type": [
+    "TBD"
+  ],
+  "variableRootDD": "emico"
+}
