@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "rootd_ti-z0-hxy-x",
-  "cell_methods": "area: mean",
+  "branded_variable": "rootd_ti-z0-hxy-lnd",
+  "cell_methods": "area: mean where land",
   "cmip6_compound_name": "fx.rootd",
-  "description": "Maximum Root Depth",
+  "description": "report the maximum soil depth reachable by plant roots (if defined in model), i.e., the maximum soil depth from which they can extract moisture; report as \"missing\" where the land fraction is 0.",
   "dimensions": [
     "longitude",
     "latitude"

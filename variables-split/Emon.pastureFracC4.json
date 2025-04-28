@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "pastureFracC4_tavg-z0-hxy-x",
-  "cell_methods": "area: time: mean",
+  "cell_methods": "area: mean time:mean\" (or \"area time: mean\")",
   "cmip6_compound_name": "Emon.pastureFracC4",
-  "description": "C4 Pasture Area Percentage",
+  "description": "Percentage of entire grid cell covered by C4 pasture",
   "dimensions": [
     "longitude",
     "latitude",

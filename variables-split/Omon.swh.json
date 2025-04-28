@@ -1,14 +1,14 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "swh_tavg-z00-hxy-sea",
+  "branded_variable": "swh_tavg-z0-hxy-sea",
   "cell_methods": "area: mean where sea time: mean",
   "cmip6_compound_name": "Omon.swh",
-  "description": "Total Significant Wave Height",
+  "description": "Average height of the highest one-third of waves present in the sea state, incorporating both wind-sea and swell waves. This is a key parameter for describing wave energy and is derived from the wave spectrum using spectral moments. Specifically, this parameter is four times the square root of the integral over all directions and all frequencies of the two-dimensional wave spectrum.",
   "dimensions": [
     "longitude",
     "latitude",
-    "time",
-    "depth0m"
+    "time"
   ],
   "id": "TBD",
   "label": "TBD",

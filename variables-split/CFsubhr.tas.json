@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "tas_tpt-h02-hxys-x",
   "cell_methods": "area: point time: point",
   "cmip6_compound_name": "CFsubhr.tas",
-  "description": "Near-Surface Air Temperature",
+  "description": "near-surface (usually, 2 meter) air temperature",
   "dimensions": [
     "site",
     "time1",

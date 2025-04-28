@@ -1,18 +1,20 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "co3os_tavg-z0-hxy-sea",
+  "branded_variable": "co3_tavg-z00-hxy-sea",
   "cell_methods": "area: mean where sea time: mean",
   "cmip6_compound_name": "Oday.co3os",
-  "description": "Surface Carbonate Ion Concentration",
+  "description": "Near surface mole concentration (number of moles per unit volume: molarity) of the carbonate anion (CO3).",
   "dimensions": [
     "longitude",
     "latitude",
-    "time"
+    "time",
+    "depth0m"
   ],
   "id": "TBD",
   "label": "TBD",
   "type": [
     "TBD"
   ],
-  "variableRootDD": "co3os"
+  "variableRootDD": "co3"
 }

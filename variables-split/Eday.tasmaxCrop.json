@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "tasmaxCrop_tstat-h02-hxy-crp",
+  "branded_variable": "tasmax_tstat-h02-hxy-crp",
   "cell_methods": "area: mean where crops time: maximum",
   "cmip6_compound_name": "Eday.tasmaxCrop",
-  "description": "Daily Maximum Near-Surface Air Temperature over Crop Tile",
+  "description": "maximum near-surface (usually, 2 meter) air temperature (add cell_method attribute \"time: max\")",
   "dimensions": [
     "longitude",
     "latitude",
@@ -15,5 +16,5 @@
   "type": [
     "TBD"
   ],
-  "variableRootDD": "tasmaxCrop"
+  "variableRootDD": "tasmax"
 }

@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "n2o_tcla-z0-hm-x",
   "cell_methods": "height: sum (through atmospheric column) area: sum time: mean within years time: mean over years",
   "cmip6_compound_name": "Amon.n2oglobalClim",
-  "description": "Global Mean Mole Fraction of N2O",
+  "description": "Global mean Nitrous Oxide (N2O)",
   "dimensions": [
     "time2"
   ],

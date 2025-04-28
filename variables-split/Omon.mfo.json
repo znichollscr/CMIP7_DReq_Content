@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "mfo_tavg-z0-ht-sea",
   "cell_methods": "depth: sum where sea time: mean",
   "cmip6_compound_name": "Omon.mfo",
-  "description": "Sea Water Transport",
+  "description": "Transport across_line means that which crosses a particular line on the Earth's surface (based on appendix J and table J1 of Griffies et al, 2016 (https://doi.org/10.5194/gmd-9-3231-2016). Formally this means the integral along the line of the normal component of the transport. The transport should be evaluated for the full depth of the ocean, except for the Pacific Equatorial Undercurrent, which is averaged from the surface to 350m.",
   "dimensions": [
     "oline",
     "time"

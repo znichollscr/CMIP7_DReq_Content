@@ -1,13 +1,14 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "chcint_tavg-z0-hxy-sea",
-  "cell_methods": "area: mean where sea",
+  "branded_variable": "chcint_tavg-z0-hxy-x",
+  "cell_methods": "The cell_methods should include a time \"method\" (is it \"time: mean\"?)",
   "cmip6_compound_name": "Omon.chcint",
-  "description": "Depth Integrated Seawater Conservative Temperature Expressed As Heat Content",
+  "description": "This is the vertically-integrated heat content derived from conservative temperature (bigthetao).",
   "dimensions": [
     "longitude",
     "latitude",
-    "oplayer4",
+    "oplev4",
     "time"
   ],
   "id": "TBD",

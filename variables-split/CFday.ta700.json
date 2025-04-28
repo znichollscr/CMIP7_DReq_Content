@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "ta700_tavg-p0700-hxy-air",
   "cell_methods": "area: time: mean where air",
   "cmip6_compound_name": "CFday.ta700",
-  "description": "Air Temperature",
+  "description": "Air temperature at 700hPa",
   "dimensions": [
     "longitude",
     "latitude",

@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "t20d_tavg-z0-hxy-sea",
   "cell_methods": "area: mean where sea time: mean",
   "cmip6_compound_name": "Emon.t20d",
-  "description": "Depth of 20 degree Celsius Isotherm",
+  "description": "Monthly 20C isotherm depth",
   "dimensions": [
     "longitude",
     "latitude",

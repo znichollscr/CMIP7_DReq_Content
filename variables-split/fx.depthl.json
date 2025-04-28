@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "depthl_ti-z0-hxy-x",
   "cell_methods": "area: mean",
   "cmip6_compound_name": "fx.depthl",
-  "description": "Depth of Lake Below the Surface",
+  "description": "Depth of lakes, if this quantity is present in the model. If computed via volume and area, then this is lake volume divided by lake area.",
   "dimensions": [
     "longitude",
     "latitude"

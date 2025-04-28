@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "c13Litter_tavg-z0-hxy-lnd",
   "cell_methods": "area: mean where land time: mean",
   "cmip6_compound_name": "Emon.c13Litter",
-  "description": "Mass of 13C in Litter Pool",
+  "description": "Carbon-13 mass content per unit area litter (dead plant material in or above the soil).",
   "dimensions": [
     "longitude",
     "latitude",

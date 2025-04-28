@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "hfds_tavg-z0-hxy-sea",
   "cell_methods": "area: mean where sea time: mean",
   "cmip6_compound_name": "Omon.hfds",
-  "description": "Downward Heat Flux at Sea Water Surface",
+  "description": "This is the net flux of heat entering the liquid water column through its upper surface (excluding any \"flux adjustment\") .",
   "dimensions": [
     "longitude",
     "latitude",

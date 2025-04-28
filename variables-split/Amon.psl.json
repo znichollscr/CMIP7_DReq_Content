@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "psl_tavg-z0-hxy-x",
   "cell_methods": "area: time: mean",
   "cmip6_compound_name": "Amon.psl",
-  "description": "Sea Level Pressure",
+  "description": "not, in general, the same as surface pressure",
   "dimensions": [
     "longitude",
     "latitude",

@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "mlotst_tavg-z0-hxy-sea",
   "cell_methods": "area: mean where sea time: mean",
   "cmip6_compound_name": "Oday.mlotst",
-  "description": "Ocean Mixed Layer thickness Defined by Sigma T",
+  "description": "Thickness of the layer bounded by the depth at which potential density Sigma0 exceeds density at 10m by 0.03 kg.m-3",
   "dimensions": [
     "longitude",
     "latitude",

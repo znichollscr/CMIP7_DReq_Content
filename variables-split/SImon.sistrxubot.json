@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "sistrxubot_tavg-z0-hxy-si",
-  "cell_methods": "area: time: mean where sea_ice (mask=siconc)",
+  "cell_methods": "area: mean where sea_ice time: point",
   "cmip6_compound_name": "SImon.sistrxubot",
-  "description": "X-Component of Ocean Stress on Sea Ice",
+  "description": "X-component of the ocean stress on the sea ice bottom divided by grid-cell area.",
   "dimensions": [
     "longitude",
     "latitude",

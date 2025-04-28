@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "zg1000_tavg-p01000-hxy-air",
+  "branded_variable": "zg_tavg-p01000-hxy-air",
   "cell_methods": "area: time: mean where air",
   "cmip6_compound_name": "6hrPlev.zg1000",
-  "description": "Geopotential Height at 1000hPa",
+  "description": "Geopotential height on the 1000 hPa surface",
   "dimensions": [
     "longitude",
     "latitude",
@@ -15,5 +16,5 @@
   "type": [
     "TBD"
   ],
-  "variableRootDD": "zg1000"
+  "variableRootDD": "zg"
 }

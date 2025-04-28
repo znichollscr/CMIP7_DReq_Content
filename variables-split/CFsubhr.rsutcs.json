@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "rsutcs_tpt-z0-hxys-x",
   "cell_methods": "area: point time: point",
   "cmip6_compound_name": "CFsubhr.rsutcs",
-  "description": "TOA Outgoing Clear-Sky Shortwave Radiation",
+  "description": "Calculated in the absence of clouds.",
   "dimensions": [
     "site",
     "time1"

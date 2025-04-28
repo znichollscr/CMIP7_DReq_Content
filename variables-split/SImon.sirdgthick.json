@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "sirdgthick_tavg-z0-hxy-sir",
-  "cell_methods": "area: time: mean where sea_ice_ridges (mask=sirdgconc)",
+  "branded_variable": "sithickrdg_tavg-z0-hxy-sir",
+  "cell_methods": "area: time: mean where sea_ice_ridges",
   "cmip6_compound_name": "SImon.sirdgthick",
-  "description": "Ridged Ice Thickness",
+  "description": "Total volume of ridged sea ice divided by area of ridges, i.e. mean thickness of ridged sea ice.",
   "dimensions": [
     "longitude",
     "latitude",
@@ -14,5 +15,5 @@
   "type": [
     "TBD"
   ],
-  "variableRootDD": "sirdgthick"
+  "variableRootDD": "sithickrdg"
 }

@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "hfbasin_tavg-z0-hys-x",
-  "cell_methods": "longitude: sum (basin sum [along zig-zag grid path]) depth: sum time: mean",
+  "branded_variable": "hfbasin_tavg-z0-hys-sea",
+  "cell_methods": "depth: longitude: sum where sea (along a zig-zag grid path spanning a basin) where sea time: mean",
   "cmip6_compound_name": "Omon.hfbasin",
-  "description": "Northward Ocean Heat Transport",
+  "description": "Contains contributions from all physical processes affecting the northward heat transport, including resolved advection, parameterized advection, lateral diffusion, etc. Diagnosed here as a function of latitude and basin.   Use Celsius for temperature scale.",
   "dimensions": [
     "latitude",
     "basin",

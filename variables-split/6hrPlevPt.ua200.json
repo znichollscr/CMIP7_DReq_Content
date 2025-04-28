@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "ua200_tpt-z0-hxy-x",
+  "branded_variable": "ua_tpt-z0-hxy-x",
   "cell_methods": "area: mean time: point",
   "cmip6_compound_name": "6hrPlevPt.ua200",
-  "description": "ua200",
+  "description": "Zonal wind (positive in a eastward direction) at 200 hPa, 6hourly instantaneous",
   "dimensions": [
     "longitude",
     "latitude",
@@ -15,5 +16,5 @@
   "type": [
     "TBD"
   ],
-  "variableRootDD": "ua200"
+  "variableRootDD": "ua"
 }

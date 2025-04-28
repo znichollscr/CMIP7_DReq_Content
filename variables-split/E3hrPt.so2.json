@@ -1,12 +1,15 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "so2_tpt-z0-hxys-x",
+  "branded_variable": "so2_tavg-z0-hxy-x",
   "cell_methods": "area: point time: point",
   "cmip6_compound_name": "E3hrPt.so2",
-  "description": "Surface SO2 volume mixing ratio at CF sites",
+  "description": "This variable represents the instantaneous surface so2 volume mixing ration at CF sites, sampled every 3 hours",
   "dimensions": [
-    "site",
-    "time1"
+    "longitude",
+    "latitude",
+    "time",
+    "height50m"
   ],
   "id": "TBD",
   "label": "TBD",

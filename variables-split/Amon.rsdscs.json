@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "rsdscs_tavg-z0-hxy-x",
   "cell_methods": "area: time: mean",
   "cmip6_compound_name": "Amon.rsdscs",
-  "description": "Surface Downwelling Clear-Sky Shortwave Radiation",
+  "description": "Surface solar irradiance clear sky for UV calculations",
   "dimensions": [
     "longitude",
     "latitude",

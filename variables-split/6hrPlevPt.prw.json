@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "prw_tpt-z0-hxy-x",
   "cell_methods": "time: point",
   "cmip6_compound_name": "6hrPlevPt.prw",
-  "description": "6 hourly instantaneous vertically integrated water vapor",
+  "description": "Vertically integrated mass of water vapour",
   "dimensions": [
     "longitude",
     "latitude",

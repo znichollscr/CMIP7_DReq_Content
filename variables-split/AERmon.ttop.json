@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "ttop_tavg-z0-hxy-x",
-  "cell_methods": "area: time: mean",
+  "branded_variable": "tactop_tavg-z0-hxy-cl",
+  "cell_methods": "area: time: mean where cloud",
   "cmip6_compound_name": "AERmon.ttop",
-  "description": "Air Temperature at Cloud Top",
+  "description": "cloud_top refers to the top of the highest cloud. Air temperature is the bulk temperature of the air, not the surface (skin) temperature.",
   "dimensions": [
     "longitude",
     "latitude",
@@ -14,5 +15,5 @@
   "type": [
     "TBD"
   ],
-  "variableRootDD": "ttop"
+  "variableRootDD": "tactop"
 }

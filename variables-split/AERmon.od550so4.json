@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "od550so4_tavg-z0-hxy-x",
   "cell_methods": "area: time: mean",
   "cmip6_compound_name": "AERmon.od550so4",
-  "description": "Sulfate Aerosol Optical Depth at 550nm",
+  "description": "Total aerosol AOD due to sulfate aerosol at a wavelength of 550 nanometres.",
   "dimensions": [
     "longitude",
     "latitude",

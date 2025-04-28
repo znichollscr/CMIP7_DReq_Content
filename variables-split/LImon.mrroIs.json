@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "mrroIs_tavg-z0-hxy-is",
+  "branded_variable": "mrro_tavg-z0-hxy-is",
   "cell_methods": "area: time: mean where ice_sheet",
   "cmip6_compound_name": "LImon.mrroIs",
-  "description": "Ice Sheet Total Runoff",
+  "description": "quantity averaged over ice_sheet (meaning grounded ice sheet and floating ice shelf) only, to avoid contamination from other surfaces (eg: permafrost)",
   "dimensions": [
     "longitude",
     "latitude",
@@ -14,5 +15,5 @@
   "type": [
     "TBD"
   ],
-  "variableRootDD": "mrroIs"
+  "variableRootDD": "mrro"
 }

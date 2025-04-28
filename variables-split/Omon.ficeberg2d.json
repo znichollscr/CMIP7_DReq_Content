@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "ficeberg_tavg-z0-hxy-sea",
   "cell_methods": "area: mean where sea time: mean",
   "cmip6_compound_name": "Omon.ficeberg2d",
-  "description": "Water Flux into Sea Water from Icebergs",
+  "description": "computed as the iceberg melt water flux into the ocean divided by the area of the ocean portion of the grid cell.",
   "dimensions": [
     "longitude",
     "latitude",

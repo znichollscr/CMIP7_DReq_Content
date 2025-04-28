@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "rsdt_tcld-z0-hxy-x",
   "cell_methods": "area: mean time: mean within days time: mean over days",
   "cmip6_compound_name": "E1hrClimMon.rsdt",
-  "description": "TOA Incident Shortwave Radiation",
+  "description": "Shortwave radiation incident at the top of the atmosphere",
   "dimensions": [
     "longitude",
     "latitude",

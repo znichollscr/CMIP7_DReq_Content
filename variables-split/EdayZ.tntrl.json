@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "tntrl_tavg-p39-hy-air",
   "cell_methods": "longitude: time: mean where air",
   "cmip6_compound_name": "EdayZ.tntrl",
-  "description": "Zonal mean tendency of air temperature due to longwave heating, all sky",
+  "description": "Zonal mean tendency of air temperature due to longwave heating, all sky, with the extended number of vertical levels.",
   "dimensions": [
     "latitude",
     "plev39",

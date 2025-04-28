@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "hur100_tpt-p0100-hxy-x",
+  "branded_variable": "hur_tpt-p0100-hxy-x",
   "cell_methods": "area: mean time: point",
   "cmip6_compound_name": "6hrPlevPt.hur100",
-  "description": "hur100",
+  "description": "Relative humidity at 100 hPa",
   "dimensions": [
     "longitude",
     "latitude",
@@ -15,5 +16,5 @@
   "type": [
     "TBD"
   ],
-  "variableRootDD": "hur100"
+  "variableRootDD": "hur"
 }

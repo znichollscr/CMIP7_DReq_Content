@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "tslsi_tavg-z0-hxy-x",
-  "cell_methods": "area: time: mean (over land and sea ice)",
+  "cell_methods": "area: time: mean (where  land or sea ice or ice shelf)",
   "cmip6_compound_name": "day.tslsi",
-  "description": "Surface Temperature Where Land or Sea Ice",
+  "description": "Surface temperature of all surfaces except open ocean.",
   "dimensions": [
     "longitude",
     "latitude",

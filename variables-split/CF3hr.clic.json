@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "clic_tpt-l-hxy-x",
   "cell_methods": "area: mean time: point",
   "cmip6_compound_name": "CF3hr.clic",
-  "description": "Mass Fraction of Convective Cloud Ice",
+  "description": "Calculated as the mass of convective cloud ice  in the grid cell divided by the mass of air (including the water in all phases) in the grid cell.  This includes precipitating hydrometeors ONLY if the precipitating hydrometeors affect the calculation of radiative transfer in model.",
   "dimensions": [
     "longitude",
     "latitude",

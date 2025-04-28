@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "fNLandToOcean_tavg-z0-hxy-lnd",
   "cell_methods": "area: mean where land time: mean",
   "cmip6_compound_name": "Emon.fNLandToOcean",
-  "description": "Lateral Transfer of Nitrogen out of Grid Cell That Eventually Goes into Ocean",
+  "description": "leached nitrogen etc that goes into run off or river routing and finds its way into ocean should be reported here.",
   "dimensions": [
     "longitude",
     "latitude",

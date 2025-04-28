@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "cltcalipso_tpt-z0-hxy-x",
   "cell_methods": "area: mean time: point",
   "cmip6_compound_name": "E3hrPt.cltcalipso",
-  "description": "CALIPSO Total Cloud Cover Percentage",
+  "description": "CALIPSO Total Cloud Fraction",
   "dimensions": [
     "longitude",
     "latitude",

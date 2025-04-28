@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "tasminCrop_tstat-h02-hxy-crp",
+  "branded_variable": "tasmin_tstat-h02-hxy-crp",
   "cell_methods": "area: mean where crops time: minimum within days time: mean over days",
   "cmip6_compound_name": "Eday.tasminCrop",
-  "description": "Daily Minimum Near-Surface Air Temperature over Crop Tile",
+  "description": "minimum near-surface (usually, 2 meter) air temperature (add cell_method attribute \"time: min\")",
   "dimensions": [
     "longitude",
     "latitude",
@@ -15,5 +16,5 @@
   "type": [
     "TBD"
   ],
-  "variableRootDD": "tasminCrop"
+  "variableRootDD": "tasmin"
 }

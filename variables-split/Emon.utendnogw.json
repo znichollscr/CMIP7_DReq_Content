@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "utendnogw_tavg-p19-hxy-x",
-  "cell_methods": "time: mean",
+  "branded_variable": "utendnogw_tavg-p19-hxy-air",
+  "cell_methods": "area: time: mean where air",
   "cmip6_compound_name": "Emon.utendnogw",
-  "description": "Eastward Acceleration Due to Non-Orographic Gravity Wave Drag",
+  "description": "Tendency of eastward wind induced by the parameterized non-orographic gravity wave drag",
   "dimensions": [
     "longitude",
     "latitude",

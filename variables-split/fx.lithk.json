@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "lithk_ti-z0-hxy-x",
   "cell_methods": "area: mean",
   "cmip6_compound_name": "fx.lithk",
-  "description": "Ice sheet thickness",
+  "description": "This variable identifies the thickness of a prescribed ice sheet. This information is relevant to better understand how different models treat ice. For models where an ice sheet is just orography + an ice sheet mask, the value should be set to zero. For models that explicitly resolve an ice sheet thickness, the thickness of the ice sheet should be provided.",
   "dimensions": [
     "longitude",
     "latitude"

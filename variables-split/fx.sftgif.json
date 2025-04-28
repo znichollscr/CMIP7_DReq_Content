@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "sftgif_ti-z0-hxy-x",
   "cell_methods": "area: mean",
   "cmip6_compound_name": "fx.sftgif",
-  "description": "Land Ice Area Percentage",
+  "description": "fraction of grid cell occupied by \"permanent\" ice (i.e., glaciers).",
   "dimensions": [
     "longitude",
     "latitude"

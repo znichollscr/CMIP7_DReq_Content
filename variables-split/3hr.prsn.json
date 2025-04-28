@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "prsn_tavg-z0-hxy-x",
   "cell_methods": "area: time: mean",
   "cmip6_compound_name": "3hr.prsn",
-  "description": "Snowfall Flux",
+  "description": "at surface.  Includes precipitation of all forms water in the solid phase.  This is the 3-hour mean snowfall flux.",
   "dimensions": [
     "longitude",
     "latitude",

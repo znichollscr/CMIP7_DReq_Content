@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "dtauc_tpt-l-hxy-x",
-  "cell_methods": "area: mean time: point",
+  "branded_variable": "dtauc_tpt-l-hxy-ccl",
+  "cell_methods": "area: mean where convective_cloud time: point",
   "cmip6_compound_name": "CF3hr.dtauc",
-  "description": "Convective Cloud Optical Depth",
+  "description": "This is the in-cloud optical depth obtained by considering only the cloudy portion of the grid cell",
   "dimensions": [
     "longitude",
     "latitude",

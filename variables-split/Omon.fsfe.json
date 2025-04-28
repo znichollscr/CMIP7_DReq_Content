@@ -1,14 +1,14 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "fsfe_tavg-z00-hxy-sea",
+  "branded_variable": "fsfe_tavg-z0-hxy-sea",
   "cell_methods": "area: mean where sea time: mean",
   "cmip6_compound_name": "Omon.fsfe",
-  "description": "Surface Downward Net Flux of Iron",
+  "description": "Iron supply through deposition flux onto sea surface, runoff, coasts, sediments, etc",
   "dimensions": [
     "longitude",
     "latitude",
-    "time",
-    "depth0m"
+    "time"
   ],
   "id": "TBD",
   "label": "TBD",

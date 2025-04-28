@@ -1,14 +1,14 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "sdvo_tavg-z00-hxy-sea",
+  "branded_variable": "sdvo_tavg-z0-hxy-sea",
   "cell_methods": "area: mean where sea time: mean",
   "cmip6_compound_name": "6hr.sdvo",
-  "description": "Northward Surface Stokes Drift",
+  "description": "The northward component of the net drift velocity of ocean water caused by surface wind-sea waves. The Stokes drift velocity could be defined as the difference between the\u00a0average\u00a0Lagrangian\u00a0flow velocity\u00a0of a fluid parcel, and the average Eulerian flow velocity\u00a0of the\u00a0fluid\u00a0at a fixed position.",
   "dimensions": [
     "longitude",
     "latitude",
-    "time",
-    "depth0m"
+    "time"
   ],
   "id": "TBD",
   "label": "TBD",

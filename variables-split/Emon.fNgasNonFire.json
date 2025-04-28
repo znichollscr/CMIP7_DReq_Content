@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "fNgasNonFire_tavg-z0-hxy-lnd",
   "cell_methods": "area: mean where land time: mean",
   "cmip6_compound_name": "Emon.fNgasNonFire",
-  "description": "Total Nitrogen Lost to the Atmosphere (Including NHx, NOx, N2O, N2) from All Processes Except Fire",
+  "description": "Flux of Nitrogen from the land into the atmosphere due to all processes other than fire",
   "dimensions": [
     "longitude",
     "latitude",

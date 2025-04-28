@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "ccn1_tavg-l-hxy-x",
   "cell_methods": "area: time: mean",
   "cmip6_compound_name": "AERmon.ccn1",
-  "description": "CCN concentration at 1.0 percent supersaturation",
+  "description": "This is the concentration of cloud condensation nuclei (CCN) at 1.0 percent supersaturation, based on aerosol chemical composition and size",
   "dimensions": [
     "longitude",
     "latitude",

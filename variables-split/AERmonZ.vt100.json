@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "vt100_tavg-p0100-hy-air",
+  "branded_variable": "vt_tavg-p0100-hy-air",
   "cell_methods": "longitude: time: mean where air",
   "cmip6_compound_name": "AERmonZ.vt100",
-  "description": "Northward Eddy Temperature Flux",
+  "description": "Zonally averaged eddy temperature flux at 100hPa as monthly means derived from daily (or higher frequency) fields.",
   "dimensions": [
     "latitude",
     "time",
@@ -14,5 +15,5 @@
   "type": [
     "TBD"
   ],
-  "variableRootDD": "vt100"
+  "variableRootDD": "vt"
 }

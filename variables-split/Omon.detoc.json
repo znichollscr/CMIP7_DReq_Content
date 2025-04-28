@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "detoc_tavg-l-hxy-sea",
   "cell_methods": "area: mean where sea time: mean",
   "cmip6_compound_name": "Omon.detoc",
-  "description": "Detrital Organic Carbon Concentration",
+  "description": "sum of detrital organic carbon component concentrations",
   "dimensions": [
     "longitude",
     "latitude",

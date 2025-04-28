@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "rlut4co2_tavg-z0-hxy-x",
   "cell_methods": "area: time: mean",
   "cmip6_compound_name": "CFmon.rlut4co2",
-  "description": "TOA Outgoing Longwave Radiation 4XCO2 Atmosphere",
+  "description": "Top-of-atmosphere outgoing longwave radiation calculated using carbon dioxide concentrations increased fourfold",
   "dimensions": [
     "longitude",
     "latitude",

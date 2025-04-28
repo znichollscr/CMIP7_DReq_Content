@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "nMineral_tavg-z0-hxy-lnd",
   "cell_methods": "area: mean where land time: mean",
   "cmip6_compound_name": "Emon.nMineral",
-  "description": "Mineral Nitrogen in the Soil",
+  "description": "SUM of ammonium, nitrite, nitrate, etc over all soil layers",
   "dimensions": [
     "longitude",
     "latitude",

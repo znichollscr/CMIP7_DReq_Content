@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "tnhusc_tavg-l-hxy-x",
   "cell_methods": "area: time: mean",
   "cmip6_compound_name": "CFmon.tnhusc",
-  "description": "Tendency of Specific Humidity Due to Convection",
+  "description": "Tendencies from cumulus convection scheme.",
   "dimensions": [
     "longitude",
     "latitude",

@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "wsgmax10m_tstat-h010-hxy-x",
+  "branded_variable": "wsgmax_tstat-h010-hxy-x",
   "cell_methods": "area: mean time: maximum",
   "cmip6_compound_name": "E1hr.wsgmax10m",
-  "description": "Maximum Speed of Wind Gust at 10m",
+  "description": "Wind speed gust maximum at 10m above surface",
   "dimensions": [
     "longitude",
     "latitude",
@@ -15,5 +16,5 @@
   "type": [
     "TBD"
   ],
-  "variableRootDD": "wsgmax10m"
+  "variableRootDD": "wsgmax"
 }

@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "pastureFrac_tavg-z0-hxy-x",
-  "cell_methods": "area: time: mean",
+  "cell_methods": "area: mean time:mean\" (or \"area time: mean\")",
   "cmip6_compound_name": "Lmon.pastureFrac",
-  "description": "Percentage of Land Which Is Anthropogenic Pasture",
+  "description": "fraction of entire grid cell  that is covered by anthropogenic pasture.",
   "dimensions": [
     "longitude",
     "latitude",

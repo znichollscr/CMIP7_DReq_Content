@@ -1,12 +1,13 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "libmassbfgr_tavg-z0-hxy-gis",
-  "cell_methods": "area: time: mean where grounded_ice_sheet (mask=sfgrlf)",
+  "cell_methods": "area: time: mean where grounded_ice_sheet",
   "cmip6_compound_name": "IyrAnt.libmassbfgr",
-  "description": "Basal Specific Mass Balance Flux of Grounded Ice Sheet",
+  "description": "quantity averaged over grounded land ice",
   "dimensions": [
-    "xant",
-    "yant",
+    "longitude",
+    "latitude",
     "time"
   ],
   "id": "TBD",

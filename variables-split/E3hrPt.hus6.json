@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "hus6_tpt-z0-hxy-air",
+  "branded_variable": "hus_tpt-z0-hxy-air",
   "cell_methods": "area: mean where air time: point",
   "cmip6_compound_name": "E3hrPt.hus6",
-  "description": "Specific humidity",
+  "description": "Specific humidity on 6 pressure levels in the lower troposphere",
   "dimensions": [
     "longitude",
     "latitude",
@@ -15,5 +16,5 @@
   "type": [
     "TBD"
   ],
-  "variableRootDD": "hus6"
+  "variableRootDD": "hus"
 }

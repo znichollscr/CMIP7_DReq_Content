@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "msftbarot_tavg-z0-hxy-sea",
   "cell_methods": "area: mean where sea time: mean",
   "cmip6_compound_name": "Omon.msftbarot",
-  "description": "Ocean Barotropic Mass Streamfunction",
+  "description": "Streamfunction or its approximation for free surface models. See OMDP document for details.",
   "dimensions": [
     "longitude",
     "latitude",

@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "emich4_tavg-z0-hxy-x",
   "cell_methods": "area: time: mean",
   "cmip6_compound_name": "AERmon.emich4",
-  "description": "total emission rate of CH4 ",
+  "description": "This is the total emission rate of methane (CH4) into the atmosphere",
   "dimensions": [
     "longitude",
     "latitude",

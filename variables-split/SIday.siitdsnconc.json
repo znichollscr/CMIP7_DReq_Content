@@ -1,12 +1,14 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
-  "branded_variable": "siitdsnconc_tavg-z0-hxy-si",
-  "cell_methods": "area: time: mean where sea_ice (mask=siconc)",
+  "branded_variable": "sncitd_tavg-z0-hxy-si",
+  "cell_methods": "area: time: mean where sea_ice",
   "cmip6_compound_name": "SIday.siitdsnconc",
-  "description": "Snow Area Fractions in Ice Thickness Categories\n",
+  "description": "Area fraction of grid cell covered by snow in each ice thickness category (vector with one entry for each ice thickness category starting from the thinnest category, netcdf file should use thickness bounds of the categories as third coordinate axis).",
   "dimensions": [
     "longitude",
     "latitude",
+    "iceband",
     "time"
   ],
   "id": "TBD",
@@ -14,5 +16,5 @@
   "type": [
     "TBD"
   ],
-  "variableRootDD": "siitdsnconc"
+  "variableRootDD": "sncitd"
 }

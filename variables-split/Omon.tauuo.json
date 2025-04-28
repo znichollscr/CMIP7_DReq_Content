@@ -1,9 +1,10 @@
 {
+  "@@review_requested": NaN,
   "@context": "TBD",
   "branded_variable": "tauuo_tavg-z0-hxy-sea",
   "cell_methods": "area: mean where sea time: mean",
   "cmip6_compound_name": "Omon.tauuo",
-  "description": "Sea Water Surface Downward X Stress",
+  "description": "This is the stress on the liquid ocean from overlying atmosphere, sea ice, ice shelf, etc.",
   "dimensions": [
     "longitude",
     "latitude",
